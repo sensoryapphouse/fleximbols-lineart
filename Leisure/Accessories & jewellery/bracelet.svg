@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50.42 50.42 411.15 411.15">
+<!-- elastic bead bracelet ring -->
+<circle cx="256" cy="256" r="150" fill="none" stroke="#1a1a1a" stroke-width="11"/>
+<circle cx="256" cy="256" r="150" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+<!-- beads around the band -->
+<circle cx="256" cy="106" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="362" cy="150" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="406" cy="256" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="362" cy="362" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="256" cy="406" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="150" cy="362" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="106" cy="256" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="150" cy="150" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<!-- highlight dots -->
+<circle cx="248" cy="98" r="6" fill="#FFFFFF" opacity="0.7" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="398" cy="248" r="6" fill="#FFFFFF" opacity="0.7" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="142" cy="354" r="6" fill="#FFFFFF" opacity="0.7" stroke="#1a1a1a" stroke-width="5.00" />
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="120.86 93.56 318.06 318.06"><g transform="translate(24.692,84.094) scale(0.7957)">
+<!-- dressmaker's pin, diagonal -->
+<!-- shaft -->
+<line x1="150" y1="380" x2="360" y2="170" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
+<line x1="150" y1="380" x2="360" y2="170" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- sharp point (extends past shaft, tapered triangle) -->
+<polygon points="150 380 168 372 158 388" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<!-- round pearl head -->
+<circle cx="372" cy="158" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<!-- highlight -->
+<circle cx="360" cy="146" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+</g><g transform="translate(120.86,93.56) scale(0.6212) translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

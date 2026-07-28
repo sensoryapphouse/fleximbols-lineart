@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<!-- riding hat: domed equestrian helmet with peak -->
+<path d="M128 286 Q128 150 256 150 Q384 150 384 286 L384 296 Q256 270 128 296 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
+<!-- ridge lines on the dome -->
+<path d="M196 158 Q176 220 184 290" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M256 150 Q252 218 256 286" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M316 158 Q336 220 328 290" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<!-- button on top -->
+<circle cx="256" cy="146" r="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<!-- peak / brim sweeping down-right -->
+<path d="M128 296 Q256 270 384 296 Q420 300 408 320 Q300 296 150 322 Q120 320 128 296 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
