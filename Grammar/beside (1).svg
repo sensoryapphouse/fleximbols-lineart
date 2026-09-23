@@ -4,18 +4,18 @@
   
   <rect x="60" y="270" width="232" height="44" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.28" />
   
-  <path d="M 60 314 L 292 314 L 308 326 L 44 326 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.28" stroke-linejoin="round" />
+  <path d="M 60 314 L 292 314 L 308 326 L 44 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" stroke-linejoin="round" />
   
-  <rect x="40" y="326" width="272" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" />
+  <rect x="40" y="326" width="272" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
 
   
   
-  <rect x="316" y="359" width="72" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" />
+  <rect x="316" y="359" width="72" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
   
-  <polygon points="394,370 354,348 354,392" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
+  <polygon points="394,370 354,348 354,392" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
 
   
-  <circle cx="448" cy="370" r="54" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" />
-  <circle cx="428" cy="350" r="16" fill="#FFFFFF"  stroke="#1a1a1a" stroke-width="6.04" />
+  <circle cx="448" cy="370" r="54" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
+  <circle cx="428" cy="350" r="16" fill="#ffffff"  stroke="#1a1a1a" stroke-width="6.04" />
 
 </g></svg>

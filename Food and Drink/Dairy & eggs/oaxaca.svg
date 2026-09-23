@@ -6,13 +6,13 @@
   <!-- Braid base layer - bottom coil -->
   <!-- Rope coil drawn as filled shapes with black outlines -->
   <!-- Bottom of coil -->
-  <path d="M 35,173 Q 55,215 145,222 Q 235,215 255,173 L 248,165 Q 232,205 145,212 Q 58,205 42,165 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 35,173 Q 55,215 145,222 Q 235,215 255,173 L 248,165 Q 232,205 145,212 Q 58,205 42,165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Left side of coil going up -->
-  <path d="M 35,173 L 42,165 L 42,112 L 35,108 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 35,173 L 42,165 L 42,112 L 35,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right side of coil going up -->
-  <path d="M 255,173 L 248,165 L 248,112 L 255,108 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 255,173 L 248,165 L 248,112 L 255,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Top arc of coil -->
-  <path d="M 35,108 Q 55,68 145,60 Q 235,68 255,108 L 248,116 Q 232,78 145,70 Q 58,78 42,116 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 35,108 Q 55,68 145,60 Q 235,68 255,108 L 248,116 Q 232,78 145,70 Q 58,78 42,116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Braid strand lines on the rope - string texture -->
   <!-- Horizontal strands on bottom arc -->
   <path d="M 42,185 Q 95,198 145,200 Q 195,198 248,185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -31,7 +31,7 @@
   <path d="M 246,150 L 254,150" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 246,130 L 254,130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Inner hole of coil -->
-  <ellipse cx="145" cy="140" rx="60" ry="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="140" rx="60" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <!-- Inner shadow strands -->
   <path d="M 88,140 Q 115,128 145,126 Q 175,128 202,140" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <path d="M 86,148 Q 115,136 145,134 Q 175,136 204,148" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>

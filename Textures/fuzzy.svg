@@ -29,7 +29,7 @@
   <line x1="123" y1="79" x2="114" y2="63" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="134" y1="76" x2="129" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Inner ball -->
-  <circle cx="145" cy="124" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
+  <circle cx="145" cy="124" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
   <!-- Short black tufts on ball surface -->
   <line x1="145" y1="76" x2="145" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="165" y1="81" x2="171" y2="67" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

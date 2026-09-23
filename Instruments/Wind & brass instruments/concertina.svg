@@ -3,15 +3,15 @@
   <!-- Left hexagonal end cap -->
   <polygon points="52,120 66,92 94,92 108,120 94,148 66,148" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Left buttons (hex layout) -->
-  <circle cx="72" cy="108" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="88" cy="108" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="80" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="72" cy="132" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="88" cy="132" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="72" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="88" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Left strap bar -->
-  <rect x="58" y="148" width="50" height="10" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="58" y="148" width="50" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Bellows pleated section -->
-  <rect x="108" y="96" width="74" height="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="108" y="96" width="74" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bellows pleat verticals -->
   <line x1="121" y1="96" x2="121" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="134" y1="96" x2="134" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -25,11 +25,11 @@
   <!-- Right hexagonal end cap -->
   <polygon points="182,120 196,92 224,92 238,120 224,148 196,148" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Right buttons (hex layout) -->
-  <circle cx="202" cy="108" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="218" cy="108" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="210" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="202" cy="132" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="218" cy="132" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="202" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="218" cy="132" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Right strap bar -->
-  <rect x="182" y="148" width="50" height="10" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="182" y="148" width="50" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
 </g></svg>

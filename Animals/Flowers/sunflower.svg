@@ -3,8 +3,8 @@
 <!-- stem -->
 <line x1="0" y1="60" x2="0" y2="212" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
 <!-- leaves -->
-<path d="M 0 150 Q -82 118 -96 184 Q -34 192 0 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 0 178 Q 82 146 96 212 Q 34 220 0 178 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 150 Q -82 118 -96 184 Q -34 192 0 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 178 Q 82 146 96 212 Q 34 220 0 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- gold petals (16) -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
 <ellipse cx="0" cy="-104" rx="18" ry="46"/>
@@ -25,7 +25,7 @@
 <ellipse cx="0" cy="-104" rx="18" ry="46" transform="rotate(337.5)"/>
 </g>
 <!-- brown seed centre -->
-<circle cx="0" cy="0" r="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="0" cy="0" r="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<circle cx="0" cy="0" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="0" cy="0" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
 </g>
 </svg>

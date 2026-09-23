@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
-  <path d="M 80,200 Q 35,170 35,120 Q 40,55 95,35 Q 140,22 180,40 Q 235,65 240,128 Q 240,185 200,215 Q 140,232 80,200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 80,200 Q 35,170 35,120 Q 40,55 95,35 Q 140,22 180,40 Q 235,65 240,128 Q 240,185 200,215 Q 140,232 80,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"></path>
   <g fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round">
     <path d="M 75,60 L 80,72"></path>
     <path d="M 95,52 L 100,64"></path>
@@ -37,9 +37,9 @@
     <path d="M 165,190 L 169,200"></path>
   </g>
   <path d="M 130,38 Q 128,22 140,15 Q 152,18 150,32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"></path>
-  <path d="M 145,28 Q 158,20 168,28 Q 162,40 150,38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"></path>
-  <path d="M 165,135 Q 200,120 215,150 Q 215,180 185,195 Q 155,200 145,180 Q 140,155 165,135 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"></path>
-  <path d="M 175,140 Q 200,135 200,160 Q 175,170 168,158 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
-  <path d="M 165,165 Q 175,165 178,180 Q 165,185 158,178 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
-  <path d="M 190,170 Q 205,168 205,185 Q 190,192 184,182 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
+  <path d="M 145,28 Q 158,20 168,28 Q 162,40 150,38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"></path>
+  <path d="M 165,135 Q 200,120 215,150 Q 215,180 185,195 Q 155,200 145,180 Q 140,155 165,135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"></path>
+  <path d="M 175,140 Q 200,135 200,160 Q 175,170 168,158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
+  <path d="M 165,165 Q 175,165 178,180 Q 165,185 158,178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
+  <path d="M 190,170 Q 205,168 205,185 Q 190,192 184,182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"></path>
 </g></svg>

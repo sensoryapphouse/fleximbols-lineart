@@ -2,14 +2,14 @@
 <!-- BACK rice cake (standing, shows the thick puffed edge) -->
 <g>
   <!-- side wall (thickness) -->
-  <path d="M 132 196 a 110 36 0 0 0 220 0 l 0 40 a 110 36 0 0 1 -220 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M 132 196 a 110 36 0 0 0 220 0 l 0 40 a 110 36 0 0 1 -220 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
   <!-- puffed-rice bumps on the side wall -->
   <g fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
     <path d="M 150 212 q 6 10 12 0"/><path d="M 178 220 q 6 10 12 0"/><path d="M 210 224 q 6 10 12 0"/>
     <path d="M 244 224 q 6 10 12 0"/><path d="M 278 220 q 6 10 12 0"/><path d="M 312 212 q 6 10 12 0"/>
   </g>
   <!-- top face -->
-  <ellipse cx="242" cy="196" rx="110" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+  <ellipse cx="242" cy="196" rx="110" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
   <!-- knobbly puffed-rice cluster texture -->
   <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">
     <circle cx="200" cy="186" r="11"/><circle cx="226" cy="178" r="9"/><circle cx="252" cy="186" r="12"/>
@@ -20,12 +20,12 @@
 </g>
 <!-- FRONT rice cake (overlapping, lower-right) -->
 <g>
-  <path d="M 188 332 a 116 38 0 0 0 232 0 l 0 42 a 116 38 0 0 1 -232 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M 188 332 a 116 38 0 0 0 232 0 l 0 42 a 116 38 0 0 1 -232 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
   <g fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
     <path d="M 208 350 q 6 10 12 0"/><path d="M 240 358 q 6 10 12 0"/><path d="M 276 362 q 6 10 12 0"/>
     <path d="M 312 362 q 6 10 12 0"/><path d="M 348 358 q 6 10 12 0"/><path d="M 380 350 q 6 10 12 0"/>
   </g>
-  <ellipse cx="304" cy="332" rx="116" ry="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+  <ellipse cx="304" cy="332" rx="116" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
   <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2">
     <circle cx="258" cy="320" r="11"/><circle cx="286" cy="312" r="10"/><circle cx="316" cy="320" r="12"/>
     <circle cx="346" cy="314" r="10"/><circle cx="276" cy="338" r="11"/><circle cx="308" cy="342" r="11"/>

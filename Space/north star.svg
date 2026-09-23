@@ -3,11 +3,11 @@
   <!-- North Star: large 8-pointed star at top, guiding beam/path below -->
 
   <!-- Guiding beam / path (dashed lines from star downward, perspective road) -->
-  <polygon points="145,155 110,210 180,210" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <polygon points="145,155 125,210 165,210" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="145,155 110,210 180,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="145,155 125,210 165,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
 
   <!-- Road/path perspective -->
-  <polygon points="145,150 60,220 230,220" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="145,150 60,220 230,220" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Road center line -->
   <line x1="145" y1="160" x2="145" y2="175" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round"/>
   <line x1="145" y1="183" x2="145" y2="198" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round"/>
@@ -19,11 +19,11 @@
   <line x1="145" y1="95" x2="190" y2="155" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Glow halo behind star -->
-  <circle cx="145" cy="68" r="32" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="145" cy="68" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- 8-pointed star -->
-  <polygon points="145,25 152,55 178,45 158,65 188,72 158,79 178,99 152,89 145,119 138,89 112,99 132,79 102,72 132,65 112,45 138,55" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="145,25 152,55 178,45 158,65 188,72 158,79 178,99 152,89 145,119 138,89 112,99 132,79 102,72 132,65 112,45 138,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
 
   <!-- Star inner detail sparkle -->
-  <circle cx="145" cy="72" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="145" cy="72" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
 </g></svg>

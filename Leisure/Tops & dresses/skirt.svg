@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="104.73 126.91 302.55 302.55">
 <!-- waistband -->
-<rect x="196" y="150" width="120" height="34" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="196" y="150" width="120" height="34" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- skirt body, A-line flared -->
-<path d="M 200 184 L 312 184 L 384 392 Q 256 420 128 392 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 200 184 L 312 184 L 384 392 Q 256 420 128 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- pleat fold left -->
 <line x1="216" y1="200" x2="178" y2="384" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- pleat fold centre -->

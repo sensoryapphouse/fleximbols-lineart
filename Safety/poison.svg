@@ -5,22 +5,22 @@
 <circle cx="417" cy="284" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="407" cy="256" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <line x1="100" y1="390" x2="412" y2="270" stroke="#ffffff" stroke-width="26" stroke-linecap="round"/>
-<circle cx="105" cy="404" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="95" cy="376" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="417" cy="284" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="407" cy="256" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="105" cy="404" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="95" cy="376" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="417" cy="284" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="407" cy="256" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <line x1="412" y1="390" x2="100" y2="270" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
 <circle cx="417" cy="376" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="407" cy="404" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="105" cy="256" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="95" cy="284" r="23" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <line x1="412" y1="390" x2="100" y2="270" stroke="#ffffff" stroke-width="26" stroke-linecap="round"/>
-<circle cx="417" cy="376" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="407" cy="404" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="105" cy="256" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="95" cy="284" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 170 256 C 156 152 212 110 256 110 C 300 110 356 152 342 256 C 334 284 296 280 256 280 C 216 280 178 284 170 256 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<rect x="212" y="272" width="88" height="34" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="417" cy="376" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="407" cy="404" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="105" cy="256" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="95" cy="284" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 170 256 C 156 152 212 110 256 110 C 300 110 356 152 342 256 C 334 284 296 280 256 280 C 216 280 178 284 170 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="212" y="272" width="88" height="34" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="234" y1="272" x2="234" y2="306" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="256" y1="272" x2="256" y2="306" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="278" y1="272" x2="278" y2="306" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

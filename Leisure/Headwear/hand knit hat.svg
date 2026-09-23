@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- knitted beanie with pompom + visible knit stitches -->
   <!-- pompom -->
-  <circle cx="145" cy="35" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="35" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- pompom fluff lines -->
   <path d="M145 13 L142 22 M145 13 L148 22 M127 25 L135 30 M127 25 L132 22 M163 25 L155 30 M163 25 L158 22 M125 45 L135 45 M165 45 L155 45 M145 57 L142 48 M145 57 L148 48 M132 55 L138 50 M158 55 L152 50" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
   <!-- hat dome -->
-  <path d="M55 175 Q55 70 145 60 Q235 70 235 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M55 175 Q55 70 145 60 Q235 70 235 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- ribbed brim -->
   <rect x="50" y="165" width="190" height="40" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- brim vertical ribs -->

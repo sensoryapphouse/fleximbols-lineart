@@ -7,7 +7,7 @@
            C148 132 138 138 124 134
            C104 130 80 118 64 102
            C56 96 52 92 48 90 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- stem nub on whole one -->
   <path d="M48 88 L40 80" fill="none" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round"/>
   <!-- cut finger lime: elongated half, pale flesh with tiny round pearls -->
@@ -18,7 +18,7 @@
            C260 218 252 228 234 230
            C210 232 184 226 156 218
            C124 210 96 206 80 200 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="11.86" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- pale flesh inside the cut, slightly inset -->
   <path d="M92 198
            C86 190 94 176 110 172
@@ -27,21 +27,21 @@
            C244 218 238 224 224 224
            C204 224 180 220 156 212
            C128 204 104 200 92 198 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- tiny round pearls of pulp -->
-  <circle cx="120" cy="192" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="135" cy="200" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="150" cy="194" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="165" cy="202" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="180" cy="196" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="195" cy="204" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="210" cy="212" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="115" cy="208" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="212" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="175" cy="216" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="205" cy="220" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="180" r="3.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="160" cy="180" r="3.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="186" r="3.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="220" cy="200" r="3.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="192" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="135" cy="200" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="194" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="165" cy="202" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="196" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="204" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="212" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="115" cy="208" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="212" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="175" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="205" cy="220" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="180" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="180" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="186" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="200" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

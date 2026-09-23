@@ -4,16 +4,16 @@
 <line x1="64" y1="360" x2="430" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <polygon points="462 360 430 343 430 377" fill="#1a1a1a"/>
 <!-- ten year blocks, large enough to count at small size -->
-<rect x="72.0"  y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="110.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="148.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="186.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="224.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="262.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="300.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="338.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="376.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="414.0" y="206" width="30" height="146" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="72.0"  y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="110.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="148.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="186.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="224.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="262.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="300.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="338.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="376.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="414.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- tick marks under each block -->
 <line x1="87"  y1="360" x2="87"  y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="125" y1="360" x2="125" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
@@ -27,9 +27,9 @@
 <line x1="429" y1="360" x2="429" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <!-- bold "10" glyph drawn as shapes, top-left, anchoring ten years -->
 <!-- digit 1 (stem + base + angled serif) -->
-<rect x="96" y="96" width="20" height="86" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="84" y="174" width="44" height="16" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="78" y="106" width="24" height="16" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" transform="rotate(-36 90 114)"/>
+<rect x="96" y="96" width="20" height="86" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="84" y="174" width="44" height="16" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="78" y="106" width="24" height="16" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" transform="rotate(-36 90 114)"/>
 <!-- digit 0 -->
 <rect x="132" y="96" width="62" height="86" rx="28" fill="none" stroke="#1a1a1a" stroke-width="18"/>
 </g></svg>

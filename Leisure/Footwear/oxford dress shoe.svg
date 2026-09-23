@@ -9,9 +9,9 @@
   <!-- Thin dress sole -->
   <path d="M 12 166 L 244 174 L 246 182 L 14 184 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Sole welt -->
-  <rect x="10" y="181" width="238" height="8" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="10" y="181" width="238" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- CLOSED lacing panel (quarterback stitched closed at top) -->
-  <path d="M 105 128 L 102 158 Q 102 164 110 165 L 158 165 Q 166 164 166 158 L 163 128" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 105 128 L 102 158 Q 102 164 110 165 L 158 165 Q 166 164 166 158 L 163 128" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Closed seam at top (the defining feature of oxford) -->
   <line x1="105" y1="128" x2="163" y2="128" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Lace rows -->
@@ -28,7 +28,7 @@
   <!-- Lace bow at top -->
   <path d="M 125 124 Q 134 116 134 128 Q 134 116 143 124" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Heel counter -->
-  <path d="M 224 136 Q 248 148 246 164 L 244 174 Q 230 168 222 155 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 224 136 Q 248 148 246 164 L 244 174 Q 230 168 222 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Polish shine -->
   <path d="M 40 158 Q 55 154 75 154" fill="none" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
 </g></svg>

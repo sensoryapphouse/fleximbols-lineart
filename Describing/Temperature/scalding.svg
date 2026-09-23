@@ -6,9 +6,9 @@
 <path d="M 388 138 q -22 -24 0 -48 q 22 -24 0 -48"/>
 </g>
 <!-- thermometer, centred-left, mercury at very top -->
-<rect x="176" y="96" width="44" height="280" rx="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="198" cy="384" r="44" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="187" y="118" width="22" height="266" rx="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="176" y="96" width="44" height="280" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="198" cy="384" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="187" y="118" width="22" height="266" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- scale ticks -->
 <g stroke="#ffffff" stroke-width="6" stroke-linecap="round">
 <line x1="209" y1="160" x2="195" y2="160"/>

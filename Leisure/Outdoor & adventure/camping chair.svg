@@ -5,19 +5,19 @@
   <line x1="75" y1="85" x2="155" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="135" y1="85" x2="215" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- seat fabric -->
-  <path d="M80 140 Q145 155 210 140 L210 165 Q145 180 80 165 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M80 140 Q145 155 210 140 L210 165 Q145 180 80 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- back rest -->
-  <path d="M90 90 Q145 100 200 90 L200 140 Q145 150 90 140 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M90 90 Q145 100 200 90 L200 140 Q145 150 90 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- left armrest -->
-  <rect x="64" y="115" width="36" height="12" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="64" y="115" width="36" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- right armrest -->
-  <rect x="190" y="115" width="36" height="12" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="190" y="115" width="36" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- cup holder on right armrest -->
   <rect x="201" y="99" width="14" height="18" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <line x1="201" y1="108" x2="215" y2="108" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
   <!-- foot caps -->
-  <circle cx="75" cy="207" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="135" cy="207" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="155" cy="207" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="215" cy="207" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="75" cy="207" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="135" cy="207" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="155" cy="207" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="215" cy="207" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
 </g></svg>

@@ -3,11 +3,11 @@
 <path d="M 256 96 C 200 110 188 150 230 168" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <circle cx="256" cy="92" r="14" fill="none" stroke="#1a1a1a" stroke-width="8"/>
 <!-- crown / top knob -->
-<rect x="240" y="118" width="32" height="22" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="240" y="118" width="32" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- outer case -->
-<circle cx="256" cy="288" r="118" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="288" r="118" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- inner face -->
-<circle cx="256" cy="288" r="92" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="288" r="92" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- hour ticks -->
 <line x1="256" y1="206" x2="256" y2="224" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="256" y1="352" x2="256" y2="370" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>

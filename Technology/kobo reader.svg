@@ -2,9 +2,9 @@
   <!-- Kobo-style e-reader body (asymmetric chunky-left-bezel hint) -->
   <rect x="56" y="18" width="170" height="204" rx="12" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.11"/>
   <!-- left chunky bezel -->
-  <rect x="56" y="18" width="24" height="204" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="56" y="18" width="24" height="204" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- e-ink screen -->
-  <rect x="86" y="30" width="134" height="178" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="86" y="30" width="134" height="178" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- KOBO label as path strokes -->
   <!-- K -->
   <path d="M96 46 L96 64 M96 55 L108 46 M96 55 L108 64" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
@@ -15,8 +15,8 @@
   <!-- O -->
   <ellipse cx="162" cy="55" rx="7" ry="9" fill="none" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- brand-like icon (Kobo's stylised circle-with-spark) -->
-  <circle cx="190" cy="55" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M186 50 Q190 47 194 50 Q196 55 190 58 Q186 60 186 57" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <circle cx="190" cy="55" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <path d="M186 50 Q190 47 194 50 Q196 55 190 58 Q186 60 186 57" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
   <!-- divider -->
   <line x1="94" y1="76" x2="212" y2="76" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- text lines on page -->
@@ -31,5 +31,5 @@
   <line x1="94" y1="186" x2="212" y2="186" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="94" y1="198" x2="200" y2="198" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- left bezel page-turn button -->
-  <circle cx="68" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="68" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="79.52 101.70 352.97 352.97"><!-- sports net on two posts -->
 <!-- left post -->
-<rect x="118" y="130" width="20" height="290" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="118" y="130" width="20" height="290" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- right post -->
-<rect x="374" y="130" width="20" height="290" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="374" y="130" width="20" height="290" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- top band -->
-<rect x="138" y="150" width="236" height="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="138" y="150" width="236" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- net mesh body -->
 <rect x="138" y="176" width="236" height="170" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <g stroke="#1a1a1a" stroke-width="4">

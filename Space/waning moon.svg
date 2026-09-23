@@ -2,16 +2,16 @@
   <!-- Night sky -->
   <rect x="26" y="32" width="238" height="176" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Stars -->
-  <circle cx="52" cy="48" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="238" cy="45" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="58" cy="158" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="245" cy="138" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="252" cy="95" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="52" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="238" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="158" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="252" cy="95" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Base disc: lit LEFT side crescent -->
   <!-- Draw full bright disc first, then dark overlay shifted RIGHT to mask right side -->
-  <circle cx="145" cy="118" r="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="145" cy="118" r="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Dark overlay circle shifted right — carves right side, leaving left crescent lit -->
-  <circle cx="178" cy="118" r="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="178" cy="118" r="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Outer ring stroke -->
   <circle cx="145" cy="118" r="76" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Terminator arc on right interior -->

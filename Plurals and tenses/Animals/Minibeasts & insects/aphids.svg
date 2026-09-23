@@ -9,11 +9,11 @@
 <path d="M 276 372 L 292 416 L 308 440"/>
 </g>
 <!-- plump pear-shaped soft green body -->
-<path d="M 256 196 Q 348 220 344 320 Q 340 408 256 408 Q 172 408 168 320 Q 164 220 256 196 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 196 Q 348 220 344 320 Q 340 408 256 408 Q 172 408 168 320 Q 164 220 256 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- two cornicle tubes at the rear -->
 <path d="M 196 396 L 176 432 M 316 396 L 336 432" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- head at top -->
-<circle cx="256" cy="180" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="180" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- eyes -->
 <circle cx="240" cy="178" r="7" fill="#1a1a1a"/>
 <circle cx="272" cy="178" r="7" fill="#1a1a1a"/>

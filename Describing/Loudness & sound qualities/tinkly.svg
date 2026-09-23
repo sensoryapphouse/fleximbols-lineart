@@ -3,13 +3,13 @@
 <path d="M 256 130 L 366 332 L 146 332 Z" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linejoin="round"/>
 <path d="M 256 130 L 366 332 L 146 332 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- small gap at top-right corner -->
-<line x1="356" y1="312" x2="372" y2="340" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+<line x1="356" y1="312" x2="372" y2="340" stroke="#ffffff" stroke-width="14" stroke-linecap="round"/>
 <!-- hanging string -->
 <line x1="256" y1="100" x2="256" y2="130" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- beater striking -->
 <line x1="300" y1="360" x2="392" y2="300" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="300" y1="360" x2="392" y2="300" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<circle cx="296" cy="364" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="296" cy="364" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- tiny sparkle/ting notes -->
 <g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
 <line x1="384" y1="150" x2="384" y2="180"/>

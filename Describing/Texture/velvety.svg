@@ -8,7 +8,7 @@
          Q 270 322 240 340
          Q 210 322 180 340
          Q 150 322 120 340 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- soft sheen bands -->
 <path d="M 150 200 Q 256 178 362 200" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
 <path d="M 150 250 Q 256 230 362 250" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>

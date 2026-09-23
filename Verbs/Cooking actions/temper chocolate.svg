@@ -2,18 +2,18 @@
   <!-- Bowl of melted chocolate -->
   <path d="M50 130 Q50 200 110 210 Q130 212 150 210 Q210 200 210 130 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bowl rim -->
-  <ellipse cx="130" cy="130" rx="80" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="130" cy="130" rx="80" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Chocolate surface -->
   <ellipse cx="130" cy="130" rx="72" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Heat waves rising -->
   <path d="M85 110 Q80 100 88 92 Q80 84 88 76" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M110 105 Q105 95 113 87 Q105 79 113 71" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Thermometer -->
-  <rect x="225" y="50" width="14" height="120" rx="6" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <rect x="225" y="50" width="14" height="120" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Mercury column -->
-  <rect x="229" y="90" width="6" height="78" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="229" y="90" width="6" height="78" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Thermometer bulb -->
-  <circle cx="232" cy="180" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="232" cy="180" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Tick marks -->
   <line x1="239" y1="70" x2="245" y2="70" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="239" y1="90" x2="245" y2="90" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>

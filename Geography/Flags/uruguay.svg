@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-uy" viewBox="0 0 640 480">
-  <path fill="#fff" d="M0 0h640v480H0z"/>
-  <path fill="#0038a8" d="M266 53.3h374v53.4H266zm0 106.7h374v53.3H266zM0 266.7h640V320H0zm0 106.6h640v53.4H0z"/>
-  <g fill="#fcd116" stroke="#000" stroke-miterlimit="20" stroke-width=".6" transform="translate(133.3 133.3)scale(2.93333)">
+  <path fill="#ffffff" d="M0 0h640v480H0z" stroke="#1a1a1a" stroke-width="5.00"/>
+  <path fill="#ffffff" d="M266 53.3h374v53.4H266zm0 106.7h374v53.3H266zM0 266.7h640V320H0zm0 106.6h640v53.4H0z" stroke="#1a1a1a" stroke-width="5.00"/>
+  <g fill="#ffffff" stroke="#000" stroke-miterlimit="20" stroke-width=".6" transform="translate(133.3 133.3)scale(2.93333)">
     <g id="uy-c">
       <g id="uy-b">
         <g id="uy-a">
@@ -25,5 +25,5 @@
     <use xlink:href="#uy-d" width="100%" height="100%" transform="scale(-1 1)"/>
     <path d="M0 76c-5 0-18 3 0 3s5-3 0-3"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#000000" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
 </svg>

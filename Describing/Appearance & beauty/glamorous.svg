@@ -2,16 +2,16 @@
 <!-- a sparkling jewelled tiara = glamorous -->
 <g transform="translate(256 270)">
 <!-- band -->
-<path d="M -150 40 Q 0 70 150 40 L 150 66 Q 0 96 -150 66 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M -150 40 Q 0 70 150 40 L 150 66 Q 0 96 -150 66 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- peaks of the crown -->
-<path d="M -150 44 L -150 -40 L -86 26 L -28 -76 L 0 24 L 28 -76 L 86 26 L 150 -40 L 150 44 Q 0 74 -150 44 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M -150 44 L -150 -40 L -86 26 L -28 -76 L 0 24 L 28 -76 L 86 26 L 150 -40 L 150 44 Q 0 74 -150 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- jewels on the peak tips -->
-<circle cx="-28" cy="-76" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="28" cy="-76" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="-150" cy="-40" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="150" cy="-40" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="-28" cy="-76" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="28" cy="-76" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="-150" cy="-40" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="-40" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- centre big gem -->
-<polygon points="0,4 -26,24 0,58 26,24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="0,4 -26,24 0,58 26,24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g>
 <!-- sparkles -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">

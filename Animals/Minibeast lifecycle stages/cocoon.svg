@@ -4,7 +4,7 @@
 <path d="M 230 116 Q 256 140 256 160" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 282 116 Q 256 140 256 160" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- cocoon body -->
-<path d="M 256 156 C 332 162 344 270 318 350 C 304 392 282 416 256 418 C 230 416 208 392 194 350 C 168 270 180 162 256 156 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 156 C 332 162 344 270 318 350 C 304 392 282 416 256 418 C 230 416 208 392 194 350 C 168 270 180 162 256 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- silk wrap lines -->
 <path d="M 196 230 Q 256 214 316 230" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 188 280 Q 256 262 324 280" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

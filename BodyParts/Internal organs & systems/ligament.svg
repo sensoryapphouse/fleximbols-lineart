@@ -10,8 +10,8 @@
 <circle cx="230" cy="394" r="32"/><circle cx="282" cy="394" r="32"/>
 </g>
 <!-- ligament straps crossing the joint, both sides -->
-<path d="M 214 176 L 250 176 L 298 336 L 262 336 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 298 176 L 262 176 L 214 336 L 250 336 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 214 176 L 250 176 L 298 336 L 262 336 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 298 176 L 262 176 L 214 336 L 250 336 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- fibre texture lines along the straps -->
 <g fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
 <path d="M 226 184 L 274 328 M 240 180 L 288 322"/>

@@ -2,15 +2,15 @@
 <!-- an elegant tall stemmed glass = elegant -->
 <g transform="translate(256 256)">
 <!-- bowl of the glass -->
-<path d="M -64 -150 L 64 -150 Q 64 -40 0 -16 Q -64 -40 -64 -150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M -64 -150 L 64 -150 Q 64 -40 0 -16 Q -64 -40 -64 -150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- liquid -->
-<path d="M -52 -110 L 52 -110 Q 52 -44 0 -26 Q -52 -44 -52 -110 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M -52 -110 L 52 -110 Q 52 -44 0 -26 Q -52 -44 -52 -110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- rim highlight -->
 <line x1="-64" y1="-150" x2="64" y2="-150" stroke="#ffffff" stroke-width="5"/>
 <!-- stem -->
 <line x1="0" y1="-16" x2="0" y2="120" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- foot -->
-<ellipse cx="0" cy="124" rx="64" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="0" cy="124" rx="64" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- bubbles in drink -->
 <g fill="#ffffff" stroke="#1a1a1a" stroke-width="0">
 <circle cx="-18" cy="-86" r="6"/>

@@ -2,17 +2,17 @@
   <!-- Main barrel: sleek tapered body -->
   <path d="M 40,108 L 40,132 L 185,132 L 200,120 L 185,108 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Grip section near nib -->
-  <rect x="183" y="111" width="28" height="18" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="183" y="111" width="28" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Metal pointed fountain nib: elongated diamond with centre slit -->
-  <polygon points="211,115 246,120 211,125" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <polygon points="211,115 246,120 211,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Nib centre slit -->
   <line x1="221" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Clip on top of barrel -->
-  <rect x="55" y="103" width="10" height="80" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="55" y="103" width="10" height="80" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Clip ball end -->
-  <circle cx="60" cy="185" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95"/>
+  <circle cx="60" cy="185" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Cap section at back -->
-  <rect x="30" y="108" width="18" height="24" rx="5" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="30" y="108" width="18" height="24" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Barrel band ring -->
-  <rect x="155" y="108" width="10" height="24" rx="2" ry="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="155" y="108" width="10" height="24" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
 </g></svg>

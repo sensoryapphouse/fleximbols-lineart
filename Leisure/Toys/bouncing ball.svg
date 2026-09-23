@@ -2,11 +2,11 @@
   <!-- ground -->
   <line x1="25" y1="208" x2="265" y2="208" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- shadow ellipse on ground -->
-  <ellipse cx="145" cy="210" rx="30" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="210" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- bounce arc path (dashed motion trail) -->
   <path d="M55 200 Q90 120 130 200 Q155 240 170 200 Q195 150 220 200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8"/>
   <!-- ball mid-air (at apex) -->
-  <circle cx="175" cy="72" r="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="175" cy="72" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- ball highlight stripe -->
   <path d="M155 55 Q175 48 195 60" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- motion lines below ball -->

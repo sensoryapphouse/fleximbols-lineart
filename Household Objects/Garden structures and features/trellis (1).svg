@@ -23,20 +23,20 @@
   <path d="M85,165 Q70,155 72,140" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
   <path d="M82,115 Q68,105 72,90" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
   <!-- Leaves left vine -->
-  <ellipse cx="71" cy="139" rx="9" ry="6" fill="#FFFFFF" transform="rotate(-40,71,139)" stroke="#1a1a1a" stroke-width="3.81"/>
-  <ellipse cx="71" cy="89" rx="8" ry="5" fill="#FFFFFF" transform="rotate(30,71,89)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="71" cy="139" rx="9" ry="6" fill="#ffffff" transform="rotate(-40,71,139)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="71" cy="89" rx="8" ry="5" fill="#ffffff" transform="rotate(30,71,89)" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Right vine -->
   <path d="M200,227 Q208,198 198,168 Q188,138 205,105 Q215,78 202,50" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <path d="M198,168 Q215,158 213,143" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
   <!-- Leaves right vine -->
-  <ellipse cx="214" cy="142" rx="9" ry="6" fill="#FFFFFF" transform="rotate(40,214,142)" stroke="#1a1a1a" stroke-width="3.81"/>
-  <ellipse cx="203" cy="50" rx="8" ry="5" fill="#FFFFFF" transform="rotate(-25,203,50)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="214" cy="142" rx="9" ry="6" fill="#ffffff" transform="rotate(40,214,142)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="203" cy="50" rx="8" ry="5" fill="#ffffff" transform="rotate(-25,203,50)" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Roses -->
-  <circle cx="89" cy="43" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
-  <circle cx="91" cy="41" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
-  <circle cx="202" cy="48" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
-  <circle cx="204" cy="46" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="89" cy="43" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="91" cy="41" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="202" cy="48" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="204" cy="46" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Small leaf clusters -->
-  <ellipse cx="145" cy="80" rx="10" ry="6" fill="#FFFFFF" transform="rotate(-10,145,80)" stroke="#1a1a1a" stroke-width="3.81"/>
-  <ellipse cx="145" cy="155" rx="10" ry="6" fill="#FFFFFF" transform="rotate(15,145,155)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="145" cy="80" rx="10" ry="6" fill="#ffffff" transform="rotate(-10,145,80)" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="145" cy="155" rx="10" ry="6" fill="#ffffff" transform="rotate(15,145,155)" stroke="#1a1a1a" stroke-width="3.81"/>
 </g></svg>

@@ -6,17 +6,17 @@
 <path d="M 390 214 Q 446 208 448 240 Q 450 272 394 274" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 <path d="M 390 214 Q 432 210 434 240 Q 436 268 394 274" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- bowl -->
-<path d="M 128 224 L 384 224 C 372 336 328 392 256 392 C 184 392 140 336 128 224 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 128 224 L 384 224 C 372 336 328 392 256 392 C 184 392 140 336 128 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- rim over the handle roots (reads as attached) -->
-<ellipse cx="256" cy="224" rx="130" ry="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="256" cy="224" rx="100" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="256" cy="224" rx="130" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="224" rx="100" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- foot / base ring -->
-<path d="M 214 392 L 298 392 Q 298 414 256 414 Q 214 414 214 392 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 214 392 L 298 392 Q 298 414 256 414 Q 214 414 214 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- drainage holes -->
-<circle cx="198" cy="272" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="256" cy="272" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="314" cy="272" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="226" cy="318" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="286" cy="318" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="256" cy="356" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="198" cy="272" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="272" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="314" cy="272" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="226" cy="318" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="286" cy="318" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256" cy="356" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 </g></svg>

@@ -2,11 +2,11 @@
 <!-- antenna -->
 <rect x="196" y="96" width="20" height="74" rx="10" fill="#1a1a1a"/>
 <!-- volume knob -->
-<rect x="286" y="120" width="20" height="50" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="286" y="120" width="20" height="50" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- body -->
 <rect x="160" y="160" width="190" height="256" rx="26" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- speaker / screen window -->
-<rect x="192" y="190" width="126" height="70" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="192" y="190" width="126" height="70" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- keypad buttons -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5">
 <rect x="196" y="286" width="30" height="22" rx="6"/>

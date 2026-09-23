@@ -7,9 +7,9 @@
   <line x1="90" y1="92" x2="170" y2="92" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
   <line x1="90" y1="100" x2="170" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
   <!-- Cap end (right) blunt -->
-  <rect x="190" y="78" width="22" height="38" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <rect x="190" y="78" width="22" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <!-- Front nib housing (taper from body to tip) -->
-  <polygon points="40,80 40,114 8,108 8,86" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="40,80 40,114 8,108 8,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Fine felt tip (very narrow pointed) -->
   <polygon points="8,90 8,104 -2,97" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- Pen shine highlight -->

@@ -13,6 +13,6 @@
   <!-- right arrowhead bracket -->
   <path d="M195 20 L210 30 L195 40" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- small dots at crest peaks -->
-  <circle cx="70" cy="60" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="210" cy="60" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="70" cy="60" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="60" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -3,16 +3,16 @@
 
   <!-- Shelf surround (cubby) - two vertical sides and top beam -->
   <!-- Left shelf side panel -->
-  <rect x="25" y="22" width="28" height="196" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="25" y="22" width="28" height="196" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Right shelf side panel -->
-  <rect x="237" y="22" width="28" height="196" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="237" y="22" width="28" height="196" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Top shelf beam -->
-  <rect x="25" y="22" width="240" height="28" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="25" y="22" width="240" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Bottom shelf beam -->
-  <rect x="25" y="190" width="240" height="28" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="25" y="190" width="240" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
 
   <!-- Fabric cube body inside cubby -->
-  <rect x="62" y="58" width="166" height="132" rx="6" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="62" y="58" width="166" height="132" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
 
   <!-- Fabric texture: subtle grid lines to suggest fabric weave -->
   <line x1="62" y1="91" x2="228" y2="91" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
@@ -27,5 +27,5 @@
   <rect x="62" y="58" width="166" height="16" rx="6" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
 
   <!-- Pull tab handle at top centre -->
-  <rect x="120" y="44" width="50" height="18" rx="9" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
+  <rect x="120" y="44" width="50" height="18" rx="9" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
 </g></svg>

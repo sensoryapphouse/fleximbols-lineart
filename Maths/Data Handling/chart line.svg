@@ -2,10 +2,10 @@
   <path d="M 30,205 L 270,205 M 30,30 L 30,205" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 30,160 L 270,160 M 30,115 L 270,115 M 30,70 L 270,70" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 40,180 L 80,150 L 120,165 L 160,108 L 200,128 L 250,55" fill="none" stroke="#1a1a1a" stroke-width="10.36" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="40" cy="180" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="80" cy="150" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="120" cy="165" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="160" cy="108" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="200" cy="128" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="250" cy="55" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="40" cy="180" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="80" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="120" cy="165" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="160" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="200" cy="128" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="250" cy="55" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

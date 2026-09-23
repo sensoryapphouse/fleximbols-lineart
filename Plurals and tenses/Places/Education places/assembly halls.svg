@@ -2,14 +2,14 @@
 <!-- ground -->
 <line x1="64" y1="430" x2="448" y2="430" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- wide low-pitched hall roof -->
-<polygon points="96,165 256,118 416,165" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="96,165 256,118 416,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- large hall building -->
-<rect x="96" y="165" width="320" height="265" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="96" y="165" width="320" height="265" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- stage platform across back -->
-<rect x="120" y="200" width="272" height="60" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="120" y="200" width="272" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- stage curtains -->
-<path d="M 120 200 L 120 256 Q 138 240 150 256 L 150 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 392 200 L 392 256 Q 374 240 362 256 L 362 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 120 200 L 120 256 Q 138 240 150 256 L 150 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 392 200 L 392 256 Q 374 240 362 256 L 362 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- rows of chairs (audience) -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6">
 <path d="M 150 320 L 150 296 L 178 296 L 178 320 Z"/>

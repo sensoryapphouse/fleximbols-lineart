@@ -3,15 +3,15 @@
   <g transform="translate(64 64) scale(0.7500)">
   
   <polygon points="180,80 332,80 460,460 52,460" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
-  <polygon points="180,80 200,80 122,460 52,460" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
-  <polygon points="312,80 332,80 460,460 390,460" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
-  <polygon points="252,95 260,95 270,160 242,160" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.89" />
-  <polygon points="236,200 274,200 286,280 224,280" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.89" />
-  <polygon points="216,320 296,320 314,420 198,420" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.89" />
-  <circle cx="256" cy="60" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.85" />
+  <polygon points="180,80 200,80 122,460 52,460" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
+  <polygon points="312,80 332,80 460,460 390,460" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
+  <polygon points="252,95 260,95 270,160 242,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" />
+  <polygon points="236,200 274,200 286,280 224,280" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" />
+  <polygon points="216,320 296,320 314,420 198,420" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" />
+  <circle cx="256" cy="60" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
   <path d="M170 70 q 86 -36 172 0" fill="none" stroke="#1a1a1a" stroke-width="7.85" /></g>
   <g transform="translate(368 368) scale(0.2500)">
 
-  <path d="M40 256 L320 256 L320 156 L472 256 L320 356 L320 256" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="39.25" stroke-linejoin="round" /></g>
+  <path d="M40 256 L320 256 L320 156 L472 256 L320 356 L320 256" fill="#ffffff" stroke="#1a1a1a" stroke-width="39.25" stroke-linejoin="round" /></g>
 </g>
   </g></svg>

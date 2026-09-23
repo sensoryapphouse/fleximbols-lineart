@@ -5,7 +5,7 @@
   <path d="M40 50 Q 65 95 95 125 Q 125 155 165 175 Q 210 195 270 195" fill="none" stroke="#1a1a1a" stroke-width="20.01" stroke-linecap="round"/>
   <!-- zip-tie wrapping around the middle of the bundle -->
   <!-- tie strap (loop around) -->
-  <ellipse cx="135" cy="135" rx="35" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 135 135)" data-lp="hair"/>
+  <ellipse cx="135" cy="135" rx="35" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 135 135)" data-lp="hair"/>
   <!-- ridge texture on tie strap -->
   <line x1="110" y1="115" x2="118" y2="120" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
   <line x1="120" y1="118" x2="128" y2="123" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
@@ -13,9 +13,9 @@
   <line x1="140" y1="124" x2="148" y2="129" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
   <line x1="150" y1="127" x2="158" y2="132" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 135 135)"/>
   <!-- locking head of zip-tie (rectangular box) -->
-  <rect x="155" y="115" width="22" height="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 166 124)"/>
+  <rect x="155" y="115" width="22" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" transform="rotate(35 166 124)"/>
   <!-- tail end sticking out from the locking head -->
-  <path d="M175 130 L210 105 L215 115 L180 140 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M175 130 L210 105 L215 115 L180 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" data-lp="hair"/>
   <!-- ridges on the tail -->
   <line x1="183" y1="125" x2="190" y2="120" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="190" y1="129" x2="197" y2="124" stroke="#1a1a1a" stroke-width="4.45"/>

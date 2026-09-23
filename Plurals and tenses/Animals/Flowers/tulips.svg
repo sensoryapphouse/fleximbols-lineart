@@ -3,10 +3,10 @@
 <!-- stem -->
 <line x1="0" y1="-30" x2="0" y2="200" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
 <!-- leaves -->
-<path d="M 0 120 Q -86 70 -96 168 Q -34 168 0 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 0 150 Q 86 100 96 198 Q 34 198 0 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 120 Q -86 70 -96 168 Q -34 168 0 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 150 Q 86 100 96 198 Q 34 198 0 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- tulip cup -->
-<path d="M -70 -150 Q -78 -10 0 -10 Q 78 -10 70 -150 Q 40 -90 0 -150 Q -40 -90 -70 -150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M -70 -150 Q -78 -10 0 -10 Q 78 -10 70 -150 Q 40 -90 0 -150 Q -40 -90 -70 -150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- inner petal divides -->
 <path d="M -36 -148 Q -30 -50 0 -36" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 36 -148 Q 30 -50 0 -36" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

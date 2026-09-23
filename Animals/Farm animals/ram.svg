@@ -17,15 +17,15 @@
 <circle cx="294" cy="316" r="32"/>
 <circle cx="300" cy="266" r="34"/>
 </g>
-<ellipse cx="236" cy="276" rx="74" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="236" cy="276" rx="74" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- big curled rams horns (behind head, spiralling down beside face) -->
 <path d="M 332 214 C 300 196 270 214 268 252 C 266 286 296 304 326 296" fill="none" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
 <path d="M 368 214 C 400 196 430 214 432 252 C 434 286 404 304 374 296" fill="none" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
 <!-- head -->
-<ellipse cx="350" cy="266" rx="42" ry="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="350" cy="266" rx="42" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- ears -->
-<ellipse cx="314" cy="276" rx="18" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" transform="rotate(-15 314 276)"/>
-<ellipse cx="386" cy="276" rx="18" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" transform="rotate(15 386 276)"/>
+<ellipse cx="314" cy="276" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(-15 314 276)"/>
+<ellipse cx="386" cy="276" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(15 386 276)"/>
 <!-- eyes + nose -->
 <circle cx="338" cy="262" r="7" fill="#1a1a1a"/>
 <circle cx="362" cy="262" r="7" fill="#1a1a1a"/>

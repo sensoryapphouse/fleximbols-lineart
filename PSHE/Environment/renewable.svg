@@ -11,17 +11,17 @@
 <line x1="140" y1="84" x2="140" y2="56" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="168" y1="92" x2="182" y2="67" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="188" y1="112" x2="213" y2="98" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="140.0" cy="140.0" r="52.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<path d="M 320 452 L 352 452 L 345 214 L 327 214 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="140.0" cy="140.0" r="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 320 452 L 352 452 L 345 214 L 327 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <g transform="rotate(-90 336 200)">
-<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 </g>
 <g transform="rotate(30 336 200)">
-<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 </g>
 <g transform="rotate(150 336 200)">
-<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 336 200 C 366 130 360 60 340 40 C 326 80 326 150 336 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 </g>
-<circle cx="336.0" cy="200.0" r="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="336.0" cy="200.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="40" y1="452" x2="492" y2="452" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 </g></svg>

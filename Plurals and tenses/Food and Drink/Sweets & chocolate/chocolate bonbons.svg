@@ -4,14 +4,14 @@
   <!-- Base line of shell -->
   <path d="M 60,150 L 230,150" stroke="#1a1a1a" stroke-width="5.92" stroke-linecap="round"/>
   <!-- Cross-section: cut face showing filling (front, slightly forward) -->
-  <ellipse cx="145" cy="150" rx="85" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.74"/>
+  <ellipse cx="145" cy="150" rx="85" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.74"/>
   <!-- Inner filling (caramel/cream) -->
-  <ellipse cx="145" cy="148" rx="60" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="145" cy="148" rx="60" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- Decorative pattern: zigzag drizzle on top of dome -->
   <path d="M 85,90 L 100,80 L 115,90 L 130,80 L 145,90 L 160,80 L 175,90 L 190,80 L 205,90" fill="none" stroke="#ffffff" stroke-width="4.15" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 75,115 L 90,105 L 105,115 L 120,105 L 135,115 L 150,105 L 165,115 L 180,105 L 195,115 L 210,105" fill="none" stroke="#ffffff" stroke-width="4.15" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Sheen highlight on dome -->
   <path d="M 85,80 Q 95,65 120,62" fill="none" stroke="#1a1a1a" stroke-width="5.92" stroke-linecap="round"/>
   <!-- Decorative pearl on top -->
-  <circle cx="145" cy="62" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="62" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

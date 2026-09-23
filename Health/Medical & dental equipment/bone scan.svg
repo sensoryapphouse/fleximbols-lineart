@@ -5,7 +5,7 @@
   <!-- inner panel border -->
   <rect x="40" y="30" width="210" height="180" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- skeleton: skull -->
-  <ellipse cx="145" cy="60" rx="22" ry="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" data-lp="hair"/>
+  <ellipse cx="145" cy="60" rx="22" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" data-lp="hair"/>
   <!-- eye sockets -->
   <circle cx="138" cy="58" r="3" fill="#1a1a1a"/>
   <circle cx="152" cy="58" r="3" fill="#1a1a1a"/>
@@ -30,7 +30,7 @@
   <rect x="92" y="95" width="8" height="55" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="190" y="95" width="8" height="55" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pelvis -->
-  <path d="M115 140 Q145 150 175 140 L170 165 Q145 175 120 165 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M115 140 Q145 150 175 140 L170 165 Q145 175 120 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" data-lp="hair"/>
   <!-- pelvis hole -->
   <ellipse cx="132" cy="158" rx="6" ry="5" fill="#1a1a1a"/>
   <ellipse cx="158" cy="158" rx="6" ry="5" fill="#1a1a1a"/>
@@ -38,10 +38,10 @@
   <rect x="124" y="170" width="10" height="40" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="156" y="170" width="10" height="40" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlighted hotspots (warm glow patches) -->
-  <circle cx="195" cy="120" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="195" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="128" cy="195" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="128" cy="195" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="145" cy="100" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="145" cy="100" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="195" cy="120" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="195" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="128" cy="195" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="128" cy="195" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="145" cy="100" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

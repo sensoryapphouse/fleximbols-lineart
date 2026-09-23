@@ -11,8 +11,8 @@
     </mdcr:info>
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
-    <polygon points="37,256 96,370 144,397 485,259 535,130 456,104 37,256" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="251,179 314,209 311,329 144,397 96,370 37,256 251,179" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="37,256 96,370 144,397 485,259 535,130 456,104 37,256" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="251,179 314,209 311,329 144,397 96,370 37,256 251,179" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="42,259 114,281 147,394" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="114,281 535,130" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="483,120 80,265 118,375" fill="none" stroke="#ffffff" stroke-width="8.89"/>

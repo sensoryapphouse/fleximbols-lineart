@@ -7,9 +7,9 @@
 <path d="M 318 196 q -24 -26 0 -52 q 24 -26 0 -52"/>
 </g>
 <!-- mug body -->
-<path d="M 156 256 L 336 256 L 326 392 Q 326 414 294 414 L 198 414 Q 166 414 166 392 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 156 256 L 336 256 L 326 392 Q 326 414 294 414 L 198 414 Q 166 414 166 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- handle -->
 <path d="M 336 290 q 48 0 48 44 q 0 44 -48 44" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- drink surface -->
-<ellipse cx="246" cy="256" rx="90" ry="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="246" cy="256" rx="90" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </svg>

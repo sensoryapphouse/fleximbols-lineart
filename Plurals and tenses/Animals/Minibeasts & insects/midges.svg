@@ -11,10 +11,10 @@
 <circle cx="256" cy="116" r="6"/>
 </g>
 <!-- main midge body -->
-<ellipse cx="256" cy="288" rx="34" ry="56" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<ellipse cx="256" cy="288" rx="34" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <!-- small wings -->
-<ellipse cx="224" cy="246" rx="40" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" transform="rotate(-26 224 246)"/>
-<ellipse cx="288" cy="246" rx="40" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" transform="rotate(26 288 246)"/>
+<ellipse cx="224" cy="246" rx="40" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(-26 224 246)"/>
+<ellipse cx="288" cy="246" rx="40" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(26 288 246)"/>
 <!-- thin legs -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
 <path d="M 236 300 Q 196 332 188 376"/>
@@ -23,7 +23,7 @@
 <path d="M 272 320 Q 292 360 288 400"/>
 </g>
 <!-- head -->
-<circle cx="256" cy="226" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<circle cx="256" cy="226" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <circle cx="247" cy="222" r="5" fill="#1a1a1a"/>
 <circle cx="265" cy="222" r="5" fill="#1a1a1a"/>
 <!-- feathery antennae -->

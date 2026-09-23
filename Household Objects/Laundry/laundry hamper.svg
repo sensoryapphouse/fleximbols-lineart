@@ -3,7 +3,7 @@
 
   <!-- Hamper body (tall, slightly tapered) -->
   <path d="M70 70 L220 70 L210 215 L80 215 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
 
   <!-- Wicker weave - vertical stakes -->
   <g stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round">
@@ -26,7 +26,7 @@
 
   <!-- Cloth liner peeking over top edge -->
   <path d="M70 75 Q90 60 110 70 Q135 58 160 68 Q185 60 210 70 L220 75 L220 85 L70 85 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Liner ruffle hints -->
   <path d="M85 70 L90 78" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M125 67 L130 78" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -34,14 +34,14 @@
 
   <!-- Lid (closed, slightly wider than body) -->
   <path d="M60 55 L230 55 L235 75 L55 75 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
 
   <!-- Lid top stripe / weave detail -->
   <path d="M65 62 L228 62" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M65 70 L228 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Lid handle / knob -->
-  <ellipse cx="145" cy="48" rx="14" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <ellipse cx="145" cy="48" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M140 48 L140 38 Q140 32 145 32 Q150 32 150 38 L150 48"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

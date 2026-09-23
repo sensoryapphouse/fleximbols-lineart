@@ -3,7 +3,7 @@
   <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#1a1a1a" stroke-width="17.77" stroke-linecap="round"/>
   <path d="M120 228 Q118 190 130 160 Q140 130 158 100 Q165 85 168 70" fill="none" stroke="#1a1a1a" stroke-width="12.44" stroke-linecap="round" stroke-dasharray="8,12"/>
   <!-- Ground base -->
-  <ellipse cx="122" cy="228" rx="32" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="122" cy="228" rx="32" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
   <!-- Palm fronds radiating from crown at top -->
   <!-- Frond 1 - left sweeping down -->
   <path d="M165 65 Q130 55 95 72" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
@@ -24,13 +24,13 @@
   <!-- Frond 7 - right drooping -->
   <path d="M170 72 Q205 90 228 115" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- Crown base -->
-  <circle cx="168" cy="68" r="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="168" cy="68" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Coconuts cluster - brown round nuts at crown base -->
   <circle cx="155" cy="82" r="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.55"/>
   <circle cx="172" cy="85" r="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="163" cy="80" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="163" cy="80" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
   <!-- Coconut fiber texture hints -->
-  <circle cx="155" cy="82" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="172" cy="85" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="163" cy="80" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="155" cy="82" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="172" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="163" cy="80" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
 </g></svg>

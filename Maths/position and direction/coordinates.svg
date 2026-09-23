@@ -12,5 +12,5 @@
 <polygon points="114 104 101 130 127 130" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="294" y1="248" x2="114" y2="248" stroke="#1a1a1a" stroke-width="7" stroke-dasharray="12 10"/>
 <line x1="294" y1="248" x2="294" y2="392" stroke="#1a1a1a" stroke-width="7" stroke-dasharray="12 10"/>
-<circle cx="294" cy="248" r="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="294" cy="248" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </svg>

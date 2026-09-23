@@ -11,11 +11,11 @@
     </mdcr:info>
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
-    <polygon points="151,35 151,44 212,55 239,76 258,77 262,96 298,91 297,81 323,81 332,75 333,7 249,5 211,29 151,35" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="151,35 151,44 212,55 239,76 258,77 262,96 298,91 297,81 323,81 332,75 333,7 249,5 211,29 151,35" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="211,29 211,55" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="249,5 249,76" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="293,7 297,81" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="262,96 298,91 314,148 326,148 398,435 401,456 401,456 396,459 382,466 372,469 362,472 351,473 339,473 270,191 272,156 278,152 262,96" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="262,96 298,91 314,148 326,148 398,435 401,456 401,456 396,459 382,466 372,469 362,472 351,473 339,473 270,191 272,156 278,152 262,96" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="278,152 314,148" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

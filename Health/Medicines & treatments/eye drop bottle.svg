@@ -2,19 +2,19 @@
   <!-- Eye drop bottle: small squeeze bottle tilted ~25deg, single drop from nozzle -->
   <g transform="translate(130,128) rotate(-25)">
     <!-- Bottle body -->
-    <rect x="-28" y="-52" width="56" height="96" rx="14" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="-28" y="-52" width="56" height="96" rx="14" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
     <!-- Label band -->
-    <rect x="-28" y="-18" width="56" height="30" rx="0" ry="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+    <rect x="-28" y="-18" width="56" height="30" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
     <!-- Cross on label -->
-    <rect x="-5" y="-15" width="10" height="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="-14" y="-7" width="28" height="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="-5" y="-15" width="10" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="-14" y="-7" width="28" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <!-- Shoulder taper -->
-    <path d="M-28,-52 L-16,-72 L16,-72 L28,-52 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+    <path d="M-28,-52 L-16,-72 L16,-72 L28,-52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
     <!-- Neck -->
-    <rect x="-10" y="-84" width="20" height="16" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+    <rect x="-10" y="-84" width="20" height="16" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
     <!-- Nozzle tip (narrow) -->
-    <polygon points="-4,-84 4,-84 2,-100 -2,-100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+    <polygon points="-4,-84 4,-84 2,-100 -2,-100" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   </g>
   <!-- Teardrop drop falling from nozzle -->
-  <path d="M176,46 Q185,62 176,78 Q167,62 176,46 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <path d="M176,46 Q185,62 176,78 Q167,62 176,46 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
 </g></svg>

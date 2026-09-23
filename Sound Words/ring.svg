@@ -7,8 +7,8 @@
 <path d="M 404 205 Q 436 244 404 283" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 234 100 Q 256 62 278 100" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
 <rect x="244.0" y="94.0" width="24.0" height="26.0" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
-<path d="M 226 120 Q 226 100 256 100 Q 286 100 286 120 Q 300 220 342 280 L 170 280 Q 212 220 226 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<ellipse cx="256.0" cy="280.0" rx="86.0" ry="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 226 120 Q 226 100 256 100 Q 286 100 286 120 Q 300 220 342 280 L 170 280 Q 212 220 226 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="256.0" cy="280.0" rx="86.0" ry="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="256" y1="230" x2="286" y2="294" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <circle cx="286.0" cy="300.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
 </g></svg>

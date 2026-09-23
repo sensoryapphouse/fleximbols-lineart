@@ -14,16 +14,16 @@
   <line x1="90" y1="155" x2="80" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="150" y1="155" x2="160" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- car body on right section of track -->
-  <rect x="175" y="196" width="50" height="18" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="175" y="196" width="50" height="18" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- car wheels -->
-  <circle cx="186" cy="214" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="214" cy="214" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="186" cy="214" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="214" cy="214" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rider 1 head -->
-  <circle cx="188" cy="190" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="188" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rider 1 hair -->
   <path d="M180 187 Q188 180 196 187" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- rider 2 head -->
-  <circle cx="212" cy="190" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="212" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rider 2 hair -->
   <path d="M204 186 Q212 179 220 186" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- arms up (excitement) -->

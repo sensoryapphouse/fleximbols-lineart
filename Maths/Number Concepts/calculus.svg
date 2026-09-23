@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Board background -->
-  <rect x="26" y="32" width="238" height="176" rx="8" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <rect x="26" y="32" width="238" height="176" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
 
   <!-- Coordinate axes -->
   <line x1="35" y1="195" x2="35" y2="35" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
@@ -22,7 +22,7 @@
 
   <!-- Shaded area under the curve between x=90 and x=200 -->
   <path d="M90,195 L90,160 Q120,130 145,110 Q170,92 200,65 L200,195 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Re-draw curve on top of fill -->
   <path d="M90,160 Q120,130 145,110 Q170,92 200,65"
         fill="none" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round"/>
@@ -46,7 +46,7 @@
 
   <!-- a and b limits on integral (drawn as small geometric shapes) -->
   <!-- "a" limit bottom: small triangle -->
-  <polygon points="214,185 208,195 220,195" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.43"/>
+  <polygon points="214,185 208,195 220,195" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
   <!-- "b" limit top: small rectangle with top nub -->
-  <rect x="233" y="28" width="10" height="10" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="233" y="28" width="10" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
 </g></svg>

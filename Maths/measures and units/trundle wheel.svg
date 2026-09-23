@@ -2,8 +2,8 @@
 <line x1="300" y1="150" x2="170" y2="330" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
 <line x1="300" y1="150" x2="170" y2="330" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="262" y1="140" x2="338" y2="140" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
-<circle cx="170" cy="356" r="106" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="170" cy="356" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="170" cy="356" r="106" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="170" cy="356" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="170" y1="356" x2="170" y2="250" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="170" y1="356" x2="170" y2="462" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="170" y1="356" x2="64" y2="356" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

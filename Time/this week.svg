@@ -2,7 +2,7 @@
 <!-- downward arrow pointing AT a week strip of 7 day cells -->
 <path d="M 247.0 92.0 L 247.0 191.2 L 230.0 191.2 L 256.0 238.0 L 282.0 191.2 L 265.0 191.2 L 265.0 92.0 A 9.0 9.0 0 0 1 247.0 92.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- week strip -->
-<rect x="96" y="290" width="320" height="96" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="96" y="290" width="320" height="96" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <g stroke="#1a1a1a" stroke-width="7">
 <line x1="142" y1="290" x2="142" y2="386"/>
 <line x1="188" y1="290" x2="188" y2="386"/>

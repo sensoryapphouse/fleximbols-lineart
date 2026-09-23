@@ -3,7 +3,7 @@
   <path d="M 215,118 Q 215,108 205,108 L 195,108" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 55,148 Q 55,158 65,158 L 75,158" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 215,148 Q 215,158 205,158 L 195,158" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="75,96 215,96 215,108 195,108 195,158 215,158 215,170 75,170 75,158 75,108" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="75,96 215,96 215,108 195,108 195,158 215,158 215,170 75,170 75,158 75,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="75" y1="108" x2="215" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="75" y1="120" x2="215" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="75" y1="132" x2="215" y2="132" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>

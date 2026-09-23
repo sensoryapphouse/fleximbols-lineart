@@ -2,12 +2,12 @@
 <line x1="70" y1="300" x2="442" y2="300" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="442" y1="300" x2="422" y2="310" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="442" y1="300" x2="422" y2="290" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<rect x="106" y="202" width="52" height="52" rx="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="106" y="202" width="52" height="52" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="160" y1="228" x2="212" y2="228" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="212" y1="228" x2="198" y2="235" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="212" y1="228" x2="198" y2="221" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<polygon points="316,164 323,197 345,172 334,204 366,193 341,215 374,222 341,229 366,251 334,240 345,272 323,247 316,280 309,247 287,272 298,240 266,251 291,229 258,222 291,215 266,193 298,204 287,172 309,197" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="316,164 323,197 345,172 334,204 366,193 341,215 374,222 341,229 366,251 334,240 345,272 323,247 316,280 309,247 287,272 298,240 266,251 291,229 258,222 291,215 266,193 298,204 287,172 309,197" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <line x1="316" y1="270" x2="316" y2="294" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<line x1="316" y1="200" x2="316" y2="234" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="316" y1="200" x2="316" y2="234" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
-<circle cx="316" cy="248" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="316" y1="200" x2="316" y2="234" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/><line x1="316" y1="200" x2="316" y2="234" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+<circle cx="316" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

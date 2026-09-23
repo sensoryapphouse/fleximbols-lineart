@@ -21,15 +21,15 @@
 <!-- bar linking bike to carriage -->
 <line x1="218" y1="366" x2="252" y2="352" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
 <!-- passenger carriage body -->
-<path d="M 250 366 L 250 322 L 396 322 L 396 366 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 250 366 L 250 322 L 396 322 L 396 366 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- bench seat back -->
-<rect x="262" y="288" width="18" height="42" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="262" y="288" width="18" height="42" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- bench seat base -->
-<rect x="262" y="312" width="120" height="18" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="262" y="312" width="120" height="18" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- canopy posts -->
 <line x1="262" y1="288" x2="262" y2="234" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="384" y1="300" x2="384" y2="248" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- canopy (raised hood) -->
-<path d="M 246 240 Q 246 200 300 200 L 396 200 L 396 240 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 246 240 Q 246 200 300 200 L 396 200 L 396 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="252" y1="240" x2="396" y2="240" stroke="#1a1a1a" stroke-width="7"/>
 </svg>

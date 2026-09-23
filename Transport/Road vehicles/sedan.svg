@@ -3,13 +3,13 @@
   <line x1="10" y1="195" x2="280" y2="195" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- classic 3-box sedan profile: low roof, distinct trunk -->
   <!-- lower body -->
-  <path d="M20 175 L20 150 L55 150 L80 115 L200 115 L225 150 L270 150 L270 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M20 175 L20 150 L55 150 L80 115 L200 115 L225 150 L270 150 L270 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- roof line (low, sloped) -->
-  <path d="M75 120 L100 95 L185 95 L210 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M75 120 L100 95 L185 95 L210 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- windshield -->
-  <path d="M85 118 L107 100 L138 100 L138 118 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M85 118 L107 100 L138 100 L138 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- rear window -->
-  <path d="M148 100 L178 100 L200 118 L148 118 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M148 100 L178 100 L200 118 L148 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- door divider -->
   <line x1="143" y1="100" x2="143" y2="150" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- door handles -->
@@ -18,14 +18,14 @@
   <!-- trunk seam (3-box) -->
   <line x1="200" y1="118" x2="225" y2="150" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- headlight -->
-  <rect x="22" y="155" width="14" height="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="22" y="155" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- taillight -->
-  <rect x="254" y="155" width="14" height="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="254" y="155" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- wheel wells -->
   <circle cx="70" cy="180" r="22" fill="#1a1a1a"/>
-  <circle cx="70" cy="180" r="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="70" cy="180" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="70" cy="180" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="70" cy="180" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="220" cy="180" r="22" fill="#1a1a1a"/>
-  <circle cx="220" cy="180" r="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="220" cy="180" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="180" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="220" cy="180" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

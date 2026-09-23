@@ -2,16 +2,16 @@
 <!-- hob / burner base -->
 <rect x="176" y="370" width="160" height="16" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <!-- kettle body: tall rounded jug -->
-<path d="M 206 250 Q 188 252 188 282 Q 188 372 256 376 Q 324 372 324 282 Q 324 252 306 250 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 206 250 Q 188 252 188 282 Q 188 372 256 376 Q 324 372 324 282 Q 324 252 306 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- lid plate -->
-<ellipse cx="256" cy="250" rx="52" ry="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="256" cy="250" rx="52" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- lid knob -->
 <circle cx="256" cy="234" r="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <!-- arched top handle -->
 <path d="M 224 244 Q 256 196 288 244" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linejoin="round"/>
 <path d="M 224 244 Q 256 200 288 244" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- pouring SPOUT, curving up on the left -->
-<path d="M 198 282 Q 160 280 142 240 Q 138 230 148 226 Q 158 222 164 232 Q 180 262 206 264 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 198 282 Q 160 280 142 240 Q 138 230 148 226 Q 158 222 164 232 Q 180 262 206 264 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- spout opening -->
 <ellipse cx="148" cy="232" rx="9" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" transform="rotate(-32 148 232)"/>
 <!-- highlight on body -->

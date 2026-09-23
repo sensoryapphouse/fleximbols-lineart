@@ -21,8 +21,8 @@
 <rect x="451" y="340" width="10" height="32" rx="5" fill="#1a1a1a"/>
 <!-- emphasised midpoint 0.5 : big red marker drop-pin with tall tick -->
 <line x1="256" y1="270" x2="256" y2="312" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
-<circle cx="256" cy="234" r="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="256" cy="234" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- half-split inside the marker to read as one-half / .5 -->
-<path d="M256 200 A34 34 0 0 0 256 268 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.73" />
+<path d="M256 200 A34 34 0 0 0 256 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.73" />
 <line x1="256" y1="200" x2="256" y2="268" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

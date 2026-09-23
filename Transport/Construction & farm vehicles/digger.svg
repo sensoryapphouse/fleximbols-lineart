@@ -3,18 +3,18 @@
 <path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 200 250 L 330 150 L 380 175 L 415 280" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <!-- bucket -->
-<path d="M 392 270 L 440 268 L 438 312 Q 416 330 396 312 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 392 270 L 440 268 L 438 312 Q 416 330 396 312 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- bucket teeth -->
 <path d="M 400 312 L 400 326 M 416 314 L 416 330 M 432 312 L 432 326" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- cab body -->
-<path d="M 120 250 L 240 250 L 240 200 L 175 200 L 150 250 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 120 250 L 240 250 L 240 200 L 175 200 L 150 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- window -->
-<path d="M 178 244 L 195 210 L 232 210 L 232 244 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 178 244 L 195 210 L 232 210 L 232 244 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- lower chassis -->
-<rect x="110" y="250" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="110" y="250" width="150" height="40" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- track base -->
-<rect x="95" y="300" width="200" height="55" rx="27" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
-<circle cx="130" cy="327" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="195" cy="327" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="260" cy="327" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="95" y="300" width="200" height="55" rx="27" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<circle cx="130" cy="327" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="195" cy="327" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="260" cy="327" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 </svg>

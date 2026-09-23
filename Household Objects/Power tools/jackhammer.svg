@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.25)">
-<rect x="24.706" y="53.114" style="fill:#808080" width="462.587" height="25.232" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<polygon style="fill:#666666" points="272.821,431.589 256,467.334 239.179,431.589 239.179,292.813 272.821,292.813 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="239.179" y="292.808" style="fill:#4C4C4C" width="33.643" height="63.606" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="230.768" y="229.727" style="fill:#CCCCCC" width="50.464" height="84.107" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="230.768" y="229.727" style="fill:#B2B2B2" width="50.464" height="42.579" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<polygon style="fill:#F7D04A" points="295.951,240.246 216.049,240.246 209.741,168.755 302.259,168.755 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<polygon style="fill:#F3B41B" points="302.259,168.755 209.741,168.755 212.524,200.295 299.476,200.295 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#EB6836" d="M306.296,168.755H205.704c-7.452,0-13.887-5.217-15.428-12.507L163.796,31.04
+<rect x="24.706" y="53.114" style="fill:#ffffff" width="462.587" height="25.232" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<polygon style="fill:#ffffff" points="272.821,431.589 256,467.334 239.179,431.589 239.179,292.813 272.821,292.813 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="239.179" y="292.808" style="fill:#ffffff" width="33.643" height="63.606" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="230.768" y="229.727" style="fill:#ffffff" width="50.464" height="84.107" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="230.768" y="229.727" style="fill:#ffffff" width="50.464" height="42.579" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<polygon style="fill:#ffffff" points="295.951,240.246 216.049,240.246 209.741,168.755 302.259,168.755 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<polygon style="fill:#ffffff" points="302.259,168.755 209.741,168.755 212.524,200.295 299.476,200.295 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path style="fill:#ffffff" d="M306.296,168.755H205.704c-7.452,0-13.887-5.217-15.428-12.507L163.796,31.04
 	c-1.278-9.463,6.079-17.882,15.628-17.882h153.151c9.548,0,16.907,8.419,15.628,17.882l-26.479,125.209
 	C320.183,163.539,313.749,168.755,306.296,168.755z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#C74B38" d="M188.029,145.626l2.247,10.623c1.542,7.291,7.976,12.507,15.428,12.507h100.593
+<path style="fill:#ffffff" d="M188.029,145.626l2.247,10.623c1.542,7.291,7.976,12.507,15.428,12.507h100.593
 	c7.452,0,13.887-5.217,15.428-12.507l2.247-10.623H188.029z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <g>
-	<path style="fill:#EB6836" d="M488.345,95.162H436.83V36.287h51.515c8.709,0,15.77,7.061,15.77,15.77v27.335
+	<path style="fill:#ffffff" d="M488.345,95.162H436.83V36.287h51.515c8.709,0,15.77,7.061,15.77,15.77v27.335
 		C504.115,88.101,497.054,95.162,488.345,95.162z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<path style="fill:#EB6836" d="M23.655,95.162H75.17V36.287H23.655c-8.709,0-15.77,7.061-15.77,15.77v27.335
+	<path style="fill:#ffffff" d="M23.655,95.162H75.17V36.287H23.655c-8.709,0-15.77,7.061-15.77,15.77v27.335
 		C7.885,88.101,14.946,95.162,23.655,95.162z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <g>
-	<path style="fill:#C74B38" d="M436.83,78.341v16.821h51.515c8.709,0,15.77-7.061,15.77-15.77v-1.051H436.83z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<path style="fill:#C74B38" d="M7.885,78.341v1.051c0,8.709,7.061,15.77,15.77,15.77H75.17V78.341H7.885z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M436.83,78.341v16.821h51.515c8.709,0,15.77-7.061,15.77-15.77v-1.051H436.83z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M7.885,78.341v1.051c0,8.709,7.061,15.77,15.77,15.77H75.17V78.341H7.885z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <path d="M214.472,53.109c0,4.356,3.53,7.885,7.885,7.885h67.285c4.356,0,7.885-3.529,7.885-7.885s-3.529-7.885-7.885-7.885h-67.285
 	C218.003,45.223,214.472,48.753,214.472,53.109z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>

@@ -17,7 +17,7 @@
 <g fill="#1a1a1a"><circle cx="180" cy="298" r="6"/><circle cx="258" cy="252" r="6"/><circle cx="336" cy="298" r="6"/></g>
 </g>
 <!-- a single white blood cell -->
-<circle cx="258" cy="372" r="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="258" cy="372" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <g fill="#FFFFFF"><circle cx="252" cy="368" r="5"/><circle cx="264" cy="374" r="5"/><circle cx="256" cy="380" r="4"/></g>
 <!-- flow direction arrow -->
 <path d="M 416 252 L 446 252 M 436 242 L 448 252 L 436 262" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>

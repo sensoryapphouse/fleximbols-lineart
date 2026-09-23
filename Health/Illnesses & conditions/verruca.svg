@@ -8,21 +8,21 @@
          Q 306 214 316 250
          Q 330 320 316 400
          Q 256 424 196 400 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
 
 <!-- toes: a clean graded row, each an ellipse whose base sinks into the foot pad -->
-<ellipse cx="216" cy="220" rx="16" ry="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<ellipse cx="245" cy="210" rx="14" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<ellipse cx="271" cy="208" rx="13" ry="21" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<ellipse cx="294" cy="212" rx="11" ry="19" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<ellipse cx="313" cy="220" rx="10" ry="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="216" cy="220" rx="16" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="245" cy="210" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="271" cy="208" rx="13" ry="21" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="294" cy="212" rx="11" ry="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="313" cy="220" rx="10" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <!-- foot-pad top edge drawn OVER the toe bases (fills, hiding lower toe outlines) -->
 <path d="M 196 248 Q 206 214 256 214 Q 306 214 316 248 Q 256 258 196 248 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00"  data-lp="skin"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"  data-lp="skin"/>
 <path d="M 200 244 Q 256 222 312 244" fill="none" stroke="#1a1a1a" stroke-width="0"/>
 
 <!-- verruca: the wart -->
-<circle cx="252" cy="322" r="27" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="252" cy="322" r="27" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="252" cy="322" r="27" fill="none" stroke="#1a1a1a" stroke-width="3"/>
 <!-- black seed dots -->
 <circle cx="246" cy="318" r="3" fill="#1a1a1a"/>

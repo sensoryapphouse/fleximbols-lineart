@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Ramp surface -->
-  <polygon points="30,210 220,210 220,120" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="30,210 220,210 220,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ramp edge highlight -->
   <line x1="30" y1="210" x2="220" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
 
   <!-- Wheelchair figure on ramp -->
   <!-- Head -->
-  <ellipse cx="175" cy="118" rx="13" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="118" rx="13" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Torso (leaning forward on ramp) -->
-  <path d="M 163,132 L 185,132 L 188,158 L 160,158 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 163,132 L 185,132 L 188,158 L 160,158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Arm forward -->
   <line x1="163" y1="140" x2="148" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Wheelchair seat -->
@@ -33,9 +33,9 @@
   <line x1="22" y1="210" x2="268" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Universal access circle symbol (top left) -->
-  <circle cx="58" cy="62" r="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="58" cy="62" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Person in circle: head -->
-  <circle cx="58" cy="44" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="58" cy="44" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
   <!-- Body -->
   <line x1="58" y1="51" x2="58" y2="70" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Arms -->

@@ -6,5 +6,5 @@
   <polygon points="256,320 236,292 276,292" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.57"/>
   <!-- straight line (after) -->
   <line x1="56" y1="380" x2="432" y2="380" stroke="#1a1a1a" stroke-width="10.99" stroke-linecap="round"/>
-  <polygon points="458,380 430,362 430,398" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.35" stroke-linejoin="round"/>
+  <polygon points="458,380 430,362 430,398" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.35" stroke-linejoin="round"/>
 </g></svg>

@@ -2,21 +2,21 @@
   <!-- Fidget spinner — three-lobed classic shape -->
   <!-- Centre bearing cap -->
   <!-- Lobe 1 top -->
-  <ellipse cx="145" cy="72" rx="34" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="145" cy="72" rx="34" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Lobe 2 bottom-left -->
-  <ellipse cx="107" cy="140" rx="34" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="107" cy="140" rx="34" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Lobe 3 bottom-right -->
-  <ellipse cx="183" cy="140" rx="34" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="183" cy="140" rx="34" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Connector body triangle -->
-  <polygon points="145,86 116,132 174,132" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
+  <polygon points="145,86 116,132 174,132" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Centre bearing -->
-  <circle cx="145" cy="118" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="145" cy="118" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="118" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="118" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="145" cy="118" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Highlight dots on lobes -->
-  <circle cx="145" cy="66" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.78"/>
-  <circle cx="107" cy="134" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.78"/>
-  <circle cx="183" cy="134" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.78"/>
+  <circle cx="145" cy="66" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78"/>
+  <circle cx="107" cy="134" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78"/>
+  <circle cx="183" cy="134" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78"/>
   <!-- Motion arc lines suggesting spin -->
   <path d="M115 45 Q88 68 96 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6,5"/>
   <path d="M175 45 Q202 68 194 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6,5"/>

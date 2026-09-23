@@ -2,14 +2,14 @@
 <!-- a pretty hair bow with sparkles -->
 <g transform="translate(256 256)">
 <!-- ribbon tails -->
-<path d="M -16 14 L -54 96 L -18 80 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 16 14 L 54 96 L 18 80 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M -16 14 L -54 96 L -18 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 16 14 L 54 96 L 18 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- left loop -->
-<path d="M 0 0 L -120 -56 Q -150 -2 -120 52 L 0 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 0 0 L -120 -56 Q -150 -2 -120 52 L 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- right loop -->
-<path d="M 0 0 L 120 -56 Q 150 -2 120 52 L 0 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 0 0 L 120 -56 Q 150 -2 120 52 L 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- knot -->
-<rect x="-22" y="-26" width="44" height="52" rx="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="-22" y="-26" width="44" height="52" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </g>
 <!-- sparkles -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- dark background panel (NOT full canvas) -->
-  <rect x="26" y="32" width="238" height="176" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="26" y="32" width="238" height="176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- shopping bag 1 -->
   <path d="M 35 110 L 45 200 L 110 200 L 120 110 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M 60 110 L 60 95 A 17 17 0 0 1 95 95 L 95 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -8,9 +8,9 @@
   <path d="M 165 125 L 175 215 L 245 215 L 255 125 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M 190 125 L 190 108 A 19 19 0 0 1 230 108 L 230 125" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- percent badge on bag 2 -->
-  <circle cx="210" cy="170" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="203" cy="163" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="217" cy="177" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="210" cy="170" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="203" cy="163" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="217" cy="177" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <path d="M 222 158 L 198 182" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- BLACK FRIDAY path text - top row BLACK -->
   <!-- B -->
@@ -37,7 +37,7 @@
   <!-- Y -->
   <path d="M 258 35 L 264 47 L 270 35 M 264 47 L 264 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- -50% mini text in yellow strip -->
-  <rect x="35" y="78" width="220" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="78" width="220" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- minus -->
   <path d="M 60 89 L 75 89" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- 5 -->

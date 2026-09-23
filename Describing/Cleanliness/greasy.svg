@@ -4,19 +4,19 @@
 <line x1="120" y1="110" x2="96" y2="86" stroke="#1a1a1a" stroke-width="16.5" stroke-linecap="round"/>
 <line x1="120" y1="110" x2="144" y2="86" stroke="#1a1a1a" stroke-width="16.5" stroke-linecap="round"/>
 <!-- GREASY frying pan (left), viewed from above -->
-<circle cx="150" cy="290" r="100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="150" cy="290" r="74" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="290" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="150" cy="290" r="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="248" y1="270" x2="330" y2="250" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 <line x1="248" y1="270" x2="330" y2="250" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- glossy grease pools (yellow sheen, shiny highlight) -->
-<ellipse cx="135" cy="280" rx="40" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
-<ellipse cx="170" cy="315" rx="22" ry="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
-<ellipse cx="120" cy="262" rx="12" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="160" cy="305" rx="7" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="135" cy="280" rx="40" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
+<ellipse cx="170" cy="315" rx="22" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
+<ellipse cx="120" cy="262" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="160" cy="305" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- CLEAN pan (right, faded) -->
 <g opacity="0.34">
-<circle cx="380" cy="290" r="100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="380" cy="290" r="74" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="380" cy="290" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="380" cy="290" r="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="478" y1="270" x2="512" y2="262" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 </g>
 </g></svg>

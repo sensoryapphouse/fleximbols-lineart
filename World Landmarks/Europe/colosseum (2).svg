@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- sky -->
-  <rect x="10" y="10" width="270" height="170" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="10" y="10" width="270" height="170" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- sun -->
-  <circle cx="245" cy="40" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="245" cy="40" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- distant Italian cypress trees -->
-  <path d="M30 175 Q26 130 30 110 Q34 130 30 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M260 175 Q256 140 260 122 Q264 140 260 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M30 175 Q26 130 30 110 Q34 130 30 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M260 175 Q256 140 260 122 Q264 140 260 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- Colosseum main oval body -->
-  <path d="M40 175 Q40 80 145 75 Q250 80 250 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M40 175 Q40 80 145 75 Q250 80 250 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <!-- partial ruined top (right side lower) -->
-  <path d="M155 76 Q200 78 230 95 L250 100 L250 175 Q220 168 200 175 L155 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M155 76 Q200 78 230 95 L250 100 L250 175 Q220 168 200 175 L155 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- horizontal level dividers -->
   <path d="M52 110 Q145 105 240 112" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M45 140 Q145 135 248 142" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -50,7 +50,7 @@
     <path d="M224 168 L224 148 Q230 140 236 148 L236 168 Z"/>
   </g>
   <!-- ground -->
-  <rect x="10" y="178" width="270" height="52" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="10" y="178" width="270" height="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- ground tile lines -->
   <path d="M10 200 L280 200" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
   <path d="M60 178 L60 230 M120 178 L120 230 M180 178 L180 230 M230 178 L230 230" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>

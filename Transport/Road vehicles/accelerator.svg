@@ -2,7 +2,7 @@
   
   
   <line x1="40" y1="210" x2="175" y2="120" stroke="#1a1a1a" stroke-width="10.66" stroke-linecap="round"/>
-  <rect x="28" y="200" width="38" height="22" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="28" y="200" width="38" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   
   <line x1="30" y1="148" x2="68" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="22" y1="162" x2="60" y2="162" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
@@ -10,19 +10,19 @@
   
   <g transform="translate(145,105) rotate(-45)">
     
-    <polygon points="0,-46 -14,0 14,0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+    <polygon points="0,-46 -14,0 14,0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
     
-    <rect x="-14" y="0" width="28" height="46" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
+    <rect x="-14" y="0" width="28" height="46" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
     
-    <circle cx="0" cy="16" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+    <circle cx="0" cy="16" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
     
-    <polygon points="-14,38 -26,55 -14,55" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
-    <polygon points="14,38 26,55 14,55" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+    <polygon points="-14,38 -26,55 -14,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+    <polygon points="14,38 26,55 14,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
     
-    <ellipse cx="0" cy="56" rx="8" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-    <ellipse cx="0" cy="58" rx="4" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="0" cy="56" rx="8" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+    <ellipse cx="0" cy="58" rx="4" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
   
-  <polygon points="230,130 220,155 240,155" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="224" y="155" width="12" height="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="230,130 220,155 240,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="224" y="155" width="12" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

@@ -4,7 +4,7 @@
   <!-- string loop at top -->
   <ellipse cx="145" cy="22" rx="14" ry="10" fill="none" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- loofah body (round) -->
-  <circle cx="145" cy="140" r="78" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="145" cy="140" r="78" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- mesh texture (diagonal lines) -->
   <path d="M 85 110 L 205 110" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <path d="M 75 125 L 215 125" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
@@ -28,8 +28,8 @@
   <circle cx="130" cy="140" r="3" fill="#1a1a1a"/>
   <circle cx="160" cy="140" r="3" fill="#1a1a1a"/>
   <!-- center hole (rolled loofah) -->
-  <circle cx="145" cy="140" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- bubbles for bath context -->
-  <circle cx="38" cy="200" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="255" cy="205" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="200" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="255" cy="205" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

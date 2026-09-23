@@ -10,14 +10,14 @@
   <line x1="30" y1="140" x2="260" y2="140" stroke="#1a1a1a" stroke-width="4.45"></line>
   <line x1="30" y1="175" x2="260" y2="175" stroke="#1a1a1a" stroke-width="4.45"></line>
   <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="4.45"></line>
-  <circle cx="82" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="152" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="222" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="117" cy="123" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="187" cy="123" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="82" cy="158" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="152" cy="158" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="222" cy="158" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="117" cy="193" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="187" cy="193" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="82" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="152" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="222" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="117" cy="123" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="187" cy="123" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="82" cy="158" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="152" cy="158" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="222" cy="158" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="117" cy="193" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="187" cy="193" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
 </g></svg>

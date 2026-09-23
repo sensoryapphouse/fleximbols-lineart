@@ -6,11 +6,11 @@
   <!-- left strap -->
   <path d="M112 32 Q124 36 118 46" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- left basket -->
-  <ellipse cx="95" cy="195" rx="22" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.34"/>
+  <ellipse cx="95" cy="195" rx="22" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
   <line x1="95" y1="187" x2="95" y2="203" stroke="#1a1a1a" stroke-width="3.55"/>
   <line x1="78" y1="195" x2="112" y2="195" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- left tip -->
-  <path d="M93 203 L95 215 L97 203 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M93 203 L95 215 L97 203 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 
   <!-- right pole -->
   <path d="M185 30 L195 210" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" fill="none"/>
@@ -19,13 +19,13 @@
   <!-- right strap -->
   <path d="M178 32 Q166 36 172 46" stroke="#1a1a1a" stroke-width="5.34" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- right basket -->
-  <ellipse cx="195" cy="195" rx="22" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.34"/>
+  <ellipse cx="195" cy="195" rx="22" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
   <line x1="195" y1="187" x2="195" y2="203" stroke="#1a1a1a" stroke-width="3.55"/>
   <line x1="178" y1="195" x2="212" y2="195" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- right tip -->
-  <path d="M193 203 L195 215 L197 203 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <path d="M193 203 L195 215 L197 203 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 
   <!-- pole color stripes -->
-  <rect x="102" y="60" width="6" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-  <rect x="182" y="60" width="6" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="102" y="60" width="6" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="182" y="60" width="6" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
 </g></svg>

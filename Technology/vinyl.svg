@@ -3,7 +3,7 @@
   <!-- Turntable base -->
   <rect x="30" y="130" width="200" height="88" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Platter -->
-  <circle cx="130" cy="138" rx="90" ry="90" r="88" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="130" cy="138" rx="90" ry="90" r="88" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Record disc -->
   <circle cx="130" cy="138" r="78" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Groove rings -->
@@ -11,18 +11,18 @@
   <circle cx="130" cy="138" r="56" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <circle cx="130" cy="138" r="44" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Centre label -->
-  <circle cx="130" cy="138" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="138" r="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="130" cy="138" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="138" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Spindle hole -->
   <circle cx="130" cy="138" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Tonearm pivot base -->
-  <circle cx="226" cy="72" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="226" cy="72" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Tonearm -->
   <line x1="226" y1="72" x2="168" y2="118" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Headshell -->
-  <rect x="155" y="112" width="22" height="10" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="155" y="112" width="22" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Stylus -->
   <line x1="168" y1="122" x2="168" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tonearm counterweight -->
-  <circle cx="226" cy="60" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="226" cy="60" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

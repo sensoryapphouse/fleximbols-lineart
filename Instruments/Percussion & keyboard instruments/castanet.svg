@@ -4,14 +4,14 @@
   <path d="M 112 68 Q 145 48 178 68" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Left castanet (shell-shaped concave wooden clacker) -->
   <!-- Top half (upper shell) -->
-  <ellipse cx="95" cy="115" rx="55" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="95" cy="115" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Concave inner surface of top shell -->
-  <ellipse cx="95" cy="120" rx="46" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="95" cy="120" rx="46" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bottom half of left castanet -->
-  <ellipse cx="95" cy="152" rx="55" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
-  <ellipse cx="95" cy="148" rx="46" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="95" cy="152" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="95" cy="148" rx="46" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Gap between left pair -->
-  <rect x="40" y="132" width="110" height="20" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="40" y="132" width="110" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="40" y1="132" x2="150" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="40" y1="152" x2="150" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wood grain lines on left castanet top -->
@@ -19,21 +19,21 @@
   <path d="M 55 116 Q 95 112 135 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Right castanet -->
   <!-- Top half -->
-  <ellipse cx="195" cy="115" rx="55" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
-  <ellipse cx="195" cy="120" rx="46" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="195" cy="115" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="195" cy="120" rx="46" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bottom half -->
-  <ellipse cx="195" cy="152" rx="55" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
-  <ellipse cx="195" cy="148" rx="46" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="195" cy="152" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="195" cy="148" rx="46" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Gap between right pair -->
-  <rect x="140" y="132" width="110" height="20" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="140" y="132" width="110" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="140" y1="132" x2="250" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="140" y1="152" x2="250" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wood grain lines on right castanet top -->
   <path d="M 160 110 Q 195 106 230 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <path d="M 155 116 Q 195 112 235 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Cord attachment bumps (top) -->
-  <circle cx="95" cy="88" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="195" cy="88" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="95" cy="88" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="88" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Motion lines suggesting clacking -->
   <line x1="145" y1="175" x2="148" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="132" y1="178" x2="128" y2="198" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

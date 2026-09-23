@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- horizontal plastic ruler with cm markings 0..30 (label every 5) as path numerals -->
-  <rect x="10" y="95" width="270" height="60" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11"/>
+  <rect x="10" y="95" width="270" height="60" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <line x1="10" y1="142" x2="280" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- cm long ticks every 9px from x=18 to x=288? Use 31 marks (0..30) spaced 8.7. We'll do 31 marks from 18 to 278 -->

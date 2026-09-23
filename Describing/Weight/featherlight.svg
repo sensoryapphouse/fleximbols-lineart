@@ -7,7 +7,7 @@
          L 256 388
          L 322 344
          C 330 262 314 168 256 110 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- central shaft (rachis), tip to a touch past the vane base -->
 <line x1="256" y1="118" x2="256" y2="412" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- barbs left -->

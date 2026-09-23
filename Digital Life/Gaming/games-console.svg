@@ -2,9 +2,9 @@
 <rect x="96.0" y="146.0" width="320.0" height="220.0" rx="28" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="114.0" y="164.0" width="284.0" height="184.0" rx="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="138.0" y="220.0" width="236.0" height="22.0" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="142.0" y="223.0" width="228.0" height="7.0" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="164.0" cy="300.0" r="22.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="164.0" cy="300.0" r="9.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="142.0" y="223.0" width="228.0" height="7.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="164.0" cy="300.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="164.0" cy="300.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="274.0" cy="300.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="326.0" cy="300.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="296" y1="182" x2="296" y2="216" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

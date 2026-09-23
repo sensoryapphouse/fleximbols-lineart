@@ -2,12 +2,12 @@
 <!-- gradual: small steady steps rising = change happening little by little -->
 <g>
 <!-- ascending step blocks, each a bit taller -->
-<rect x="84"  y="372" width="64" height="56"  rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="148" y="320" width="64" height="108" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="212" y="268" width="64" height="160" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="276" y="216" width="64" height="212" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="340" y="164" width="64" height="264" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="84"  y="372" width="64" height="56"  rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="148" y="320" width="64" height="108" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="212" y="268" width="64" height="160" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="276" y="216" width="64" height="212" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="340" y="164" width="64" height="264" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- gentle rising arrow over the steps (one filled band, less steep) -->
-<path d="M 104.1 364.0 L 378.6 222.3 L 384.5 233.9 L 410.0 196.0 L 364.4 194.8 L 370.3 206.3 L 95.9 348.0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 104.1 364.0 L 378.6 222.3 L 384.5 233.9 L 410.0 196.0 L 364.4 194.8 L 370.3 206.3 L 95.9 348.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 </g>
 </svg>

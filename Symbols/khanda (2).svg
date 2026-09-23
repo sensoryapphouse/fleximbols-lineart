@@ -3,15 +3,15 @@
   <circle cx="145" cy="120" r="88" fill="none" stroke="#1a1a1a" stroke-width="4.94"/>
   <circle cx="145" cy="120" r="78" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Left curved kirpan (karad) -->
-  <path d="M90 45 Q52 90 62 140 Q66 160 80 168 Q88 172 92 165 Q96 158 90 145 Q78 118 88 78 Q94 58 108 52 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M90 45 Q52 90 62 140 Q66 160 80 168 Q88 172 92 165 Q96 158 90 145 Q78 118 88 78 Q94 58 108 52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right curved kirpan (karad) -->
-  <path d="M200 45 Q238 90 228 140 Q224 160 210 168 Q202 172 198 165 Q194 158 200 145 Q212 118 202 78 Q196 58 182 52 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M200 45 Q238 90 228 140 Q224 160 210 168 Q202 172 198 165 Q194 158 200 145 Q212 118 202 78 Q196 58 182 52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Central double-edged khanda sword blade -->
-  <polygon points="145,28 155,90 150,185 145,195 140,185 135,90" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <polygon points="145,28 155,90 150,185 145,195 140,185 135,90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Sword grip -->
-  <rect x="135" y="185" width="20" height="18" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="135" y="185" width="20" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Cross guard -->
-  <rect x="118" y="160" width="54" height="10" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95"/>
+  <rect x="118" y="160" width="54" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Blade centre ridge line -->
   <line x1="145" y1="35" x2="145" y2="183" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
 </g></svg>

@@ -7,13 +7,13 @@
 <path d="M 288 150 q 16 -18 0 -36 q -16 -18 0 -36"/>
 </g>
 <!-- mug body -->
-<path d="M 168 196 L 344 196 L 330 360 Q 326 392 296 392 L 216 392 Q 186 392 182 360 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 196 L 344 196 L 330 360 Q 326 392 296 392 L 216 392 Q 186 392 182 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- rim -->
-<ellipse cx="256" cy="196" rx="88" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="196" rx="88" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- handle -->
 <path d="M 344 232 Q 392 236 388 288 Q 384 332 338 330" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- knitted band (cosy) -->
-<path d="M 176 270 L 336 270 L 332 320 L 180 320 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 176 270 L 336 270 L 332 320 L 180 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
 <line x1="200" y1="276" x2="200" y2="314"/>
 <line x1="228" y1="276" x2="228" y2="314"/>

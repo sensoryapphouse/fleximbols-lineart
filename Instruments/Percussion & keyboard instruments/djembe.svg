@@ -2,15 +2,15 @@
   <!-- Djembe: rope-tuned goblet drum, wide bowl top tapering to narrow base, zigzag rope lacing, animal skin head -->
 
   <!-- Base ring (foot) -->
-  <ellipse cx="145" cy="218" rx="30" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="145" cy="218" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Narrow stem/foot connecting to body -->
-  <rect x="125" y="185" width="40" height="36" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="125" y="185" width="40" height="36" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
 
   <!-- Wide bowl body: trapezoid tapering from wide top to narrower bottom -->
-  <polygon points="68,80 222,80 170,188 120,188" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <polygon points="68,80 222,80 170,188 120,188" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
 
   <!-- Head (drumhead — animal skin, slightly domed) -->
-  <ellipse cx="145" cy="78" rx="77" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="145" cy="78" rx="77" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Head texture suggestion (skin grain lines) -->
   <ellipse cx="145" cy="76" rx="60" ry="10" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
   <ellipse cx="145" cy="74" rx="40" ry="6" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>

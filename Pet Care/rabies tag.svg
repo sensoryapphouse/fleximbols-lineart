@@ -6,12 +6,12 @@
   <!-- Connector -->
   <line x1="145" y1="58" x2="145" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Round tag body -->
-  <circle cx="145" cy="155" r="75" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="155" r="75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Tag hole -->
   <circle cx="145" cy="80" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Medical cross emblem (bold red cross) -->
-  <rect x="128" y="120" width="34" height="70" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="110" y="138" width="70" height="34" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="128" y="120" width="34" height="70" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="110" y="138" width="70" height="34" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Caduceus staff vertical (over cross) -->
   <line x1="145" y1="118" x2="145" y2="192" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Snake curves on staff -->

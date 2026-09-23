@@ -2,19 +2,19 @@
 <!-- ===== KEY 1 (gold) drawn first so its head tucks BEHIND the ring's lower arc ===== -->
 <g transform="rotate(24 214 250)">
 <!-- shaft -->
-<rect x="200" y="238" width="28" height="150" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="200" y="238" width="28" height="150" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- teeth (bit) -->
-<path d="M 228 330 L 250 330 L 250 348 L 228 348 L 228 362 L 244 362 L 244 380 L 228 380 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 228 330 L 250 330 L 250 348 L 228 348 L 228 362 L 244 362 L 244 380 L 228 380 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- round bow (head) with hole through which the ring passes -->
-<circle cx="214" cy="216" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="214" cy="216" r="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="214" cy="216" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="214" cy="216" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </g>
 <!-- ===== KEY 2 (silver) also tucks behind the ring ===== -->
 <g transform="rotate(-20 300 250)">
-<rect x="288" y="238" width="26" height="136" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 314 322 L 334 322 L 334 338 L 314 338 L 314 350 L 328 350 L 328 366 L 314 366 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="300" cy="216" r="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="300" cy="216" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<rect x="288" y="238" width="26" height="136" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 314 322 L 334 322 L 334 338 L 314 338 L 314 350 L 328 350 L 328 366 L 314 366 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="300" cy="216" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="216" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </g>
 <!-- ===== split ring drawn LAST so it visibly passes IN FRONT of the key bows, threading them on ===== -->
 <circle cx="256" cy="176" r="82" fill="none" stroke="#1a1a1a" stroke-width="24"/>

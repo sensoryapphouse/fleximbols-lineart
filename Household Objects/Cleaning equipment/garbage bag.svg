@@ -10,5 +10,5 @@
   <!-- Red twist tie wrap -->
   <path d="M 118,58 Q 145,42 172,58" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Tag detail on tie -->
-  <circle cx="145" cy="46" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="46" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

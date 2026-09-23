@@ -6,17 +6,17 @@
   <path d="M235 80 Q255 95 260 130 Q262 160 240 180" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <path d="M235 80 Q255 95 260 130 Q262 160 240 180" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <!-- left lens housing -->
-  <circle cx="95" cy="120" r="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="95" cy="120" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- left lens -->
-  <circle cx="95" cy="120" r="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="120" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- left lens highlight -->
   <path d="M75 100 Q85 92 100 95" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
   <!-- right lens housing -->
-  <circle cx="195" cy="120" r="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="195" cy="120" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- right lens -->
-  <circle cx="195" cy="120" r="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="195" cy="120" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- right lens highlight -->
   <path d="M175 100 Q185 92 200 95" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
   <!-- nose bridge -->
-  <path d="M133 120 Q145 130 157 120 Q160 130 145 138 Q130 130 133 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M133 120 Q145 130 157 120 Q160 130 145 138 Q130 130 133 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

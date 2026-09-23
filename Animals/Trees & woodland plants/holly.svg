@@ -3,7 +3,7 @@
 <path d="M 256 110 Q 300 130 296 168 Q 332 156 360 178 Q 338 206 360 234 Q 322 234 316 270 Q 286 246 256 268 Q 226 246 196 270 Q 190 234 152 234 Q 174 206 152 178 Q 180 156 216 168 Q 212 130 256 110 Z"/>
 </g>
 <path d="M 256 130 L 256 250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="240" cy="300" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="284" cy="300" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="262" cy="338" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="240" cy="300" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="284" cy="300" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="262" cy="338" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 </svg>

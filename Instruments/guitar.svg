@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9328) translate(-256.00 -262.50)">
 <!-- long fretted neck (about the same length as the body) -->
-<rect x="238.0" y="78.0" width="36.0" height="200.0" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
+<rect x="238.0" y="78.0" width="36.0" height="200.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
 <!-- frets across the neck -->
 <g stroke="#1a1a1a" stroke-width="4" stroke-linecap="round">
 <line x1="238" y1="104" x2="274" y2="104"/>
@@ -12,7 +12,7 @@
 <line x1="238" y1="248" x2="274" y2="248"/>
 </g>
 <!-- headstock at the very top -->
-<rect x="230.0" y="24.0" width="52.0" height="56.0" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
+<rect x="230.0" y="24.0" width="52.0" height="56.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3">
 <circle cx="224.0" cy="38.0" r="6.0"/>
 <circle cx="288.0" cy="38.0" r="6.0"/>
@@ -33,7 +33,7 @@
   C 328 374 304 366 304 348
   C 304 330 322 320 322 298
   C 322 272 302 256 256 256 Z"
-  fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+  fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 256 268
   C 218 268 202 282 202 302
   C 202 322 220 332 220 350
@@ -45,12 +45,12 @@
   C 316 376 292 368 292 350
   C 292 332 310 322 310 302
   C 310 282 294 268 256 268 Z"
-  fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+  fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
 <!-- sound hole -->
 <circle cx="256.0" cy="408.0" r="44.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="256.0" cy="408.0" r="44.0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- bridge -->
-<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
+<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
 <!-- strings running down neck onto the body -->
 <g stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round">
 <line x1="245" y1="80" x2="245" y2="470"/>

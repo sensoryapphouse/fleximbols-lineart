@@ -6,11 +6,11 @@
     <path id="smstar" d="M0,-9 L2.1,-2.9 L8.6,-2.8 L3.5,1.1 L5.3,7.8 L0,4.1 L-5.3,7.8 L-3.5,1.1 L-8.6,-2.8 L-2.1,-2.9 Z"/>
   </defs>
   <!-- Speech bubble: rounded rectangle body -->
-  <rect x="40" y="44" width="204" height="148" rx="28" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="40" y="44" width="204" height="148" rx="28" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Bubble tail pointing bottom-left -->
-  <polygon points="72,192 56,228 100,192" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <polygon points="72,192 56,228 100,192" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Cover the tail-join interior line -->
-  <polygon points="72,192 100,192 86,200" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="72,192 100,192 86,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Large yellow star (main) — offset left of centre to leave room for 4 small -->
   <use href="#bigstar" transform="translate(128,118)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Four small yellow stars arranged in arc around the large one -->

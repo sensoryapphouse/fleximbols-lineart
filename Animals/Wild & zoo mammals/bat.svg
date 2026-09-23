@@ -4,17 +4,17 @@
 <!-- right wing -->
 <path d="M 256 230 L 392 150 Q 362 196 396 214 Q 354 218 362 252 Q 320 244 316 286 Q 288 262 256 286 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- body -->
-<ellipse cx="256" cy="252" rx="40" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<ellipse cx="256" cy="252" rx="40" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <!-- head -->
-<circle cx="256" cy="196" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<circle cx="256" cy="196" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <!-- left ear -->
-<path d="M 232 168 L 220 116 L 252 156 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 232 168 L 220 116 L 252 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
 <!-- right ear -->
-<path d="M 280 168 L 292 116 L 260 156 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 280 168 L 292 116 L 260 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
 <!-- eyes -->
 <circle cx="240" cy="194" r="9" fill="#1a1a1a"/>
 <circle cx="272" cy="194" r="9" fill="#1a1a1a"/>
 <!-- fangs -->
-<path d="M 244 222 L 248 236 L 252 222 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 260 222 L 264 236 L 268 222 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 244 222 L 248 236 L 252 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 260 222 L 264 236 L 268 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
 </g></svg>

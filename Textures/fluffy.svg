@@ -8,16 +8,16 @@
 <circle cx="280.0" cy="374.0" r="85.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="198.0" cy="362.0" r="81.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="138.0" cy="310.0" r="63.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="138.0" cy="276.0" r="70.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="178.0" cy="206.0" r="74.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="248.0" cy="172.0" r="84.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322.0" cy="192.0" r="76.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="376.0" cy="262.0" r="70.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="352.0" cy="340.0" r="70.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="280.0" cy="374.0" r="78.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="198.0" cy="362.0" r="74.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="138.0" cy="310.0" r="56.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="270.0" r="96.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="138.0" cy="276.0" r="70.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="178.0" cy="206.0" r="74.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="248.0" cy="172.0" r="84.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="322.0" cy="192.0" r="76.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="376.0" cy="262.0" r="70.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="352.0" cy="340.0" r="70.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="280.0" cy="374.0" r="78.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="198.0" cy="362.0" r="74.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="138.0" cy="310.0" r="56.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="270.0" r="96.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <g fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round">
 <path d="M 206 250 q 26 -22 56 -10"/>
 <path d="M 250 226 q 28 -16 58 4"/>

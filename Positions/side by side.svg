@@ -2,7 +2,7 @@
   <!-- ground -->
   <line x1="20" y1="200" x2="270" y2="200" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- chassis lower frame -->
-  <path d="M40 175 L50 145 L90 130 L200 130 L240 145 L250 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M40 175 L50 145 L90 130 L200 130 L240 145 L250 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- roll cage -->
   <path d="M60 130 L70 70 L220 70 L230 130" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M70 70 L70 130" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
@@ -14,12 +14,12 @@
   <rect x="82" y="100" width="55" height="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="155" y="100" width="55" height="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- headlight -->
-  <circle cx="55" cy="160" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="160" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- grille -->
-  <rect x="45" y="170" width="14" height="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="45" y="170" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- big tires -->
   <circle cx="80" cy="195" r="28" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="80" cy="195" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="80" cy="195" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="210" cy="195" r="28" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="210" cy="195" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="195" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

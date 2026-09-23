@@ -3,12 +3,12 @@
 
   <!-- Frame drum: circular shallow frame -->
   <!-- Outer frame ring -->
-  <circle cx="145" cy="128" r="98" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="145" cy="128" r="98" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Inner frame edge -->
   <circle cx="145" cy="128" r="88" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
 
   <!-- Drumhead skin (animal skin, slightly off-white/cream) -->
-  <circle cx="145" cy="128" r="88" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="128" r="88" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 
   <!-- Skin texture (subtle grain lines) -->
   <circle cx="145" cy="128" r="70" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
@@ -26,7 +26,7 @@
 
   <!-- Tipper (double-ended wooden beater): a short stick with knobs on both ends -->
   <!-- Tipper positioned diagonally near the drum, lower right -->
-  <rect x="185" y="168" width="80" height="8" rx="4" transform="rotate(-35, 225, 172)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="185" y="168" width="80" height="8" rx="4" transform="rotate(-35, 225, 172)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Left knob of tipper -->
   <circle cx="192" cy="191" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Right knob of tipper -->

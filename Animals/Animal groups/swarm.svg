@@ -10,38 +10,38 @@
 <!-- define one bee via repeated groups -->
 <!-- bee 1 (centre, large) -->
 <g transform="translate(240 230) scale(1.05)">
-<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="6" stroke="#1a1a1a" />
-<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="6" stroke="#1a1a1a" />
-<ellipse cx="0" cy="0" rx="46" ry="34" fill="#FFFFFF" stroke-width="9" stroke="#1a1a1a" />
+<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="6" stroke="#1a1a1a" />
+<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="6" stroke="#1a1a1a" />
+<ellipse cx="0" cy="0" rx="46" ry="34" fill="#ffffff" stroke-width="9" stroke="#1a1a1a" />
 <path d="M -22 -28 Q -22 28 -18 32 M 2 -34 Q 2 34 2 34 M 26 -28 Q 26 26 22 30" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="-46" cy="-2" r="2.5" fill="#1a1a1a"/>
 </g>
 <!-- bee 2 -->
 <g transform="translate(125 135) scale(0.62)">
-<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="0" cy="0" rx="46" ry="34" fill="#FFFFFF" stroke-width="10" stroke="#1a1a1a" />
+<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="0" cy="0" rx="46" ry="34" fill="#ffffff" stroke-width="10" stroke="#1a1a1a" />
 <path d="M -22 -28 Q -22 28 -18 32 M 2 -34 Q 2 34 2 34 M 26 -28 Q 26 26 22 30" fill="none" stroke="#1a1a1a" stroke-width="10"/>
 </g>
 <!-- bee 3 -->
 <g transform="translate(390 150) scale(0.6)">
-<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="0" cy="0" rx="46" ry="34" fill="#FFFFFF" stroke-width="10" stroke="#1a1a1a" />
+<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="0" cy="0" rx="46" ry="34" fill="#ffffff" stroke-width="10" stroke="#1a1a1a" />
 <path d="M -22 -28 Q -22 28 -18 32 M 2 -34 Q 2 34 2 34 M 26 -28 Q 26 26 22 30" fill="none" stroke="#1a1a1a" stroke-width="10"/>
 </g>
 <!-- bee 4 -->
 <g transform="translate(150 330) scale(0.66)">
-<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="0" cy="0" rx="46" ry="34" fill="#FFFFFF" stroke-width="10" stroke="#1a1a1a" />
+<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="0" cy="0" rx="46" ry="34" fill="#ffffff" stroke-width="10" stroke="#1a1a1a" />
 <path d="M -22 -28 Q -22 28 -18 32 M 2 -34 Q 2 34 2 34 M 26 -28 Q 26 26 22 30" fill="none" stroke="#1a1a1a" stroke-width="10"/>
 </g>
 <!-- bee 5 -->
 <g transform="translate(372 335) scale(0.64)">
-<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#FFFFFF" stroke-width="7" stroke="#1a1a1a" />
-<ellipse cx="0" cy="0" rx="46" ry="34" fill="#FFFFFF" stroke-width="10" stroke="#1a1a1a" />
+<ellipse cx="-30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="30" cy="-22" rx="26" ry="20" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<ellipse cx="0" cy="0" rx="46" ry="34" fill="#ffffff" stroke-width="10" stroke="#1a1a1a" />
 <path d="M -22 -28 Q -22 28 -18 32 M 2 -34 Q 2 34 2 34 M 26 -28 Q 26 26 22 30" fill="none" stroke="#1a1a1a" stroke-width="10"/>
 </g>
 </g>

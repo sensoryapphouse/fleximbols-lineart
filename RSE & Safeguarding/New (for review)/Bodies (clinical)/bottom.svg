@@ -8,7 +8,7 @@
          Q 264 412 312 392
          Q 384 360 374 250
          Q 362 130 256 130 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
 <!-- central cleft line -->
 <path d="M 256 150 Q 256 250 256 338" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- lower fold curves under each cheek -->

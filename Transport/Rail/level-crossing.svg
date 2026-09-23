@@ -5,21 +5,21 @@
 <line x1="120" y1="392" x2="452" y2="392" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="120" y1="376" x2="452" y2="376" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- left post (base) -->
-<rect x="118" y="150" width="30" height="250" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="118" y="150" width="30" height="250" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- pivot -->
-<circle cx="133" cy="172" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="133" cy="172" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- raised barrier boom (red & white stripes), angled up -->
 <g>
-<rect x="120" y="120" width="280" height="34" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" transform="rotate(-26 133 137)"/>
+<rect x="120" y="120" width="280" height="34" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(-26 133 137)"/>
 </g>
 <!-- white stripes on boom -->
 <g transform="rotate(-26 133 137)">
-<rect x="178" y="120" width="34" height="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="266" y="120" width="34" height="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="354" y="120" width="34" height="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="178" y="120" width="34" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="266" y="120" width="34" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="354" y="120" width="34" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g>
 <!-- warning light heads on the right -->
-<circle cx="356" cy="210" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="356" cy="276" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="343" y="296" width="26" height="104" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="356" cy="210" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="356" cy="276" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="343" y="296" width="26" height="104" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </g></svg>

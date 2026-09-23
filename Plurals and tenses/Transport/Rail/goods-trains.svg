@@ -7,31 +7,31 @@
 <line x1="340" y1="400" x2="340" y2="416" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="430" y1="400" x2="430" y2="416" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- diesel loco (left) -->
-<path d="M 44 200 L 150 200 Q 162 200 162 212 L 162 356 L 44 356 Q 36 356 36 348 L 36 212 Q 36 200 44 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
-<rect x="56" y="222" width="60" height="46" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 44 200 L 150 200 Q 162 200 162 212 L 162 356 L 44 356 Q 36 356 36 348 L 36 212 Q 36 200 44 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<rect x="56" y="222" width="60" height="46" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="36" y1="300" x2="162" y2="300" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="142" cy="282" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="142" cy="282" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- flat-bed goods wagon with crates -->
-<rect x="180" y="304" width="130" height="52" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="10"/>
-<rect x="196" y="252" width="46" height="54" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="180" y="304" width="130" height="52" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
+<rect x="196" y="252" width="46" height="54" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <rect x="252" y="262" width="46" height="44" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
 <!-- open-top hopper wagon (right) with coal -->
-<path d="M 330 304 L 330 270 L 460 270 L 460 304 L 460 356 L 330 356 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
+<path d="M 330 304 L 330 270 L 460 270 L 460 304 L 460 356 L 330 356 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <path d="M 340 282 Q 360 268 380 280 Q 400 266 420 280 Q 440 268 452 282 L 452 296 L 340 296 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- couplers -->
 <line x1="162" y1="340" x2="180" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="310" y1="340" x2="330" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- wheels -->
 <circle cx="80" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="80" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="80" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="130" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="130" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="130" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="210" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="210" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="210" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="280" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="280" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="280" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="360" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="360" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="360" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="430" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="430" cy="372" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="430" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

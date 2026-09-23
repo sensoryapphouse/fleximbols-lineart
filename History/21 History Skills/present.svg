@@ -3,7 +3,7 @@
 <!-- timeline running past (left) to future (right) -->
 <line x1="48" y1="336" x2="464" y2="336" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <polygon points="480.0,336.0 452.0,320.0 452.0,352.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<polygon points="32 336 60 320 60 352" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.74" />
+<polygon points="32 336 60 320 60 352" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.74" />
 <!-- past-side ticks (greyed, behind) -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
 <line x1="96"  y1="336" x2="96"  y2="358"/>
@@ -17,16 +17,16 @@
 <line x1="416" y1="336" x2="416" y2="358"/>
 </g>
 <!-- the NOW point on the timeline -->
-<circle cx="256" cy="336" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="336" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <!-- big "you-are-here" map pin marking the present, pointing down at NOW -->
 <path d="M 256 304
          C 214 232 184 214 184 162
          A 72 72 0 1 1 328 162
          C 328 214 298 232 256 304 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<circle cx="256" cy="162" r="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="256" cy="162" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- small clock face inside the pin = this exact moment in time -->
-<circle cx="256" cy="162" r="23" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="162" r="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="256" y1="162" x2="256" y2="146" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="256" y1="162" x2="270" y2="162" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <circle cx="256" cy="162" r="4" fill="#1a1a1a"/>

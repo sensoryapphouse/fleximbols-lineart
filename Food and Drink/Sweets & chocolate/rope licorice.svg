@@ -15,12 +15,12 @@
         stroke="#1a1a1a" stroke-width="17.77" stroke-linecap="round" fill="none"/>
   <path d="M 28,198 C 60,213 100,180 140,198 C 180,216 220,183 262,200"
         stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round" fill="none" stroke-dasharray="22,20"/>
-  <circle cx="28" cy="60" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="262" cy="58" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="28" cy="105" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="262" cy="108" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="28" cy="152" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="262" cy="150" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="28" cy="198" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
-  <circle cx="262" cy="200" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="28" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="262" cy="58" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="28" cy="105" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="262" cy="108" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="28" cy="152" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="262" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="28" cy="198" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="262" cy="200" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
 </g></svg>

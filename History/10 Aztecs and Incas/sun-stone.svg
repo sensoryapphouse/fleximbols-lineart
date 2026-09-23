@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.1494) translate(-256.00 -256.00)">
-<circle cx="256.0" cy="256.0" r="196.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="256.0" r="182.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="256.0" r="196.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="256.0" r="182.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="256.0" cy="256.0" r="182.0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="430" y1="256" x2="446" y2="256" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="427" y1="286" x2="443" y2="289" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
@@ -39,20 +39,20 @@
 <line x1="420" y1="196" x2="435" y2="191" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="427" y1="226" x2="443" y2="223" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <circle cx="256.0" cy="256.0" r="144.0" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="368 339 339 368 321 321" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="173 368 144 339 191 321" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="144 173 173 144 191 191" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="339 144 368 173 321 191" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="256.0" cy="256.0" r="84.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<polygon points="368 339 339 368 321 321" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="173 368 144 339 191 321" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="144 173 173 144 191 191" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="339 144 368 173 321 191" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="256.0" cy="256.0" r="84.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="256.0" cy="256.0" r="84.0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="256.0" cy="256.0" r="70.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="256.0" r="70.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="256.0" cy="256.0" r="70.0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="230.0" cy="244.0" r="12.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="282.0" cy="244.0" r="12.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="230.0" cy="244.0" r="5.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<circle cx="282.0" cy="244.0" r="5.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<circle cx="230.0" cy="244.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="282.0" cy="244.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="230.0" cy="244.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<circle cx="282.0" cy="244.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
 <path d="M 214 230 Q 256 216 298 230" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 249 250 L 246 272 L 266 272 L 263 250 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 230 286 Q 256 296 282 286 L 282 294 Q 256 306 230 294 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="248 296 264 296 256 318" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 249 250 L 246 272 L 266 272 L 263 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 230 286 Q 256 296 282 286 L 282 294 Q 256 306 230 294 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="248 296 264 296 256 318" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
 </g></svg>

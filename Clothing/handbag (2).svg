@@ -5,16 +5,16 @@
   <!-- Top handle arc -->
   <path d="M118 95 Q145 65 172 95" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Bag body: structured rectangle with rounded bottom -->
-  <rect x="80" y="100" width="130" height="110" rx="10" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="80" y="100" width="130" height="110" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Front panel detail line -->
   <rect x="93" y="113" width="104" height="84" rx="6" ry="6" fill="none" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Clasp hardware on top edge -->
-  <rect x="125" y="96" width="40" height="14" rx="5" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="125" y="96" width="40" height="14" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Clasp turn-lock circle -->
-  <circle cx="145" cy="103" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="103" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Clasp center bar -->
-  <rect x="140" y="100" width="10" height="6" rx="2" ry="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="140" y="100" width="10" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Bottom feet -->
-  <circle cx="100" cy="207" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="207" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

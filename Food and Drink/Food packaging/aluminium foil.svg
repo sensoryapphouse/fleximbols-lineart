@@ -2,19 +2,19 @@
   <!-- aluminum foil: cardboard box + shiny foil roll + serrated tear edge + sheet -->
 
   <!-- box body -->
-  <rect x="46" y="98" width="198" height="72" rx="5" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="46" y="98" width="198" height="72" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- box top flap -->
-  <rect x="46" y="82" width="198" height="18" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="46" y="82" width="198" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- foil roll inside box (visible through front opening) -->
-  <ellipse cx="145" cy="134" rx="66" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" data-lp="hair"/>
+  <ellipse cx="145" cy="134" rx="66" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" data-lp="hair"/>
   <!-- foil roll sheen (silver highlight) -->
-  <ellipse cx="132" cy="126" rx="26" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="132" cy="126" rx="26" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- serrated tear-strip on box front edge (zigzag line) -->
   <polyline points="46,168 58,176 70,168 82,176 94,168 106,176 118,168 130,176 142,168 154,176 166,168 178,176 190,168 202,176 214,168 226,176 238,168 244,168" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="miter" stroke-linecap="square"/>
 
   <!-- curling foil sheet coming out of box -->
-  <path d="M88,168 L82,186 Q80,206 100,212 Q120,218 130,196 Q138,178 136,168" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M88,168 L82,186 Q80,206 100,212 Q120,218 130,196 Q138,178 136,168" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- foil sheet highlight (shiny surface) -->
   <path d="M92,172 L88,192 Q88,206 100,210" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
   <!-- foil bottom curl -->

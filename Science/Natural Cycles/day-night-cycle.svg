@@ -11,18 +11,18 @@
 <line x1="110" y1="74" x2="110" y2="56" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="133" y1="80" x2="142" y2="65" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="150" y1="97" x2="165" y2="88" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="110.0" cy="120.0" r="40.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="110.0" cy="120.0" r="28.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="230.0" cy="268.0" r="120.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="110.0" cy="120.0" r="40.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="110.0" cy="120.0" r="28.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="230.0" cy="268.0" r="120.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <path d="M 230 148 A 120 120 0 0 1 230 388 Z" fill="#1a1a1a"/>
-<path d="M 230 148 A 120 120 0 0 0 230 388 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.77" />
+<path d="M 230 148 A 120 120 0 0 0 230 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.77" />
 <clipPath id="dnclip"><circle cx="230" cy="268" r="120"/></clipPath>
 <g clip-path="url(#dnclip)">
-<path d="M 160 208 Q 220 188 240 248 Q 200 288 210 338 Q 150 308 160 208 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 260 288 Q 310 278 300 338 Q 260 348 260 288 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<circle cx="300" cy="208" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322" cy="248" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="290" cy="178" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 160 208 Q 220 188 240 248 Q 200 288 210 338 Q 150 308 160 208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 260 288 Q 310 278 300 338 Q 260 348 260 288 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="300" cy="208" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="322" cy="248" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="290" cy="178" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 </g>
 <circle cx="230.0" cy="268.0" r="120.0" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="230" y1="148" x2="230" y2="388" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

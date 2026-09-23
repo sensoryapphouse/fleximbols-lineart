@@ -3,17 +3,17 @@
   <line x1="10" y1="200" x2="280" y2="200" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- TALL boxy SUV body, elevated ground clearance -->
   <!-- main body (very tall, boxy) -->
-  <path d="M20 175 L20 95 Q20 80 35 80 L235 80 Q255 80 255 95 L270 175 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M20 175 L20 95 Q20 80 35 80 L235 80 Q255 80 255 95 L270 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- raised ground clearance gap shown by lifting body above wheels -->
   <!-- roof rails -->
   <rect x="40" y="72" width="200" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- windshield (steep) -->
-  <path d="M40 100 L40 130 L100 130 L100 92 L52 92 Q40 92 40 100 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M40 100 L40 130 L100 130 L100 92 L52 92 Q40 92 40 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- rear window -->
-  <rect x="180" y="92" width="60" height="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="180" y="92" width="60" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- side windows -->
-  <rect x="108" y="92" width="32" height="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
-  <rect x="148" y="92" width="24" height="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="108" y="92" width="32" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="148" y="92" width="24" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- tailgate seam (rear) -->
   <line x1="240" y1="80" x2="240" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="240" y1="135" x2="262" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -23,16 +23,16 @@
   <!-- door seam -->
   <line x1="144" y1="135" x2="144" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- headlight -->
-  <rect x="22" y="138" width="14" height="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="22" y="138" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- taillight -->
-  <rect x="248" y="138" width="14" height="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="248" y="138" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- grille -->
-  <rect x="22" y="160" width="20" height="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="22" y="160" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- wheels (chunky, set low to show ground clearance) -->
   <circle cx="65" cy="195" r="22" fill="#1a1a1a"/>
-  <circle cx="65" cy="195" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="65" cy="195" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="65" cy="195" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="65" cy="195" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="225" cy="195" r="22" fill="#1a1a1a"/>
-  <circle cx="225" cy="195" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="225" cy="195" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="195" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="225" cy="195" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

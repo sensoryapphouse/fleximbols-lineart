@@ -2,14 +2,14 @@
 <!-- restful: neatly made bed with pillow + Z Z -->
 <g>
 <!-- headboard -->
-<path d="M 92 196 Q 88 156 128 156 L 196 156 Q 204 196 196 220 L 100 220 Q 92 210 92 196 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 92 196 Q 88 156 128 156 L 196 156 Q 204 196 196 220 L 100 220 Q 92 210 92 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- mattress -->
-<path d="M 96 260 L 432 260 Q 444 260 444 280 L 444 322 L 96 322 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 96 260 L 432 260 Q 444 260 444 280 L 444 322 L 96 322 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- duvet -->
-<path d="M 220 280 L 444 280 L 444 322 L 220 322 Q 208 322 208 308 Q 208 280 220 280 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 220 280 L 444 280 L 444 322 L 220 322 Q 208 322 208 308 Q 208 280 220 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 220 290 L 432 290" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- pillow -->
-<path d="M 116 232 Q 116 220 132 220 L 196 220 Q 212 220 212 234 L 212 260 Q 212 272 196 272 L 132 272 Q 116 272 116 260 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 116 232 Q 116 220 132 220 L 196 220 Q 212 220 212 234 L 212 260 Q 212 272 196 272 L 132 272 Q 116 272 116 260 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- legs -->
 <line x1="108" y1="322" x2="108" y2="368" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="432" y1="322" x2="432" y2="368" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>

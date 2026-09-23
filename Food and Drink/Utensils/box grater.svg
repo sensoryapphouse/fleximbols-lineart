@@ -2,34 +2,34 @@
   <!-- Box body (tall rectangle, front face visible) -->
   <rect x="90" y="48" width="110" height="162" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Right side face suggesting 3D box -->
-  <polygon points="200,48 224,28 224,190 200,210" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <polygon points="200,48 224,28 224,190 200,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Top face -->
-  <polygon points="90,48 200,48 224,28 114,28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" data-lp="hair"/>
+  <polygon points="90,48 200,48 224,28 114,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" data-lp="hair"/>
   <!-- Top handle loop -->
   <path d="M130 28 C130 14 170 14 170 28" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Front face hole patterns: coarse large holes top section -->
-  <circle cx="120" cy="78" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="150" cy="78" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="180" cy="78" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="120" cy="102" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="150" cy="102" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="180" cy="102" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="78" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="78" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="78" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="102" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="150" cy="102" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="102" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Middle section: medium slit holes -->
-  <rect x="112" y="122" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="140" y="122" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="168" y="122" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="112" y="140" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="140" y="140" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="168" y="140" width="14" height="7" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="122" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="122" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="168" y="122" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="112" y="140" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="140" y="140" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="168" y="140" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bottom section: fine small holes -->
-  <circle cx="118" cy="168" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="134" cy="168" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="150" cy="168" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="166" cy="168" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="182" cy="168" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="118" cy="184" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="134" cy="184" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="150" cy="184" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="166" cy="184" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="182" cy="184" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="134" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="150" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="166" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="182" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="134" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="150" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="166" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="182" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

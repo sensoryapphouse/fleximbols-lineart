@@ -15,7 +15,7 @@
 <!-- head dark -->
 <circle cx="256" cy="232" r="62" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <!-- pale face ring -->
-<path d="M 256 188 C 286 188 304 212 304 240 C 304 270 284 290 256 290 C 228 290 208 270 208 240 C 208 212 226 188 256 188 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 256 188 C 286 188 304 212 304 240 C 304 270 284 290 256 290 C 228 290 208 270 208 240 C 208 212 226 188 256 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- face features -->
 <circle cx="238" cy="232" r="9" fill="#1a1a1a"/>
 <circle cx="274" cy="232" r="9" fill="#1a1a1a"/>

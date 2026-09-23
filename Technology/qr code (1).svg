@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
-  <polygon points="39,4 40.2,1.2 43,0 247,0 249.8,1.2 251,4 251,236 249.8,238.8 247,240 43,240 40.2,238.8 39,236" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd" stroke-linejoin="round"></polygon>
+  <polygon points="39,4 40.2,1.2 43,0 247,0 249.8,1.2 251,4 251,236 249.8,238.8 247,240 43,240 40.2,238.8 39,236" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="47,8 61,8 61,22 47,22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="61,8 75,8 75,22 61,22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="75,8 89,8 89,22 75,22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
@@ -122,13 +122,13 @@
   <polygon points="201,218 215,218 215,232 201,232" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="215,218 229,218 229,232 215,232" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="47,8 145,8 145,106 47,106" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
-  <polygon points="61,22 131,22 131,92 61,92" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
+  <polygon points="61,22 131,22 131,92 61,92" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="75,36 117,36 117,78 75,78" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="145,8 243,8 243,106 145,106" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
-  <polygon points="159,22 229,22 229,92 159,92" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
+  <polygon points="159,22 229,22 229,92 159,92" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="173,36 215,36 215,78 173,78" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="47,134 145,134 145,232 47,232" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
-  <polygon points="61,148 131,148 131,218 61,218" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
+  <polygon points="61,148 131,148 131,218 61,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="75,162 117,162 117,204 75,204" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd" stroke-linejoin="round"></polygon>
   <polygon points="39,4 40.2,1.2 43,0 247,0 249.8,1.2 251,4 251,236 249.8,238.8 247,240 43,240 40.2,238.8 39,236" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd" stroke-linejoin="round"></polygon>
 </g></svg>

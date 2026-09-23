@@ -2,8 +2,8 @@
 <line x1="44" y1="330" x2="468" y2="330" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="468" y1="330" x2="448" y2="340" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="468" y1="330" x2="448" y2="320" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<rect x="48" y="236" width="50" height="50" rx="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="108" y="236" width="50" height="50" rx="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="48" y="236" width="50" height="50" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="108" y="236" width="50" height="50" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="186" cy="261" r="9" fill="#1a1a1a"/>
 <circle cx="218" cy="261" r="9" fill="#1a1a1a"/>
 <circle cx="250" cy="261" r="9" fill="#1a1a1a"/>
@@ -13,22 +13,22 @@
 <path d="M 290 214 L 290 232 L 310 261 L 290 290 L 290 308" fill="none"/>
 <path d="M 330 214 L 330 232 L 310 261 L 330 290 L 330 308" fill="none"/>
 </g>
-<path d="M 300 224 L 320 224 L 310 248 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
-<path d="M 310 274 L 322 298 L 298 298 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
+<path d="M 300 224 L 320 224 L 310 248 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
+<path d="M 310 274 L 322 298 L 298 298 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
 <line x1="392" y1="318" x2="392" y2="166" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <g>
 <rect x="396" y="166" width="22" height="22" fill="#1a1a1a"/>
-<rect x="418" y="166" width="22" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
+<rect x="418" y="166" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
 <rect x="440" y="166" width="22" height="22" fill="#1a1a1a"/>
-<rect x="396" y="188" width="22" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
+<rect x="396" y="188" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
 <rect x="418" y="188" width="22" height="22" fill="#1a1a1a"/>
-<rect x="440" y="188" width="22" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
+<rect x="440" y="188" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
 <rect x="396" y="210" width="22" height="22" fill="#1a1a1a"/>
-<rect x="418" y="210" width="22" height="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.81" />
+<rect x="418" y="210" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.81" />
 <rect x="440" y="210" width="22" height="22" fill="#1a1a1a"/>
 </g>
 <rect x="396" y="166" width="66" height="66" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="446" cy="166" r="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="446" cy="166" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
 <line x1="434" y1="166" x2="443" y2="176" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="443" y1="176" x2="460" y2="153" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="434" y1="166" x2="443" y2="176" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="443" y1="176" x2="460" y2="153" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 </g></svg>

@@ -6,7 +6,7 @@
 <line x1="54" y1="272" x2="140" y2="272" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- lightning bolt -->
 <polygon points="300 96 168 300 254 300 212 432 392 232 300 232 360 96"
-         fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+         fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- forward arrow -->
 <path d="M 318.0 410.0 L 430.0 410.0 L 430.0 422.0 L 462.0 400.0 L 430.0 378.0 L 430.0 390.0 L 318.0 390.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 </svg>

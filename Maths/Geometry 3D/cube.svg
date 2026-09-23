@@ -2,7 +2,7 @@
 <line x1="216.0" y1="322.0" x2="216.0" y2="122.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-dasharray="6 8"/>
 <line x1="216.0" y1="322.0" x2="416.0" y2="322.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-dasharray="6 8"/>
 <line x1="216.0" y1="322.0" x2="120.0" y2="400.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-dasharray="6 8"/>
-<polygon points="120.0,200.0 320.0,200.0 416.0,122.0 216.0,122.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="320.0,200.0 320.0,400.0 416.0,322.0 416.0,122.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="120.0,200.0 320.0,200.0 320.0,400.0 120.0,400.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="120.0,200.0 320.0,200.0 416.0,122.0 216.0,122.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="320.0,200.0 320.0,400.0 416.0,322.0 416.0,122.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="120.0,200.0 320.0,200.0 320.0,400.0 120.0,400.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

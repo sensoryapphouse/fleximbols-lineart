@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(6.04 9.61) scale(3.9296)"><g transform="scale(4)">
-<style type="text/css">
-	.isometric_vijf{fill:#F29227;}
-	.isometric_zeven{fill:#FF7344;}
-	.isometric_negen{fill:#BE1E2D;}
-	.isometric_tien{fill:#7BD6C4;}
-	.isometric_elf{fill:#72C0AB;}
-	.st0{fill:#225B49;}
-	.st1{fill:#F05A28;}
-	.st2{fill:#569080;}
-	.st3{fill:#F5DF89;}
-	.st4{fill:#F2D76C;}
-	.st5{fill:#F28103;}
-	.st6{fill:#F8F7C5;}
-	.st7{fill:#AD9A74;}
-	.st8{fill:#7BD6C4;}
+<style>
+	.isometric_vijf{fill:#ffffff;}
+	.isometric_zeven{fill:#ffffff;}
+	.isometric_negen{fill:#ffffff;}
+	.isometric_tien{fill:#ffffff;}
+	.isometric_elf{fill:#ffffff;}
+	.st0{fill:#1a1a1a;}
+	.st1{fill:#ffffff;}
+	.st2{fill:#ffffff;}
+	.st3{fill:#ffffff;}
+	.st4{fill:#ffffff;}
+	.st5{fill:#ffffff;}
+	.st6{fill:#ffffff;}
+	.st7{fill:#ffffff;}
+	.st8{fill:#ffffff;}
 </style>
 <g>
 	<path class="st5" d="M19.655,18.998c-1.392-0.396-2.763-1.476-3.682-2.68h6.59c0.331,0.047,0.545,0.175,0.734,0.355

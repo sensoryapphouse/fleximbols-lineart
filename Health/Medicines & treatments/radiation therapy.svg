@@ -5,42 +5,42 @@
 
   <!-- Gantry arm (linac) - large C-arm -->
   <!-- Gantry mount on left -->
-  <rect x="14" y="40" width="40" height="160" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="14" y="40" width="40" height="160" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Indicator -->
-  <circle cx="34" cy="58" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="34" cy="74" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="34" cy="58" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="34" cy="74" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 
   <!-- Rotating gantry head -->
-  <rect x="50" y="50" width="100" height="40" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="50" y="50" width="100" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Beam aperture (nozzle pointing down) -->
-  <path d="M100 90 L130 90 L122 112 L108 112 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M100 90 L130 90 L122 112 L108 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Radiation beam (yellow triangle) -->
-  <path d="M108 112 L122 112 L150 168 L80 168 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M108 112 L122 112 L150 168 L80 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Beam inner accent -->
-  <path d="M111 116 L119 116 L138 162 L92 162 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M111 116 L119 116 L138 162 L92 162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Radiation symbol on beam -->
   <circle cx="115" cy="140" r="6" fill="#1a1a1a"/>
-  <path d="M115 140 L115 128 L122 134 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M115 140 L126 146 L122 152 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M115 140 L104 146 L108 152 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M115 140 L115 128 L122 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M115 140 L126 146 L122 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M115 140 L104 146 L108 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
 
   <!-- Patient table -->
-  <rect x="60" y="170" width="220" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="60" y="170" width="220" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Table base -->
-  <rect x="200" y="188" width="20" height="32" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="200" y="188" width="20" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Patient lying on table (full body in profile from above) -->
   <!-- Head -->
-  <circle cx="252" cy="160" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="252" cy="160" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Hair tuft -->
   <path d="M242 152 Q252 144 262 152" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Torso -->
-  <rect x="155" y="152" width="92" height="22" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="155" y="152" width="92" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Legs -->
-  <rect x="80" y="156" width="76" height="16" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="80" y="156" width="76" height="16" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Feet -->
-  <path d="M80 158 L70 162 L70 170 L80 172 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M80 158 L70 162 L70 170 L80 172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Arm visible at side -->
   <path d="M210 174 L215 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

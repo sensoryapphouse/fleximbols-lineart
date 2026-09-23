@@ -3,7 +3,7 @@
 
   <!-- Brittle shard with jagged/cracked edges -->
   <path d="M40 80 L70 60 L110 55 L150 65 L195 60 L240 75 L255 110 L245 150 L220 180 L180 195 L130 190 L80 180 L50 160 L35 130 L30 105 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Surface highlight/lighter top edge -->
   <path d="M50 85 L80 70 L120 65 L160 72 L200 70 L235 85"
@@ -19,29 +19,29 @@
 
   <!-- Peanut 1 (top-left lobe) -->
   <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
-    <ellipse cx="75" cy="105" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="95" cy="110" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="75" cy="105" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="95" cy="110" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <path d="M88 100 Q92 108 88 116" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
 
   <!-- Peanut 2 (center) -->
   <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
-    <ellipse cx="135" cy="130" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="155" cy="135" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="135" cy="130" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="155" cy="135" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <path d="M148 125 Q152 133 148 141" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
 
   <!-- Peanut 3 (right) -->
   <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
-    <ellipse cx="195" cy="115" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="215" cy="120" rx="18" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="195" cy="115" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="215" cy="120" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <path d="M208 110 Q212 118 208 126" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
 
   <!-- Peanut 4 (bottom) -->
   <g stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round">
-    <ellipse cx="115" cy="170" rx="17" ry="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="133" cy="173" rx="17" ry="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="115" cy="170" rx="17" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="133" cy="173" rx="17" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <path d="M127 164 Q130 172 127 180" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
 </g></svg>

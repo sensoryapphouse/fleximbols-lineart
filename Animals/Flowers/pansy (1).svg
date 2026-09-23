@@ -2,19 +2,19 @@
   <!-- stem -->
   <line x1="145" y1="195" x2="145" y2="228" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- leaves -->
-  <ellipse cx="122" cy="208" rx="18" ry="9" transform="rotate(-35 122 208)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="168" cy="208" rx="18" ry="9" transform="rotate(35 168 208)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="122" cy="208" rx="18" ry="9" transform="rotate(-35 122 208)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="168" cy="208" rx="18" ry="9" transform="rotate(35 168 208)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- 5 pansy petals — top 2 purple, bottom 3 yellow -->
   <!-- top-left petal (purple) -->
   <ellipse cx="110" cy="115" rx="32" ry="42" transform="rotate(-25 110 115)" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- top-right petal (purple) -->
   <ellipse cx="180" cy="115" rx="32" ry="42" transform="rotate(25 180 115)" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- bottom-left petal (yellow) -->
-  <ellipse cx="100" cy="170" rx="35" ry="38" transform="rotate(30 100 170)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="100" cy="170" rx="35" ry="38" transform="rotate(30 100 170)" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- bottom-right petal (yellow) -->
-  <ellipse cx="190" cy="170" rx="35" ry="38" transform="rotate(-30 190 170)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="190" cy="170" rx="35" ry="38" transform="rotate(-30 190 170)" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- bottom-centre petal (yellow, slightly larger) -->
-  <ellipse cx="145" cy="183" rx="36" ry="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="183" rx="36" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- dark blotch markings in centre — face-like -->
   <ellipse cx="145" cy="148" rx="30" ry="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- whisker lines from blotch -->
@@ -23,7 +23,7 @@
   <line x1="168" y1="148" x2="185" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="168" y1="143" x2="186" y2="143" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- centre throat spot -->
-  <circle cx="145" cy="153" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="153" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- stamen dot -->
-  <circle cx="145" cy="138" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="138" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

@@ -15,10 +15,10 @@
   <path d="M 65 207 L 205 37" fill="none" stroke="#1a1a1a" stroke-width="0.51" stroke-linecap="round"/>
   <path d="M 85 223 L 225 53" fill="none" stroke="#1a1a1a" stroke-width="0.51" stroke-linecap="round"/>
   <!-- end openings -->
-  <ellipse cx="75" cy="215" rx="13" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 75 215)"/>
-  <ellipse cx="215" cy="45" rx="13" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 215 45)"/>
+  <ellipse cx="75" cy="215" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 75 215)"/>
+  <ellipse cx="215" cy="45" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 215 45)"/>
   <!-- PAPER label -->
-  <rect x="30" y="40" width="80" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0.51"/>
+  <rect x="30" y="40" width="80" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51"/>
   <!-- P -->
   <path d="M 36 45 L 42 45 L 42 51 L 38 51 L 38 57 L 36 57 Z M 38 47 L 40 47 L 40 49 L 38 49 Z" fill="#1a1a1a" fill-rule="evenodd"/>
   <!-- A -->

@@ -2,22 +2,22 @@
 <defs><clipPath id="wrapclip"><path d="M 196 150 L 316 150 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z"/></clipPath></defs>
 <!-- fillings inside the wrap (clipped to wrap shape) -->
 <g clip-path="url(#wrapclip)">
-<rect x="140" y="150" width="232" height="300" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.90" />
+<rect x="140" y="150" width="232" height="300" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.90" />
 <!-- lettuce frill near top -->
-<path d="M 150 188 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 l 0 40 l -180 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 150 188 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 q 18 -22 36 0 l 0 40 l -180 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- doner meat shavings (stacked strips) -->
-<path d="M 150 226 q 26 -18 52 0 q 26 -18 52 0 q 26 -18 52 0 l 0 26 l -156 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 150 256 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 152 286 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 150 226 q 26 -18 52 0 q 26 -18 52 0 q 26 -18 52 0 l 0 26 l -156 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 150 256 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 152 286 q 26 -16 52 0 q 26 -16 52 0 q 26 -16 52 0 l 0 24 l -156 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- tomato + onion bits -->
-<circle cx="196" cy="208" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="300" cy="206" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="196" cy="208" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="300" cy="206" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 244 206 a 12 12 0 0 1 24 0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
 </g>
 <!-- flatbread wrap outline (cone) -->
 <path d="M 196 150 L 316 150 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- folded paper wrap over lower half -->
-<path d="M 162 330 L 350 330 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 162 330 L 350 330 L 360 396 C 360 420 330 432 256 432 C 182 432 152 420 152 396 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- paper fold lines -->
 <line x1="210" y1="332" x2="226" y2="430" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="256" y1="332" x2="256" y2="432" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

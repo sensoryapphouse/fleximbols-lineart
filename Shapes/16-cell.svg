@@ -4,14 +4,14 @@
 <line x1="45" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="3"/>
 <line x1="75" y1="50" x2="215" y2="190" stroke="#1a1a1a" stroke-width="3"/>
 <line x1="215" y1="50" x2="75" y2="190" stroke="#1a1a1a" stroke-width="3"/>
-<polygon points="145,20 245,120 145,220 45,120" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" fill-opacity="0.4"/>
-<polygon points="75,50 215,50 215,190 75,190" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" fill-opacity="0.4"/>
-<circle cx="145" cy="20" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="145" cy="220" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="45" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="245" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="75" cy="50" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="215" cy="50" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="75" cy="190" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="215" cy="190" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<polygon points="145,20 245,120 145,220 45,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" fill-opacity="0.4"/>
+<polygon points="75,50 215,50 215,190 75,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" fill-opacity="0.4"/>
+<circle cx="145" cy="20" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="145" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="45" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="245" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="75" cy="50" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="215" cy="50" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="75" cy="190" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="215" cy="190" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 </svg>

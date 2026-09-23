@@ -2,19 +2,19 @@
 <!-- small fish in background (cue: made of fish) -->
 <g opacity="0.5">
 <g transform="translate(70 96) rotate(-12)">
-<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="52" cy="-3" r="4" fill="#1a1a1a"/>
 </g>
 <g transform="translate(372 408) rotate(168)">
-<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 Q 30 -22 70 0 Q 30 22 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 0 0 L -22 -16 L -22 16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="52" cy="-3" r="4" fill="#1a1a1a"/>
 </g>
 </g>
-<rect x="110" y="150" width="292" height="62" rx="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(-6 256 181)"/>
-<rect x="110" y="225" width="292" height="62" rx="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="110" y="300" width="292" height="62" rx="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(6 256 331)"/>
+<rect x="110" y="150" width="292" height="62" rx="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(-6 256 181)"/>
+<rect x="110" y="225" width="292" height="62" rx="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="110" y="300" width="292" height="62" rx="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(6 256 331)"/>
 <g fill="#FFFFFF"><circle cx="170" cy="174" r="6"/><circle cx="230" cy="186" r="6"/><circle cx="300" cy="172" r="6"/><circle cx="350" cy="184" r="6"/></g>
 <g fill="#FFFFFF"><circle cx="160" cy="256" r="6"/><circle cx="220" cy="244" r="6"/><circle cx="288" cy="262" r="6"/><circle cx="350" cy="250" r="6"/></g>
 <g fill="#FFFFFF"><circle cx="172" cy="334" r="6"/><circle cx="236" cy="346" r="6"/><circle cx="300" cy="332" r="6"/><circle cx="352" cy="344" r="6"/></g>

@@ -5,11 +5,11 @@
   <!-- Magnifying glass handle -->
   <line x1="188" y1="155" x2="240" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Magnifier ring -->
-  <circle cx="155" cy="118" r="68" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="118" r="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Inner glass tint (pale blue to show lens) -->
-  <circle cx="155" cy="118" r="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="155" cy="118" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Actually use flat white-ish to stay simple -->
-  <circle cx="155" cy="118" r="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
+  <circle cx="155" cy="118" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
 
   <!-- Tiny speck at center of lens -->
   <circle cx="155" cy="118" r="4" fill="#1a1a1a"/>

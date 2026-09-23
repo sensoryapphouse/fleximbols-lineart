@@ -2,5 +2,5 @@
   <!-- > bold chevron opening left (points right) -->
   <!-- Top arm: from left going down-right to tip -->
   <!-- Bottom arm: from tip going down-left -->
-  <polygon points="30,22 80,22 260,120 80,218 30,218 210,120" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="30,22 80,22 260,120 80,218 30,218 210,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

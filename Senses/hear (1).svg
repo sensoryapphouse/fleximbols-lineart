@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(4)">
-<style type="text/css">
-	.pictogram_een{fill:#F4D6B0;}
-	.pictogram_twee{fill:#F8AD89;}
-	.pictogram_vier{fill:#E54D2E;}
-	.pictogram_vijf{fill:#01A59C;}
-	.pictogram_zes{fill:#0C6667;}
-	.st0{fill:#F8AD89;}
-	.st1{fill:#F27261;}
-	.st2{fill:#E54D2E;}
-	.st3{fill:#01A59C;}
+<style>
+	.pictogram_een{fill:#ffffff;}
+	.pictogram_twee{fill:#ffffff;}
+	.pictogram_vier{fill:#ffffff;}
+	.pictogram_vijf{fill:#ffffff;}
+	.pictogram_zes{fill:#1a1a1a;}
+	.st0{fill:#ffffff;}
+	.st1{fill:#ffffff;}
+	.st2{fill:#ffffff;}
+	.st3{fill:#ffffff;}
 	.st4{fill:none;}
 </style>
 <g>

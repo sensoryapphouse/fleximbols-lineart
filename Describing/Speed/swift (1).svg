@@ -8,23 +8,23 @@
   <path d="M25,148 Q78,154 130,150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Swift bird - sleek body -->
   <!-- Main body - elongated aerodynamic teardrop -->
-  <ellipse cx="195" cy="118" rx="55" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <ellipse cx="195" cy="118" rx="55" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Pointed beak/nose -->
-  <polygon points="248,118 268,115 268,121" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="248,118 268,115 268,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Swept-back wings -->
   <!-- Upper wing sweeping back -->
   <polygon points="175,110 145,68 210,100" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lower wing sweeping back -->
   <polygon points="175,126 145,168 210,136" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Wing tips lighter -->
-  <polygon points="145,68 130,60 160,82 175,110" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <polygon points="145,168 130,176 160,154 175,126" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,68 130,60 160,82 175,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,168 130,176 160,154 175,126" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
   <!-- Forked tail -->
-  <polygon points="140,112 115,95 138,118" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="140,124 115,141 138,118" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="140,112 115,95 138,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="140,124 115,141 138,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Eye -->
-  <circle cx="240" cy="116" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="240" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <circle cx="241" cy="116" r="2.5" fill="#1a1a1a"/>
   <!-- Throat/chin white patch -->
-  <ellipse cx="252" cy="121" rx="10" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="252" cy="121" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

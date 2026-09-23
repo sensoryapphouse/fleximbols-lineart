@@ -5,18 +5,18 @@
 <circle cx="86" cy="276" r="26" fill="none" stroke="#1a1a1a" stroke-width="14"/>
 <circle cx="426" cy="276" r="26" fill="none" stroke="#1a1a1a" stroke-width="14"/>
 <!-- pan body -->
-<circle cx="256" cy="276" r="158" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="276" r="158" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- saffron rice -->
-<circle cx="256" cy="276" r="134" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="256" cy="276" r="134" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- toppings: prawns, peas, peppers, mussels -->
 <!-- prawn (curled, orange) -->
-<path d="M 188 222 Q 168 232 174 256 Q 182 276 206 270 Q 196 252 206 238 Q 200 224 188 222 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 196 312 Q 176 322 182 346 Q 190 366 214 360 Q 204 342 214 328 Q 208 314 196 312 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 188 222 Q 168 232 174 256 Q 182 276 206 270 Q 196 252 206 238 Q 200 224 188 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 196 312 Q 176 322 182 346 Q 190 366 214 360 Q 204 342 214 328 Q 208 314 196 312 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- red pepper strips -->
-<rect x="276" y="216" width="64" height="14" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" transform="rotate(20 308 223)"/>
-<rect x="262" y="320" width="64" height="14" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" transform="rotate(-16 294 327)"/>
+<rect x="276" y="216" width="64" height="14" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" transform="rotate(20 308 223)"/>
+<rect x="262" y="320" width="64" height="14" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" transform="rotate(-16 294 327)"/>
 <!-- mussel shells -->
-<path d="M 312 276 Q 330 262 352 272 Q 346 296 320 296 Q 308 288 312 276 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 312 276 Q 330 262 352 272 Q 346 296 320 296 Q 308 288 312 276 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="hair"/>
 <!-- peas -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4">
 <circle cx="232" cy="250" r="11"/><circle cx="262" cy="288" r="11"/><circle cx="226" cy="306" r="11"/><circle cx="298" cy="250" r="11"/>

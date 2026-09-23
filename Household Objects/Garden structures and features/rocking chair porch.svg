@@ -3,7 +3,7 @@
   <line x1="90" y1="100" x2="82" y2="185" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <line x1="160" y1="100" x2="168" y2="185" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <!-- seat -->
-  <rect x="72" y="120" width="108" height="15" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="72" y="120" width="108" height="15" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- seat slats -->
   <line x1="100" y1="120" x2="100" y2="135" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
   <line x1="125" y1="120" x2="125" y2="135" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
@@ -15,14 +15,14 @@
   <line x1="140" y1="55" x2="140" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="160" y1="55" x2="160" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- top rail -->
-  <rect x="74" y="50" width="104" height="12" rx="5" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="74" y="50" width="104" height="12" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- armrests -->
-  <rect x="72" y="110" width="12" height="28" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
-  <rect x="168" y="110" width="12" height="28" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="72" y="110" width="12" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="168" y="110" width="12" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- curved rockers -->
   <path d="M50 198 Q126 168 202 198" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- footstool -->
-  <rect x="195" y="172" width="60" height="20" rx="5" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="195" y="172" width="60" height="20" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="205" y1="192" x2="205" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="245" y1="192" x2="245" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

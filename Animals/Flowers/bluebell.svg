@@ -3,8 +3,8 @@
 <!-- arching stalk -->
 <path d="M 60 -170 Q 90 -40 30 200" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- narrow leaves at base -->
-<path d="M 30 150 Q -50 140 -70 206 Q -14 206 30 162 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 34 170 Q 96 150 110 210 Q 60 212 34 182 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 30 150 Q -50 140 -70 206 Q -14 206 30 162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 34 170 Q 96 150 110 210 Q 60 212 34 182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- three drooping bluebell bells, openings pointing down with scalloped rims -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
 <!-- top bell -->

@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 <!-- box front -->
-<polygon points="110,150 300,150 300,420 110,420" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="110,150 300,150 300,420 110,420" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- box side -->
-<polygon points="300,150 340,124 340,394 300,420" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="300,150 340,124 340,394 300,420" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- box top -->
-<polygon points="110,150 150,124 340,124 300,150" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="110,150 150,124 340,124 300,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- bowl on front -->
-<ellipse cx="205" cy="262" rx="78" ry="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<ellipse cx="205" cy="258" rx="62" ry="32" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="205" cy="262" rx="78" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<ellipse cx="205" cy="258" rx="62" ry="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- bran flakes -->
-<ellipse cx="186" cy="252" rx="13" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="216" cy="248" rx="13" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="232" cy="266" rx="12" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="194" cy="270" rx="12" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="186" cy="252" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="216" cy="248" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="232" cy="266" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="194" cy="270" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <!-- spoon -->
-<ellipse cx="150" cy="340" rx="26" ry="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="150" cy="340" rx="26" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="172" y1="346" x2="262" y2="368" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
 <line x1="172" y1="346" x2="262" y2="368" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <!-- wheat stalk -->

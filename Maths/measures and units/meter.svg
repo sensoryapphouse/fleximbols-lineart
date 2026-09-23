@@ -2,15 +2,15 @@
 <g>
 	<g id="XMLID_30_">
 		<g>
-			<path style="fill:#e65a00" d="M307.5,297.5c0,22.1-17.9,40-40,40s-40-17.9-40-40s17.9-40,40-40S307.5,275.4,307.5,297.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<path style="fill:#e65a00" d="M107.5,297.5c0-22.1,17.9-40,40-40s40,17.9,40,40s-17.9,40-40,40S107.5,319.6,107.5,297.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<path style="fill:#e65a00" d="M207.5,142.5c11,0,20,9,20,20s-9,20-20,20s-20-9-20-20S196.5,142.5,207.5,142.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<path style="fill:#b2bec3" d="M117.5,137.5c0-49.7,40.3-90,90-90s90,40.3,90,90s-40.3,90-90,90S117.5,187.2,117.5,137.5z
+			<path style="fill:#ffffff" d="M307.5,297.5c0,22.1-17.9,40-40,40s-40-17.9-40-40s17.9-40,40-40S307.5,275.4,307.5,297.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<path style="fill:#ffffff" d="M107.5,297.5c0-22.1,17.9-40,40-40s40,17.9,40,40s-17.9,40-40,40S107.5,319.6,107.5,297.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<path style="fill:#ffffff" d="M207.5,142.5c11,0,20,9,20,20s-9,20-20,20s-20-9-20-20S196.5,142.5,207.5,142.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<path style="fill:#ffffff" d="M117.5,137.5c0-49.7,40.3-90,90-90s90,40.3,90,90s-40.3,90-90,90S117.5,187.2,117.5,137.5z
 				 M207.5,142.5c-11,0-20,9-20,20s9,20,20,20s20-9,20-20S218.5,142.5,207.5,142.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<rect x="342.5" y="187.5" style="fill:#b2bec3" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<rect x="42.5" y="137.5" style="fill:#b2bec3" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<rect x="42.5" y="227.5" style="fill:#b2bec3" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<path style="fill:#f7de58" d="M107.5,297.5c0,22.1,17.9,40,40,40s40-17.9,40-40s-17.9-40-40-40S107.5,275.4,107.5,297.5z
+			<rect x="342.5" y="187.5" style="fill:#ffffff" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<rect x="42.5" y="137.5" style="fill:#ffffff" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<rect x="42.5" y="227.5" style="fill:#ffffff" width="30" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<path style="fill:#ffffff" d="M107.5,297.5c0,22.1,17.9,40,40,40s40-17.9,40-40s-17.9-40-40-40S107.5,275.4,107.5,297.5z
 				 M207.5,407.5h-15c-66,0-120-54-120-120v-10v-50v-40v-50v-10c0-66,54-120,120-120h30c66,0,120,54,120,120v60v50v50
 				c0,66-54,120-120,120H207.5z M267.5,337.5c22.1,0,40-17.9,40-40s-17.9-40-40-40s-40,17.9-40,40S245.4,337.5,267.5,337.5z
 				 M207.5,227.5c49.7,0,90-40.3,90-90s-40.3-90-90-90s-90,40.3-90,90S157.8,227.5,207.5,227.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>

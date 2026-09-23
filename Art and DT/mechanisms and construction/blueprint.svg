@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Blue drafting sheet (rolled/flat) -->
-  <rect x="30" y="44" width="230" height="162" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="30" y="44" width="230" height="162" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Rolled curl left edge -->
   <ellipse cx="30" cy="125" rx="10" ry="81" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Rolled curl shadow -->
-  <ellipse cx="30" cy="125" rx="5" ry="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="30" cy="125" rx="5" ry="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- House outline (white line-work on blue) -->
   <!-- House base rect -->
@@ -40,9 +40,9 @@
   <!-- COMPASS (top-right corner of sheet) -->
   <circle cx="228" cy="74" r="16" fill="#1a1a1a" stroke="#ffffff" stroke-width="6.67"/>
   <!-- N needle -->
-  <polygon points="228,60 224,74 228,70 232,74" fill="#FFFFFF" stroke="#ffffff" stroke-width="2.22"/>
+  <polygon points="228,60 224,74 228,70 232,74" fill="#ffffff" stroke="#ffffff" stroke-width="2.22"/>
   <!-- S needle -->
-  <polygon points="228,88 224,74 228,78 232,74" fill="#FFFFFF" stroke="#ffffff" stroke-width="2.22"/>
+  <polygon points="228,88 224,74 228,78 232,74" fill="#ffffff" stroke="#ffffff" stroke-width="2.22"/>
   <!-- Cross hairs -->
   <line x1="220" y1="74" x2="236" y2="74" stroke="#ffffff" stroke-width="4.45"/>
 </g></svg>

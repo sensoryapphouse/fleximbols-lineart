@@ -3,7 +3,7 @@
 <!-- stem -->
 <line x1="0" y1="30" x2="0" y2="205" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- leaf -->
-<path d="M 0 150 Q -78 120 -92 186 Q -32 192 0 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 150 Q -78 120 -92 186 Q -32 192 0 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- gold petals -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
 <ellipse cx="0" cy="-96" rx="30" ry="58"/>
@@ -14,7 +14,7 @@
 <ellipse cx="0" cy="-96" rx="30" ry="58" transform="rotate(300)"/>
 </g>
 <!-- trumpet -->
-<circle cx="0" cy="0" r="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="0" cy="0" r="24" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="0" cy="0" r="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="0" cy="0" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g>
 </svg>

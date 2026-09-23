@@ -2,9 +2,9 @@
 <rect x="86.0" y="176.0" width="340.0" height="210.0" rx="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="176.0" y="150.0" width="120.0" height="40.0" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="118.0" y="196.0" width="40.0" height="26.0" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="356.0" y="166.0" width="40.0" height="24.0" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="356.0" y="166.0" width="40.0" height="24.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="256.0" cy="286.0" r="84.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="256.0" cy="286.0" r="62.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="256.0" cy="286.0" r="34.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="238.0" cy="268.0" r="14.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="286.0" r="62.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256.0" cy="286.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="238.0" cy="268.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 </g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

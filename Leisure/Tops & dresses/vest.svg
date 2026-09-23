@@ -9,7 +9,7 @@
          Q 300 232 300 270
          L 306 404 L 256 414 L 206 404 L 212 270
          Q 212 232 186 210 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- scoop neck trim -->
 <path d="M 224 152 Q 256 196 288 152" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- left armhole trim -->

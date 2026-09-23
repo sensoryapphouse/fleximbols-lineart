@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g>
 <!-- plate -->
-<ellipse cx="256" cy="392" rx="168" ry="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="392" rx="168" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- three falafel balls (browned chickpea fritters) -->
-<circle cx="186" cy="316" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="330" cy="316" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="258" cy="260" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<circle cx="186" cy="316" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="330" cy="316" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="258" cy="260" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <!-- speckled craggy texture dots (herb/seed flecks) -->
 <g fill="#1a1a1a">
 <circle cx="170" cy="300" r="6"/><circle cx="200" cy="320" r="6"/><circle cx="186" cy="338" r="5"/>

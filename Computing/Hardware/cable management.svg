@@ -9,7 +9,7 @@
   <path d="M100 50 Q 70 90 110 110 Q 130 140 90 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- RIGHT: tidy cable sleeve/box -->
   <!-- management box / sleeve -->
-  <rect x="160" y="100" width="115" height="50" rx="22" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="160" y="100" width="115" height="50" rx="22" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- sleeve seam stitching -->
   <line x1="175" y1="125" x2="260" y2="125" stroke="#1a1a1a" stroke-width="1.78" stroke-dasharray="3 3"/>
   <!-- cables entering left and exiting right neatly -->

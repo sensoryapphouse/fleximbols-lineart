@@ -9,7 +9,7 @@
   <line x1="69" y1="82" x2="195" y2="195" stroke="#1a1a1a" stroke-width="26.67" stroke-linecap="round"/>
   <line x1="69" y1="82" x2="195" y2="195" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- club head (iron/wedge angled) -->
-  <path d="M 188 188 L 248 192 Q 258 196 256 208 L 250 218 Q 240 222 215 218 L 200 210 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
+  <path d="M 188 188 L 248 192 Q 258 196 256 208 L 250 218 Q 240 222 215 218 L 200 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.37" stroke-linejoin="round"/>
   <!-- face grooves -->
   <line x1="218" y1="200" x2="248" y2="204" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="216" y1="206" x2="246" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>

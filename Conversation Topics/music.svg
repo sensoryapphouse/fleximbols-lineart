@@ -2,6 +2,6 @@
 <rect x="196.0" y="150.0" width="16.0" height="176.0" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <rect x="320.0" y="118.0" width="16.0" height="176.0" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <polygon points="196,150 336,118 336,150 196,182" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<ellipse cx="180.0" cy="330.0" rx="34.0" ry="24.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="304.0" cy="298.0" rx="34.0" ry="24.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="180.0" cy="330.0" rx="34.0" ry="24.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="304.0" cy="298.0" rx="34.0" ry="24.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

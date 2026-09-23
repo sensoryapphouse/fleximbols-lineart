@@ -38,34 +38,34 @@
   </g>
 
   <!-- central burst ring -->
-  <circle cx="145" cy="120" r="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
-  <circle cx="145" cy="120" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="145" cy="120" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="145" cy="120" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- singularity point -->
-  <circle cx="145" cy="120" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="120" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- galaxies forming at outer edges (spiral hints) -->
   <g>
-    <ellipse cx="50" cy="45" rx="14" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 50 45)"/>
-    <circle cx="50" cy="45" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="50" cy="45" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 50 45)"/>
+    <circle cx="50" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
   <g>
-    <ellipse cx="245" cy="50" rx="14" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 245 50)"/>
-    <circle cx="245" cy="50" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="245" cy="50" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 245 50)"/>
+    <circle cx="245" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
   <g>
-    <ellipse cx="40" cy="200" rx="14" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 40 200)"/>
-    <circle cx="40" cy="200" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="40" cy="200" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 40 200)"/>
+    <circle cx="40" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
   <g>
-    <ellipse cx="250" cy="195" rx="14" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 250 195)"/>
-    <circle cx="250" cy="195" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="250" cy="195" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 250 195)"/>
+    <circle cx="250" cy="195" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
 
   <!-- scattered stars -->
-  <circle cx="90" cy="35" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="200" cy="30" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="265" cy="120" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="30" cy="120" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="100" cy="215" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="200" cy="215" r="2.5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="90" cy="35" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="200" cy="30" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="265" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="30" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="100" cy="215" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="200" cy="215" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

@@ -7,48 +7,48 @@
   <!-- Spine -->
   <rect x="130" y="60" width="30" height="155" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Left page -->
-  <rect x="28" y="68" width="102" height="139" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="28" y="68" width="102" height="139" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Right page -->
-  <rect x="160" y="68" width="102" height="139" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="160" y="68" width="102" height="139" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
 
   <!-- Left page: photo grid (3x3 face squares) -->
   <!-- Row 1 -->
-  <rect x="36" y="76" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="49" cy="83" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="69" y="76" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="82" cy="83" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="102" y="76" width="22" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="113" cy="83" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="36" y="76" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="76" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="76" width="22" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Row 2 -->
-  <rect x="36" y="104" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="49" cy="111" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="69" y="104" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="82" cy="111" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="102" y="104" width="22" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="113" cy="111" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="36" y="104" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="111" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="104" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="111" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="104" width="22" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="111" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Row 3 -->
-  <rect x="36" y="132" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="49" cy="139" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="69" y="132" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="82" cy="139" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="102" y="132" width="22" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="113" cy="139" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="36" y="132" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="139" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="132" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="139" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="102" y="132" width="22" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="113" cy="139" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Row 4 partial -->
-  <rect x="36" y="160" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="49" cy="167" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="69" y="160" width="26" height="22" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="82" cy="167" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="36" y="160" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="49" cy="167" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="69" y="160" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="82" cy="167" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Right page: graduation cap emblem -->
   <!-- Gold banner strip -->
-  <rect x="162" y="68" width="98" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="162" y="68" width="98" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Mortarboard top board -->
   <polygon points="211,100 175,116 211,132 247,116" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- Cap body -->
   <path d="M196,116 L196,140 Q196,148 211,148 Q226,148 226,140 L226,116" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tassel string -->
   <line x1="247" y1="116" x2="247" y2="144" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
-  <circle cx="247" cy="150" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="247" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Year lines on right page bottom -->
   <line x1="168" y1="165" x2="254" y2="165" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="168" y1="178" x2="240" y2="178" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>

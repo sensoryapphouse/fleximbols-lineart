@@ -2,20 +2,20 @@
   <!-- blue-check: scalloped/starburst circle badge (blue) with white check -->
   <!-- scalloped badge: built from overlapping circles around a central disc -->
   <!-- petal circles at 12 positions -->
-  <circle cx="145" cy="44" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="174" cy="51" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="72" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="204" cy="100" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="128" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="174" cy="149" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="156" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="116" cy="149" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="94" cy="128" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="86" cy="100" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="94" cy="72" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="116" cy="51" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="44" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="51" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="72" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="204" cy="100" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="128" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="174" cy="149" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="156" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="149" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="128" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="86" cy="100" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="72" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="116" cy="51" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- central disc to fill in and cover stroke gaps -->
-  <circle cx="145" cy="100" r="72" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="145" cy="100" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- outer ring stroke -->
   <circle cx="145" cy="100" r="90" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- white checkmark -->

@@ -6,5 +6,5 @@
 <rect x="362.0" y="276.0" width="88.0" height="116.0" rx="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <ellipse cx="406.0" cy="334.0" rx="24.0" ry="40.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 106 386 Q 106 462 226 462" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/>
-<circle cx="234.0" cy="462.0" r="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="234.0" cy="462.0" r="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

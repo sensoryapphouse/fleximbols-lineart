@@ -9,7 +9,7 @@
 <path d="M 284 388 L 332 412 L 360 436"/>
 </g>
 <!-- rounded ridged brown body -->
-<ellipse cx="256" cy="334" rx="86" ry="98" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
+<ellipse cx="256" cy="334" rx="86" ry="98" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="hair"/>
 <!-- elytra ridges -->
 <g stroke="#1a1a1a" stroke-width="5" fill="none">
 <path d="M 256 244 L 256 426"/>
@@ -17,9 +17,9 @@
 <path d="M 296 252 Q 306 334 290 416"/>
 </g>
 <!-- small pronotum -->
-<ellipse cx="256" cy="244" rx="48" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="244" rx="48" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- head -->
-<circle cx="256" cy="196" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="196" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- the signature long downward snout/rostrum -->
 <path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
 <path d="M 256 222 Q 252 270 256 300" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0"/>

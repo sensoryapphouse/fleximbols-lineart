@@ -5,13 +5,13 @@
 <line x1="364" y1="218" x2="394" y2="182" stroke="#1a1a1a" stroke-width="19.5" stroke-linecap="round"/>
 <!-- bright clever bulb (faded reference, the smart one) -->
 <g opacity="0.34">
-<circle cx="148" cy="300" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<path d="M 118 348 L 178 348 L 178 366 Q 148 380 118 366 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="148" cy="300" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 118 348 L 178 348 L 178 366 Q 148 380 118 366 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="124" y1="378" x2="172" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 </g>
 <!-- dim, dark, cracked bulb = stupid / not switched on -->
-<circle cx="364" cy="300" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<path d="M 334 348 L 394 348 L 394 366 Q 364 380 334 366 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<circle cx="364" cy="300" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 334 348 L 394 348 L 394 366 Q 364 380 334 366 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="340" y1="378" x2="388" y2="378" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- crack -->
 <path d="M 344 268 L 360 296 L 346 312 L 368 336" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>

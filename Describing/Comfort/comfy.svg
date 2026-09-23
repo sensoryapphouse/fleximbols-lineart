@@ -2,13 +2,13 @@
 <!-- comfy: plump soft armchair -->
 <g transform="translate(0 6)">
 <!-- back cushion -->
-<path d="M 150 200 Q 146 150 200 148 L 312 148 Q 366 150 362 200 L 362 300 L 150 300 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 150 200 Q 146 150 200 148 L 312 148 Q 366 150 362 200 L 362 300 L 150 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- left arm -->
-<path d="M 116 250 Q 110 218 142 216 Q 172 218 168 252 L 168 360 L 116 360 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 116 250 Q 110 218 142 216 Q 172 218 168 252 L 168 360 L 116 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- right arm -->
-<path d="M 396 250 Q 402 218 370 216 Q 340 218 344 252 L 344 360 L 396 360 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 396 250 Q 402 218 370 216 Q 340 218 344 252 L 344 360 L 396 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- seat cushion (plump) -->
-<path d="M 150 296 Q 256 280 362 296 Q 372 332 362 360 L 150 360 Q 140 332 150 296 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 150 296 Q 256 280 362 296 Q 372 332 362 360 L 150 360 Q 140 332 150 296 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- back cushion seam -->
 <path d="M 256 158 L 256 296" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- legs -->

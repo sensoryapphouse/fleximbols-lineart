@@ -4,7 +4,7 @@
   <!-- Adjustable strap - right side -->
   <rect x="228" y="110" width="42" height="18" rx="9" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Main mask body: wide soft padded eye-mask shape -->
-  <path d="M62 90 Q90 68 145 72 Q200 68 228 90 Q244 108 228 132 Q200 148 145 148 Q90 148 62 132 Q46 114 62 90 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M62 90 Q90 68 145 72 Q200 68 228 90 Q244 108 228 132 Q200 148 145 148 Q90 148 62 132 Q46 114 62 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Left eye cup indent -->
   <ellipse cx="110" cy="112" rx="32" ry="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Right eye cup indent -->

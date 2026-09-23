@@ -2,14 +2,14 @@
 <!-- ANCIENT: a ruined classical column - broken top + a fallen drum beside it -->
 <!-- ===== standing (but broken) fluted column ===== -->
 <!-- stepped base -->
-<rect x="110.0" y="424.0" width="192.0" height="26.0" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="128.0" y="402.0" width="156.0" height="24.0" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="110.0" y="424.0" width="192.0" height="26.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="128.0" y="402.0" width="156.0" height="24.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- shaft with a jagged BROKEN top edge (the ruin cue) -->
 <path d="M 154 402
          L 154 168
          L 170 150 L 184 172 L 200 146 L 216 176 L 232 150 L 246 170 L 258 152
          L 258 402 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- flutes -->
 <line x1="171" y1="180" x2="171" y2="396" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="189" y1="176" x2="189" y2="396" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
@@ -21,9 +21,9 @@
 
 <!-- ===== fallen broken column DRUM lying beside it ===== -->
 <!-- the drum: a short cylinder on its side -->
-<rect x="318.0" y="402.0" width="120.0" height="48.0" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="318.0" y="402.0" width="120.0" height="48.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- circular end face (shows it is a round column piece) -->
-<ellipse cx="330.0" cy="426.0" rx="13.0" ry="24.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="330.0" cy="426.0" rx="13.0" ry="24.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <ellipse cx="330.0" cy="426.0" rx="6.0" ry="12.0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
 <!-- broken jagged right end of the drum -->
 <path d="M 438 408 L 426 416 L 440 424 L 426 434 L 438 444"

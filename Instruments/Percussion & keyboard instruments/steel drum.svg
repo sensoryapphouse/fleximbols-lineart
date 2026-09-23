@@ -12,12 +12,12 @@
 
   <!-- Steel pan body: concave bowl (top view showing the dished surface) -->
   <!-- Outer pan rim -->
-  <ellipse cx="145" cy="115" rx="110" ry="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="115" rx="110" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Pan inner concave surface (slightly lower) -->
-  <ellipse cx="145" cy="118" rx="100" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.34" data-lp="hair"/>
+  <ellipse cx="145" cy="118" rx="100" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" data-lp="hair"/>
 
   <!-- Pan side wall depth (cylindrical container below rim) -->
-  <path d="M 35,115 Q 35,155 145,158 Q 255,155 255,115" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11"/>
+  <path d="M 35,115 Q 35,155 145,158 Q 255,155 255,115" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
   <ellipse cx="145" cy="115" rx="110" ry="40" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
 
   <!-- Note sections hammered into surface (characteristic steel pan layout) -->

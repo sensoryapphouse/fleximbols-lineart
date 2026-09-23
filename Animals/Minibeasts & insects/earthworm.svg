@@ -13,6 +13,6 @@
 <path d="M 232 408 q 24 12 44 0" fill="none"/>
 </g>
 <!-- head tip -->
-<circle cx="360" cy="150" r="29" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="360" cy="150" r="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <circle cx="372" cy="142" r="6" fill="#1a1a1a"/>
 </svg>

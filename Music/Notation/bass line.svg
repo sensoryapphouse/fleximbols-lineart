@@ -2,7 +2,7 @@
   <!-- Music staff with low bass-clef notes - thick notes near bottom of staff -->
 
   <!-- Staff page -->
-  <rect x="20" y="50" width="250" height="140" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08"/>
+  <rect x="20" y="50" width="250" height="140" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
 
   <!-- Five staff lines -->
   <line x1="32" y1="80" x2="258" y2="80" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>

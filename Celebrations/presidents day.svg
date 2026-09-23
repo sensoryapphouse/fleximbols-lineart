@@ -5,23 +5,23 @@
   <!-- hat crown -->
   <rect x="40" y="50" width="70" height="105" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- hat band -->
-  <rect x="40" y="140" width="70" height="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="40" y="140" width="70" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- hat top -->
-  <ellipse cx="75" cy="50" rx="35" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="75" cy="50" rx="35" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Washington wig icon (right) -->
   <!-- face oval -->
-  <ellipse cx="210" cy="100" rx="28" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <ellipse cx="210" cy="100" rx="28" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- wig top puffs -->
-  <path d="M 178 80 Q 175 50 195 45 Q 210 35 225 45 Q 245 50 242 80 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" data-lp="hair"/>
-  <circle cx="188" cy="60" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="232" cy="60" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <path d="M 178 80 Q 175 50 195 45 Q 210 35 225 45 Q 245 50 242 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" data-lp="hair"/>
+  <circle cx="188" cy="60" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <circle cx="232" cy="60" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- side curls -->
-  <circle cx="180" cy="100" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="240" cy="100" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="180" cy="115" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="240" cy="115" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <circle cx="180" cy="100" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <circle cx="240" cy="100" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <circle cx="180" cy="115" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
+  <circle cx="240" cy="115" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- ponytail ribbon back -->
-  <path d="M 200 135 L 195 165 L 215 165 L 220 135 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M 200 135 L 195 165 L 215 165 L 220 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <rect x="195" y="148" width="25" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
   <!-- eyes -->
   <circle cx="200" cy="100" r="2.5" fill="#1a1a1a"/>
@@ -29,19 +29,19 @@
   <!-- mouth -->
   <path d="M 203 118 Q 210 122 217 118" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <!-- American flag at bottom -->
-  <rect x="40" y="180" width="210" height="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="40" y="180" width="210" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="40" y="180" width="80" height="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- stars (small white dots) -->
-  <circle cx="55" cy="188" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="75" cy="188" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="95" cy="188" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="65" cy="196" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="85" cy="196" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="105" cy="196" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="55" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="75" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="95" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="65" cy="196" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="85" cy="196" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="105" cy="196" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- stripes -->
-  <rect x="40" y="186" width="210" height="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <rect x="120" y="195" width="130" height="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <rect x="40" y="204" width="210" height="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <rect x="40" y="213" width="210" height="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
-  <rect x="40" y="222" width="210" height="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="40" y="186" width="210" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="120" y="195" width="130" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="40" y="204" width="210" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="40" y="213" width="210" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="40" y="222" width="210" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
 </g></svg>

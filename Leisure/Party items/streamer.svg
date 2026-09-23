@@ -8,7 +8,7 @@
          C 286 430 196 400 250 340
          C 296 280 206 240 252 178
          Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- ribbon 2 (blue) cascading, offset right -->
 <path d="M 296 168
          C 360 230 250 270 312 336
@@ -17,8 +17,8 @@
          C 312 416 400 392 344 332
          C 296 280 372 240 350 178
          Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- the roll the ribbons come off, at the top -->
-<ellipse cx="270" cy="150" rx="92" ry="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="270" cy="150" rx="40" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<ellipse cx="270" cy="150" rx="92" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="270" cy="150" rx="40" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </svg>

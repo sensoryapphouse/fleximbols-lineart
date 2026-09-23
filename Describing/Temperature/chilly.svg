@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="97.78 67.06 389.82 389.82">
 <!-- CHILLY: blue thermometer (low-ish) + snowflake cue -->
 <!-- thermometer, centred-left -->
-<rect x="176" y="96" width="44" height="280" rx="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="198" cy="384" r="44" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="187" y="300" width="22" height="84" rx="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="176" y="96" width="44" height="280" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="198" cy="384" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="187" y="300" width="22" height="84" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- scale ticks -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
 <line x1="220" y1="150" x2="206" y2="150"/>

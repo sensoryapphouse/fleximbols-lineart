@@ -4,29 +4,29 @@
   <rect x="18" y="212" width="254" height="14" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <rect x="26" y="200" width="238" height="14" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Main building body (modern flat facade) -->
-  <rect x="30" y="110" width="230" height="92" rx="6" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <rect x="30" y="110" width="230" height="92" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <!-- Entablature / frieze band -->
-  <rect x="30" y="110" width="230" height="16" rx="0" ry="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <rect x="30" y="110" width="230" height="16" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Dome on top of building (centred) -->
-  <path d="M90,110 Q145,38 200,110 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+  <path d="M90,110 Q145,38 200,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <!-- Dome sheen highlight -->
   <path d="M105,110 Q145,52 170,110" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Dome base drum -->
-  <rect x="88" y="106" width="114" height="12" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="88" y="106" width="114" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- 4 columns on lower building -->
-  <rect x="44" y="126" width="16" height="74" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <rect x="90" y="126" width="16" height="74" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <rect x="184" y="126" width="16" height="74" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <rect x="230" y="126" width="16" height="74" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="44" y="126" width="16" height="74" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="90" y="126" width="16" height="74" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="184" y="126" width="16" height="74" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <rect x="230" y="126" width="16" height="74" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- ATOM / ORBIT EMBLEM on facade (centred) -->
   <!-- Nucleus -->
-  <circle cx="145" cy="162" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <circle cx="145" cy="162" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- 3 elliptical orbits -->
   <ellipse cx="145" cy="162" rx="34" ry="14" fill="none" stroke="#1a1a1a" stroke-width="3.81"/>
   <ellipse cx="145" cy="162" rx="34" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(60,145,162)"/>
   <ellipse cx="145" cy="162" rx="34" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-60,145,162)"/>
   <!-- Electrons on orbits -->
-  <circle cx="179" cy="162" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="128" cy="150" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="128" cy="174" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="179" cy="162" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="128" cy="150" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="128" cy="174" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

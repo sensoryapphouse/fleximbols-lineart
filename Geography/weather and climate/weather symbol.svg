@@ -7,7 +7,7 @@
 <line x1="250" y1="140" x2="268" y2="122"/>
 </g>
 <!-- sun disc -->
-<circle cx="196" cy="194" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="196" cy="194" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- cloud overlapping sun -->
 <path d="M 196 318
   a 52 52 0 0 1 96 -22
@@ -16,7 +16,7 @@
   L 196 418
   a 50 50 0 0 1 -36 -85
   a 46 46 0 0 1 36 -15 Z"
-  fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+  fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- raindrops -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
 <path d="M 214 432 q -10 18 0 26 q 10 -8 0 -26 Z"/>

@@ -23,6 +23,6 @@
 <circle cx="204" cy="358" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
 <circle cx="256" cy="358" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
 <circle cx="308" cy="358" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="256" cy="416" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 242 404 q -6 0 -6 8 q 0 24 26 24 q 8 0 8 -6 l -4 -8 q -2 -4 -7 -2 l -5 2 q -8 -4 -10 -12 l 2 -5 q 2 -5 -2 -7 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="256" cy="416" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 242 404 q -6 0 -6 8 q 0 24 26 24 q 8 0 8 -6 l -4 -8 q -2 -4 -7 -2 l -5 2 q -8 -4 -10 -12 l 2 -5 q 2 -5 -2 -7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
 </g></svg>

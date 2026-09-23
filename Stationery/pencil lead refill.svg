@@ -2,20 +2,20 @@
   <!-- Pencil lead refill: small tube/cartridge + individual lead sticks -->
   <!-- Tube/cartridge laid horizontally in upper area -->
   <!-- Tube cap (right end, round) -->
-  <ellipse cx="244" cy="95" rx="14" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="244" cy="95" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Tube body -->
   <rect x="70" y="73" width="174" height="44" rx="0" fill="#1a1a1a" stroke="none"/>
   <!-- Tube body left end cap ellipse -->
-  <ellipse cx="70" cy="95" rx="14" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="70" cy="95" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Tube body sides (draw over) -->
   <line x1="70" y1="73" x2="244" y2="73" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="70" y1="117" x2="244" y2="117" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Tube label/color band -->
-  <rect x="90" y="75" width="138" height="40" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="90" y="75" width="138" height="40" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Label highlight stripe -->
-  <rect x="100" y="78" width="118" height="14" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="100" y="78" width="118" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Tube window (shows leads inside) -->
-  <rect x="118" y="80" width="60" height="30" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="118" y="80" width="60" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Individual lead sticks visible through window -->
   <line x1="122" y1="88" x2="174" y2="88" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
   <line x1="122" y1="93" x2="174" y2="93" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
@@ -23,9 +23,9 @@
   <line x1="122" y1="103" x2="174" y2="103" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
 
   <!-- Tube cap right end detail -->
-  <ellipse cx="244" cy="95" rx="14" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <ellipse cx="244" cy="95" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Push button nub on cap -->
-  <ellipse cx="258" cy="95" rx="6" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="258" cy="95" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Individual lead sticks scattered below the tube -->
   <!-- Lead stick 1 (long, horizontal) -->

@@ -19,7 +19,7 @@
 <line x1="256" y1="256" x2="114" y2="200"/>
 </g>
 <!-- body globe -->
-<circle cx="256" cy="256" r="86" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="256" r="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- short inner spine stubs / texture on the dome -->
 <g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
 <line x1="256" y1="200" x2="256" y2="184"/>

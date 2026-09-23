@@ -15,11 +15,11 @@
   <!-- Shaft -->
   <line x1="80" y1="55" x2="80" y2="125" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Top arrow head -->
-  <polygon points="80,42 70,58 90,58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <polygon points="80,42 70,58 90,58" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <!-- Bottom arrow head -->
-  <polygon points="80,138 70,122 90,122" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <polygon points="80,138 70,122 90,122" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <!-- Peak marker dot -->
-  <circle cx="70" cy="50" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="70" cy="50" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Trough indicator (just a smaller bracket below to reinforce amplitude meaning) -->
-  <circle cx="150" cy="210" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="150" cy="210" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
 </g></svg>

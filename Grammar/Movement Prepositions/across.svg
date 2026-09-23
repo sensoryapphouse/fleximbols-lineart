@@ -4,8 +4,8 @@
 <line x1="256" y1="120" x2="256" y2="160" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="256" y1="236" x2="256" y2="276" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="256" y1="352" x2="256" y2="392" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="84" cy="256" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 84.0 263.0 L 358.0 263.0 L 358.0 272.0 L 392.0 256.0 L 358.0 240.0 L 358.0 249.0 L 84.0 249.0 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="84" cy="256" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 84.0 263.0 L 358.0 263.0 L 358.0 272.0 L 392.0 256.0 L 358.0 240.0 L 358.0 249.0 L 84.0 249.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
 
-<circle cx="428" cy="256" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="428" cy="256" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

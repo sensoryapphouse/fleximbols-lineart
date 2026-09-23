@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9710) translate(-258.00 -267.50)">
 <rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <!-- sea backdrop -->
-<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.15" />
+<rect x="0.0" y="0.0" width="512.0" height="512.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15" />
 <!-- subtle deep-sea swirl tint under the storm -->
-<circle cx="256" cy="256" r="232" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.15" />
+<circle cx="256" cy="256" r="232" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15" />
 <!-- thick spiral cloud bands wrapping the eye (drawn dark base + light cloud on top) -->
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
 <!-- outer band -->

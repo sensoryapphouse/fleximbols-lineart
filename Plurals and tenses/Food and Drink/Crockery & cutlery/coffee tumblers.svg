@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- tall insulated tumbler with straw lid -->
   <!-- body (tall, slight taper) -->
-  <path d="M 100 45 L 190 45 L 184 215 L 106 215 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="35.57" stroke-linejoin="round"/>
+  <path d="M 100 45 L 190 45 L 184 215 L 106 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="35.57" stroke-linejoin="round"/>
   <!-- highlight stripe -->
   <path d="M 112 60 L 116 200" fill="none" stroke="#1a1a1a" stroke-width="53.35" stroke-linecap="round"/>
   <!-- lid -->
-  <rect x="96" y="32" width="98" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="35.57" stroke-linejoin="round"/>
+  <rect x="96" y="32" width="98" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="35.57" stroke-linejoin="round"/>
   <!-- straw -->
-  <rect x="138" y="8" width="14" height="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="26.67" stroke-linejoin="round"/>
+  <rect x="138" y="8" width="14" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="26.67" stroke-linejoin="round"/>
   <!-- straw tip -->
-  <ellipse cx="145" cy="9" rx="7" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="17.78"/>
+  <ellipse cx="145" cy="9" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="17.78"/>
   <!-- band -->
-  <rect x="104" y="120" width="82" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="26.67"/>
+  <rect x="104" y="120" width="82" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="26.67"/>
   <!-- TUMBLER label paths -->
   <!-- T -->
   <path d="M 108 124 L 116 124 L 116 126 L 113 126 L 113 136 L 111 136 L 111 126 L 108 126 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>

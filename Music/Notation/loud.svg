@@ -4,7 +4,7 @@
 <path d="M 272.6 204.0 A 66.0 66.0 0 0 1 272.6 308.0" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 296.0 174.0 A 104.0 104.0 0 0 1 296.0 338.0" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 319.4 144.1 A 142.0 142.0 0 0 1 319.4 367.9" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-<ellipse cx="372.0" cy="150.0" rx="25.7" ry="18.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 372.0 150.0)"/>
+<ellipse cx="372.0" cy="150.0" rx="25.7" ry="18.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 372.0 150.0)"/>
 <line x1="394.1" y1="145.3" x2="394.1" y2="73.6" stroke="#1a1a1a" stroke-width="9.36" stroke-linecap="round"/>
 <path d="M 394.1 73.6 Q 428.5 89.2 417.5 121.9" fill="none" stroke="#1a1a1a" stroke-width="10.14" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -4,7 +4,7 @@
   <!-- middle pulse ring -->
   <path d="M145 207 C116 188 36 144 36 84 C36 52 58 30 88 30 C112 30 132 43 145 61 C158 43 178 30 202 30 C232 30 254 52 254 84 C254 144 174 188 145 207 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- main heart (central, bold) -->
-  <path d="M145 198 C120 178 40 136 40 88 C40 60 60 40 88 40 C110 40 130 54 145 72 C160 54 180 40 202 40 C230 40 250 60 250 88 C250 136 170 178 145 198 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 198 C120 178 40 136 40 88 C40 60 60 40 88 40 C110 40 130 54 145 72 C160 54 180 40 202 40 C230 40 250 60 250 88 C250 136 170 178 145 198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- heart highlight -->
-  <ellipse cx="112" cy="72" rx="17" ry="10" fill="#FFFFFF" transform="rotate(-30 112 72)" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="112" cy="72" rx="17" ry="10" fill="#ffffff" transform="rotate(-30 112 72)" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

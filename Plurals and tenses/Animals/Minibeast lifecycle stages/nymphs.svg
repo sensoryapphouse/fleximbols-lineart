@@ -6,12 +6,12 @@
 <path d="M 270 312 L 256 372" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 300 308 L 300 370" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- abdomen -->
-<ellipse cx="250" cy="280" rx="78" ry="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="250" cy="280" rx="78" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- stubby wing bud -->
-<path d="M 250 248 Q 320 240 318 296 Q 280 300 250 280 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 250 248 Q 320 240 318 296 Q 280 300 250 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- thorax / head -->
-<circle cx="330" cy="262" r="42" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="348" cy="250" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="330" cy="262" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="348" cy="250" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="350" cy="252" r="5" fill="#1a1a1a"/>
 <!-- antennae -->
 <path d="M 348 224 q 8 -34 30 -42" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

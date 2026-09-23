@@ -3,7 +3,7 @@
 <path d="M 252 210 C 286 196 312 200 338 218" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <path d="M 240 280 C 210 268 190 248 178 220" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <path d="M 268 150 C 296 138 318 140 338 156" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
-<circle cx="280" cy="108" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="338" cy="218" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="178" cy="220" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="280" cy="108" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="338" cy="218" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="178" cy="220" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

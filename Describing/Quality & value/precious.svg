@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="83.04 66.83 351.03 351.03"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
 <!-- precious: a cut gemstone (diamond) with sparkle accents -->
 <!-- crown facets (top band) -->
-<polygon points="176,210 256,210 232,154 200,154" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<polygon points="256,210 336,210 312,154 280,154" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<polygon points="232,154 280,154 270,124 242,124" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="176,210 256,210 232,154 200,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="256,210 336,210 312,154 280,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="232,154 280,154 270,124 242,124" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- table (flat top) -->
-<polygon points="200,154 312,154 280,124 232,124" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="200,154 312,154 280,124 232,124" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- pavilion (lower point) -->
-<polygon points="176,210 336,210 256,360" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="176,210 336,210 256,360" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- pavilion inner facet lines -->
 <line x1="232" y1="210" x2="256" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="280" y1="210" x2="256" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

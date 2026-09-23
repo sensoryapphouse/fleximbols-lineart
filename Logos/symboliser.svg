@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
   <!-- Symboliser: indigo rounded square with A → asterisk transformation -->
   <!-- Background -->
-  <rect width="1024" height="1024" rx="184" ry="184" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+  <rect width="1024" height="1024" rx="184" ry="184" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 
   <!-- Letter A (top-left) -->
   <text x="195" y="395" text-anchor="middle"

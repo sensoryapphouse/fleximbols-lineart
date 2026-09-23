@@ -18,16 +18,16 @@
 <line x1="314" y1="304" x2="356" y2="196"/>
 </g>
 <!-- rounded body -->
-<path d="M 168 350 Q 150 290 220 286 Q 360 280 360 350 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 168 350 L 360 350 Q 360 384 330 384 L 198 384 Q 168 384 168 350 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 350 Q 150 290 220 286 Q 360 280 360 350 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 350 L 360 350 Q 360 384 330 384 L 198 384 Q 168 384 168 350 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="176" y1="350" x2="352" y2="350" stroke="#1a1a1a" stroke-width="7"/>
 <!-- light face area to the left -->
-<path d="M 168 346 Q 110 342 100 364 Q 110 388 150 382 Q 176 376 174 356 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 168 346 Q 110 342 100 364 Q 110 388 150 382 Q 176 376 174 356 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
 <!-- nose -->
 <ellipse cx="100" cy="366" rx="13" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <!-- eye -->
 <circle cx="150" cy="356" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="147" cy="353" r="2.6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="147" cy="353" r="2.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- feet -->
 <rect x="190" y="376" width="20" height="26" rx="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="300" y="376" width="20" height="26" rx="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>

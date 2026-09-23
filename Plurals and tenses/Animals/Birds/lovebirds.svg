@@ -2,30 +2,30 @@
   <!-- Branch -->
   <path d="M 30,200 Q 145,192 255,200" fill="none" stroke="#1a1a1a" stroke-width="10.15" stroke-linecap="round"/>
   <!-- Body — stocky, rounded parrot -->
-  <ellipse cx="145" cy="158" rx="52" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="158" rx="52" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wing detail -->
-  <path d="M 100,148 Q 95,168 100,188 Q 118,198 145,198 Q 172,198 188,188 Q 193,168 188,148 Q 168,140 145,138 Q 122,140 100,148 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 100,148 Q 95,168 100,188 Q 118,198 145,198 Q 172,198 188,188 Q 193,168 188,148 Q 168,140 145,138 Q 122,140 100,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wing highlight feathers -->
   <path d="M 105,160 Q 125,155 145,155 Q 165,155 183,160" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <path d="M 103,172 Q 124,167 145,167 Q 166,167 185,172" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Breast lighter green -->
-  <ellipse cx="145" cy="172" rx="30" ry="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="145" cy="172" rx="30" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Tail short-ish, rounded parrot tail -->
-  <path d="M 122,208 Q 145,218 168,208 Q 162,228 145,232 Q 128,228 122,208 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 122,208 Q 145,218 168,208 Q 162,228 145,232 Q 128,228 122,208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Rosy face — key lovebird feature -->
-  <ellipse cx="145" cy="118" rx="38" ry="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="118" rx="38" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Orange-red forehead/crown -->
-  <path d="M 115,108 Q 145,90 175,108 Q 168,118 145,120 Q 122,118 115,108 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 115,108 Q 145,90 175,108 Q 168,118 145,120 Q 122,118 115,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Rosy cheek patches -->
-  <ellipse cx="122" cy="124" rx="14" ry="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="168" cy="124" rx="14" ry="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="122" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="168" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Eyes -->
   <circle cx="132" cy="116" r="7" fill="#1a1a1a"/>
-  <circle cx="134" cy="114" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="134" cy="114" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="158" cy="116" r="7" fill="#1a1a1a"/>
-  <circle cx="160" cy="114" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="160" cy="114" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Stubby hooked beak -->
-  <path d="M 136,130 Q 145,126 154,130 Q 157,136 153,141 Q 148,145 142,141 Q 138,136 136,130 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 136,130 Q 145,126 154,130 Q 157,136 153,141 Q 148,145 142,141 Q 138,136 136,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Beak hook -->
   <path d="M 153,141 Q 157,146 153,150 Q 148,152 145,147" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Feet on branch -->

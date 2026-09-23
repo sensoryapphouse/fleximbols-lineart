@@ -12,35 +12,35 @@
 
   <!-- Magnolia bloom - large open cup of 6 broad tepals -->
   <!-- Back tepals -->
-  <path d="M145,115 Q110,105 95,68 Q118,48 145,60 Q172,48 195,68 Q180,105 145,115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M145,115 Q110,105 95,68 Q118,48 145,60 Q172,48 195,68 Q180,105 145,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" data-lp="hair"/>
   <!-- Tepal veins back -->
   <path d="M145,115 Q130,90 118,65" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
   <path d="M145,115 Q160,90 172,65" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
 
   <!-- Side tepals left -->
-  <path d="M145,115 Q98,120 75,88 Q80,58 110,55 Q135,75 145,115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M145,115 Q98,120 75,88 Q80,58 110,55 Q135,75 145,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <path d="M145,115 Q108,95 88,70" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
 
   <!-- Side tepals right -->
-  <path d="M145,115 Q192,120 215,88 Q210,58 180,55 Q155,75 145,115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M145,115 Q192,120 215,88 Q210,58 180,55 Q155,75 145,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <path d="M145,115 Q182,95 202,70" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
 
   <!-- Front inner tepals -->
-  <path d="M145,115 Q118,110 108,80 Q125,60 145,70 Q165,60 182,80 Q172,110 145,115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M145,115 Q118,110 108,80 Q125,60 145,70 Q165,60 182,80 Q172,110 145,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <path d="M145,115 Q132,92 130,72" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
   <path d="M145,115 Q158,92 160,72" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
 
   <!-- Centre - stamens cluster -->
-  <ellipse cx="145" cy="88" rx="12" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11"/>
+  <ellipse cx="145" cy="88" rx="12" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
   <!-- Stamen details -->
   <line x1="140" y1="82" x2="138" y2="74" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <line x1="145" y1="80" x2="145" y2="72" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <line x1="150" y1="82" x2="152" y2="74" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
-  <circle cx="138" cy="73" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="145" cy="71" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="152" cy="73" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="138" cy="73" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="145" cy="71" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="152" cy="73" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
 
   <!-- Small bud on side branch -->
-  <path d="M165,138 Q158,125 163,112 Q170,108 175,115 Q178,128 165,138 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M165,138 Q158,125 163,112 Q170,108 175,115 Q178,128 165,138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <path d="M165,138 Q171,125 167,112" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
 </g></svg>

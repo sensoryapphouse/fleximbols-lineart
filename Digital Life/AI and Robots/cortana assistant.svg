@@ -5,8 +5,8 @@
   <circle cx="145" cy="110" r="56" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
   <circle cx="145" cy="110" r="40" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- bright core -->
-  <circle cx="145" cy="110" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="145" cy="110" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="110" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="145" cy="110" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 
   <!-- voice waves left -->
   <path d="M 56 110 Q 50 100 56 90" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
@@ -16,7 +16,7 @@
   <path d="M 248 116 Q 258 102 248 88" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
 
   <!-- CORTANA bar (path-like text representation) -->
-  <rect x="78" y="206" width="134" height="14" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="78" y="206" width="134" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="92" y1="208" x2="92" y2="218" stroke="#ffffff" stroke-width="2.96"/>
   <line x1="108" y1="208" x2="108" y2="218" stroke="#ffffff" stroke-width="2.96"/>
   <line x1="124" y1="208" x2="124" y2="218" stroke="#ffffff" stroke-width="2.96"/>

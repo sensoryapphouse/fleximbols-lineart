@@ -2,7 +2,7 @@
 <!-- punctual: clock at the exact hour + green tick = right on time -->
 <g>
 <!-- clock body -->
-<circle cx="240" cy="256" r="150" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="240" cy="256" r="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="240" cy="256" r="150" fill="none" stroke="#1a1a1a" stroke-width="0"/>
 <!-- hour ticks -->
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
@@ -16,9 +16,9 @@
 <line x1="240" y1="256" x2="240" y2="186" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <circle cx="240" cy="256" r="13" fill="#1a1a1a"/>
 <!-- top button -->
-<rect x="226" y="92" width="28" height="22" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="226" y="92" width="28" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- green tick badge -->
-<circle cx="372" cy="372" r="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="372" cy="372" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <polyline points="344,374 364,396 402,348" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 </svg>

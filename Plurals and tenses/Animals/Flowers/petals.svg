@@ -2,7 +2,7 @@
 <g transform="translate(256 256)">
 <!-- one single large petal, teardrop, tilted -->
 <g transform="rotate(-20)">
-<path d="M 0 150 C -90 100 -90 -60 0 -150 C 90 -60 90 100 0 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 0 150 C -90 100 -90 -60 0 -150 C 90 -60 90 100 0 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- central vein -->
 <line x1="0" y1="128" x2="0" y2="-120" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- side veins -->

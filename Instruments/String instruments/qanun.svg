@@ -2,9 +2,9 @@
   <!-- Qanun: flat trapezoid box zither, many parallel strings, row of levers (mandal) on left side -->
 
   <!-- Main trapezoid body: wider on right, narrower on left -->
-  <polygon points="30,55 260,55 260,205 30,185" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <polygon points="30,55 260,55 260,205 30,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Inner face (slightly inset) -->
-  <polygon points="38,63 252,63 252,197 38,177" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <polygon points="38,63 252,63 252,197 38,177" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Parallel strings across the top surface (many close strings) -->
   <line x1="52" y1="70" x2="252" y2="70" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -29,21 +29,21 @@
   <line x1="52" y1="184" x2="252" y2="184" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- String bridge bar on right side -->
-  <rect x="248" y="62" width="8" height="137" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="248" y="62" width="8" height="137" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Left side lever panel (mandal levers — row of small toggles) -->
-  <rect x="30" y="63" width="22" height="114" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="30" y="63" width="22" height="114" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Individual levers (small rectangles) -->
-  <rect x="33" y="68" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="79" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="90" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="101" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="112" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="123" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="134" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="145" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="156" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="167" width="16" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="68" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="79" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="90" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="101" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="112" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="123" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="134" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="145" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="156" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="33" y="167" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Sound holes on body -->
   <circle cx="155" cy="215" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>

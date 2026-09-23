@@ -6,10 +6,10 @@
 <line x1="54" y1="342" x2="150" y2="342" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- paper plane: top wing -->
 <path d="M 150 300 L 470 168 L 286 318 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- paper plane: lower body wing -->
 <path d="M 150 300 L 470 168 L 280 372 L 252 320 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- center crease fold -->
 <line x1="286" y1="318" x2="470" y2="168" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- forward arrow -->

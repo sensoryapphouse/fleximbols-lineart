@@ -4,15 +4,15 @@
   <ellipse cx="256" cy="345" rx="230" ry="140" fill="none" stroke="#1a1a1a" stroke-width="8.72" stroke-dasharray="14,10" />
 
   
-  <polygon points="485,345 470,330 478,360" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.49" stroke-linejoin="round" />
+  <polygon points="485,345 470,330 478,360" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.49" stroke-linejoin="round" />
 
   
   <rect x="140" y="270" width="232" height="44" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.97" />
-  <path d="M 140 314 L 372 314 L 388 326 L 124 326 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.97" stroke-linejoin="round" />
-  <rect x="120" y="326" width="272" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.72" />
+  <path d="M 140 314 L 372 314 L 388 326 L 124 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.97" stroke-linejoin="round" />
+  <rect x="120" y="326" width="272" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.72" />
 
   
-  <circle cx="256" cy="170" r="54" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.72" />
-  <circle cx="236" cy="150" r="16" fill="#FFFFFF"  stroke="#1a1a1a" stroke-width="6.04" />
+  <circle cx="256" cy="170" r="54" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.72" />
+  <circle cx="236" cy="150" r="16" fill="#ffffff"  stroke="#1a1a1a" stroke-width="6.04" />
 </g>
   </g></svg>

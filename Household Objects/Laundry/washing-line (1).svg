@@ -3,11 +3,11 @@
 <line x1="416" y1="150" x2="416" y2="400" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <path d="M 96 160 Q 256 226 416 160" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
-<path d="M 150 178 L 130 270 Q 128 286 150 290 L 196 296 Q 214 298 214 282 L 200 190 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<path d="M 150 178 L 130 270 Q 128 286 150 290 L 196 296 Q 214 298 214 282 L 200 190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <line x1="150" y1="178" x2="200" y2="190" stroke="#1a1a1a" stroke-width="9"/>
-<path d="M 252 198 L 240 300 Q 239 316 258 316 L 300 316 Q 318 316 314 300 L 300 198 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<path d="M 252 198 L 240 300 Q 239 316 258 316 L 300 316 Q 318 316 314 300 L 300 198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <line x1="252" y1="198" x2="300" y2="198" stroke="#1a1a1a" stroke-width="9"/>
-<path d="M 356 190 L 332 282 Q 330 298 350 300 L 392 290 Q 410 286 404 270 L 384 178 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<path d="M 356 190 L 332 282 Q 330 298 350 300 L 392 290 Q 410 286 404 270 L 384 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <line x1="356" y1="190" x2="384" y2="178" stroke="#1a1a1a" stroke-width="9"/>
 </g>
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5">

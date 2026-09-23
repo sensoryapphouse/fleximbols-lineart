@@ -3,16 +3,16 @@
   <path d="M 10 195 Q 40 188 70 195 T 130 195 T 190 195 T 250 195 T 290 195" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M 10 215 Q 40 208 70 215 T 130 215 T 190 215 T 250 215 T 290 215" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- big colourful beach ball -->
-  <circle cx="145" cy="120" r="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11"/>
+  <circle cx="145" cy="120" r="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11"/>
   <!-- ball panels (alternating colour wedges) -->
-  <path d="M 145 120 L 145 40 A 80 80 0 0 1 222 100 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 145 120 L 222 100 A 80 80 0 0 1 222 140 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 145 120 L 222 140 A 80 80 0 0 1 145 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 145 120 L 145 200 A 80 80 0 0 1 68 140 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 145 120 L 68 140 A 80 80 0 0 1 68 100 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 145 120 L 68 100 A 80 80 0 0 1 145 40 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 145 40 A 80 80 0 0 1 222 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 222 100 A 80 80 0 0 1 222 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 222 140 A 80 80 0 0 1 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 145 200 A 80 80 0 0 1 68 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 68 140 A 80 80 0 0 1 68 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 145 120 L 68 100 A 80 80 0 0 1 145 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- top valve cap -->
-  <ellipse cx="145" cy="42" rx="8" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <ellipse cx="145" cy="42" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- shine highlight -->
-  <ellipse cx="110" cy="80" rx="14" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(-30 110 80)"/>
+  <ellipse cx="110" cy="80" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(-30 110 80)"/>
 </g></svg>

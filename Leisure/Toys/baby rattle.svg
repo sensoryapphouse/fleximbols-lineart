@@ -2,17 +2,17 @@
   <!-- modern silicone rattle: ring grip with bead head -->
   <!-- ring handle -->
   <circle cx="100" cy="160" r="48" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="100" cy="160" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="100" cy="160" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="160" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="100" cy="160" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- connector neck -->
-  <rect x="138" y="100" width="22" height="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 149 120)"/>
+  <rect x="138" y="100" width="22" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 149 120)"/>
   <!-- bead head (clear ball with smaller beads inside) -->
-  <circle cx="200" cy="70" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <circle cx="200" cy="70" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- inner beads -->
-  <circle cx="188" cy="62" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="210" cy="58" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="216" cy="82" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="192" cy="86" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="188" cy="62" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="58" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="216" cy="82" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="192" cy="86" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- highlight on ball -->
   <path d="M178 50 Q172 60 174 76" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

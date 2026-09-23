@@ -12,7 +12,7 @@
          L 344 392 L 300 350
          Q 256 366 212 350
          L 168 392 L 156 356 L 112 372 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- drape folds -->
 <path d="M 200 200 Q 210 280 196 344" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 312 200 Q 302 280 316 344" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

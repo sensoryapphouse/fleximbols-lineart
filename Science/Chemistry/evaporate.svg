@@ -11,9 +11,9 @@
 <line x1="116" y1="66" x2="116" y2="46" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="141" y1="73" x2="151" y2="55" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="159" y1="91" x2="177" y2="81" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="116.0" cy="116.0" r="42.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 176.0 340 L 176.0 432 Q 176.0 446 198.0 446 L 394.0 446 Q 416.0 446 416.0 432 L 416.0 340" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<rect x="176.0" y="380.0" width="240.0" height="52.0" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="116.0" cy="116.0" r="42.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 176.0 340 L 176.0 432 Q 176.0 446 198.0 446 L 394.0 446 Q 416.0 446 416.0 432 L 416.0 340" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<rect x="176.0" y="380.0" width="240.0" height="52.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <line x1="176" y1="380" x2="416" y2="380" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 176.0 340 L 176.0 432 Q 176.0 446 198.0 446 L 394.0 446 Q 416.0 446 416.0 432 L 416.0 340" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 416.0 340 q 18 -4 26 -16" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
@@ -22,12 +22,12 @@
 <path d="M 274 376 q -16 -26 0 -47 q 16 -26 0 -47 q -16 -26 0 -47" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 326 376 q -16 -26 0 -47 q 16 -26 0 -47 q -16 -26 0 -47" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 376 376 q -16 -26 0 -47 q 16 -26 0 -47 q -16 -26 0 -47" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<path d="M 248 248 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 304 210 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 358 250 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 290 280 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 248 248 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 304 210 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 358 250 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 290 280 q -11 15 0 24 q 11 -8 0 -24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
 <line x1="200" y1="322" x2="200" y2="260" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
-<polygon points="200.0,239.3 213.0,262.4 187.0,262.4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="200.0,239.3 213.0,262.4 187.0,262.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="400" y1="322" x2="400" y2="260" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
-<polygon points="400.0,239.3 413.0,262.4 387.0,262.4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="400.0,239.3 413.0,262.4 387.0,262.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

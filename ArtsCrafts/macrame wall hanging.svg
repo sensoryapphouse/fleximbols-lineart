@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Macrame wall hanging: wooden dowel + knotted rope + tassels (boho) -->
   <!-- Wooden dowel rod -->
-  <rect x="40" y="22" width="210" height="14" rx="6" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="40" y="22" width="210" height="14" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <line x1="55" y1="29" x2="240" y2="29" stroke="#1a1a1a" stroke-width="2.67"/>
   <!-- Dowel end caps -->
-  <circle cx="45" cy="29" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="245" cy="29" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="45" cy="29" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="29" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Hanging cord -->
   <path d="M 60 22 Q 145 0 230 22" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <path d="M 60 22 Q 145 0 230 22" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
 
   <!-- Top row: square knots attached to dowel -->
   <g stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round">
-    <rect x="55" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="82" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="109" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="136" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="163" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="190" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <rect x="217" y="40" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="55" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="82" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="109" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="136" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="163" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="190" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <rect x="217" y="40" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
   <!-- Knot detail: small X on each -->
   <g stroke="#1a1a1a" stroke-width="3.33" fill="none">
@@ -51,11 +51,11 @@
 
   <!-- Square knot beads along the diagonals -->
   <g stroke="#1a1a1a" stroke-width="4.45">
-    <circle cx="105" cy="90" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <circle cx="185" cy="90" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <circle cx="125" cy="105" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <circle cx="165" cy="105" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <circle cx="145" cy="120" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <circle cx="105" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <circle cx="185" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <circle cx="125" cy="105" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <circle cx="165" cy="105" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <circle cx="145" cy="120" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
 
   <!-- Tassel cords hanging below -->
@@ -88,9 +88,9 @@
 
   <!-- Tassel binding caps on a few cords -->
   <g stroke="#1a1a1a" stroke-width="4.45">
-    <ellipse cx="98" cy="170" rx="8" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="145" cy="175" rx="10" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-    <ellipse cx="192" cy="170" rx="8" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="98" cy="170" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="145" cy="175" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+    <ellipse cx="192" cy="170" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   </g>
 
   <!-- Frayed tassel ends - small fan -->

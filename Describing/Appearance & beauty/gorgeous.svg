@@ -2,11 +2,11 @@
 <!-- a sparkling cut diamond/gem = gorgeous -->
 <g transform="translate(256 250)">
 <!-- crown facets -->
-<polygon points="-120,-30 -70,-90 70,-90 120,-30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="-120,-30 -70,-90 70,-90 120,-30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- pavilion (point) -->
-<polygon points="-120,-30 120,-30 0,140" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="-120,-30 120,-30 0,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- table top -->
-<polygon points="-70,-90 70,-90 120,-30 -120,-30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" opacity="0"/>
+<polygon points="-70,-90 70,-90 120,-30 -120,-30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" opacity="0"/>
 <!-- internal facet lines -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill="none">
 <line x1="-70" y1="-90" x2="-44" y2="-30"/>
@@ -18,7 +18,7 @@
 <line x1="120" y1="-30" x2="44" y2="-30"/>
 </g>
 <!-- highlight -->
-<polygon points="-58,-78 -16,-78 -34,-36 -64,-36" fill="#FFFFFF" stroke-width="0" stroke="#1a1a1a" />
+<polygon points="-58,-78 -16,-78 -34,-36 -64,-36" fill="#ffffff" stroke-width="0" stroke="#1a1a1a" />
 </g>
 <!-- sparkles -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">

@@ -2,7 +2,7 @@
 <!-- ground line -->
 <line x1="60" y1="430" x2="452" y2="430" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <!-- stacked-stone cylindrical wall (man-made) -->
-<path d="M 120 430 L 120 300 L 392 300 L 392 430 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 120 430 L 120 300 L 392 300 L 392 430 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- stacked stone block courses: horizontal mortar lines -->
 <line x1="120" y1="340" x2="392" y2="340" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="120" y1="386" x2="392" y2="386" stroke="#1a1a1a" stroke-width="5"/>
@@ -17,9 +17,9 @@
 <line x1="248" y1="386" x2="248" y2="430" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="320" y1="386" x2="320" y2="430" stroke="#1a1a1a" stroke-width="4"/>
 <!-- thatch / turf conical roof overhanging the walls, with a clear ridge peak -->
-<path d="M 96 304 L 256 168 L 416 304 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 96 304 L 256 168 L 416 304 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- roof ridge / peak cap -->
-<circle cx="256" cy="168" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="168" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <!-- thatch combing lines -->
 <line x1="160" y1="280" x2="200" y2="226" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="220" y1="290" x2="244" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

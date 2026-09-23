@@ -11,8 +11,8 @@
     </mdcr:info>
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
-    <polygon points="324,115 324,115 324,119 325,123 328,126 332,128 332,128 332,128 337,128 341,127 344,124 345,120 362,47 362,47 362,43 361,39 358,36 354,34 354,34 354,34 349,34 345,35 342,38 340,42 324,115" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="177,160 144,313 254,461 407,378 445,229 339,118 177,160" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="324,115 324,115 324,119 325,123 328,126 332,128 332,128 332,128 337,128 341,127 344,124 345,120 362,47 362,47 362,43 361,39 358,36 354,34 354,34 354,34 349,34 345,35 342,38 340,42 324,115" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="177,160 144,313 254,461 407,378 445,229 339,118 177,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="151,313 301,283 407,378" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="339,118 301,283 254,461" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>

@@ -7,12 +7,12 @@
 <line x1="163" y1="141" x2="141" y2="119" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="232" y1="112" x2="232" y2="82" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="301" y1="141" x2="323" y2="119" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<circle cx="232.0" cy="210.0" r="84.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="232.0" cy="210.0" r="84.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 214 226 Q 214 186 232 186 Q 250 186 250 226" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<rect x="206.0" y="288.0" width="52.0" height="18.0" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="210.0" y="306.0" width="44.0" height="16.0" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="206.0" y="288.0" width="52.0" height="18.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="210.0" y="306.0" width="44.0" height="16.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="210" y1="312" x2="254" y2="312" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 214 322 L 250 322 L 242 336 L 222 336 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="372.0" cy="360.0" r="52.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 214 322 L 250 322 L 242 336 L 222 336 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="372.0" cy="360.0" r="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <path d="M 331.2 358 L 360.0 391.6 L 420.0 317.2" fill="none" stroke="#1a1a1a" stroke-width="21.599999999999998" stroke-linejoin="round"/>
 </g></svg>

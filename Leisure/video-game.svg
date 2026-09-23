@@ -2,10 +2,10 @@
 <path d="M 150 226 Q 256 200 362 226 Q 420 240 432 320 Q 440 384 392 392 Q 352 396 332 356 Q 316 326 256 326 Q 196 326 180 356 Q 160 396 120 392 Q 72 384 80 320 Q 92 240 150 226 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <rect x="158" y="256" width="20" height="60" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <rect x="138" y="276" width="60" height="20" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="348" cy="262" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="372" cy="286" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="324" cy="286" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="348" cy="310" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="348" cy="262" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="372" cy="286" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="324" cy="286" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="348" cy="310" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
 <circle cx="220" cy="322" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
 <circle cx="292" cy="322" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
 <rect x="238" y="244" width="16" height="8" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>

@@ -2,7 +2,7 @@
   <!-- DJ Deck / Turntable: circular platter with record, tonearm, pitch slider, buttons -->
 
   <!-- Main unit body -->
-  <rect x="20" y="50" width="250" height="170" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="20" y="50" width="250" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Top surface panel -->
   <rect x="20" y="50" width="250" height="10" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 
@@ -17,15 +17,15 @@
   <circle cx="118" cy="148" r="52" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <circle cx="118" cy="148" r="42" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Record label (centre) -->
-  <circle cx="118" cy="148" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="118" cy="148" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Label detail rings -->
   <circle cx="118" cy="148" r="20" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <circle cx="118" cy="148" r="12" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Spindle centre -->
-  <circle cx="118" cy="148" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="118" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
 
   <!-- Tonearm base -->
-  <circle cx="222" cy="82" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="222" cy="82" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Tonearm: angled arm from base to record edge -->
   <line x1="222" y1="82" x2="180" y2="118" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Headshell -->
@@ -38,11 +38,11 @@
   <rect x="236" y="118" width="20" height="12" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Start/Stop button -->
-  <circle cx="210" cy="168" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="210" cy="168" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Cue button -->
-  <circle cx="210" cy="200" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="210" cy="200" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- 33/45 RPM selector -->
-  <rect x="28" y="68" width="28" height="12" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="34" cy="74" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="28" y="68" width="28" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="34" cy="74" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

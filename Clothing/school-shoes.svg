@@ -3,10 +3,10 @@
 <rect x="90.5" y="249.9" width="182.2" height="23.9" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="234.0" y="242.6" width="36.8" height="14.7" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <rect x="162.2" y="183.7" width="20.2" height="69.9" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="158.6" y="213.1" width="27.6" height="16.6" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="#1a1a1a"/>
+<rect x="158.6" y="213.1" width="27.6" height="16.6" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 150 366 Q 150 316.32 203.36 316.32 L 288.0 316.32 Q 330.32 318.15999999999997 337.68 366 L 337.68 393.6 L 150 393.6 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <rect x="144.5" y="389.9" width="182.2" height="23.9" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="288.0" y="382.6" width="36.8" height="14.7" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <rect x="216.2" y="323.7" width="20.2" height="69.9" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="212.6" y="353.1" width="27.6" height="16.6" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="#1a1a1a"/>
+<rect x="212.6" y="353.1" width="27.6" height="16.6" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

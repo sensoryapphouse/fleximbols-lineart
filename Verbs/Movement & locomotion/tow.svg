@@ -4,18 +4,18 @@
 
   <!-- TOW TRUCK (left/front vehicle) -->
   <!-- Truck body/cab -->
-  <rect x="8" y="145" width="80" height="50" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="8" y="145" width="80" height="50" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Truck cab top -->
-  <rect x="10" y="118" width="50" height="30" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="10" y="118" width="50" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Cab window -->
-  <rect x="16" y="122" width="38" height="20" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="16" y="122" width="38" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Truck front bumper -->
-  <rect x="6" y="168" width="10" height="20" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="6" y="168" width="10" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Wheels of truck -->
-  <circle cx="30" cy="202" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="30" cy="202" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="76" cy="202" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="76" cy="202" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="30" cy="202" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="30" cy="202" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="76" cy="202" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="76" cy="202" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Truck boom/crane arm -->
   <line x1="80" y1="145" x2="108" y2="120" stroke="#1a1a1a" stroke-width="7.90" stroke-linecap="round"/>
   <line x1="80" y1="145" x2="108" y2="120" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
@@ -25,24 +25,24 @@
 
   <!-- BROKEN-DOWN CAR (right vehicle, being towed) -->
   <!-- Car body -->
-  <rect x="175" y="160" width="102" height="38" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="175" y="160" width="102" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Car roof -->
-  <rect x="192" y="140" width="68" height="24" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <rect x="192" y="140" width="68" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Windshield -->
-  <rect x="196" y="143" width="26" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="196" y="143" width="26" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Rear window -->
-  <rect x="235" y="143" width="22" height="18" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
+  <rect x="235" y="143" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Car wheels -->
-  <circle cx="200" cy="202" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="200" cy="202" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="253" cy="202" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="253" cy="202" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="202" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="200" cy="202" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="253" cy="202" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
+  <circle cx="253" cy="202" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Breakdown X mark on car -->
   <line x1="207" y1="168" x2="225" y2="188" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <line x1="225" y1="168" x2="207" y2="188" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
 
   <!-- Direction arrow (truck pulling left) -->
   <line x1="8" y1="150" x2="8" y2="135" stroke="none"/>
-  <polygon points="5,125 15,125 10,110" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.97" stroke-linejoin="round"/>
+  <polygon points="5,125 15,125 10,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linejoin="round"/>
   <line x1="10" y1="140" x2="10" y2="125" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
 </g></svg>

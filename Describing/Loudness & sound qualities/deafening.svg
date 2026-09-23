@@ -2,10 +2,10 @@
 <!-- speaker cabinet -->
 <rect x="84" y="120" width="180" height="272" rx="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <!-- big woofer -->
-<circle cx="174" cy="296" r="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="174" cy="296" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="174" cy="296" r="26" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <!-- tweeter -->
-<circle cx="174" cy="170" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="174" cy="170" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="174" cy="170" r="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <!-- blasting sound waves -->
 <g fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round">

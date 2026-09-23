@@ -29,5 +29,5 @@
   <!-- Rope/pulley: rope hangs from top, loops down -->
   <path d="M 145 20 Q 168 60 162 110 Q 158 140 148 160" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" fill="none" stroke-dasharray="5,3"/>
   <!-- Pulley wheel at top -->
-  <circle cx="148" cy="20" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="148" cy="20" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
 </g></svg>

@@ -2,8 +2,8 @@
 <line x1="256" y1="186" x2="256" y2="230" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="6 9" stroke-linecap="round"/>
 <line x1="200" y1="292" x2="200" y2="338" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="6 9" stroke-linecap="round"/>
 <line x1="312" y1="292" x2="312" y2="338" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="6 9" stroke-linecap="round"/>
-<circle cx="256.0" cy="150.0" r="40.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="166.0" y="226.0" width="180.0" height="70.0" rx="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="200.0" cy="372.0" r="38.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="312.0" cy="372.0" r="38.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256.0" cy="150.0" r="40.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="166.0" y="226.0" width="180.0" height="70.0" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="200.0" cy="372.0" r="38.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="312.0" cy="372.0" r="38.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

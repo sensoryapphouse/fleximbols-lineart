@@ -8,7 +8,7 @@
   <path d="M 75,152 L 75,120 Q 75,108 62,108 L 45,108 L 45,185" fill="none" stroke="#1a1a1a" stroke-width="19.99" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 75,152 L 75,120 Q 75,108 62,108 L 45,108 L 45,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Long strap going up from buckle area -->
-  <rect x="38" y="55" width="16" height="60" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="38" y="55" width="16" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Fabric weave texture on strap (horizontal lines) -->
   <line x1="46" y1="68" x2="46" y2="112" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="3,5" stroke-linecap="round"/>
   <!-- D-ring buckle at the top end of strap -->
@@ -17,7 +17,7 @@
   <!-- D-ring flat bar (the straight side of the D) -->
   <line x1="30" y1="45" x2="62" y2="45" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Buckle body where strap feeds through -->
-  <rect x="28" y="42" width="36" height="16" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="28" y="42" width="36" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Centre bar of buckle -->
   <line x1="46" y1="43" x2="46" y2="57" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Cotton strap texture lines on the long body sections -->

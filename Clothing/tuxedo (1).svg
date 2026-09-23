@@ -11,15 +11,15 @@
   <!-- Jacket body right panel -->
   <path d="M215 55 L215 165 L150 165 L150 90 L170 55 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Left satin lapel (shiny — use #4d4d4d for contrast) -->
-  <path d="M120 55 L102 82 L140 108 L140 90 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 55 L102 82 L140 108 L140 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Right satin lapel -->
-  <path d="M170 55 L188 82 L150 108 L150 90 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M170 55 L188 82 L150 108 L150 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- White dress shirt front -->
-  <path d="M140 90 L140 155 L150 155 L150 90 Q145 95 140 90 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 90 L140 155 L150 155 L150 90 Q145 95 140 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Shirt stud buttons -->
-  <circle cx="145" cy="105" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="118" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="131" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="131" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Cummerbund (key differentiator) -->
   <rect x="88" y="148" width="114" height="18" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Cummerbund pleats -->
@@ -32,7 +32,7 @@
   <!-- BOW TIE (the key differentiator) -->
   <path d="M127 88 L140 95 L127 102 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M163 88 L150 95 L163 102 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="95" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="95" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Trouser left leg -->
   <rect x="90" y="165" width="45" height="52" rx="5" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Trouser right leg -->

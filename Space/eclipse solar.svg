@@ -20,16 +20,16 @@
   <circle cx="145" cy="120" r="78" fill="none" stroke="#1a1a1a" stroke-width="15.55"/>
   <circle cx="145" cy="120" r="78" fill="none" stroke="#1a1a1a" stroke-width="6.66"/>
   <!-- Mid corona ring -->
-  <circle cx="145" cy="120" r="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="120" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Sun body (partially visible) — warm yellow ring -->
-  <circle cx="145" cy="120" r="56" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <circle cx="145" cy="120" r="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Moon disc (dark) passing in front -->
   <circle cx="145" cy="120" r="52" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Thin bright corona inner edge -->
   <circle cx="145" cy="120" r="52" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Stars visible during totality -->
-  <circle cx="55" cy="48" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="240" cy="55" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="58" cy="188" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="238" cy="185" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="55" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="240" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="58" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="238" cy="185" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
 </g></svg>

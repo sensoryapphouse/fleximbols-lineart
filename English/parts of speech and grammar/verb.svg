@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="128.93 107.60 325.82 325.82">
 <!-- verb = an object (ball) with motion arrows / action burst -->
-<circle cx="240" cy="270" r="86" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="240" cy="270" r="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <path d="M 240 184 C 268 210 268 250 240 270 C 268 290 268 330 240 356" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 198 200 L 240 270 L 198 340" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <!-- motion arrows -->

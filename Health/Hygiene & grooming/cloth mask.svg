@@ -3,7 +3,7 @@
   <path d="M 72,112 Q 45,112 45,133 Q 45,154 72,154" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 218,112 Q 245,112 245,133 Q 245,154 218,154" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- main mask body - teal fabric -->
-  <path d="M 72,88 Q 145,75 218,88 Q 222,110 222,133 Q 222,156 218,178 Q 145,191 72,178 Q 68,156 68,133 Q 68,110 72,88 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 72,88 Q 145,75 218,88 Q 222,110 222,133 Q 222,156 218,178 Q 145,191 72,178 Q 68,156 68,133 Q 68,110 72,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- fabric stitch pattern - horizontal dashed seams -->
   <line x1="80" y1="110" x2="210" y2="110" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,6"/>
   <line x1="78" y1="133" x2="212" y2="133" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,6"/>

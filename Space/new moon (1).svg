@@ -2,16 +2,16 @@
   <!-- Dark sky panel -->
   <rect x="26" y="32" width="238" height="176" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Stars -->
-  <circle cx="55" cy="50" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="100" cy="38" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="45" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="240" cy="60" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="60" cy="100" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="230" cy="110" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="75" cy="150" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="215" cy="165" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="50" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="45" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="240" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="150" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="215" cy="165" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- New moon: fully dark disc with faint outline -->
-  <circle cx="145" cy="120" r="72" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="120" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Very subtle inner ring to hint at the disc -->
   <circle cx="145" cy="120" r="66" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

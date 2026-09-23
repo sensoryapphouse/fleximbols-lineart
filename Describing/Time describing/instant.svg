@@ -2,11 +2,11 @@
 <!-- instant: stopwatch with a lightning bolt = happens immediately, no waiting -->
 <g>
 <!-- top button + arms -->
-<rect x="222" y="70" width="36" height="26" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="222" y="70" width="36" height="26" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="240" y1="96" x2="240" y2="124" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="318" y1="118" x2="338" y2="98" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- stopwatch body -->
-<circle cx="240" cy="278" r="158" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="240" cy="278" r="158" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- ticks -->
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
 <line x1="240" y1="138" x2="240" y2="162"/>
@@ -16,6 +16,6 @@
 </g>
 <!-- lightning bolt = instant -->
 <polygon points="270,176 198,300 244,300 224,392 312,256 258,256"
- fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+ fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 </g>
 </svg>

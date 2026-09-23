@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- donut-old-fashioned: crinkly craggy-surface plain ring donut with chocolate glaze drip, crumbly bumpy texture -->
   <!-- Donut body base (golden-tan) -->
-  <circle cx="145" cy="128" r="96" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="128" r="96" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Donut hole -->
-  <circle cx="145" cy="128" r="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
+  <circle cx="145" cy="128" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- Craggy/crinkly outer edge bumps - rough texture path overriding circle edge -->
-  <path d="M 241,128 Q 244,112 238,98 Q 246,92 242,78 Q 234,66 224,62 Q 218,50 204,46 Q 194,40 180,42 Q 168,36 154,36 Q 140,34 126,38 Q 112,38 100,46 Q 88,50 80,60 Q 70,68 64,80 Q 56,92 52,106 Q 48,118 50,132 Q 48,146 54,160 Q 58,172 68,182 Q 78,192 90,198 Q 104,206 118,208 Q 132,212 146,210 Q 160,212 174,208 Q 188,204 200,196 Q 212,188 220,178 Q 230,168 236,154 Q 242,142 241,128 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 241,128 Q 244,112 238,98 Q 246,92 242,78 Q 234,66 224,62 Q 218,50 204,46 Q 194,40 180,42 Q 168,36 154,36 Q 140,34 126,38 Q 112,38 100,46 Q 88,50 80,60 Q 70,68 64,80 Q 56,92 52,106 Q 48,118 50,132 Q 48,146 54,160 Q 58,172 68,182 Q 78,192 90,198 Q 104,206 118,208 Q 132,212 146,210 Q 160,212 174,208 Q 188,204 200,196 Q 212,188 220,178 Q 230,168 236,154 Q 242,142 241,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Crinkled/cracked surface lines on top half -->
   <path d="M 66,110 Q 72,100 80,108 Q 88,96 96,106 Q 106,94 116,104" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M 174,104 Q 184,94 194,106 Q 202,96 210,108 Q 218,98 224,110" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>

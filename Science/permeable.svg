@@ -4,7 +4,7 @@
 <!-- permeable barrier (dashed = lets water through) -->
 <line x1="130" y1="220" x2="382" y2="220" stroke="#1a1a1a" stroke-width="9" stroke-dasharray="20 14" stroke-linecap="round"/>
 <!-- water collected at bottom -->
-<rect x="135" y="362" width="242" height="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<rect x="135" y="362" width="242" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- drops passing through the barrier (above + below the line) -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
 <path d="M 190 130 q -16 22 0 34 q 16 -12 0 -34 Z"/>

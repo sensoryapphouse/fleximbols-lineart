@@ -16,7 +16,7 @@
          Q 224 345 212 330
          Q 188 300 190 250
          Q 192 210 198 158 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- scooped neckline detail -->
 <path d="M 246 158 Q 256 170 266 158" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- leg-opening highlight arcs -->

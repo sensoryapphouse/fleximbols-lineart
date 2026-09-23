@@ -28,7 +28,7 @@
 <circle cx="210.0" cy="82.0" r="52.0" fill="none" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="158" y1="82" x2="180" y2="426" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
 <line x1="262" y1="82" x2="332" y2="230" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
-<rect x="306.0" y="230.0" width="88.0" height="192.0" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="306.0" y="230.0" width="88.0" height="192.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="306" y1="258" x2="394" y2="258" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
 <line x1="306" y1="258" x2="306" y2="286" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
 <line x1="346" y1="258" x2="346" y2="286" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
@@ -50,11 +50,11 @@
 <line x1="306" y1="398" x2="394" y2="398" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
 <line x1="326" y1="398" x2="326" y2="422" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
 <line x1="366" y1="398" x2="366" y2="422" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<polygon points="300 230 400 230 353 206" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<rect x="373.0" y="170.0" width="18.0" height="64.0" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="378.0" cy="168.0" r="12.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="389.0" cy="145.0" r="9.9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="400.0" cy="122.0" r="7.8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<polygon points="300 230 400 230 353 206" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<rect x="373.0" y="170.0" width="18.0" height="64.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="378.0" cy="168.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="389.0" cy="145.0" r="9.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="400.0" cy="122.0" r="7.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="60" y1="444" x2="300" y2="444" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <rect x="70.0" y="442.0" width="16.0" height="10.0" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
 <rect x="100.0" y="442.0" width="16.0" height="10.0" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>

@@ -3,14 +3,14 @@
 
   <!-- Main box body: simple rectangle, slight 3D perspective showing top and front face -->
   <!-- Top face (3D perspective top) -->
-  <polygon points="80,45 210,45 230,62 100,62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <polygon points="80,45 210,45 230,62 100,62" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Front face (main face/tapa, the playing side) -->
-  <rect x="80" y="62" width="130" height="160" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="80" y="62" width="130" height="160" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Right side face -->
-  <polygon points="210,45 230,62 230,222 210,222" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <polygon points="210,45 230,62 230,222 210,222" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
 
   <!-- Front face (tapa) — slightly different color suggesting thin front panel -->
-  <rect x="86" y="68" width="118" height="148" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="86" y="68" width="118" height="148" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
 
   <!-- Sound hole on back: shown as visible through the box shape (represented on side) -->
   <!-- We show it as a circle on the right side face to indicate it's on the back -->
@@ -26,8 +26,8 @@
   <line x1="90" y1="205" x2="200" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Corner screws/bolts (typical cajon detail) -->
-  <circle cx="94" cy="76" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="76" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="94" cy="208" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="208" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="76" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="76" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="208" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="208" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

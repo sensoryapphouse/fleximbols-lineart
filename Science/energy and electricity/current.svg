@@ -4,7 +4,7 @@
   <path d="M 20 120 L 90 120" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round"/>
   <path d="M 20 120 L 90 120" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- ammeter circle in line -->
-  <circle cx="145" cy="120" r="55" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" data-lp="hair"/>
+  <circle cx="145" cy="120" r="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" data-lp="hair"/>
   <!-- dial arc -->
   <path d="M 105 125 Q 145 75 185 125" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- ticks -->
@@ -27,11 +27,11 @@
     <polygon points="230,48 230,72 260,60"/>
   </g>
   <!-- small electron dots on wire -->
-  <circle cx="40" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="65" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="225" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="250" cy="120" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="40" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="65" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="225" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="250" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- terminal nodes -->
-  <circle cx="90" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="200" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

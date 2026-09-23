@@ -3,9 +3,9 @@
   <!-- Quill shaft -->
   <line x1="115" y1="218" x2="195" y2="30" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- Feather vane left (white) -->
-  <path d="M115,218 Q72,165 90,108 Q108,52 195,30 Q168,62 158,92 Q144,130 115,218Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M115,218 Q72,165 90,108 Q108,52 195,30 Q168,62 158,92 Q144,130 115,218Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <!-- Feather vane right (light grey) -->
-  <path d="M115,218 Q158,190 174,152 Q192,108 195,30 Q182,60 172,90 Q156,132 115,218Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M115,218 Q158,190 174,152 Q192,108 195,30 Q182,60 172,90 Q156,132 115,218Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" data-lp="hair"/>
   <!-- Left barbs -->
   <line x1="118,210" x2="118,210"/>
   <path d="M120,208 Q100,188 104,172" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

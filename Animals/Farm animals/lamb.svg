@@ -18,19 +18,19 @@
 <circle cx="316" cy="262" r="36"/>
 </g>
 <!-- body centre (covers inner seams) -->
-<ellipse cx="248" cy="272" rx="78" ry="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="248" cy="272" rx="78" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- head -->
 <ellipse cx="356" cy="244" rx="44" ry="48" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- ears -->
 <ellipse cx="320" cy="240" rx="20" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" transform="rotate(-25 320 240)"/>
 <ellipse cx="392" cy="240" rx="20" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" transform="rotate(25 392 240)"/>
 <!-- woolly tuft on forehead -->
-<circle cx="356" cy="206" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="356" cy="206" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- eyes -->
-<circle cx="342" cy="246" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="370" cy="246" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="342" cy="246" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="370" cy="246" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- nose -->
-<ellipse cx="356" cy="272" rx="9" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="356" cy="272" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- tail tuft -->
-<circle cx="152" cy="262" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<circle cx="152" cy="262" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </svg>

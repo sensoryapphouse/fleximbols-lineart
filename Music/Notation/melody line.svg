@@ -2,7 +2,7 @@
   <!-- Music staff with single curving melodic line of notes flowing across -->
 
   <!-- Staff page -->
-  <rect x="20" y="50" width="250" height="140" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.47"/>
+  <rect x="20" y="50" width="250" height="140" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47"/>
 
   <!-- Five staff lines -->
   <line x1="32" y1="80" x2="258" y2="80" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
@@ -41,11 +41,11 @@
   <line x1="252" y1="80" x2="252" y2="160" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
 
   <!-- Decorative musical note above (large single melody note indicator) -->
-  <ellipse cx="148" cy="32" rx="9" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.85" transform="rotate(-20 148 32)"/>
+  <ellipse cx="148" cy="32" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" transform="rotate(-20 148 32)"/>
   <line x1="156" y1="28" x2="156" y2="8" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round"/>
   <path d="M156 8 Q170 14 166 28" fill="none" stroke="#1a1a1a" stroke-width="5.65" stroke-linecap="round"/>
 
   <!-- Arrow under staff showing flow direction -->
   <path d="M50 210 L240 210" fill="none" stroke="#1a1a1a" stroke-width="5.65" stroke-linecap="round"/>
-  <polygon points="240,210 230,204 230,216" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
+  <polygon points="240,210 230,204 230,216" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
 </g></svg>

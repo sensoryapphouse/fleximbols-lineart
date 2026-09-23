@@ -7,25 +7,25 @@
   <line x1="130" y1="220" x2="134" y2="185" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 
   <!-- Stand pole - thin tall -->
-  <rect x="129" y="95" width="8" height="95" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="129" y="95" width="8" height="95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Wing nut / tilter on stand -->
-  <ellipse cx="133" cy="98" rx="12" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="133" cy="98" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Cymbal - tilted slightly, large, thin -->
   <!-- Using a parallelogram-like shape via path for tilt effect -->
-  <ellipse cx="133" cy="88" rx="72" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-10, 133, 88)"/>
+  <ellipse cx="133" cy="88" rx="72" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-10, 133, 88)"/>
   <!-- Cymbal top surface highlight (inner ellipse for depth) -->
   <ellipse cx="133" cy="88" rx="60" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(-10, 133, 88)"/>
   <!-- Cymbal bell center -->
-  <ellipse cx="133" cy="86" rx="18" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10, 133, 86)"/>
-  <ellipse cx="133" cy="84" rx="9" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-10, 133, 84)"/>
+  <ellipse cx="133" cy="86" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10, 133, 86)"/>
+  <ellipse cx="133" cy="84" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-10, 133, 84)"/>
 
   <!-- Drumstick - thin, angled hitting the cymbal edge -->
   <!-- Stick handle -->
   <line x1="230" y1="30" x2="165" y2="75" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <!-- Stick tip (small round bead) -->
-  <circle cx="163" cy="77" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="163" cy="77" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
 
   <!-- Motion lines at impact point -->
   <line x1="155" y1="68" x2="148" y2="58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>

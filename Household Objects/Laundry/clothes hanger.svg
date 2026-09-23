@@ -12,7 +12,7 @@
         fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
 
   <!-- Twist where hook meets triangle (small coil) -->
-  <ellipse cx="145" cy="72" rx="6" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="72" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 
   <!-- Hanger triangle (wire) - two sloping shoulders -->
   <path d="M145 75 L55 165 L235 165 Z"
@@ -33,6 +33,6 @@
   <path d="M65 168 L220 168" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
 
   <!-- Tips of bottom bar (rounded ends emphasised) -->
-  <circle cx="55" cy="165" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="235" cy="165" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="55" cy="165" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="165" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

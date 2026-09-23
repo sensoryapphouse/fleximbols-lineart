@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="85.95 72.30 387.88 387.88">
 <!-- ball of yarn at bottom -->
-<circle cx="180" cy="360" r="66" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="180" cy="360" r="66" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <path d="M 116 340 Q 180 370 244 340" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 124 384 Q 180 408 236 384" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 150 300 Q 180 360 150 416" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
@@ -11,8 +11,8 @@
 <line x1="270" y1="396" x2="430" y2="150" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
 <line x1="270" y1="396" x2="430" y2="150" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- needle tip knobs -->
-<circle cx="380" cy="120" r="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="430" cy="150" r="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="380" cy="120" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="430" cy="150" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- a couple of knitted loops near the join -->
 <path d="M 230 300 q 16 -18 32 0 q 16 18 32 0" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 </svg>

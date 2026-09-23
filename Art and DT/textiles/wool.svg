@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="91.58 90.72 351.03 351.03">
 <!-- ball of wool / yarn with loose strand -->
-<circle cx="248" cy="262" r="130" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="248" cy="262" r="130" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- criss-cross wound strands -->
 <path d="M 138 200 Q 250 250 358 200" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 130 270 Q 250 320 366 270" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

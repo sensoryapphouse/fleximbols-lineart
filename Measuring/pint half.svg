@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 <!-- pint glass (tulip shape) -->
-<path d="M 196 120 L 316 120 Q 326 200 312 260 Q 300 320 304 360 Q 306 392 256 396 Q 206 392 208 360 Q 212 320 200 260 Q 186 200 196 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 196 120 L 316 120 Q 326 200 312 260 Q 300 320 304 360 Q 306 392 256 396 Q 206 392 208 360 Q 212 320 200 260 Q 186 200 196 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- beer fill to half -->
-<path d="M 201 258 Q 300 258 311 258 Q 300 320 304 360 Q 306 392 256 396 Q 206 392 208 360 Q 212 320 201 258 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<path d="M 201 258 Q 300 258 311 258 Q 300 320 304 360 Q 306 392 256 396 Q 206 392 208 360 Q 212 320 201 258 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- liquid surface line -->
 <path d="M 201 258 Q 256 270 311 258" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- redraw glass outline edges over fill -->

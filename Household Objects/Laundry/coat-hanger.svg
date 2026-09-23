@@ -4,7 +4,7 @@
 <!-- vertical neck from hook to the shoulder apex -->
 <line x1="256" y1="150" x2="256" y2="206" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- triangular hanger body (wooden bar) -->
-<path d="M 256 196 L 132 318 Q 124 326 132 334 L 380 334 Q 388 326 380 318 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 196 L 132 318 Q 124 326 132 334 L 380 334 Q 388 326 380 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- wood grain highlight on the bottom bar -->
 <line x1="150" y1="324" x2="362" y2="324" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- the two sloping shoulders accent -->

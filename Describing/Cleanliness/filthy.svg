@@ -4,17 +4,17 @@
 <line x1="140" y1="120" x2="116" y2="96" stroke="#1a1a1a" stroke-width="16.5" stroke-linecap="round"/>
 <line x1="140" y1="120" x2="164" y2="96" stroke="#1a1a1a" stroke-width="16.5" stroke-linecap="round"/>
 <!-- FILTHY plate (left) -->
-<ellipse cx="140" cy="320" rx="110" ry="100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="140" cy="320" rx="70" ry="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="140" cy="320" rx="110" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="140" cy="320" rx="70" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- dirt blobs -->
-<ellipse cx="120" cy="300" rx="20" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<ellipse cx="120" cy="300" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
 <ellipse cx="170" cy="330" rx="16" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="128" cy="350" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<ellipse cx="128" cy="350" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
 <ellipse cx="100" cy="335" rx="12" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="158" cy="296" rx="10" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<ellipse cx="158" cy="296" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
 <!-- CLEAN plate (right, faded) -->
 <g opacity="0.34">
-<ellipse cx="372" cy="320" rx="110" ry="100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="372" cy="320" rx="70" ry="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="372" cy="320" rx="110" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="372" cy="320" rx="70" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </g>
 </g></svg>

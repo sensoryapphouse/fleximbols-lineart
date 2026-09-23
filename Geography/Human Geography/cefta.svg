@@ -3,11 +3,11 @@
   <circle cx="320" cy="249.8" r="30.4" fill="none" stroke="#1a1a1a" stroke-width="30.85" />
   <circle cx="320" cy="249.8" r="88.3" fill="none" stroke="#1a1a1a" stroke-width="30.85" />
   <path fill="#1a1a1a" d="m404.7 165.1 84.7 84.7-84.7 84.7-84.7-84.7z" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <path fill="#FFFFFF" d="M175.7 236.1h59.2v27.5h-59.2zm259.1 0h88.3v27.5h-88.3zM363 187.4l38.8-38.8 19.4 19.5-38.7 38.7zM306.3 48.6h27.5v107.1h-27.5z" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <circle cx="225.1" cy="159.6" r="13.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <circle cx="144.3" cy="249.8" r="13.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <circle cx="320" cy="381.4" r="13.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <circle cx="320" cy="425.5" r="13.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <circle cx="408.3" cy="249.8" r="13.7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-  <path fill="#FFFFFF" d="m208.3 341.5 19.5-19.4 19.4 19.4-19.4 19.5zm204.7 21 19.5-19.5 19.5 19.5-19.5 19.4z" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <path fill="#ffffff" d="M175.7 236.1h59.2v27.5h-59.2zm259.1 0h88.3v27.5h-88.3zM363 187.4l38.8-38.8 19.4 19.5-38.7 38.7zM306.3 48.6h27.5v107.1h-27.5z" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <circle cx="225.1" cy="159.6" r="13.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <circle cx="144.3" cy="249.8" r="13.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <circle cx="320" cy="381.4" r="13.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <circle cx="320" cy="425.5" r="13.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <circle cx="408.3" cy="249.8" r="13.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+  <path fill="#ffffff" d="m208.3 341.5 19.5-19.4 19.4 19.4-19.4 19.5zm204.7 21 19.5-19.5 19.5 19.5-19.5 19.4z" stroke="#1a1a1a" stroke-width="9.81" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
 </g></svg>

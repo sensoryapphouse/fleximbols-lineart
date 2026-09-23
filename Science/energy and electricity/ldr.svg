@@ -2,29 +2,29 @@
   <!-- Map arc (simplified curved landmass) -->
   <path d="M44 160 q50 -30 100 -10 q50 20 102 -10" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Map base fill -->
-  <path d="M44 160 q50 -30 100 -10 q50 20 102 -10 l0 30 q-50 10 -102 -8 q-50 -18 -100 8 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M44 160 q50 -30 100 -10 q50 20 102 -10 l0 30 q-50 10 -102 -8 q-50 -18 -100 8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Map land detail dots -->
-  <circle cx="100" cy="148" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="190" cy="148" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="190" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 
   <!-- Dashed line between hearts over the arc -->
   <path d="M78 112 q68 -50 134 0" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-dasharray="9,7"/>
 
   <!-- Left heart -->
-  <path d="M78 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M78 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
 
   <!-- Right heart -->
-  <path d="M212 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M212 112 c0-8 -12-8 -12 0 c0 8 12 16 12 16 c0 0 12-8 12-16 c0-8 -12-8 -12 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
 
   <!-- Location pin left -->
-  <ellipse cx="78" cy="158" rx="6" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="78" cy="158" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M78 154 l0 -20" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="78" cy="128" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="78" cy="128" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="78" cy="128" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="78" cy="128" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- Location pin right -->
-  <ellipse cx="212" cy="148" rx="6" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="212" cy="148" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M212 144 l0 -20" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="212" cy="118" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="212" cy="118" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="212" cy="118" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="212" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

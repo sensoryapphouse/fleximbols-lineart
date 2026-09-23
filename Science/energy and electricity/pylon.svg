@@ -17,8 +17,8 @@
 <!-- cross-arms with insulators -->
 <line x1="120" y1="200" x2="392" y2="200" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="150" y1="160" x2="362" y2="160" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<circle cx="120" cy="216" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="392" cy="216" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="150" cy="176" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="362" cy="176" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="120" cy="216" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="392" cy="216" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="150" cy="176" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="362" cy="176" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 </svg>

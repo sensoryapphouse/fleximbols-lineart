@@ -7,7 +7,7 @@
          C 278 374 196 322 152 244
          C 126 198 126 152 140 132
          C 145 125 152 121 160 122 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- finger-bone hint lines fanning toward the tip -->
 <path d="M 178 174 C 228 238 296 308 338 344" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5"/>
 <path d="M 210 162 C 260 216 314 280 348 320" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5"/>

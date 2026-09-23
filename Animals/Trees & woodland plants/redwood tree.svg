@@ -6,15 +6,15 @@
   <line x1="152" y1="40" x2="152" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="8,10"/>
   <!-- Ground flare at base - slightly wider -->
   <path d="M120 230 Q122 210 128 200 L162 200 Q168 210 170 230 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="232" rx="42" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="232" rx="42" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Very high, narrow conical crown -->
   <!-- Crown tip -->
-  <polygon points="145,8 120,55 170,55" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,8 120,55 170,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Crown layers getting wider going down -->
-  <polygon points="145,28 100,75 190,75" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="145,48 88,98 202,98" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="145,68 80,120 210,120" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="145,90 78,142 212,142" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,28 100,75 190,75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,48 88,98 202,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,68 80,120 210,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <polygon points="145,90 78,142 212,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lower branches more sparse -->
   <path d="M128 155 Q100 148 75 158" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M162 155 Q190 148 215 158" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

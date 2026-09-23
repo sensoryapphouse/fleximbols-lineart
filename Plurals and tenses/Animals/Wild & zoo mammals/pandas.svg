@@ -6,14 +6,14 @@
 <rect x="150" y="338" width="56" height="74" rx="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="306" y="338" width="56" height="74" rx="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <!-- body -->
-<circle cx="256" cy="268" r="148" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="268" r="148" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- eye patches (black, angled) -->
 <ellipse cx="206" cy="252" rx="30" ry="38" fill="#1a1a1a" transform="rotate(-20 206 252)"/>
 <ellipse cx="306" cy="252" rx="30" ry="38" fill="#1a1a1a" transform="rotate(20 306 252)"/>
 <!-- eyes -->
-<circle cx="206" cy="256" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="206" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <circle cx="206" cy="256" r="7" fill="#1a1a1a"/>
-<circle cx="306" cy="256" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="306" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <circle cx="306" cy="256" r="7" fill="#1a1a1a"/>
 <!-- nose -->
 <ellipse cx="256" cy="306" rx="20" ry="14" fill="#1a1a1a"/>

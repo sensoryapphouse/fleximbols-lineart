@@ -4,17 +4,17 @@
   <!-- Angled top of slice -->
   <path d="M 60,95 L 145,55 L 230,95" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dark chocolate frosting layer 1 -->
-  <rect x="60" y="138" width="170" height="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="60" y="138" width="170" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dark chocolate frosting layer 2 -->
-  <rect x="60" y="177" width="170" height="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="60" y="177" width="170" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Top dark frosting on angled face -->
-  <path d="M 62,95 L 145,57 L 228,95 Q 208,86 188,93 Q 165,82 145,88 Q 125,82 102,93 Q 82,86 62,95 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 62,95 L 145,57 L 228,95 Q 208,86 188,93 Q 165,82 145,88 Q 125,82 102,93 Q 82,86 62,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Left side dark frosting -->
-  <rect x="55" y="95" width="9" height="120" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="55" y="95" width="9" height="120" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right side dark frosting -->
-  <rect x="226" y="95" width="9" height="120" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="226" y="95" width="9" height="120" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Bottom base frosting -->
-  <rect x="55" y="210" width="180" height="14" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="55" y="210" width="180" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Chocolate drizzle running down front face -->
   <path d="M 100,95 Q 98,108 102,118 Q 100,130 97,145" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <path d="M 145,93 Q 143,107 147,120 Q 144,135 140,152" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>

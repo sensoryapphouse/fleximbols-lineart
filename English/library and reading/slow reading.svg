@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- open book back cover -->
-  <path d="M30 60 L260 60 L260 210 L30 210 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
+  <path d="M30 60 L260 60 L260 210 L30 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <!-- left page -->
-  <path d="M38 64 L143 64 L143 206 L38 206 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M38 64 L143 64 L143 206 L38 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- right page -->
-  <path d="M147 64 L252 64 L252 206 L147 206 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M147 64 L252 64 L252 206 L147 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- spine crease -->
   <line x1="145" y1="64" x2="145" y2="206" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- SLOW label as path strokes on left page top -->
@@ -30,12 +30,12 @@
   <line x1="155" y1="121" x2="240" y2="121" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="155" y1="134" x2="225" y2="134" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- bookmark ribbon (with leaf on it) draped from top -->
-  <path d="M195 60 L195 145 L200 138 L205 145 L205 60 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M195 60 L195 145 L200 138 L205 145 L205 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- leaf on bookmark -->
-  <path d="M200 110 Q190 100 195 88 Q205 86 212 96 Q210 108 200 110 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M200 110 Q190 100 195 88 Q205 86 212 96 Q210 108 200 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M195 90 Q202 100 210 105" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" fill="none"/>
   <!-- clock face (top-right corner) for "slow time" -->
-  <circle cx="240" cy="40" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.22"/>
+  <circle cx="240" cy="40" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22"/>
   <circle cx="240" cy="40" r="22" fill="none" stroke="#1a1a1a" stroke-width="6.22"/>
   <line x1="240" y1="40" x2="240" y2="26" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <line x1="240" y1="40" x2="250" y2="46" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
@@ -46,7 +46,7 @@
   <line x1="222" y1="40" x2="226" y2="40" stroke="#1a1a1a" stroke-width="3.56"/>
   <line x1="254" y1="40" x2="258" y2="40" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- single tea cup on right page bottom to reinforce "slow" reading -->
-  <path d="M175 175 L222 175 L218 200 L179 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M175 175 L222 175 L218 200 L179 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <path d="M222 180 Q232 180 232 188 Q232 196 222 196" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M188 168 Q186 162 190 158" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" fill="none"/>
   <path d="M200 168 Q198 162 202 158" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round" fill="none"/>

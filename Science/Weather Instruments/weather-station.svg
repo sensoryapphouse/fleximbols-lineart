@@ -10,18 +10,18 @@
 <line x1="256" y1="92" x2="304" y2="118" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="256" y1="92" x2="256" y2="56" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- anemometer cups -->
-<circle cx="256" cy="50" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="256" cy="50" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.56" />
-<circle cx="202" cy="122" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="202" cy="122" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.56" />
-<circle cx="310" cy="122" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="310" cy="122" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.56" />
+<circle cx="256" cy="50" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="50" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.56" />
+<circle cx="202" cy="122" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="202" cy="122" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.56" />
+<circle cx="310" cy="122" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="310" cy="122" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.56" />
 <!-- rotor hub -->
-<circle cx="256" cy="92" r="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="92" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <!-- right arm to dial -->
 <line x1="256" y1="252" x2="312" y2="252" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- dial gauge (larger, simpler ticks) -->
-<circle cx="368" cy="252" r="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="368" cy="252" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="368" y1="190" x2="368" y2="204" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="430" y1="252" x2="416" y2="252" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="368" y1="314" x2="368" y2="300" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
@@ -32,8 +32,8 @@
 <!-- left arm to thermometer -->
 <line x1="256" y1="360" x2="190" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- thermometer (larger) -->
-<rect x="148" y="288" width="34" height="118" rx="17" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="165" cy="416" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="165" cy="416" r="19" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.56" />
-<rect x="157" y="332" width="16" height="86" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.56" />
+<rect x="148" y="288" width="34" height="118" rx="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="165" cy="416" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="165" cy="416" r="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.56" />
+<rect x="157" y="332" width="16" height="86" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.56" />
 </g></svg>

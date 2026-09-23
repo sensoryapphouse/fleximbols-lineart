@@ -5,9 +5,9 @@
 <!-- cross brace -->
 <line x1="173" y1="320" x2="322" y2="320" stroke="#1a1a1a" stroke-width="8"/>
 <!-- board top: rounded wide end on left, tapered point on right -->
-<path d="M 110 200 Q 110 168 142 168 L 360 178 Q 408 184 408 200 Q 408 216 360 222 L 142 232 Q 110 232 110 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 110 200 Q 110 168 142 168 L 360 178 Q 408 184 408 200 Q 408 216 360 222 L 142 232 Q 110 232 110 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- iron sitting on board -->
-<path d="M 196 168 L 304 168 Q 320 168 318 152 Q 312 124 256 124 Q 210 124 196 150 Q 192 162 196 168 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 196 168 L 304 168 Q 320 168 318 152 Q 312 124 256 124 Q 210 124 196 150 Q 192 162 196 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- iron handle -->
 <path d="M 214 132 Q 256 104 298 132" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 </g></svg>

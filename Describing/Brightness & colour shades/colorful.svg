@@ -23,8 +23,8 @@
   <path d="M 106,185 A 39,39 0 0,1 184,185" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <path d="M 120,185 A 25,25 0 0,1 170,185" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <!-- small white cloud puffs at base of rainbow -->
-  <ellipse cx="88" cy="195" rx="36" ry="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="62" cy="200" rx="28" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="202" cy="195" rx="36" ry="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="228" cy="200" rx="28" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="88" cy="195" rx="36" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="62" cy="200" rx="28" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="202" cy="195" rx="36" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="228" cy="200" rx="28" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

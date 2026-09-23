@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="93.17 59.04 352.97 352.97">
 <!-- circuit loop with a break (open switch) and an UNLIT bulb -->
 <!-- battery on left side -->
-<rect x="120" y="232" width="44" height="48" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<rect x="120" y="232" width="44" height="48" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <line x1="142" y1="218" x2="142" y2="232" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- wires forming loop -->
 <path d="M 142 232 L 142 140 L 372 140" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
@@ -15,6 +15,6 @@
 <!-- wire from top switch terminal up to bulb -->
 <path d="M 372 220 L 372 140" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- unlit bulb at top middle -->
-<circle cx="257" cy="140" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<path d="M 240 174 L 274 174 L 270 194 L 244 194 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<circle cx="257" cy="140" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 240 174 L 274 174 L 270 194 L 244 194 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 </svg>

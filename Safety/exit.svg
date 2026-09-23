@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
 <!-- doorway on the right -->
-<rect x="372" y="92" width="92" height="328" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="13"/>
-<rect x="382" y="240" width="14" height="36" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<rect x="372" y="92" width="92" height="328" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="13"/>
+<rect x="382" y="240" width="14" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- running figure (green), facing left toward the exit, well clear of the door -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
 <circle cx="252" cy="116" r="30"/>

@@ -3,7 +3,7 @@
   <!-- Twist-up pencil (no wood, mechanical) - diagonal -->
   <g transform="rotate(-25 140 110)">
     <!-- Twist dial base -->
-    <rect x="40" y="92" width="32" height="36" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+    <rect x="40" y="92" width="32" height="36" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
     <!-- Twist ridges -->
     <line x1="42" y1="100" x2="70" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
     <line x1="42" y1="110" x2="70" y2="110" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
@@ -11,9 +11,9 @@
     <!-- Pencil barrel (sleek modern, dark plum) -->
     <rect x="72" y="92" width="130" height="36" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
     <!-- Label band -->
-    <rect x="88" y="100" width="100" height="20" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+    <rect x="88" y="100" width="100" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <!-- Ferrule before tip -->
-    <rect x="202" y="92" width="10" height="36" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+    <rect x="202" y="92" width="10" height="36" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
     <!-- Twist-up cone tip (extends out) -->
     <polygon points="212,92 212,128 244,110" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
     <!-- Inky tip point -->
@@ -21,11 +21,11 @@
   </g>
 
   <!-- Sharpener nearby (small cube with hole, bottom right) -->
-  <rect x="186" y="170" width="74" height="52" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="186" y="170" width="74" height="52" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Sharpener hole (round opening for pencil) -->
   <circle cx="223" cy="196" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Blade screw -->
-  <circle cx="223" cy="196" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="223" cy="196" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
   <line x1="219" y1="196" x2="227" y2="196" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Shaving curls beside sharpener -->
   <path d="M 178 214 Q 172 210 174 204 Q 178 200 184 204" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

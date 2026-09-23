@@ -2,16 +2,16 @@
   <!-- wall background hint -->
   <rect x="20" y="60" width="250" height="160" rx="4" ry="4" fill="#1a1a1a" stroke="none"/>
   <!-- plaque -->
-  <rect x="55" y="80" width="180" height="100" rx="10" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.88" stroke-linejoin="round"/>
+  <rect x="55" y="80" width="180" height="100" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.88" stroke-linejoin="round"/>
   <!-- inner recess -->
-  <rect x="65" y="90" width="160" height="80" rx="6" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="90" width="160" height="80" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- number marks: three rect blocks representing digits -->
-  <rect x="82" y="108" width="30" height="44" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="130" y="108" width="30" height="44" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="178" y="108" width="30" height="44" rx="4" ry="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="108" width="30" height="44" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="130" y="108" width="30" height="44" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="108" width="30" height="44" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mounting screws -->
-  <circle cx="68" cy="93" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="222" cy="93" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="68" cy="167" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="222" cy="167" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="93" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="222" cy="93" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="167" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="222" cy="167" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

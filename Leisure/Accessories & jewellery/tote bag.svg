@@ -5,13 +5,13 @@
   <!-- Right handle -->
   <path d="M190 100 Q195 58 175 55 Q155 52 155 75" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag body: trapezoid wider at bottom -->
-  <path d="M75 100 L80 215 L210 215 L215 100 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M75 100 L80 215 L210 215 L215 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Open top edge line -->
   <line x1="75" y1="100" x2="215" y2="100" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Left handle attachment bar -->
-  <rect x="88" y="95" width="26" height="10" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="95" width="26" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Right handle attachment bar -->
-  <rect x="176" y="95" width="26" height="10" rx="3" ry="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="176" y="95" width="26" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Front panel interior line (structural seam) -->
   <path d="M90 115 L90 208" fill="none" stroke="#1a1a1a" stroke-width="3.70"/>
   <path d="M200 115 L200 208" fill="none" stroke="#1a1a1a" stroke-width="3.70"/>

@@ -4,9 +4,9 @@
   <!-- Cap crown below board -->
   <rect x="112" y="118" width="66" height="44" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Crown brim ring -->
-  <ellipse cx="145" cy="118" rx="38" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="118" rx="38" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Prominent centre button on top -->
-  <circle cx="145" cy="94" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="94" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Button inner dot -->
   <circle cx="145" cy="94" r="4" fill="#1a1a1a"/>
   <!-- Long tassel cord from right corner of board -->
@@ -19,5 +19,5 @@
   <line x1="240" y1="148" x2="240" y2="194" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <line x1="246" y1="148" x2="248" y2="192" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Tassel tip bar -->
-  <rect x="218" y="190" width="34" height="8" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="218" y="190" width="34" height="8" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 </g></svg>

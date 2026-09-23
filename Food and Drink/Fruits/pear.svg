@@ -2,7 +2,7 @@
 <!-- stalk -->
 <path d="M 256 158 Q 252 118 268 96" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- leaf -->
-<path d="M 268 128 Q 328 96 348 138 Q 306 162 274 146 Q 262 140 268 128 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 268 128 Q 328 96 348 138 Q 306 162 274 146 Q 262 140 268 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <path d="M 284 138 Q 316 130 340 136" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- pear body (widened ~1.22x about centre x=256): narrow neck at top, widening to a round base -->
 <g transform="translate(256 0) scale(1.22 1) translate(-256 0)">
@@ -13,7 +13,7 @@
  C 264 442 306 428 320 384
  C 336 336 316 292 292 262
  C 278 244 288 216 292 200
- C 300 168 284 150 256 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+ C 300 168 284 150 256 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- shine highlight -->
 <path d="M 232 320 Q 226 366 250 400" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 </g>

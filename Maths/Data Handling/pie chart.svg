@@ -2,11 +2,11 @@
   <!-- Pie chart: circle split into 4 coloured wedges, back-to-front -->
   <!-- Centre 145,120 radius 88 -->
   <!-- Wedge 1: 0° to 110° (large, red) -->
-  <path d="M145,120 L233,120 A88,88 0 0,1 114.7,204.5 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145,120 L233,120 A88,88 0 0,1 114.7,204.5 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wedge 2: 110° to 200° (yellow) -->
-  <path d="M145,120 L114.7,204.5 A88,88 0 0,1 62.2,75.1 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145,120 L114.7,204.5 A88,88 0 0,1 62.2,75.1 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wedge 3: 200° to 290° (blue) -->
-  <path d="M145,120 L62.2,75.1 A88,88 0 0,1 175.1,33.1 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145,120 L62.2,75.1 A88,88 0 0,1 175.1,33.1 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wedge 4: 290° to 360° (green) -->
-  <path d="M145,120 L175.1,33.1 A88,88 0 0,1 233,120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145,120 L175.1,33.1 A88,88 0 0,1 233,120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

@@ -2,26 +2,26 @@
   <!-- caterpillar-fuzzy: plump segmented body, bristle tufts, little prolegs -->
   <!-- Body segments laid out in gentle arc, back to front -->
   <!-- Segment 8 (tail) -->
-  <circle cx="48" cy="148" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="148" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 7 -->
-  <circle cx="74" cy="138" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="74" cy="138" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 6 -->
-  <circle cx="102" cy="132" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="102" cy="132" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 5 -->
-  <circle cx="130" cy="130" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="130" cy="130" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 4 -->
-  <circle cx="158" cy="130" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="158" cy="130" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 3 -->
-  <circle cx="186" cy="132" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="186" cy="132" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 2 -->
-  <circle cx="213" cy="136" r="21" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="213" cy="136" r="21" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Segment 1 / thorax -->
-  <circle cx="238" cy="142" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="238" cy="142" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Head -->
-  <circle cx="258" cy="130" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="258" cy="130" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Eyes -->
   <circle cx="266" cy="122" r="6" fill="#1a1a1a"/>
-  <circle cx="265" cy="121" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="265" cy="121" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Mouth smile -->
   <path d="M252 132 Q258 138 264 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Antennae -->
@@ -63,11 +63,11 @@
   <line x1="238" y1="122" x2="235" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="246" y1="125" x2="244" y2="112" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Prolegs (little stumpy legs) below segments -->
-  <ellipse cx="74" cy="160" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="102" cy="154" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="130" cy="152" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="158" cy="152" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="186" cy="154" rx="7" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="74" cy="160" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="102" cy="154" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="130" cy="152" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="158" cy="152" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="186" cy="154" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- True legs near head -->
   <path d="M230 158 Q228 168 222 175" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M238 160 Q237 170 232 178" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

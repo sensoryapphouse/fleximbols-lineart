@@ -5,11 +5,11 @@
 <line x1="256" y1="320" x2="256" y2="412" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="285" y1="312" x2="321" y2="375" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="227" y1="312" x2="191" y2="375" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<path d="M 242 152 L 242 372 L 106 318 Q 86 262 106 206 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="164.0" cy="262.0" r="20.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<path d="M 270 152 L 270 372 L 406 318 Q 426 262 406 206 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="348.0" cy="262.0" r="20.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="256.0" cy="262.0" r="22.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 242 152 L 242 372 L 106 318 Q 86 262 106 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="164.0" cy="262.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 270 152 L 270 372 L 406 318 Q 426 262 406 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="348.0" cy="262.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256.0" cy="262.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <path d="M 242 210 Q 178 262 242 314" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
 <path d="M 270 210 Q 334 262 270 314" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
 <path d="M 242 182 Q 150 262 242 342" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>

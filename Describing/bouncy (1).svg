@@ -3,15 +3,15 @@
   <!-- Ground line -->
   <line x1="20" y1="210" x2="270" y2="210" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Ground shadow under ball -->
-  <ellipse cx="215" cy="210" rx="28" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="215" cy="210" rx="28" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bounce arc dotted trajectory -->
   <path d="M 45 205 Q 80 90 145 55 Q 200 20 235 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="8,6" stroke-linecap="round"/>
   <!-- Directional arrow on arc -->
   <polygon points="238,185 228,196 242,202" fill="#1a1a1a"/>
   <!-- Ball mid-bounce (at peak) -->
-  <circle cx="145" cy="55" r="38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="145" cy="55" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Ball shine -->
-  <ellipse cx="132" cy="44" rx="12" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="132" cy="44" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Impact squish mark at ground left side -->
   <path d="M 30 210 Q 42 205 54 210" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Small impact lines at bounce point -->

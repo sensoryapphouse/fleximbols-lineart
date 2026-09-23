@@ -2,9 +2,9 @@
 <!-- CENTURY: bold 100 over a timeline span of a hundred ticks grouped in tens -->
 <!-- ===== bold "100" glyph (drawn shapes, no text) ===== -->
 <!-- digit 1 -->
-<rect x="120" y="116" width="22" height="120" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="106" y="244" width="50" height="18" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="100" y="128" width="26" height="18" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" transform="rotate(-36 113 137)"/>
+<rect x="120" y="116" width="22" height="120" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="106" y="244" width="50" height="18" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="100" y="128" width="26" height="18" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(-36 113 137)"/>
 <!-- digit 0 -->
 <rect x="176" y="116" width="68" height="146" rx="32" fill="none" stroke="#1a1a1a" stroke-width="22"/>
 <!-- digit 0 -->

@@ -14,26 +14,26 @@
   <line x1="83" y1="90" x2="62" y2="78" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="109" y1="64" x2="94" y2="42" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- spike tips (circles) -->
-  <circle cx="145" cy="27" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="198" cy="40" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="230" cy="76" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="242" cy="128" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="224" cy="180" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="212" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="222" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="100" cy="212" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="66" cy="180" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="48" cy="128" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="60" cy="76" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="92" cy="40" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="27" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="198" cy="40" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="230" cy="76" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="242" cy="128" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="224" cy="180" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="212" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="222" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="212" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="66" cy="180" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="48" cy="128" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="60" cy="76" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="92" cy="40" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- main virus body -->
-  <circle cx="145" cy="128" r="72" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.66" stroke-linejoin="round"/>
+  <circle cx="145" cy="128" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66" stroke-linejoin="round"/>
   <!-- surface proteins (small bumps on body) -->
-  <circle cx="145" cy="76" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="100" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="148" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="168" cy="182" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="122" cy="182" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="94" cy="148" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="100" cy="100" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="76" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="190" cy="100" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="168" cy="182" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="122" cy="182" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="94" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="100" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

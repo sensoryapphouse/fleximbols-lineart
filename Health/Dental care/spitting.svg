@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="77.27 91.77 376.24 376.24">
 <!-- spitting: rinse cup with liquid being spat / poured out as drops -->
 <!-- tumbler / rinse cup -->
-<path d="M 168 250 L 312 250 L 296 426 Q 294 440 280 440 L 200 440 Q 186 440 184 426 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 250 L 312 250 L 296 426 Q 294 440 280 440 L 200 440 Q 186 440 184 426 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- water level in cup -->
 <path d="M 178 318 L 302 318" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- arc of spat liquid coming down into the cup -->

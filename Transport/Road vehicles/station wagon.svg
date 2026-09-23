@@ -2,15 +2,15 @@
   <!-- ground line -->
   <line x1="10" y1="200" x2="280" y2="200" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- long station wagon: extended rear cargo area, flat back, no separate trunk -->
-  <path d="M 20 195 L 20 160 L 55 115 L 260 115 L 270 130 L 270 195 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
+  <path d="M 20 195 L 20 160 L 55 115 L 260 115 L 270 130 L 270 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- front windshield -->
-  <path d="M 70 125 L 80 135 L 110 135 L 110 118 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 70 125 L 80 135 L 110 135 L 110 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- front passenger window -->
-  <rect x="115" y="118" width="40" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="115" y="118" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rear passenger window -->
-  <rect x="160" y="118" width="40" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="160" y="118" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- EXTENDED CARGO AREA WINDOW (long, defining feature) -->
-  <rect x="205" y="118" width="55" height="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="205" y="118" width="55" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- door pillars -->
   <line x1="155" y1="118" x2="155" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="200" y1="118" x2="200" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -19,15 +19,15 @@
   <line x1="80" y1="113" x2="80" y2="108" stroke="#1a1a1a" stroke-width="3.56"/>
   <line x1="240" y1="113" x2="240" y2="108" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- door handles -->
-  <rect x="125" y="155" width="14" height="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="170" y="155" width="14" height="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="125" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="170" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
   <!-- headlight -->
-  <rect x="24" y="160" width="14" height="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="24" y="160" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- tail light (flat back) -->
-  <rect x="252" y="135" width="14" height="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="252" y="135" width="14" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- wheels -->
-  <circle cx="75" cy="200" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
-  <circle cx="75" cy="200" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="225" cy="200" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
-  <circle cx="225" cy="200" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="75" cy="200" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="75" cy="200" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="225" cy="200" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="225" cy="200" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
 </g></svg>

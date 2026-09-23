@@ -7,17 +7,17 @@
 <line x1="146" y1="184" x2="120" y2="184"/>
 <line x1="266" y1="184" x2="292" y2="184"/>
 </g>
-<circle cx="206" cy="184" r="52" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="206" cy="184" r="39" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="206" cy="184" r="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="206" cy="184" r="39" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
 <!-- soft cloud overlapping the sun, lower-right -->
-<circle cx="270" cy="250" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="322" cy="222" r="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="380" cy="236" r="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<rect x="262" y="232" width="160" height="58" rx="29" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="270" cy="250" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="322" cy="222" r="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<circle cx="380" cy="236" r="42" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
-<rect x="270" y="240" width="146" height="50" rx="25" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="270" cy="250" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="322" cy="222" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="380" cy="236" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<rect x="262" y="232" width="160" height="58" rx="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="270" cy="250" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="322" cy="222" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<circle cx="380" cy="236" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
+<rect x="270" y="240" width="146" height="50" rx="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" />
 <!-- gentle breeze lines (mild = soft, calm air) -->
 <g stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" fill="none">
 <path d="M 150 330 H 300 a 18 18 0 1 0 -18 -18"/>

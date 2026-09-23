@@ -10,28 +10,28 @@
   <!-- easel ledge -->
   <rect x="62" y="170" width="130" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- picture frame outer -->
-  <rect x="55" y="50" width="140" height="125" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <rect x="55" y="50" width="140" height="125" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- frame inner -->
-  <rect x="65" y="60" width="120" height="105" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="65" y="60" width="120" height="105" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- silhouette head -->
-  <circle cx="125" cy="95" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="125" cy="95" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- silhouette shoulders -->
-  <path d="M85 165 Q88 130 105 122 Q125 116 145 122 Q162 130 165 165 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M85 165 Q88 130 105 122 Q125 116 145 122 Q162 130 165 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- white lily beside (right) -->
   <!-- stem -->
   <path d="M240 220 Q235 170 232 130" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- leaf -->
-  <path d="M236 180 Q220 175 215 188 Q225 195 238 188 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
+  <path d="M236 180 Q220 175 215 188 Q225 195 238 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- lily petals (back) -->
-  <path d="M232 130 Q210 110 215 90 Q225 95 232 115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M232 130 Q254 110 249 90 Q239 95 232 115 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M232 130 Q220 105 232 80 Q244 105 232 130 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M232 130 Q210 110 215 90 Q225 95 232 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q254 110 249 90 Q239 95 232 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q220 105 232 80 Q244 105 232 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- lily front petals -->
-  <path d="M232 130 Q218 122 215 138 Q225 142 232 135 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M232 130 Q246 122 249 138 Q239 142 232 135 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q218 122 215 138 Q225 142 232 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M232 130 Q246 122 249 138 Q239 142 232 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- lily centre stamens -->
   <path d="M232 112 L228 95 M232 112 L232 92 M232 112 L236 95" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
-  <circle cx="228" cy="93" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="232" cy="90" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="236" cy="93" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="228" cy="93" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="232" cy="90" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="236" cy="93" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

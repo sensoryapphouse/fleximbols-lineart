@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Body (tight, long sleeves implied by slim silhouette) -->
-  <path d="M100 215 L100 95 L118 78 L145 85 L172 78 L190 95 L190 215 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M100 215 L100 95 L118 78 L145 85 L172 78 L190 95 L190 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Left long sleeve -->
-  <path d="M100 95 L118 78 L108 130 L72 148 L68 138 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M100 95 L118 78 L108 130 L72 148 L68 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right long sleeve -->
-  <path d="M190 95 L172 78 L182 130 L218 148 L222 138 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M190 95 L172 78 L182 130 L218 148 L222 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Crew neck -->
-  <path d="M118 78 Q145 70 172 78 Q164 93 145 96 Q126 93 118 78 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M118 78 Q145 70 172 78 Q164 93 145 96 Q126 93 118 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Body compression seam lines (hugging torso) -->
   <path d="M114 100 Q110 155 112 215" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <path d="M176 100 Q180 155 178 215" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>

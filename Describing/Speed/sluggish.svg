@@ -4,17 +4,17 @@
 <line x1="70" y1="392" x2="470" y2="392" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- snail body / foot -->
 <path d="M 110 392 Q 96 392 96 374 Q 96 352 130 350 L 300 350 Q 318 350 326 336 L 352 292 Q 360 278 378 278 Q 398 280 400 300 Q 398 332 372 356 Q 344 382 300 386 L 130 388 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- head -->
 <path d="M 352 292 Q 372 270 398 274 Q 416 278 416 298 Q 416 320 392 326 Q 366 330 352 314 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- eye stalks -->
 <line x1="396" y1="282" x2="408" y2="232" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="372" y1="288" x2="364" y2="240" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <circle cx="410" cy="226" r="11" fill="#1a1a1a"/>
 <circle cx="362" cy="234" r="11" fill="#1a1a1a"/>
 <!-- shell -->
-<circle cx="210" cy="278" r="100" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="210" cy="278" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- shell spiral -->
 <path d="M 210 278 m 0 -64 a 64 64 0 1 1 -45 19 a 42 42 0 1 0 30 -12 a 22 22 0 1 1 -15 7"
       fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>

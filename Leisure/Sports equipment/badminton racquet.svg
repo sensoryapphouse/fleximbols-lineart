@@ -6,11 +6,11 @@
   <path d="M 180 192 L 198 198" stroke="#1a1a1a" stroke-width="5.72"/>
   <path d="M 180 206 L 198 212" stroke="#1a1a1a" stroke-width="5.72"/>
   <!-- shaft -->
-  <rect x="183" y="138" width="12" height="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.53"/>
+  <rect x="183" y="138" width="12" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.53"/>
   <!-- throat -->
-  <path d="M 165 130 L 213 130 L 200 148 L 178 148 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.53" stroke-linejoin="round"/>
+  <path d="M 165 130 L 213 130 L 200 148 L 178 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.53" stroke-linejoin="round"/>
   <!-- head oval (small, round - badminton) -->
-  <ellipse cx="120" cy="90" rx="78" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="12.70"/>
+  <ellipse cx="120" cy="90" rx="78" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="12.70"/>
   <ellipse cx="120" cy="90" rx="78" ry="58" fill="none" stroke="#1a1a1a" stroke-width="6.35"/>
   <!-- strings vertical -->
   <line x1="70" y1="55" x2="70" y2="125" stroke="#1a1a1a" stroke-width="4.45"/>

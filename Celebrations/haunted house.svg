@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 <!-- house body -->
-<rect x="96" y="250" width="200" height="160" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="96" y="250" width="200" height="160" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- roof -->
-<polygon points="80,254 196,170 312,254" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
+<polygon points="80,254 196,170 312,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="hair"/>
 <!-- chimney -->
-<rect x="118" y="186" width="30" height="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" data-lp="hair"/>
+<rect x="118" y="186" width="30" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" data-lp="hair"/>
 <!-- windows -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7">
 <rect x="126" y="290" width="40" height="40"/>
@@ -17,7 +17,7 @@
 <!-- door -->
 <rect x="166" y="352" width="44" height="58" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <!-- ghost -->
-<path d="M 330 168 C 296 168 282 200 282 240 L 282 318 L 300 300 L 318 320 L 336 300 L 354 320 L 372 300 L 384 318 L 384 240 C 384 200 364 168 330 168 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 330 168 C 296 168 282 200 282 240 L 282 318 L 300 300 L 318 320 L 336 300 L 354 320 L 372 300 L 384 318 L 384 240 C 384 200 364 168 330 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <circle cx="316" cy="222" r="8" fill="#1a1a1a"/>
 <circle cx="350" cy="222" r="8" fill="#1a1a1a"/>
 <ellipse cx="333" cy="256" rx="9" ry="13" fill="#1a1a1a"/>

@@ -5,19 +5,19 @@
   <!-- Right wall straight vertical -->
   <line x1="222" y1="100" x2="222" y2="175" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Body fill (straight-sided) -->
-  <rect x="62" y="100" width="160" height="75" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
+  <rect x="62" y="100" width="160" height="75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Bottom base ellipse -->
-  <ellipse cx="142" cy="175" rx="80" ry="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="142" cy="175" rx="80" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Interior base -->
-  <ellipse cx="142" cy="100" rx="75" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="142" cy="100" rx="75" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
   <!-- Lid sitting on top rim of straight sides -->
-  <rect x="68" y="80" width="148" height="22" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="68" y="80" width="148" height="22" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lid knob -->
-  <rect x="130" y="62" width="24" height="20" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
-  <ellipse cx="142" cy="62" rx="10" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="130" y="62" width="24" height="20" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <ellipse cx="142" cy="62" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Long handle right -->
-  <rect x="222" y="118" width="46" height="16" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="268" cy="126" rx="6" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="222" y="118" width="46" height="16" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="268" cy="126" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Helper handle left (small loop) -->
   <path d="M62,124 Q34,124 34,132 Q34,140 62,140" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -15,6 +15,6 @@
   <!-- stem -->
   <path d="M145 52 Q142 40 138 28" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- leaf -->
-  <path d="M138 32 Q170 18 185 38 Q165 48 145 42 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <path d="M138 32 Q170 18 185 38 Q165 48 145 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <path d="M145 40 Q165 35 180 38" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

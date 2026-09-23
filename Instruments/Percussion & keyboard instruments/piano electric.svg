@@ -10,19 +10,19 @@
   <rect x="30" y="130" width="230" height="56" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
 
   <!-- White keys: 14 white keys across full width -->
-  <rect x="38" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="55" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="72" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="89" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="106" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="123" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="140" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="157" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="174" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="191" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="208" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="225" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="242" y="138" width="14" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="38" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="55" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="72" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="89" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="106" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="123" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="140" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="157" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="174" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="191" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="208" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="225" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="242" y="138" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Black keys: realistic piano pattern (C# D# _ F# G# A# _) x2 -->
   <rect x="48" y="138" width="9" height="25" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -37,10 +37,10 @@
   <rect x="252" y="138" width="9" height="25" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Volume knob (minimal controls) -->
-  <circle cx="44" cy="135" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="44" cy="135" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Music rest (sheet music holder) -->
-  <rect x="90" y="100" width="110" height="28" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="90" y="100" width="110" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Rest support arms -->
   <line x1="100" y1="128" x2="95" y2="138" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="190" y1="128" x2="195" y2="138" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -49,5 +49,5 @@
   <line x1="98" y1="113" x2="192" y2="113" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="98" y1="118" x2="192" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Music rest lip (bottom ledge) -->
-  <rect x="90" y="126" width="110" height="5" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <rect x="90" y="126" width="110" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

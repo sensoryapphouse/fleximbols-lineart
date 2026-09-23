@@ -2,15 +2,15 @@
   <!-- Crescent moon modern: clean standalone crescent + single star -->
 
   <!-- Crescent moon body -->
-  <circle cx="130" cy="120" r="82" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="130" cy="120" r="82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Occluding circle to carve crescent shape -->
-  <circle cx="158" cy="108" r="70" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <circle cx="158" cy="108" r="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Single star (5-point) to the upper right of crescent -->
   <polygon points="228,52 234,72 254,72 238,84 244,104 228,92 212,104 218,84 202,72 222,72"
-           fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+           fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Small inner star highlight -->
   <polygon points="228,62 231,72 242,72 233,78 236,88 228,82 220,88 223,78 214,72 225,72"
-           fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+           fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

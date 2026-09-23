@@ -6,14 +6,14 @@
 <path d="M 298 150 Q 310 134 298 118 Q 286 102 298 86"/>
 </g>
 <!-- roasting tray -->
-<path d="M 142 360 L 370 360 L 348 410 Q 256 426 164 410 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 142 360 L 370 360 L 348 410 Q 256 426 164 410 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="142" y1="360" x2="370" y2="360" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- roast chicken body -->
-<ellipse cx="256" cy="312" rx="98" ry="74" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<ellipse cx="256" cy="312" rx="98" ry="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 178 300 Q 256 250 334 300" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- drumsticks -->
-<path d="M 196 262 Q 168 232 186 210 L 206 228 Q 222 250 224 280 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="183" cy="214" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
-<path d="M 316 262 Q 344 232 326 210 L 306 228 Q 290 250 288 280 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="329" cy="214" r="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 196 262 Q 168 232 186 210 L 206 228 Q 222 250 224 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="183" cy="214" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
+<path d="M 316 262 Q 344 232 326 210 L 306 228 Q 290 250 288 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="329" cy="214" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </svg>

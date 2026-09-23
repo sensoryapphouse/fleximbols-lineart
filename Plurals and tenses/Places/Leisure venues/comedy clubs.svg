@@ -36,25 +36,25 @@
   <line x1="80" y1="162" x2="80" y2="182" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="120" y1="162" x2="120" y2="182" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Stage platform at bottom -->
-  <rect x="20" y="195" width="250" height="30" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="20" y="195" width="250" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Stage edge highlight -->
-  <rect x="20" y="195" width="250" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="20" y="195" width="250" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Stage spotlight beam - from upper right -->
-  <polygon points="260,22 240,22 145,195 165,195" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="260,22 240,22 145,195 165,195" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Spotlight cone fade - inner warm -->
-  <polygon points="254,22 246,22 148,195 160,195" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="254,22 246,22 148,195 160,195" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Spotlight source circle -->
-  <circle cx="250" cy="30" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
-  <circle cx="250" cy="30" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="250" cy="30" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="250" cy="30" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Standing microphone on stage - center spotlight -->
   <!-- Mic stand base -->
-  <ellipse cx="152" cy="210" rx="22" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="152" cy="210" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Mic stand pole -->
-  <rect x="148" y="128" width="8" height="82" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <rect x="148" y="128" width="8" height="82" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- Mic stand arm -->
   <line x1="152" y1="128" x2="165" y2="110" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <!-- Mic capsule on arm -->
-  <ellipse cx="170" cy="105" rx="14" ry="19" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="170" cy="105" rx="14" ry="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Mic grille -->
   <line x1="158" y1="96" x2="182" y2="96" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="157" y1="103" x2="183" y2="103" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -62,7 +62,7 @@
   <line x1="161" y1="117" x2="179" y2="117" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Smile / laugh emblem - upper left on brick wall -->
   <!-- Smiley circle -->
-  <circle cx="68" cy="65" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="68" cy="65" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Eyes -->
   <circle cx="58" cy="58" r="5" fill="#1a1a1a"/>
   <circle cx="78" cy="58" r="5" fill="#1a1a1a"/>

@@ -8,7 +8,7 @@
          Q 330 392 256 392
          Q 176 392 150 330
          Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- dashed seam-allowance line inset -->
 <path d="M 168 152
          L 322 144

@@ -2,18 +2,18 @@
   <!-- Night sky -->
   <rect x="26" y="32" width="238" height="176" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Stars -->
-  <circle cx="48" cy="45" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="235" cy="50" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="55" cy="155" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="248" cy="140" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="38" cy="100" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="48" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="235" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="248" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="38" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Dark side of moon (full disc) -->
-  <circle cx="145" cy="118" r="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11"/>
+  <circle cx="145" cy="118" r="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Lit RIGHT crescent: clip a bright disc offset to the left to create right-lit crescent -->
   <!-- Approach: draw full bright circle, then overlay dark circle offset left to mask left side -->
-  <circle cx="145" cy="118" r="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="145" cy="118" r="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Dark overlay circle shifted left — carves out left side leaving right crescent lit -->
-  <circle cx="112" cy="118" r="76" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="112" cy="118" r="76" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Re-draw outer stroke over composite -->
   <circle cx="145" cy="118" r="76" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Crescent edge stroke (terminator) — arc on the left interior -->

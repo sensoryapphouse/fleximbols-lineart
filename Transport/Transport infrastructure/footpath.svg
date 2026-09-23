@@ -6,10 +6,10 @@
          C 262 160 292 160 300 184
          C 312 226 344 250 344 306
          C 344 374 232 356 262 420 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
 <!-- stepping stones centred on the path -->
-<ellipse cx="226" cy="398" rx="27" ry="15" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="288" cy="330" rx="24" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="288" cy="256" rx="19" ry="11" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="276" cy="192" rx="15" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<ellipse cx="226" cy="398" rx="27" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="288" cy="330" rx="24" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="288" cy="256" rx="19" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="276" cy="192" rx="15" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 </g></svg>

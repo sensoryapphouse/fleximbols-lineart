@@ -13,10 +13,10 @@
 <path d="M 372 142 q 26 -22 44 -8" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </g>
 <!-- bin lid -->
-<path d="M 150 196 L 362 196 L 350 232 L 162 232 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="236" y="172" width="40" height="26" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<path d="M 150 196 L 362 196 L 350 232 L 162 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="236" y="172" width="40" height="26" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- bin body -->
-<path d="M 168 232 L 344 232 L 326 410 Q 324 430 300 430 L 212 430 Q 188 430 186 410 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 232 L 344 232 L 326 410 Q 324 430 300 430 L 212 430 Q 188 430 186 410 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- ribs -->
 <line x1="232" y1="250" x2="226" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="280" y1="250" x2="286" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

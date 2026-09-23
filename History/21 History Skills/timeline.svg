@@ -8,11 +8,11 @@
 <line x1="336" y1="234" x2="336" y2="278" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <line x1="406" y1="234" x2="406" y2="278" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <line x1="126" y1="234" x2="126" y2="186" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="126.0" cy="172.0" r="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="126.0" cy="172.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="266" y1="234" x2="266" y2="186" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="266.0" cy="172.0" r="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="266.0" cy="172.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="406" y1="234" x2="406" y2="186" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="406.0" cy="172.0" r="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="406.0" cy="172.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="196" y1="278" x2="196" y2="326" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="196.0" cy="340.0" r="18.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="196.0" cy="340.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 </g></svg>

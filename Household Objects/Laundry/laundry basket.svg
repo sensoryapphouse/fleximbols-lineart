@@ -5,23 +5,23 @@
   <g stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round">
     <!-- piled shirt 1 (blue) -->
     <path d="M65 95 Q90 60 130 70 Q165 60 195 80 Q220 75 230 100 L220 110 L70 110 Z"
-          fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+          fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <!-- piled shirt 2 (red) sleeve flap -->
     <path d="M100 90 Q115 75 140 80 Q160 75 175 90 L170 100 L105 100 Z"
-          fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+          fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <!-- yellow sock peek -->
-    <path d="M195 85 L210 80 L215 95 L200 100 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+    <path d="M195 85 L210 80 L215 95 L200 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <!-- white shirt fold -->
-    <path d="M75 95 Q85 88 100 92 L100 105 L75 105 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
+    <path d="M75 95 Q85 88 100 92 L100 105 L75 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   </g>
 
   <!-- Basket body (trapezoid, narrower at base) -->
   <path d="M45 105 L245 105 L225 215 L65 215 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Basket rim (top band) -->
   <path d="M40 95 L250 95 L245 110 L45 110 Z"
-        fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Woven holes pattern (rows of small ovals) -->
   <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.67">

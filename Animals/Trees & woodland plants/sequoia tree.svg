@@ -10,19 +10,19 @@
   <line x1="132" y1="38" x2="132" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-dasharray="6,8"/>
   <line x1="158" y1="38" x2="158" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-dasharray="6,8"/>
   <!-- Ground flare - massive buttressed base -->
-  <ellipse cx="145" cy="232" rx="65" ry="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="145" cy="232" rx="65" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Dense towering crown - wider than redwood -->
-  <polygon points="145,8 125,38 165,38" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <polygon points="145,22 108,58 182,58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <polygon points="145,38 95,78 195,78" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <polygon points="145,55 85,98 205,98" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,8 125,38 165,38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,22 108,58 182,58" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,38 95,78 195,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
+  <polygon points="145,55 85,98 205,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Lower branch tufts on the wide trunk -->
   <path d="M122 112 Q95 105 72 112" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
-  <ellipse cx="68" cy="116" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="68" cy="116" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <path d="M168 112 Q195 105 218 112" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
-  <ellipse cx="222" cy="116" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="222" cy="116" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <path d="M100 140 Q75 135 55 142" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
-  <ellipse cx="52" cy="146" rx="11" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="52" cy="146" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <path d="M190 140 Q215 135 235 142" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
-  <ellipse cx="238" cy="146" rx="11" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.81"/>
+  <ellipse cx="238" cy="146" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
 </g></svg>

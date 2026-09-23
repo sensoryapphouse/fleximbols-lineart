@@ -4,11 +4,11 @@
 <line x1="148" y1="232" x2="118" y2="196" stroke="#1a1a1a" stroke-width="19.5" stroke-linecap="round"/>
 <line x1="148" y1="232" x2="178" y2="196" stroke="#1a1a1a" stroke-width="19.5" stroke-linecap="round"/>
 <!-- dull, flat grey block: featureless = boring -->
-<rect x="74" y="272" width="148" height="148" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="74" y="272" width="148" height="148" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- droopy zzz sleep marks (lines, no letters) -->
 <path d="M 232 300 q 26 0 6 22 q -20 22 6 22" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- exciting colourful star (faded, the NOT-boring one) -->
 <g opacity="0.34">
-<polygon points="370,272 392,330 454,332 405,372 422,432 370,396 318,432 335,372 286,332 348,330" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<polygon points="370,272 392,330 454,332 405,372 422,432 370,396 318,432 335,372 286,332 348,330" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 </g>
 </g></svg>

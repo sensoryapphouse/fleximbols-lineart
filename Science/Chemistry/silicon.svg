@@ -43,11 +43,11 @@
     <rect x="224" y="172" width="14" height="8"/>
   </g>
   <!-- chip body -->
-  <rect x="70" y="54" width="154" height="132" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <rect x="70" y="54" width="154" height="132" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- inner chip die -->
-  <rect x="100" y="80" width="94" height="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="100" y="80" width="94" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pin-1 indicator dot -->
-  <circle cx="86" cy="70" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="86" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- die circuit lines -->
   <line x1="115" y1="95" x2="180" y2="95" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="115" y1="110" x2="180" y2="110" stroke="#1a1a1a" stroke-width="4.45"/>

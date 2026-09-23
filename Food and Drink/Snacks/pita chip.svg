@@ -3,11 +3,11 @@
   <!-- Main chip body - curved wedge, quarter-circle arc outer edge, straight sides meet at center -->
   <!-- Outer arc top from ~40,195 around through 145,40 to 250,195 would be too large -->
   <!-- Quarter circle: two straight edges + one curved outer arc -->
-  <path d="M 145,200 L 50,200 Q 45,130 90,80 Q 115,52 145,48 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 145,200 L 50,200 Q 45,130 90,80 Q 115,52 145,48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="13.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Inner pita surface - slightly darker toasted golden-brown -->
-  <path d="M 145,196 L 58,196 Q 54,132 95,84 Q 118,58 145,55 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M 145,196 L 58,196 Q 54,132 95,84 Q 118,58 145,55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Lighter inner crumb texture -->
-  <path d="M 145,188 L 70,188 Q 66,136 102,92 Q 122,68 145,65 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M 145,188 L 70,188 Q 66,136 102,92 Q 122,68 145,65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Toasted edges/crust - curved outer edge darker -->
   <path d="M 50,200 Q 45,130 90,80 Q 115,52 145,48" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- Pita texture lines - slight dimpling/grain of pita bread -->
@@ -15,11 +15,11 @@
   <path d="M 100,175 Q 96,148 100,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 116,172 Q 112,142 118,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Sesame seeds / salt -->
-  <circle cx="78" cy="168" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="95" cy="155" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="88" cy="140" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="110" cy="160" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="104" cy="135" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="78" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="95" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="88" cy="140" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="110" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="104" cy="135" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Oil sheen dot -->
-  <ellipse cx="92" cy="152" rx="12" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="92" cy="152" rx="12" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

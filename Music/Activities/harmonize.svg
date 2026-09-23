@@ -3,9 +3,9 @@
 
   <!-- LEFT SINGER bust (head + shoulders) -->
   <!-- Shoulders -->
-  <path d="M22 200 Q22 162 50 156 Q78 162 78 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
+  <path d="M22 200 Q22 162 50 156 Q78 162 78 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
   <!-- Head -->
-  <circle cx="50" cy="120" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.15"/>
+  <circle cx="50" cy="120" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.15"/>
   <!-- Hair -->
   <path d="M22 116 Q24 90 50 86 Q76 90 78 116 L74 112 Q68 100 50 100 Q32 100 26 112 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
   <!-- Eyes closed (singing) -->
@@ -15,9 +15,9 @@
   <ellipse cx="50" cy="138" rx="8" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.42"/>
 
   <!-- RIGHT SINGER bust -->
-  <path d="M212 200 Q212 162 240 156 Q268 162 268 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
-  <circle cx="240" cy="120" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.15"/>
-  <path d="M212 116 Q212 88 240 84 Q268 88 268 116 L268 134 L264 130 Q260 100 240 100 Q220 100 216 130 L212 134 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
+  <path d="M212 200 Q212 162 240 156 Q268 162 268 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
+  <circle cx="240" cy="120" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.15"/>
+  <path d="M212 116 Q212 88 240 84 Q268 88 268 116 L268 134 L264 130 Q260 100 240 100 Q220 100 216 130 L212 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
   <path d="M228 116 Q232 120 236 116" fill="none" stroke="#1a1a1a" stroke-width="4.10" stroke-linecap="round"/>
   <path d="M244 116 Q248 120 252 116" fill="none" stroke="#1a1a1a" stroke-width="4.10" stroke-linecap="round"/>
   <ellipse cx="240" cy="138" rx="8" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.42"/>
@@ -35,7 +35,7 @@
   <path d="M120 76 Q132 56 145 76 Q158 96 170 76" fill="none" stroke="#1a1a1a" stroke-width="7.52" stroke-linecap="round"/>
 
   <!-- Merge convergence marks: arrows pointing inward and starburst at center top -->
-  <polygon points="145,40 158,60 152,60 152,72 138,72 138,60 132,60" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
+  <polygon points="145,40 158,60 152,60 152,72 138,72 138,60 132,60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
 
   <!-- Musical notes attached to merged wave -->
   <ellipse cx="132" cy="92" rx="5" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.74"/>

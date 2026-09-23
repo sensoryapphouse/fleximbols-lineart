@@ -2,25 +2,25 @@
   <!-- Ground line -->
   <line x1="30" y1="210" x2="260" y2="210" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- Trunk: straight grey ash trunk -->
-  <path d="M136 210 L133 172 L134 148 L145 142 L156 148 L157 172 L154 210 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M136 210 L133 172 L134 148 L145 142 L156 148 L157 172 L154 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Grey bark stripes -->
   <line x1="140" y1="210" x2="138" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="150" y1="210" x2="152" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Upright oval canopy -->
-  <ellipse cx="145" cy="100" rx="72" ry="82" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11"/>
+  <ellipse cx="145" cy="100" rx="72" ry="82" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Feathery compound leaf texture (lines across canopy) -->
-  <ellipse cx="145" cy="100" rx="55" ry="65" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="145" cy="100" rx="55" ry="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Compound leaf clusters: small paired leaflets -->
-  <ellipse cx="115" cy="75" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="175" cy="75" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="100" cy="95" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="190" cy="95" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="108" cy="120" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="182" cy="120" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="125" cy="58" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="165" cy="58" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="45" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="148" rx="16" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="115" cy="75" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="175" cy="75" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="100" cy="95" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="190" cy="95" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="108" cy="120" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="182" cy="120" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="125" cy="58" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="165" cy="58" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="45" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="148" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Feathery rachis lines -->
   <line x1="115" y1="75" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="175" y1="75" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

@@ -9,9 +9,9 @@
 <path d="M 206 170 Q 256 230 216 320"/>
 </g>
 <!-- hand back (knuckles) scraping down the board -->
-<path d="M 206 140 Q 256 122 306 140 Q 318 168 306 200 L 206 200 Q 194 168 206 140 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
+<path d="M 206 140 Q 256 122 306 140 Q 318 168 306 200 L 206 200 Q 194 168 206 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
 <!-- wrist/forearm up to top -->
-<path d="M 234 140 Q 256 96 290 100 L 320 108 Q 322 130 306 144 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
+<path d="M 234 140 Q 256 96 290 100 L 320 108 Q 322 130 306 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" data-lp="skin"/>
 <!-- four fingers with nails dragging -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
 <path d="M 212 198 L 210 286 Q 222 298 234 286 L 232 198 Z"/>

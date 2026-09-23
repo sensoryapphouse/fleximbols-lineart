@@ -7,13 +7,13 @@
   <path d="M145 210 Q138 175 130 145" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <path d="M145 210 Q152 175 160 145" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- closed goblet petals: 3 outer -->
-  <path d="M145 170 Q115 150 118 110 Q130 102 145 110 Q160 102 172 110 Q175 150 145 170Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M145 170 Q115 150 118 110 Q130 102 145 110 Q160 102 172 110 Q175 150 145 170Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- left petal -->
-  <path d="M118 110 Q105 95 110 68 Q122 60 130 78 Q133 95 145 110" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M118 110 Q105 95 110 68 Q122 60 130 78 Q133 95 145 110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- right petal -->
-  <path d="M172 110 Q185 95 180 68 Q168 60 160 78 Q157 95 145 110" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M172 110 Q185 95 180 68 Q168 60 160 78 Q157 95 145 110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- centre front petal -->
-  <path d="M130 78 Q132 55 145 45 Q158 55 160 78 Q152 90 145 95 Q138 90 130 78Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <path d="M130 78 Q132 55 145 45 Q158 55 160 78 Q152 90 145 95 Q138 90 130 78Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- yellow stamen at top -->
-  <ellipse cx="145" cy="68" rx="8" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="68" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g></svg>

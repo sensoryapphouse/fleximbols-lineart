@@ -27,7 +27,7 @@
     Q 174,174 186,162
     Q 198,150 204,130
     Q 210,110 208,78 Z"
-    fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Foot / base flare -->
   <path d="M 124,214
@@ -47,12 +47,12 @@
   <path d="M 110,158 Q 145,152 180,158" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
 
   <!-- Rope tension ring (top, under drumhead) -->
-  <ellipse cx="145" cy="78" rx="67" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="78" rx="67" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Drumhead skin -->
-  <ellipse cx="145" cy="70" rx="67" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="70" rx="67" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Head centre sheen -->
-  <ellipse cx="138" cy="67" rx="28" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="138" cy="67" rx="28" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- Head rim / bearing edge ring -->
   <ellipse cx="145" cy="70" rx="67" ry="14" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>

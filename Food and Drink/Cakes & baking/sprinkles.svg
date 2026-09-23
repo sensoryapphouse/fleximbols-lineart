@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><!-- open jar body -->
-<path d="M 168 232 L 344 232 L 330 410 Q 256 424 182 410 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 168 232 L 344 232 L 330 410 Q 256 424 182 410 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- jar shoulder / rim -->
-<rect x="158" y="206" width="196" height="34" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="158" y="206" width="196" height="34" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- sprinkles INSIDE the jar -->
 <g stroke-linecap="round">
 <line x1="200" y1="300" x2="222" y2="288" stroke="#1a1a1a" stroke-width="11"/>

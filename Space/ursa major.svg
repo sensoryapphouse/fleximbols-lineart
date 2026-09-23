@@ -18,10 +18,10 @@
     <circle cx="135" cy="180" r="8"/>
     <circle cx="195" cy="175" r="8"/>
   </g>
-  <circle cx="245" cy="40" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="35" cy="170" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="255" cy="200" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="50" cy="215" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="245" cy="85" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="70" cy="30" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="40" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="35" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="255" cy="200" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="215" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="85" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="70" cy="30" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

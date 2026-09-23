@@ -7,15 +7,15 @@
   <!-- right tie tail -->
   <path d="M 210 50 Q 225 55 235 70 L 220 65 L 230 80" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- triangular bandana fabric -->
-  <path d="M 80 50 L 210 50 L 145 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 80 50 L 210 50 L 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- top hem fold -->
   <path d="M 85 58 L 205 58" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- polka dot pattern -->
-  <circle cx="120" cy="90" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="170" cy="90" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="120" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="155" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="160" cy="155" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="120" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="120" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pointed tip emphasis -->
   <line x1="145" y1="180" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -2,15 +2,15 @@
   <!-- wheat stalk stem -->
   <line x1="145" y1="210" x2="145" y2="60" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- wheat grains — left side -->
-  <ellipse cx="130" cy="180" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 130 180)"/>
-  <ellipse cx="122" cy="152" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 122 152)"/>
-  <ellipse cx="118" cy="122" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 118 122)"/>
+  <ellipse cx="130" cy="180" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 130 180)"/>
+  <ellipse cx="122" cy="152" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 122 152)"/>
+  <ellipse cx="118" cy="122" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 118 122)"/>
   <!-- wheat grains — right side -->
-  <ellipse cx="160" cy="180" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 160 180)"/>
-  <ellipse cx="168" cy="152" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 168 152)"/>
-  <ellipse cx="172" cy="122" rx="10" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 172 122)"/>
+  <ellipse cx="160" cy="180" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20 160 180)"/>
+  <ellipse cx="168" cy="152" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 168 152)"/>
+  <ellipse cx="172" cy="122" rx="10" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 172 122)"/>
   <!-- top grain -->
-  <ellipse cx="145" cy="88" rx="10" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="145" cy="88" rx="10" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- awns (bristles) top -->
   <line x1="145" y1="70" x2="138" y2="56" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <line x1="145" y1="70" x2="145" y2="54" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>

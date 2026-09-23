@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Person FULL BODY (standing, centred) -->
   <!-- Head -->
-  <circle cx="100" cy="55" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="55" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Hair -->
   <path d="M82 50 Q85 38 100 35 Q115 38 118 50" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
   <!-- Eyes closed (calm) -->
@@ -10,13 +10,13 @@
   <!-- Mouth slightly open (breathing) -->
   <ellipse cx="102" cy="66" rx="3" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
   <!-- Torso -->
-  <path d="M80 78 L80 145 Q100 155 120 145 L120 78 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M80 78 L80 145 Q100 155 120 145 L120 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
   <!-- Arms (one over chest/belly) -->
   <path d="M82 92 Q70 108 78 130" fill="none" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <path d="M118 92 Q132 105 122 128" fill="none" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <!-- Legs -->
-  <rect x="83" y="148" width="14" height="60" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="103" y="148" width="14" height="60" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="83" y="148" width="14" height="60" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="103" y="148" width="14" height="60" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Feet -->
   <ellipse cx="90" cy="214" rx="9" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.78"/>
   <ellipse cx="110" cy="214" rx="9" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.78"/>

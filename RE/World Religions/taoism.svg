@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- central yin-yang -->
   <g transform="translate(145,130)">
-    <circle cx="0" cy="0" r="68" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.86"/>
+    <circle cx="0" cy="0" r="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.86"/>
     <!-- black half via path -->
     <path d="M0 -68 A68 68 0 0 1 0 68 A34 34 0 0 1 0 0 A34 34 0 0 0 0 -68 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
-    <circle cx="0" cy="-34" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+    <circle cx="0" cy="-34" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
     <circle cx="0" cy="34" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
   </g>
 
@@ -44,6 +44,6 @@
   <g transform="translate(245,55)">
     <path d="M-22 6 Q0 -22 22 6 L18 12 L-18 12 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
     <rect x="-22" y="10" width="44" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
-    <circle cx="0" cy="-6" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+    <circle cx="0" cy="-6" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   </g>
 </g></svg>

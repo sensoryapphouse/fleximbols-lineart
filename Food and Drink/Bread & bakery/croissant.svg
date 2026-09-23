@@ -12,7 +12,7 @@
          Q 372 372 308 384
          Q 256 392 204 384
          Q 140 372 116 320 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- diagonal segment score lines giving the rolled-layer look -->
 <path d="M 158 234 Q 168 300 178 356" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 206 222 Q 210 300 214 366" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

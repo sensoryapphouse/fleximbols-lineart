@@ -5,8 +5,8 @@
 <line x1="-58" y1="-30" x2="-22" y2="200" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="58" y1="-30" x2="22" y2="200" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- leaves -->
-<path d="M 0 170 Q -64 150 -80 206 Q -26 206 0 178 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 6 186 Q 70 166 86 222 Q 32 222 6 194 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 170 Q -64 150 -80 206 Q -26 206 0 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 6 186 Q 70 166 86 222 Q 32 222 6 194 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- purple flower spikes (stacked buds) -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
 <ellipse cx="0" cy="-150" rx="17" ry="24"/>

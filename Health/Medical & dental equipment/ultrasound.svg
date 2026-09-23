@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="121.79 85.10 302.55 302.55"><g>
 <!-- handheld transducer probe -->
-<rect x="150" y="150" width="64" height="120" rx="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="150" y="150" width="64" height="120" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- probe head (flat scanning face) -->
 <rect x="146" y="262" width="72" height="22" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
 <!-- cable -->

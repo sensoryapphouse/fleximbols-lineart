@@ -2,9 +2,9 @@
 <g transform="translate(69.7,-42.1) scale(1.164)"><!-- Dumbbell -->
   <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
     <rect x="90" y="232" width="140" height="48" fill="#1a1a1a" />
-    <rect x="52" y="176" width="46" height="160" rx="10" fill="#FFFFFF"  stroke="#1a1a1a" stroke-width="3.32" />
+    <rect x="52" y="176" width="46" height="160" rx="10" fill="#ffffff"  stroke="#1a1a1a" stroke-width="3.32" />
     <rect x="14" y="206" width="34" height="100" rx="10" fill="#1a1a1a" />
-    <rect x="222" y="176" width="46" height="160" rx="10" fill="#FFFFFF"  stroke="#1a1a1a" stroke-width="3.32" />
+    <rect x="222" y="176" width="46" height="160" rx="10" fill="#ffffff"  stroke="#1a1a1a" stroke-width="3.32" />
     <rect x="272" y="206" width="34" height="100" rx="10" fill="#1a1a1a" />
   </g>
   <line x1="104" y1="240" x2="216" y2="240" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" /></g>

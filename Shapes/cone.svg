@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 240" width="290" height="240">
 <defs>
   <linearGradient id="coneG" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#FFFFFF"/>
-    <stop offset="40%" stop-color="#FFFFFF"/>
-    <stop offset="60%" stop-color="#FFFFFF"/>
-    <stop offset="100%" stop-color="#FFFFFF"/>
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="40%" stop-color="#ffffff"/>
+    <stop offset="60%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#ffffff"/>
   </linearGradient>
 </defs>
 <path d="M145 25 L235 195 A90 25 0 0 1 55 195 Z" fill="url(#coneG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>

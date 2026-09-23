@@ -2,25 +2,25 @@
   <!-- ground line -->
   <line x1="30" y1="200" x2="260" y2="200" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- main A-frame tent body (left panel) -->
-  <polygon points="145,35 30,200 145,200" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <polygon points="145,35 30,200 145,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- main A-frame tent body (right panel) -->
-  <polygon points="145,35 260,200 145,200" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <polygon points="145,35 260,200 145,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- ridge pole highlight line -->
   <line x1="145" y1="35" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6,4"/>
   <!-- door flap (left side, triangular) -->
-  <polygon points="145,200 145,100 105,200" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <polygon points="145,200 145,100 105,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- door arc opening -->
   <path d="M105,200 Q105,130 145,100" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- left guy rope -->
   <line x1="30" y1="200" x2="55" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="55" cy="216" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- right guy rope -->
   <line x1="260" y1="200" x2="238" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="237" cy="216" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="237" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- peak guy rope left -->
   <line x1="145" y1="35" x2="100" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="99" cy="21" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="99" cy="21" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- peak guy rope right -->
   <line x1="145" y1="35" x2="190" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="191" cy="21" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="191" cy="21" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

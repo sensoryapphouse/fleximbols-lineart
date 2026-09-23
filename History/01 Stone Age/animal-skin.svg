@@ -9,7 +9,7 @@
          Q 290 418 256 416 Q 220 418 190 402
          Q 156 430 132 402 Q 116 370 152 346
          Q 110 306 118 250 Q 110 194 150 158 Z"
-      fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- light scrape / fur marks (no heavy central pod) -->
 <path d="M 210 200 Q 256 192 300 202" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 198 250 Q 256 240 312 252" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>

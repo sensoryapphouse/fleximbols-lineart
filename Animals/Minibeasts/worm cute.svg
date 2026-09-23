@@ -11,10 +11,10 @@
   <line x1="210" y1="170" x2="212" y2="178" stroke="#1a1a1a" stroke-width="4.45"></line>
   <line x1="178" y1="180" x2="180" y2="188" stroke="#1a1a1a" stroke-width="4.45"></line>
   <line x1="152" y1="190" x2="155" y2="198" stroke="#1a1a1a" stroke-width="4.45"></line>
-  <circle cx="38" cy="135" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="38" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="38" cy="135" r="2" fill="#1a1a1a"></circle>
-  <circle cx="48" cy="140" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"></circle>
+  <circle cx="48" cy="140" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="48" cy="140" r="2" fill="#1a1a1a"></circle>
   <path d="M 38,148 Q 44,152 50,148" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"></path>
-  <circle cx="32" cy="125" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42"></circle>
+  <circle cx="32" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
 </g></svg>

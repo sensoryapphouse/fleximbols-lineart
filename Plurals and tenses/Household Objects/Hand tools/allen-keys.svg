@@ -3,6 +3,6 @@
 <path d="M 168 110 L 168 360 L 392 360" fill="none" stroke="#1a1a1a" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 168 110 L 168 360 L 392 360" fill="none" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
 <!-- hex end caps (show it's hexagonal stock) -->
-<polygon points="168 86 187 97 187 119 168 130 149 119 149 97" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<polygon points="412 360 401 379 379 379 368 360 379 341 401 341" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="168 86 187 97 187 119 168 130 149 119 149 97" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<polygon points="412 360 401 379 379 379 368 360 379 341 401 341" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

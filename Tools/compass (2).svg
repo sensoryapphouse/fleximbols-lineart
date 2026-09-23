@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.249999)">
 <g>
-	<polygon style="fill:#B2B2B2" points="119.611,435.43 58.856,448.28 206.256,107.154 252.773,127.254 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<polygon style="fill:#B2B2B2" points="278.176,107.154 231.659,127.254 349.173,399.215 395.566,378.827 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="119.611,435.43 58.856,448.28 206.256,107.154 252.773,127.254 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="278.176,107.154 231.659,127.254 349.173,399.215 395.566,378.827 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <g>
-	<path style="fill:#999999" d="M161.382,211.006c11.675,12.696,26.299,22.635,42.789,28.727L222.1,198.24l-38.546-38.546
+	<path style="fill:#ffffff" d="M161.382,211.006c11.675,12.696,26.299,22.635,42.789,28.727L222.1,198.24l-38.546-38.546
 		L161.382,211.006z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<path style="fill:#999999" d="M296.206,148.881l-38.546,38.546l22.602,52.306c16.49-6.092,31.115-16.031,42.789-28.727
+	<path style="fill:#ffffff" d="M296.206,148.881l-38.546,38.546l22.602,52.306c16.49-6.092,31.115-16.031,42.789-28.727
 		L296.206,148.881z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
-<path style="fill:#F7D04A" d="M254.885,105.043h-25.337V20.586c0-6.996,5.672-12.668,12.668-12.668l0,0
+<path style="fill:#ffffff" d="M254.885,105.043h-25.337V20.586c0-6.996,5.672-12.668,12.668-12.668l0,0
 	c6.996,0,12.668,5.672,12.668,12.668V105.043z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<circle style="fill:#EB6836" cx="242.212" cy="136.714" r="73.899" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<circle style="fill:#C74B38" cx="242.212" cy="136.714" r="54.897" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<circle style="fill:#F7D04A" cx="242.212" cy="136.714" r="35.894" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#62C9CC" d="M466.103,424.227l-42.64,18.427L341.69,253.438c-3.469-8.029,0.226-17.348,8.255-20.819l13.567-5.863
+<circle style="fill:#ffffff" cx="242.212" cy="136.714" r="73.899" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<circle style="fill:#ffffff" cx="242.212" cy="136.714" r="54.897" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<circle style="fill:#ffffff" cx="242.212" cy="136.714" r="35.894" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path style="fill:#ffffff" d="M466.103,424.227l-42.64,18.427L341.69,253.438c-3.469-8.029,0.226-17.348,8.255-20.819l13.567-5.863
 	c8.028-3.469,17.348,0.226,20.819,8.255L466.103,424.227z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#F2F2F2" d="M363.512,226.756l-13.567,5.863c-8.028,3.469-11.724,12.79-8.255,20.819l8.096,18.735l42.64-18.427
+<path style="fill:#ffffff" d="M363.512,226.756l-13.567,5.863c-8.028,3.469-11.724,12.79-8.255,20.819l8.096,18.735l42.64-18.427
 	l-8.096-18.735C380.86,226.983,371.54,223.287,363.512,226.756z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#50A9A9" d="M349.945,232.62c-8.028,3.47-11.724,12.79-8.255,20.819l81.773,189.216l15.452-6.678L350.544,232.36
+<path style="fill:#ffffff" d="M349.945,232.62c-8.028,3.47-11.724,12.79-8.255,20.819l81.773,189.216l15.452-6.678L350.544,232.36
 	L349.945,232.62z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#E5E5E5" d="M350.545,232.36l-0.601,0.26c-8.028,3.47-11.724,12.79-8.255,20.819l8.096,18.734l15.188-6.564
+<path style="fill:#ffffff" d="M350.545,232.36l-0.601,0.26c-8.028,3.47-11.724,12.79-8.255,20.819l8.096,18.734l15.188-6.564
 	L350.545,232.36z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<polygon style="fill:#F7D04A" points="476.583,504.1 423.464,442.655 466.103,424.227 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<polygon style="fill:#ffffff" points="476.583,504.1 423.464,442.655 466.103,424.227 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path d="M242.216,92.902c-24.158,0-43.812,19.654-43.812,43.812s19.654,43.812,43.812,43.812s43.812-19.654,43.812-43.812
 	S266.374,92.902,242.216,92.902z M242.216,164.69c-15.426,0-27.976-12.55-27.976-27.976s12.55-27.976,27.976-27.976
 	s27.976,12.55,27.976,27.976S257.642,164.69,242.216,164.69z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>

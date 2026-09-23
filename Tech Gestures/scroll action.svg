@@ -2,48 +2,48 @@
   <!-- Hand scrolling vertically on a phone, content list shifting, up-down arrow -->
 
   <!-- Phone/screen device -->
-  <rect x="65" y="15" width="130" height="210" rx="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11"/>
+  <rect x="65" y="15" width="130" height="210" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Screen surface -->
-  <rect x="76" y="28" width="108" height="175" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <rect x="76" y="28" width="108" height="175" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
 
   <!-- List content shifting (items on screen) -->
   <!-- Item 1 (partially visible top, going up) -->
-  <rect x="82" y="28" width="96" height="25" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="88" y="34" width="50" height="7" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="82" y="28" width="96" height="25" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="34" width="50" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
 
   <!-- Item 2 -->
-  <rect x="82" y="60" width="96" height="30" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="88" y="66" width="70" height="7" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="88" y="78" width="50" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="82" y="60" width="96" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="88" y="66" width="70" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="88" y="78" width="50" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
 
   <!-- Item 3 -->
-  <rect x="82" y="97" width="96" height="30" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="82" y="97" width="96" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="88" y="103" width="60" height="7" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="88" y="115" width="40" height="6" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="88" y="115" width="40" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
 
   <!-- Item 4 (partially cut off at bottom — content going off screen) -->
   <rect x="82" y="134" width="96" height="30" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="88" y="140" width="55" height="7" rx="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="88" y="140" width="55" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
   <rect x="82" y="164" width="96" height="20" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Scroll indicator bar on right edge of screen -->
-  <rect x="178" y="28" width="6" height="175" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="28" width="6" height="175" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Thumb position indicator (mid-screen) -->
-  <rect x="178" y="85" width="6" height="40" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="178" y="85" width="6" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Vertical up-down scroll arrow (to the right of phone) -->
   <!-- Arrow line -->
   <line x1="224" y1="55" x2="224" y2="185" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- Up arrowhead -->
-  <polygon points="224,38 214,62 234,62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <polygon points="224,38 214,62 234,62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Down arrowhead -->
-  <polygon points="224,202 214,178 234,178" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <polygon points="224,202 214,178 234,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
 
   <!-- Finger on screen scrolling (index finger touching screen vertically) -->
   <!-- Finger positioned mid-screen going down -->
-  <ellipse cx="130" cy="155" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="130" cy="155" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Finger body going upward off screen bottom -->
-  <rect x="123" y="155" width="14" height="45" rx="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <rect x="123" y="155" width="14" height="45" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Knuckle lines -->
   <line x1="124" y1="175" x2="136" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="124" y1="190" x2="136" y2="190" stroke="#1a1a1a" stroke-width="4.45"/>

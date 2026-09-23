@@ -7,17 +7,17 @@
   <path d="M145,120 m35,60 a80,80 0 0,1 -80,-2" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <path d="M145,120 m45,-60 a80,80 0 0,1 40,70" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Lobe 1: top -->
-  <ellipse cx="145" cy="58" rx="28" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="58" rx="28" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lobe 2: bottom-left -->
-  <ellipse cx="85" cy="162" rx="28" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(60 85 162)"/>
+  <ellipse cx="85" cy="162" rx="28" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(60 85 162)"/>
   <!-- Lobe 3: bottom-right -->
-  <ellipse cx="205" cy="162" rx="28" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-60 205 162)"/>
+  <ellipse cx="205" cy="162" rx="28" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-60 205 162)"/>
   <!-- Arms connecting lobes to centre -->
-  <polygon points="130,95 160,95 175,152 115,152" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <polygon points="130,95 160,95 175,152 115,152" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Centre bearing outer ring -->
-  <circle cx="145" cy="122" r="26" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" data-lp="hair"/>
+  <circle cx="145" cy="122" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" data-lp="hair"/>
   <!-- Centre bearing inner ring -->
-  <circle cx="145" cy="122" r="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="122" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Centre bearing hub -->
-  <circle cx="145" cy="122" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="122" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

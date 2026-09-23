@@ -20,5 +20,5 @@
     <line x1="88" y1="143" x2="78" y2="162" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
   <!-- Centre hex -->
-  <circle cx="145" cy="120" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.88"/>
+  <circle cx="145" cy="120" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.88"/>
 </g></svg>

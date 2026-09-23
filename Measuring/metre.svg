@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(1.0102) translate(-256.00 -256.00)">
 <!-- long metre stick / ruler -->
-<rect x="36.0" y="300.0" width="440.0" height="84.0" rx="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="36.0" y="300.0" width="440.0" height="84.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- gradations along the bottom edge -->
 <line x1="36" y1="384" x2="36" y2="334" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="58" y1="384" x2="58" y2="356" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
@@ -25,8 +25,8 @@
 <line x1="476" y1="384" x2="476" y2="334" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- full-length span arrow above, marking it as a single whole unit -->
 <line x1="44" y1="236" x2="468" y2="236" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<polygon points="36.0,236.0 62.0,221.0 62.0,251.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
-<polygon points="476.0,236.0 450.0,251.0 450.0,221.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="36.0,236.0 62.0,221.0 62.0,251.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="476.0,236.0 450.0,251.0 450.0,221.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- bold "1 m" unit label drawn as shapes (no text) -->
 <!-- digit 1 -->
 <g fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">

@@ -3,14 +3,14 @@
 <!-- LEFT (faded): soft pillow = not painful -->
 <g opacity="0.34">
 <g transform="translate(-8 70)">
-<path d="M 96 200 Q 96 176 128 176 L 220 176 Q 252 176 252 200 L 252 268 Q 252 292 220 292 L 128 292 Q 96 292 96 268 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 96 200 Q 96 176 128 176 L 220 176 Q 252 176 252 200 L 252 268 Q 252 292 220 292 L 128 292 Q 96 292 96 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 120 234 Q 174 222 228 234" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </g>
 </g>
 <!-- RIGHT (full): bed of sharp spikes = painful -->
 <g transform="translate(8 70)">
 <!-- base board -->
-<rect x="266" y="262" width="172" height="36" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="266" y="262" width="172" height="36" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- spikes -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round">
 <polygon points="284,262 300,176 316,262"/>
@@ -25,7 +25,7 @@
 <line x1="380" y1="138" x2="404" y2="110"/>
 </g>
 <!-- red jagged pain flash -->
-<path d="M 348 128 L 330 168 L 352 168 L 332 210 L 372 154 L 348 154 L 364 128 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 348 128 L 330 168 L 352 168 L 332 210 L 372 154 L 348 154 L 364 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 </g>
 <!-- big green arrow pointing down at the painful (spiky) one -->
 <g stroke="#1a1a1a" stroke-width="15" stroke-linecap="round">

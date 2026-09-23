@@ -21,5 +21,5 @@
   <!-- Segment 10 - top-left -->
   <line x1="114" y1="57" x2="102" y2="43" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Center dot -->
-  <circle cx="145" cy="100" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="145" cy="100" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
 </g></svg>

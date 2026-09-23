@@ -7,19 +7,19 @@
 <path d="M 322 208 q -24 -26 0 -52 q 24 -26 0 -52"/>
 </g>
 <!-- dust specks -->
-<circle cx="160" cy="150" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="360" cy="138" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="146" cy="196" r="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<circle cx="372" cy="190" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="160" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="360" cy="138" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="146" cy="196" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="372" cy="190" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- closed book cover -->
-<path d="M 140 252 L 372 252 L 372 408 L 140 408 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 140 252 L 372 252 L 372 408 L 140 408 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- spine -->
-<rect x="140" y="252" width="30" height="156" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="140" y="252" width="30" height="156" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- page block edge -->
-<path d="M 372 264 L 392 276 L 392 420 L 372 408 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 140 408 L 372 408 L 392 420 L 160 420 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 372 264 L 392 276 L 392 420 L 372 408 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 140 408 L 372 408 L 392 420 L 160 420 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- worn cover damp blotches -->
-<ellipse cx="250" cy="310" rx="26" ry="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<ellipse cx="320" cy="360" rx="20" ry="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
-<ellipse cx="210" cy="370" rx="16" ry="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="250" cy="310" rx="26" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="320" cy="360" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<ellipse cx="210" cy="370" rx="16" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 </svg>

@@ -6,15 +6,15 @@
   <line x1="145" y1="220" x2="157" y2="213" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
   <line x1="145" y1="198" x2="133" y2="191" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
   <!-- petal top-left -->
-  <ellipse cx="110" cy="108" rx="38" ry="32" transform="rotate(-35 110 108)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="108" rx="38" ry="32" transform="rotate(-35 110 108)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- petal top-right -->
-  <ellipse cx="180" cy="108" rx="38" ry="32" transform="rotate(35 180 108)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="180" cy="108" rx="38" ry="32" transform="rotate(35 180 108)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- petal bottom-left -->
-  <ellipse cx="110" cy="155" rx="38" ry="32" transform="rotate(35 110 155)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="155" rx="38" ry="32" transform="rotate(35 110 155)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- petal bottom-right -->
-  <ellipse cx="180" cy="155" rx="38" ry="32" transform="rotate(-35 180 155)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <ellipse cx="180" cy="155" rx="38" ry="32" transform="rotate(-35 180 155)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- dark centre -->
-  <circle cx="145" cy="130" r="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.55"/>
+  <circle cx="145" cy="130" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- centre dot -->
   <circle cx="145" cy="130" r="10" fill="#1a1a1a"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

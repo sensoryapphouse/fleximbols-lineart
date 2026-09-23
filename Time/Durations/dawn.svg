@@ -3,20 +3,20 @@
   <rect x="26" y="20" width="238" height="158" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Soft pre-dawn glow band at horizon: purple-pink gradient emulated as layered rects -->
   <rect x="26" y="120" width="238" height="58" rx="0" fill="#1a1a1a" stroke="none"/>
-  <rect x="26" y="140" width="238" height="38" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="26" y="155" width="238" height="23" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="26" y="140" width="238" height="38" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="26" y="155" width="238" height="23" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Horizon ground bar -->
-  <rect x="26" y="168" width="238" height="42" rx="0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <rect x="26" y="168" width="238" height="42" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Clip glow to sky panel using outline rect drawn last -->
   <rect x="26" y="20" width="238" height="148" rx="10" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- A few faint stars in dark upper sky -->
-  <circle cx="55" cy="42" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="100" cy="35" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="200" cy="48" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="245" cy="35" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="160" cy="55" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="78" cy="72" r="2" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="55" cy="42" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="100" cy="35" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="245" cy="35" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="55" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="78" cy="72" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Soft elliptical glow on horizon (no visible sun disc) -->
-  <ellipse cx="145" cy="168" rx="90" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="168" rx="55" ry="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="145" cy="168" rx="90" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="168" rx="55" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

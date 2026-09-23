@@ -3,23 +3,23 @@
 <line x1="150" y1="180" x2="372" y2="150" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <line x1="150" y1="180" x2="372" y2="150" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- blue roof beacon -->
-<rect x="300" y="156" width="40" height="24" rx="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<rect x="300" y="156" width="40" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- main body: full cab + long pumper, one connected shell -->
-<path d="M 56 220 Q 56 188 88 188 L 200 188 L 200 196 L 456 196 Q 466 196 466 206 L 466 340 Q 466 350 456 350 L 66 350 Q 56 350 56 340 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 56 220 Q 56 188 88 188 L 200 188 L 200 196 L 456 196 Q 466 196 466 206 L 466 340 Q 466 350 456 350 L 66 350 Q 56 350 56 340 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- cab window (windscreen) -->
-<path d="M 76 224 L 150 224 Q 158 224 158 232 L 158 270 L 70 270 L 70 244 Q 70 224 76 224 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 76 224 L 150 224 Q 158 224 158 232 L 158 270 L 70 270 L 70 244 Q 70 224 76 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- cab / body divider -->
 <line x1="178" y1="196" x2="178" y2="350" stroke="#1a1a1a" stroke-width="7"/>
 <!-- equipment lockers -->
-<rect x="200" y="232" width="112" height="84" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<rect x="330" y="232" width="118" height="84" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="200" y="232" width="112" height="84" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="330" y="232" width="118" height="84" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- front bumper, complete to the nose -->
 <rect x="52" y="330" width="120" height="20" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- wheels -->
 <circle cx="148" cy="356" r="46" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
-<circle cx="148" cy="356" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="148" cy="356" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="148" cy="356" r="5" fill="#1a1a1a"/>
 <circle cx="378" cy="356" r="46" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
-<circle cx="378" cy="356" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="378" cy="356" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="378" cy="356" r="5" fill="#1a1a1a"/>
 </g></svg>

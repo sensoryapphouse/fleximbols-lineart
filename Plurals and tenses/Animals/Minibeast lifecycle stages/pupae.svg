@@ -2,7 +2,7 @@
 <line x1="150" y1="110" x2="360" y2="110" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <line x1="256" y1="118" x2="256" y2="150" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- pupa case -->
-<path d="M 256 146 C 320 150 332 250 312 330 C 300 386 280 412 256 414 C 232 412 212 386 200 330 C 180 250 192 150 256 146 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 256 146 C 320 150 332 250 312 330 C 300 386 280 412 256 414 C 232 412 212 386 200 330 C 180 250 192 150 256 146 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- segment ridges -->
 <path d="M 214 300 Q 256 316 298 300" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 210 336 Q 256 352 302 336" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

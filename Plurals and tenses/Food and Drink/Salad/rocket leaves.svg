@@ -16,9 +16,9 @@
     Q172 182 152 190
     Q149 192 145 193
     Q141 192 138 190 Z"
-    fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Upper pointed tip -->
-  <path d="M145 112 Q141 95 142 78 Q145 65 145 52 Q145 65 148 78 Q149 95 145 112 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145 112 Q141 95 142 78 Q145 65 145 52 Q145 65 148 78 Q149 95 145 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Midrib -->
   <line x1="145" y1="193" x2="145" y2="52" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- Side veins -->

@@ -2,20 +2,20 @@
   <!-- Surgical gown: sterile tie-back gown garment, flat lay view -->
 
   <!-- Main gown body -->
-  <path d="M 75 40 L 75 200 Q 75 215 90 215 L 200 215 Q 215 215 215 200 L 215 40 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M 75 40 L 75 200 Q 75 215 90 215 L 200 215 Q 215 215 215 200 L 215 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 
   <!-- Neck opening (rounded collar cutout at top centre) -->
   <path d="M 115 40 Q 115 62 145 62 Q 175 62 175 40 Z" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 
   <!-- Left sleeve -->
-  <path d="M 75 70 L 30 90 L 22 155 L 44 158 L 75 110 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M 75 70 L 30 90 L 22 155 L 44 158 L 75 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Left cuff band -->
-  <rect x="22" y="150" width="24" height="16" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="22" y="150" width="24" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
 
   <!-- Right sleeve -->
-  <path d="M 215 70 L 260 90 L 268 155 L 246 158 L 215 110 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M 215 70 L 260 90 L 268 155 L 246 158 L 215 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Right cuff band -->
-  <rect x="244" y="150" width="24" height="16" rx="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55"/>
+  <rect x="244" y="150" width="24" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
 
   <!-- Centre front opening line (tie-front gap) -->
   <line x1="145" y1="62" x2="145" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,5"/>

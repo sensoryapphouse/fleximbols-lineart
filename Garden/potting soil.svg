@@ -4,21 +4,21 @@
   <ellipse cx="155" cy="210" rx="95" ry="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <path d="M 65 210 Q 80 168 120 158 Q 155 150 190 158 Q 228 168 245 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Soil texture lumps -->
-  <ellipse cx="110" cy="188" rx="12" ry="7" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="155" cy="178" rx="10" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="195" cy="186" rx="11" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="135" cy="196" rx="8" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="172" cy="194" rx="9" ry="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="188" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="155" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="195" cy="186" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="135" cy="196" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="172" cy="194" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- Bag body (leaning, open at bottom-left) -->
-  <path d="M 90 30 L 70 155 Q 110 148 145 152 L 185 40 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 90 30 L 70 155 Q 110 148 145 152 L 185 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag side gusset shadow -->
-  <path d="M 185 40 L 210 155 Q 180 150 145 152" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 185 40 L 210 155 Q 180 150 145 152" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag top fold / seal -->
-  <path d="M 90 30 Q 135 18 185 40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 90 30 Q 135 18 185 40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag label stripe (orange) -->
-  <path d="M 98 75 Q 140 68 182 82 L 178 102 Q 137 89 95 96 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 98 75 Q 140 68 182 82 L 178 102 Q 137 89 95 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Label stripe lower (green) -->
-  <path d="M 95 102 Q 137 89 178 102 L 174 122 Q 133 110 92 118 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 95 102 Q 137 89 178 102 L 174 122 Q 133 110 92 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag tie at top -->
   <path d="M 125 26 Q 137 14 150 26" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 </g></svg>

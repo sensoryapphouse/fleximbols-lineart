@@ -3,13 +3,13 @@
   <!-- Eyebrow bar -->
   <rect x="80" y="68" width="130" height="10" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Outer eye white (almond) -->
-  <path d="M70 120 Q145 68 220 120 Q145 172 70 120 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M70 120 Q145 68 220 120 Q145 172 70 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Iris -->
   <circle cx="145" cy="120" r="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pupil -->
   <circle cx="145" cy="120" r="14" fill="#1a1a1a"/>
   <!-- Eye highlight -->
-  <circle cx="135" cy="112" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="135" cy="112" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Teardrop line descending from inner corner -->
   <path d="M100 130 L85 165 L95 185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Teardrop horizontal crossbar -->

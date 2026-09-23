@@ -4,26 +4,26 @@
 <path d="M 224 386 L 224 432 M 224 432 l -16 8 M 224 432 l 16 8 M 224 432 l 0 12" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 276 386 L 276 432 M 276 432 l -16 8 M 276 432 l 16 8 M 276 432 l 0 12" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- plump body -->
-<ellipse cx="250" cy="312" rx="98" ry="86" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="250" cy="312" rx="98" ry="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- belly highlight -->
-<ellipse cx="240" cy="330" rx="56" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="240" cy="330" rx="56" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
 <!-- stubby wing -->
-<path d="M 326 296 Q 366 300 360 340 Q 332 336 320 312 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 326 296 Q 366 300 360 340 Q 332 336 320 312 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- tail tuft -->
-<path d="M 340 250 Q 386 220 400 236 Q 378 246 360 268 Q 388 262 402 280 Q 372 296 344 286 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 340 250 Q 386 220 400 236 Q 378 246 360 268 Q 388 262 402 280 Q 372 296 344 286 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- neck + head -->
-<path d="M 196 250 Q 176 180 200 150 Q 232 130 262 148 Q 240 170 234 210 Q 228 240 222 256 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 196 250 Q 176 180 200 150 Q 232 130 262 148 Q 240 170 234 210 Q 228 240 222 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- head -->
-<circle cx="216" cy="160" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="216" cy="160" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- big hooked beak -->
 <path d="M 200 150
          Q 150 150 132 176
          Q 150 188 176 184
          Q 156 200 150 220
          Q 178 214 196 190
-         Q 206 172 200 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+         Q 206 172 200 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <path d="M 176 184 Q 162 186 150 180" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- eye -->
-<circle cx="222" cy="150" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="222" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="220" cy="151" r="4.5" fill="#1a1a1a"/>
 </svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Board background -->
-  <rect x="26" y="32" width="238" height="176" rx="8" ry="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
+  <rect x="26" y="32" width="238" height="176" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.08" stroke-linejoin="round"/>
 
   <!-- Right triangle, left half of board -->
   <!-- Vertices: right-angle at bottom-left, hypotenuse top-right to bottom-right -->
-  <polygon points="30,185 30,60 140,185" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
+  <polygon points="30,185 30,60 140,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
 
   <!-- Right angle mark at bottom-left -->
   <polyline points="30,170 45,170 45,185" fill="none" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round" stroke-linejoin="round"/>
@@ -26,9 +26,9 @@
 
   <!-- Small legend icons (drawn as path blocks, no text) -->
   <!-- "opp" indicator: vertical rectangle near left side label -->
-  <rect x="12" y="108" width="10" height="28" rx="1" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="12" y="108" width="10" height="28" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
   <!-- "adj" indicator: horizontal rectangle near bottom label -->
-  <rect x="77" y="190" width="28" height="10" rx="1" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="77" y="190" width="28" height="10" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
   <!-- "hyp" indicator: diagonal lines near hyp label -->
   <line x1="78" y1="108" x2="92" y2="120" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round"/>
 
@@ -39,7 +39,7 @@
   <line x1="152" y1="122" x2="265" y2="122" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round" stroke-dasharray="5,4"/>
   <!-- Amplitude arrows -->
   <line x1="181" y1="80" x2="181" y2="122" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round" stroke-dasharray="4,3"/>
-  <polygon points="181,77 177,86 185,86" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="181,77 177,86 185,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- x-axis ticks for wave -->
   <line x1="155" y1="118" x2="155" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
   <line x1="181" y1="118" x2="181" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>

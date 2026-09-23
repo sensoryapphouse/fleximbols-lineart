@@ -9,6 +9,6 @@
 <path d="M 256 300 L 256 372" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <path d="M 256 300 L 256 372" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- chest piece (round diaphragm) -->
-<circle cx="256" cy="392" r="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="256" cy="392" r="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="392" r="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="392" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

@@ -10,9 +10,9 @@
 <line x1="132" y1="416" x2="176" y2="416" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="336" y1="416" x2="380" y2="416" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- ===== padded board on top (over the leg-tops, joining them) ===== -->
-<path d="M 116 200 L 356 200 Q 400 200 400 180 Q 400 158 356 158 L 126 158 Q 104 158 104 179 Q 104 200 116 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 116 200 L 356 200 Q 400 200 400 180 Q 400 158 356 158 L 126 158 Q 104 158 104 179 Q 104 200 116 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- iron resting on the board -->
-<path d="M 200 150 L 300 150 Q 314 150 308 134 L 232 112 Q 208 106 198 128 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 200 150 L 300 150 Q 314 150 308 134 L 232 112 Q 208 106 198 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- iron handle -->
 <path d="M 216 116 Q 256 90 296 120" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 </svg>

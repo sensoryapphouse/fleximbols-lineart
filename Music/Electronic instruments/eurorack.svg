@@ -2,20 +2,20 @@
   <!-- compact case (smaller, more horizontal than full modular) -->
   <rect x="25" y="65" width="240" height="120" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="14.82"/>
   <!-- inner rails area -->
-  <rect x="33" y="73" width="224" height="104" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.41"/>
+  <rect x="33" y="73" width="224" height="104" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41"/>
   <!-- rows of slim modules (eurorack is taller-than-wide slim panels) -->
   <!-- module 1 - slim -->
-  <rect x="38" y="78" width="16" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="46" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="38" y="78" width="16" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="46" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="46" cy="103" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="46" cy="118" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="46" cy="133" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="46" cy="148" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="46" cy="163" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 2 wider -->
-  <rect x="58" y="78" width="28" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="66" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="78" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="58" y="78" width="28" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="66" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="78" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="66" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="78" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="66" cy="122" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -25,18 +25,18 @@
   <circle cx="66" cy="160" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="78" cy="160" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 3 slim -->
-  <rect x="90" y="78" width="16" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="98" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="90" y="78" width="16" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="98" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="98" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="98" cy="122" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="98" cy="140" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="98" cy="158" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 4 with display -->
-  <rect x="110" y="78" width="36" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
+  <rect x="110" y="78" width="36" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
   <rect x="115" y="84" width="26" height="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
-  <rect x="117" y="87" width="22" height="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
-  <circle cx="122" cy="108" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="135" cy="108" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="117" y="87" width="22" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
+  <circle cx="122" cy="108" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="135" cy="108" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="122" cy="125" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="135" cy="125" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="122" cy="142" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -44,16 +44,16 @@
   <circle cx="122" cy="159" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="135" cy="159" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 5 -->
-  <rect x="150" y="78" width="20" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="160" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="150" y="78" width="20" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="160" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="160" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="160" cy="122" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="160" cy="139" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="160" cy="156" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 6 -->
-  <rect x="174" y="78" width="26" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="183" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="194" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="174" y="78" width="26" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="183" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="194" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="183" cy="108" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="194" cy="108" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="183" cy="128" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -61,16 +61,16 @@
   <circle cx="183" cy="148" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="194" cy="148" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 7 slim -->
-  <rect x="204" y="78" width="16" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="212" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="204" y="78" width="16" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="212" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="212" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="212" cy="122" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="212" cy="140" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="212" cy="158" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- module 8 -->
-  <rect x="224" y="78" width="28" height="94" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9.26"/>
-  <circle cx="232" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="244" cy="88" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.56"/>
+  <rect x="224" y="78" width="28" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.26"/>
+  <circle cx="232" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
+  <circle cx="244" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="232" cy="108" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="244" cy="108" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="232" cy="128" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>

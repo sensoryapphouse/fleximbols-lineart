@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="56.24 49.42 399.52 399.52"><!-- tennis racket -->
 <!-- handle -->
-<rect x="238" y="320" width="36" height="100" rx="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="238" y="320" width="36" height="100" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- grip wrap lines -->
 <line x1="240" y1="345" x2="272" y2="335" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="240" y1="370" x2="272" y2="360" stroke="#1a1a1a" stroke-width="5"/>
@@ -8,7 +8,7 @@
 <!-- throat -->
 <path d="M 240 325 L 218 270 M 272 325 L 294 270" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- frame (head) -->
-<ellipse cx="256" cy="200" rx="98" ry="118" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="14"/>
+<ellipse cx="256" cy="200" rx="98" ry="118" fill="#ffffff" stroke="#1a1a1a" stroke-width="14"/>
 <ellipse cx="256" cy="200" rx="98" ry="118" fill="none" stroke="#1a1a1a" stroke-width="4"/>
 <!-- strings -->
 <g stroke="#1a1a1a" stroke-width="4">

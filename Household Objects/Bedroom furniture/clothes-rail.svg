@@ -8,8 +8,8 @@
 <line x1="332" y1="420" x2="392" y2="420" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- hanger 1 (shirt) -->
 <path d="M 215 150 L 200 196 L 230 196 Z" fill="none" stroke="#1a1a1a" stroke-width="6"/>
-<path d="M 196 200 L 188 280 L 242 280 L 234 200 L 230 196 L 200 196 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 196 200 L 188 280 L 242 280 L 234 200 L 230 196 L 200 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- hanger 2 (shirt) -->
 <path d="M 297 150 L 282 196 L 312 196 Z" fill="none" stroke="#1a1a1a" stroke-width="6"/>
-<path d="M 278 200 L 270 290 L 324 290 L 316 200 L 312 196 L 282 196 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
+<path d="M 278 200 L 270 290 L 324 290 L 316 200 L 312 196 L 282 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 </svg>

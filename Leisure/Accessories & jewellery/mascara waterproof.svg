@@ -3,20 +3,20 @@
   <!-- Mascara tube body -->
   <rect x="60" y="50" width="60" height="150" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Label band -->
-  <rect x="62" y="100" width="56" height="50" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="62" y="100" width="56" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
   <!-- WATERPROOF text implied as a path/line group on label -->
   <line x1="68" y1="116" x2="112" y2="116" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <line x1="68" y1="124" x2="112" y2="124" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <line x1="68" y1="132" x2="112" y2="132" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <line x1="78" y1="140" x2="102" y2="140" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
   <!-- Cap -->
-  <rect x="68" y="22" width="44" height="30" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <rect x="68" y="22" width="44" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Collar -->
-  <rect x="60" y="46" width="60" height="8" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="60" y="46" width="60" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Tube shine -->
   <line x1="68" y1="60" x2="68" y2="190" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Water droplet (large, beside tube) -->
-  <path d="M210,70 Q240,110 222,150 Q198,168 178,148 Q172,108 210,70 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M210,70 Q240,110 222,150 Q198,168 178,148 Q172,108 210,70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Droplet shine -->
   <path d="M198,90 Q190,108 192,124" stroke="#ffffff" stroke-width="4.45" fill="none" stroke-linecap="round"/>
   <!-- Repelled / no-water slash across droplet -->

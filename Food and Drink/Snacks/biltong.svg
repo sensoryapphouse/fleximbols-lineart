@@ -17,7 +17,7 @@
 
   <!-- Strip 2 (centre, thicker) -->
   <path d="M142,22 L146,32" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M138,34 Q132,32 132,38 L128,110 Q128,128 150,134 Q172,128 172,110 L168,38 Q168,32 162,34 Q150,40 138,34 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M138,34 Q132,32 132,38 L128,110 Q128,128 150,134 Q172,128 172,110 L168,38 Q168,32 162,34 Q150,40 138,34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M132,52 Q150,48 168,52" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <path d="M132,68 Q150,64 168,68" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <path d="M132,84 Q150,80 168,84" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>

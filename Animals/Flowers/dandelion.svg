@@ -3,7 +3,7 @@
 <!-- stem -->
 <line x1="0" y1="20" x2="0" y2="208" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- jagged leaf -->
-<path d="M 0 150 L -40 138 L -22 160 L -64 156 L -40 178 L -78 182 Q -30 198 0 162 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 0 150 L -40 138 L -22 160 L -64 156 L -40 178 L -78 182 Q -30 198 0 162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- shaggy yellow bloom: outer ring of thin petals -->
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
 <line x1="0" y1="-30" x2="0" y2="-118"/>
@@ -40,6 +40,6 @@
 <line x1="0" y1="-30" x2="0" y2="-108" transform="rotate(330)"/>
 </g>
 <!-- bloom centre -->
-<circle cx="0" cy="-30" r="34" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<circle cx="0" cy="-30" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 </g>
 </svg>

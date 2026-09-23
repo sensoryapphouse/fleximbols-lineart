@@ -3,14 +3,14 @@
   <!-- Goblet base foot -->
   <ellipse cx="145" cy="222" rx="36" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Stem / waist of goblet -->
-  <path d="M125,222 Q118,198 116,178 Q114,162 122,155 L168,155 Q176,162 174,178 Q172,198 165,222 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M125,222 Q118,198 116,178 Q114,162 122,155 L168,155 Q176,162 174,178 Q172,198 165,222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Upper bowl (wide top of goblet) -->
-  <path d="M96,72 Q88,130 96,155 L194,155 Q202,130 194,72 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <path d="M96,72 Q88,130 96,155 L194,155 Q202,130 194,72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Bowl shaping - slight curve in -->
   <path d="M96,72 Q88,130 96,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <path d="M194,72 Q202,130 194,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Drum head (top skin) -->
-  <ellipse cx="145" cy="72" rx="50" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="72" rx="50" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Head tensioning ring -->
   <ellipse cx="145" cy="72" rx="50" ry="16" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Rope crown ring top -->

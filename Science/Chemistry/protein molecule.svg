@@ -2,16 +2,16 @@
   <!-- backbone spiral path of an alpha helix -->
   <path d="M 90 40 Q 200 60 200 80 Q 200 100 90 100 Q 90 120 200 120 Q 200 140 90 140 Q 90 160 200 160 Q 200 180 90 180 Q 90 200 200 200" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- amino-acid beads along the chain -->
-  <circle cx="90" cy="40" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="55" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="200" cy="80" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="100" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="90" cy="100" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="115" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="200" cy="140" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="155" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="90" cy="140" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="175" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="200" cy="200" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="90" cy="180" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="40" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="55" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="80" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="100" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="100" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="115" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="155" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="175" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="200" cy="200" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="90" cy="180" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

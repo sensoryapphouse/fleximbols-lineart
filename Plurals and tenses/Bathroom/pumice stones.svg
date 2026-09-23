@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
 <!-- porous grey pumice stone, rounded oblong -->
-<path d="M120 250 Q140 168 256 158 Q392 150 402 258 Q410 350 300 374 Q160 392 124 320 Q108 286 120 250 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M120 250 Q140 168 256 158 Q392 150 402 258 Q410 350 300 374 Q160 392 124 320 Q108 286 120 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- shaded underside for form -->
-<path d="M124 320 Q160 392 300 374 Q360 364 388 322 Q370 350 300 360 Q170 376 140 318 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.00" />
+<path d="M124 320 Q160 392 300 374 Q360 364 388 322 Q370 350 300 360 Q170 376 140 318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <!-- pores / pits scattered across the surface -->
 <g fill="#FFFFFF">
 <circle cx="180" cy="230" r="9"/>

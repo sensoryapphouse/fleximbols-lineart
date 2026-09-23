@@ -8,7 +8,7 @@
   <!-- ankle cuff -->
   <path d="M 55 65 Q 98 55 142 65" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- steel toe cap (silver, prominent) -->
-  <path d="M 218 150 L 240 172 L 262 172 Q 262 152 245 145 Q 230 140 218 150 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M 218 150 L 240 172 L 262 172 Q 262 152 245 145 Q 230 140 218 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- steel toe shine highlight -->
   <path d="M 225 152 Q 240 150 255 158" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- toe cap seam line -->
@@ -22,5 +22,5 @@
   <circle cx="130" cy="120" r="3" fill="#1a1a1a"/>
   <path d="M 75 80 L 127 100 L 80 120 M 125 80 L 77 100 L 130 120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- tongue -->
-  <path d="M 93 70 L 112 70 L 114 135 L 91 135 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 93 70 L 112 70 L 114 135 L 91 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
 </g></svg>

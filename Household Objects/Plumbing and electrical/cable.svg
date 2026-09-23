@@ -17,9 +17,9 @@
 <line x1="96" y1="362" x2="78" y2="384" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
 <line x1="96" y1="362" x2="78" y2="384" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- grey outer sheath (drawn on top, hides where the 3 wires join) -->
-<path d="M 250 200 Q 430 200 430 256 Q 430 312 250 312 Q 232 312 224 290 Q 240 256 224 222 Q 232 200 250 200 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 250 200 Q 430 200 430 256 Q 430 312 250 312 Q 232 312 224 290 Q 240 256 224 222 Q 232 200 250 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- cut-open mouth of the sheath -->
-<ellipse cx="250" cy="256" rx="16" ry="58" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8"/>
+<ellipse cx="250" cy="256" rx="16" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- a couple of sheath ridges for texture -->
 <path d="M 320 214 Q 330 256 320 298" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5"/>
 <path d="M 372 218 Q 382 256 372 294" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5"/>

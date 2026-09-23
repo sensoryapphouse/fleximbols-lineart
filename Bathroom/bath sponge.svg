@@ -3,9 +3,9 @@
   <path d="M145 30 Q120 36 110 60" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M145 30 Q170 36 180 60" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- string loop knot -->
-  <circle cx="145" cy="30" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="30" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- natural sponge irregular body -->
-  <path d="M70 80 Q60 70 70 60 Q78 52 92 60 Q104 50 120 56 Q138 46 156 56 Q176 48 192 60 Q210 56 220 72 Q236 80 232 100 Q244 116 232 132 Q240 152 222 164 Q220 184 198 188 Q188 204 168 200 Q150 212 130 202 Q112 210 96 198 Q76 200 68 182 Q50 176 56 156 Q44 140 56 124 Q46 108 60 96 Q56 84 70 80 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M70 80 Q60 70 70 60 Q78 52 92 60 Q104 50 120 56 Q138 46 156 56 Q176 48 192 60 Q210 56 220 72 Q236 80 232 100 Q244 116 232 132 Q240 152 222 164 Q220 184 198 188 Q188 204 168 200 Q150 212 130 202 Q112 210 96 198 Q76 200 68 182 Q50 176 56 156 Q44 140 56 124 Q46 108 60 96 Q56 84 70 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- porous holes -->
   <circle cx="90" cy="100" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="120" cy="86" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>

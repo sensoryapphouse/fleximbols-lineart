@@ -7,20 +7,20 @@
   <path d="M155 205 Q160 160 150 130 Q135 105 105 95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Wilted leaf -->
-  <path d="M154 175 Q175 178 188 195 Q170 192 152 185 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M154 175 Q175 178 188 195 Q170 192 152 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Second drooping leaf -->
-  <path d="M152 150 Q130 162 122 180 Q140 172 154 160 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M152 150 Q130 162 122 180 Q140 172 154 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Flower head drooping down-left -->
   <!-- Drooping petals -->
-  <ellipse cx="85" cy="80" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 85 80)"/>
-  <ellipse cx="78" cy="100" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-60 78 100)"/>
-  <ellipse cx="85" cy="120" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(60 85 120)"/>
-  <ellipse cx="115" cy="115" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 115 115)"/>
-  <ellipse cx="120" cy="90" rx="14" ry="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="85" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 85 80)"/>
+  <ellipse cx="78" cy="100" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-60 78 100)"/>
+  <ellipse cx="85" cy="120" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(60 85 120)"/>
+  <ellipse cx="115" cy="115" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 115 115)"/>
+  <ellipse cx="120" cy="90" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Centre face -->
-  <circle cx="100" cy="100" r="20" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.33"/>
+  <circle cx="100" cy="100" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- Sad eyes (closed/x) -->
   <path d="M90 95 L96 101 M96 95 L90 101" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M104 95 L110 101 M110 95 L104 101" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -28,7 +28,7 @@
   <path d="M93 112 Q100 106 107 112" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Falling petal -->
-  <ellipse cx="65" cy="155" rx="9" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(40 65 155)"/>
+  <ellipse cx="65" cy="155" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(40 65 155)"/>
   <!-- Falling petal 2 -->
-  <ellipse cx="45" cy="190" rx="9" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(-20 45 190)"/>
+  <ellipse cx="45" cy="190" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" transform="rotate(-20 45 190)"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

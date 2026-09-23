@@ -6,27 +6,27 @@
   <path d="M22 150 L60 150" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M30 180 L70 180" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- book 1 (bottom) -->
-  <rect x="78" y="190" width="160" height="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.18"/>
+  <rect x="78" y="190" width="160" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
   <rect x="78" y="190" width="160" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70"/>
   <line x1="92" y1="204" x2="220" y2="204" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="92" y1="212" x2="200" y2="212" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- book 2 -->
-  <rect x="84" y="158" width="155" height="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.18"/>
-  <rect x="84" y="158" width="155" height="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
+  <rect x="84" y="158" width="155" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
+  <rect x="84" y="158" width="155" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <line x1="98" y1="172" x2="220" y2="172" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="98" y1="180" x2="205" y2="180" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- book 3 -->
-  <rect x="80" y="126" width="160" height="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.18"/>
-  <rect x="80" y="126" width="160" height="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
+  <rect x="80" y="126" width="160" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
+  <rect x="80" y="126" width="160" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <line x1="94" y1="140" x2="222" y2="140" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="94" y1="148" x2="208" y2="148" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- book 4 -->
-  <rect x="86" y="94" width="155" height="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.18"/>
-  <rect x="86" y="94" width="155" height="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3.70"/>
+  <rect x="86" y="94" width="155" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
+  <rect x="86" y="94" width="155" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <line x1="100" y1="108" x2="222" y2="108" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="100" y1="116" x2="210" y2="116" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- book 5 (top, opened a crack as if being read fast) -->
-  <rect x="82" y="62" width="158" height="28" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.18"/>
+  <rect x="82" y="62" width="158" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18"/>
   <rect x="82" y="62" width="158" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70"/>
   <line x1="96" y1="76" x2="222" y2="76" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="96" y1="84" x2="206" y2="84" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>

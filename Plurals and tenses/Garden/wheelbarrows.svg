@@ -8,17 +8,17 @@
 <line x1="320" y1="300" x2="320" y2="392" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <line x1="300" y1="392" x2="340" y2="392" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- the tub / tray (open box, sloped, front lower) -->
-<path d="M 96 200 L 360 200 L 320 300 L 156 300 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 96 200 L 360 200 L 320 300 L 156 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- rim highlight -->
-<path d="M 96 200 L 360 200 L 348 226 L 110 226 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 96 200 L 360 200 L 348 226 L 110 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
 <!-- soil heaped in the tub -->
 <path d="M 118 200 Q 170 162 230 200 Q 280 178 320 200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <circle cx="170" cy="194" r="9" fill="#1a1a1a"/>
 <circle cx="214" cy="186" r="9" fill="#1a1a1a"/>
 <circle cx="262" cy="194" r="9" fill="#1a1a1a"/>
 <!-- wheel under the front of the tub -->
-<circle cx="150" cy="384" r="46" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="150" cy="384" r="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="384" r="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="150" cy="384" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- short frame strut linking tub front to wheel hub -->
 <line x1="150" y1="300" x2="150" y2="346" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <line x1="150" y1="300" x2="150" y2="346" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>

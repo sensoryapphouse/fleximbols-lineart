@@ -9,12 +9,12 @@
 <path d="M 286 364 L 338 380 L 368 400"/>
 </g>
 <!-- pale soft segmented abdomen (lower) -->
-<ellipse cx="262" cy="344" rx="60" ry="84" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="262" cy="344" rx="60" ry="84" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <path d="M 206 320 q 56 -14 112 0 M 204 360 q 58 -12 116 0 M 210 398 q 52 -10 100 0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
 <!-- thorax -->
-<ellipse cx="256" cy="252" rx="44" ry="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<ellipse cx="256" cy="252" rx="44" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- pale round head -->
-<circle cx="256" cy="180" r="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="256" cy="180" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- eyes -->
 <circle cx="238" cy="178" r="6" fill="#1a1a1a"/>
 <circle cx="274" cy="178" r="6" fill="#1a1a1a"/>

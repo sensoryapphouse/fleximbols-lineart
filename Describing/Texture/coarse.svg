@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="91.15 91.15 329.70 329.70">
 <!-- coarse: rough sandpaper-style patch with jagged grains -->
-<rect x="116" y="150" width="280" height="212" rx="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="116" y="150" width="280" height="212" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- coarse jagged grains -->
 <path d="M 160 200 l 14 -22 l 14 22 Z" fill="#1a1a1a"/>
 <path d="M 210 192 l 12 -20 l 12 20 Z" fill="#1a1a1a"/>

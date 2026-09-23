@@ -5,14 +5,14 @@
 <line x1="70.0" y1="286.0" x2="442.0" y2="286.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="70.0" y1="316.0" x2="442.0" y2="316.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 92 296 Q 180 186 256 246 Q 332 314 420 198" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-<ellipse cx="110.0" cy="290.0" rx="22.0" ry="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 110.0 290.0)"/>
+<ellipse cx="110.0" cy="290.0" rx="22.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 110.0 290.0)"/>
 <line x1="129.0" y1="286.0" x2="129.0" y2="198.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="190.0" cy="212.0" rx="22.0" ry="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 190.0 212.0)"/>
+<ellipse cx="190.0" cy="212.0" rx="22.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 190.0 212.0)"/>
 <line x1="209.0" y1="208.0" x2="209.0" y2="120.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="256.0" cy="248.0" rx="22.0" ry="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 256.0 248.0)"/>
+<ellipse cx="256.0" cy="248.0" rx="22.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 256.0 248.0)"/>
 <line x1="275.0" y1="244.0" x2="275.0" y2="156.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="330.0" cy="296.0" rx="22.0" ry="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 330.0 296.0)"/>
+<ellipse cx="330.0" cy="296.0" rx="22.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 330.0 296.0)"/>
 <line x1="349.0" y1="292.0" x2="349.0" y2="204.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="412.0" cy="206.0" rx="22.0" ry="16.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 412.0 206.0)"/>
+<ellipse cx="412.0" cy="206.0" rx="22.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 412.0 206.0)"/>
 <line x1="431.0" y1="202.0" x2="431.0" y2="114.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 </g></svg>

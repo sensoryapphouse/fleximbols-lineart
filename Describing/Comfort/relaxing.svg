@@ -9,7 +9,7 @@
 <line x1="60" y1="392" x2="452" y2="392" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- hammock sling -->
 <path d="M 92 168 Q 256 360 420 168" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<path d="M 92 168 Q 256 408 420 168 L 420 168 Q 256 360 92 168 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 92 168 Q 256 408 420 168 L 420 168 Q 256 360 92 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- hammock weave lines -->
 <g fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
 <path d="M 150 252 Q 256 350 362 252"/>

@@ -2,7 +2,7 @@
 <path d="M 120 286 Q 120 120 256 120 Q 392 120 392 286" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/>
 <path d="M 120 286 Q 120 132 256 132 Q 392 132 392 286" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <rect x="86.0" y="278.0" width="68.0" height="116.0" rx="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="120.0" cy="336.0" rx="18.0" ry="30.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="120.0" cy="336.0" rx="18.0" ry="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
 <rect x="358.0" y="278.0" width="68.0" height="116.0" rx="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="392.0" cy="336.0" rx="18.0" ry="30.0" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="392.0" cy="336.0" rx="18.0" ry="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
 </g></svg>

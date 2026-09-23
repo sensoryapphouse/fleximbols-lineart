@@ -2,10 +2,10 @@
   <!-- direct-message-dm: single chat bubble / paper-plane envelope hybrid (private message) -->
   <!-- chat bubble -->
   <path d="M40,44 L250,44 Q262,44 262,56 L262,152 Q262,164 250,164 L100,164 L68,204 L80,164 L52,164 Q40,164 40,152 L40,56 Q40,44 52,44 Z"
-    fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- paper plane inside bubble -->
   <!-- main body -->
-  <polygon points="80,78 222,110 80,142 110,112 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
+  <polygon points="80,78 222,110 80,142 110,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- fold crease line -->
   <line x1="80" y1="142" x2="110" y2="112" stroke="#1a1a1a" stroke-width="3.95"/>
   <line x1="110" y1="112" x2="222" y2="110" stroke="#1a1a1a" stroke-width="3.95"/>

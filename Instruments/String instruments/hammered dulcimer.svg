@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- Hammered dulcimer: large flat TRAPEZOID box, many strings across it, two small hammers/beaters resting on top -->
   <!-- Trapezoid body - wider at top, narrower at bottom -->
-  <polygon points="32,60 258,60 228,190 62,190" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
+  <polygon points="32,60 258,60 228,190 62,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Wood grain lines -->
   <line x1="50" y1="90" x2="244" y2="90" stroke="#1a1a1a" stroke-width="3.33"/>
   <line x1="52" y1="100" x2="242" y2="100" stroke="#1a1a1a" stroke-width="3.33"/>
@@ -81,9 +81,9 @@
   <!-- Hammer 1 - left side resting diagonally -->
   <line x1="75" y1="68" x2="108" y2="95" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- Hammer head 1 -->
-  <ellipse cx="112" cy="98" rx="9" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(35,112,98)"/>
+  <ellipse cx="112" cy="98" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(35,112,98)"/>
   <!-- Hammer 2 - right side resting diagonally -->
   <line x1="205" y1="68" x2="175" y2="95" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- Hammer head 2 -->
-  <ellipse cx="171" cy="98" rx="9" ry="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-35,171,98)"/>
+  <ellipse cx="171" cy="98" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" transform="rotate(-35,171,98)"/>
 </g></svg>

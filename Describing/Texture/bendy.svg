@@ -4,8 +4,8 @@
   <path d="M 50 200 Q 145 30 240 200" fill="none" stroke="#1a1a1a" stroke-width="26.65" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 50 200 Q 145 30 240 200" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Rod end caps -->
-  <circle cx="50" cy="200" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
-  <circle cx="240" cy="200" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="50" cy="200" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
+  <circle cx="240" cy="200" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Motion lines suggesting bendiness -->
   <path d="M 90 80 Q 100 60 115 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 100 60 Q 110 40 125 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

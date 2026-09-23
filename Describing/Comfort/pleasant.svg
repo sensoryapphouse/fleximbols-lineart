@@ -2,7 +2,7 @@
 <!-- pleasant: a cheerful blooming flower in sunshine -->
 <g>
 <!-- sun top-left -->
-<circle cx="116" cy="116" r="40" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="116" cy="116" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
 <line x1="116" y1="50" x2="116" y2="32"/>
 <line x1="62" y1="62" x2="50" y2="50"/>
@@ -13,7 +13,7 @@
 <!-- stem -->
 <path d="M 300 470 Q 290 360 300 300" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- leaf -->
-<path d="M 300 392 Q 360 372 392 400 Q 350 432 300 416 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<path d="M 300 392 Q 360 372 392 400 Q 350 432 300 416 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- petals -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round">
 <ellipse cx="300" cy="196" rx="34" ry="50"/>
@@ -26,7 +26,7 @@
 <ellipse cx="338" cy="284" rx="44" ry="40" transform="rotate(-45 338 284)"/>
 </g>
 <!-- flower centre with smile -->
-<circle cx="300" cy="246" r="42" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="300" cy="246" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="285" cy="238" r="5" fill="#1a1a1a"/>
 <circle cx="315" cy="238" r="5" fill="#1a1a1a"/>
 <path d="M 282 258 Q 300 274 318 258" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

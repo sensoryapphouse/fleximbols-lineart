@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="48.48 41.66 415.03 415.03">
 <!-- base -->
-<rect x="216" y="404" width="80" height="22" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
-<polygon points="236,360 276,360 296,404 216,404" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
+<rect x="216" y="404" width="80" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
+<polygon points="236,360 276,360 296,404 216,404" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- central stem -->
-<rect x="247" y="150" width="18" height="214" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<rect x="247" y="150" width="18" height="214" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- branch arms -->
 <path d="M 256 220 Q 196 220 196 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 256 248 Q 156 248 156 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>

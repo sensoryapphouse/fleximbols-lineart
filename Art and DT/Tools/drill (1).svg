@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.25)">
-<polygon style="fill:#808080" points="152.712,114.414 29.223,114.414 7.932,130.382 29.223,146.351 152.712,146.351 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="299.62" y="208.099" style="fill:#EB6836" width="42.582" height="80.906" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="299.62" y="208.099" style="fill:#C74B38" width="42.582" height="28.743" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#62C9CC" d="M463.557,459.331h-65.219c-15.725,0-29.108-11.445-31.549-26.979l-42.601-271.097h129.876
+<polygon style="fill:#ffffff" points="152.712,114.414 29.223,114.414 7.932,130.382 29.223,146.351 152.712,146.351 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="299.62" y="208.099" style="fill:#ffffff" width="42.582" height="80.906" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="299.62" y="208.099" style="fill:#ffffff" width="42.582" height="28.743" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path style="fill:#ffffff" d="M463.557,459.331h-65.219c-15.725,0-29.108-11.445-31.549-26.979l-42.601-271.097h129.876
 	l41.043,261.182C498.15,441.813,483.171,459.331,463.557,459.331z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<polygon style="fill:#50A9A9" points="454.063,161.254 324.187,161.254 336.064,236.838 465.94,236.838 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#62C9CC" d="M472.079,208.095H240.006V52.67h232.074c17.639,0,31.937,14.298,31.937,31.937v91.552
+<polygon style="fill:#ffffff" points="454.063,161.254 324.187,161.254 336.064,236.838 465.94,236.838 " stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path style="fill:#ffffff" d="M472.079,208.095H240.006V52.67h232.074c17.639,0,31.937,14.298,31.937,31.937v91.552
 	C504.016,193.796,489.718,208.095,472.079,208.095z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#B2B2B2" d="M263.426,208.095h-51.099c-35.276,0-63.873-28.597-63.873-63.873v-27.679
+<path style="fill:#ffffff" d="M263.426,208.095h-51.099c-35.276,0-63.873-28.597-63.873-63.873v-27.679
 	c0-35.276,28.597-63.873,63.873-63.873h51.099V208.095z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="261.296" y="52.674" style="fill:#F7D04A" width="38.324" height="155.425" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="240.005" y="100.217" style="fill:#D4F2E8" width="264.01" height="60.325" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<path style="fill:#CCCCCC" d="M263.426,100.219H150.567c-1.373,5.211-2.113,10.681-2.113,16.323v27.678
+<rect x="261.296" y="52.674" style="fill:#ffffff" width="38.324" height="155.425" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="240.005" y="100.217" style="fill:#ffffff" width="264.01" height="60.325" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path style="fill:#ffffff" d="M263.426,100.219H150.567c-1.373,5.211-2.113,10.681-2.113,16.323v27.678
 	c0,5.643,0.74,11.112,2.113,16.323h112.859V100.219z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<rect x="261.296" y="100.217" style="fill:#FEE7BE" width="38.324" height="60.325" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<rect x="261.296" y="100.217" style="fill:#ffffff" width="38.324" height="60.325" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <g>
-	<polygon style="fill:#F7D04A" points="469.788,261.323 407.817,261.323 411.945,289.001 474.137,289.001 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<polygon style="fill:#F7D04A" points="478.821,318.809 416.39,318.809 420.518,346.487 483.171,346.487 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<polygon style="fill:#F7D04A" points="487.855,376.295 424.962,376.295 429.089,403.974 492.205,403.974 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="469.788,261.323 407.817,261.323 411.945,289.001 474.137,289.001 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="478.821,318.809 416.39,318.809 420.518,346.487 483.171,346.487 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="487.855,376.295 424.962,376.295 429.089,403.974 492.205,403.974 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <path d="M512,176.158V84.606c0-22.013-17.908-39.921-39.921-39.921h-17.033c-4.409,0-7.984,3.575-7.984,7.984
 	s3.575,7.984,7.984,7.984h17.033c13.208,0,23.953,10.745,23.953,23.953v91.552c0,13.208-10.745,23.953-23.953,23.953H307.605V60.654

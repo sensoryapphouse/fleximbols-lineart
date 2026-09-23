@@ -15,7 +15,7 @@
 <path d="M 132 250 Q 230 170 300 240 Q 372 312 330 372" fill="none" stroke="#1a1a1a" stroke-width="48" stroke-linecap="round" stroke-dasharray="2 30"/>
 <path d="M 132 250 Q 230 170 300 240 Q 372 312 330 372" fill="none" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
 <!-- head -->
-<circle cx="132" cy="250" r="30" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="9"/>
+<circle cx="132" cy="250" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="120" cy="242" r="6" fill="#1a1a1a"/>
 <!-- antennae -->
 <path d="M 116 226 Q 96 196 72 188" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

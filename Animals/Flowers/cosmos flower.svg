@@ -26,22 +26,22 @@
   <!-- 8 broad evenly-spaced flat petals (pink) around small yellow centre -->
   <!-- petals spaced at 45 degrees -->
   <!-- petal 0 deg (top) -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 45 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(45 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(45 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 90 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(90 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(90 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 135 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(135 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(135 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 180 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(180 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(180 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 225 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(225 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(225 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 270 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(270 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(270 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- petal 315 deg -->
-  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(315 145 133)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
+  <ellipse cx="145" cy="85" rx="18" ry="36" transform="rotate(315 145 133)" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- small yellow centre disc -->
-  <circle cx="145" cy="133" r="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89"/>
-  <circle cx="145" cy="133" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67"/>
+  <circle cx="145" cy="133" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
+  <circle cx="145" cy="133" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
 </g></svg>

@@ -8,9 +8,9 @@
   <line x1="126" y1="108" x2="164" y2="108" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="126" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Cap / top section -->
-  <rect x="122" y="32" width="46" height="30" rx="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <rect x="122" y="32" width="46" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Cap-to-bottle collar -->
-  <rect x="118" y="58" width="54" height="8" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93"/>
+  <rect x="118" y="58" width="54" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Wand/brush stem emerging from cap bottom -->
   <line x1="145" y1="32" x2="145" y2="195" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Fine brush: tapers to very fine point at bottom -->

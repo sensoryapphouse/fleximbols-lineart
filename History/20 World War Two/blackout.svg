@@ -19,7 +19,7 @@
 <line x1="268" y1="398" x2="276" y2="374" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="170" y1="240" x2="308" y2="240" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="350" y1="312" x2="316" y2="306" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="346" cy="316" rx="11" ry="13" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="346" cy="316" rx="11" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
 <path d="M 338 328 Q 320 328 312 318" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="356" y1="309" x2="372" y2="304" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="356" y1="316" x2="374" y2="316" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

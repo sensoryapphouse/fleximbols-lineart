@@ -4,5 +4,5 @@
 <!-- inner outline to show metal thickness -->
 <path d="M 173 362 L 173 173 L 339 173 L 339 362" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <!-- sheen -->
-<line x1="180" y1="138" x2="332" y2="138" stroke="#fff" stroke-width="7" stroke-linecap="round" opacity="0.55"/>
+<line x1="180" y1="138" x2="332" y2="138" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity="0.55"/>
 </svg>

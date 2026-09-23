@@ -8,23 +8,23 @@
   <line x1="145" y1="153" x2="145" y2="208" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="155" y1="155" x2="155" y2="208" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Broad rounded canopy -->
-  <ellipse cx="145" cy="105" rx="90" ry="62" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.40"/>
+  <ellipse cx="145" cy="105" rx="90" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Inner canopy depth -->
-  <ellipse cx="135" cy="98" rx="68" ry="48" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="158" cy="112" rx="60" ry="42" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="135" cy="98" rx="68" ry="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="158" cy="112" rx="60" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Round green walnut fruits hanging in canopy -->
-  <circle cx="108" cy="128" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="108" cy="128" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="130" cy="140" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="140" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="155" cy="142" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="155" cy="142" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="180" cy="133" r="10" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="180" cy="133" r="5" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="95" cy="108" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="95" cy="108" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="196" cy="115" r="9" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="196" cy="115" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="170" cy="105" r="8" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="170" cy="105" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="108" cy="128" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="108" cy="128" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="130" cy="140" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="130" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="155" cy="142" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="155" cy="142" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="133" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="180" cy="133" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="95" cy="108" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="95" cy="108" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="196" cy="115" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="196" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="105" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="170" cy="105" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
 </g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

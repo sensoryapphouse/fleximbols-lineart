@@ -3,22 +3,22 @@
   <path d="M 25 175 Q 90 170 155 175" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
   <path d="M 25 185 Q 90 180 155 185" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- foam dots being skimmed -->
-  <circle cx="50" cy="167" r="4" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="75" cy="170" r="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="50" cy="167" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="75" cy="170" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- flat slotted spoon head (oval, angled) -->
-  <ellipse cx="90" cy="135" rx="70" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="10.37"/>
+  <ellipse cx="90" cy="135" rx="70" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.37"/>
   <!-- inner darker area to show concave spoon -->
-  <ellipse cx="90" cy="133" rx="60" ry="16" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.93" data-lp="hair"/>
+  <ellipse cx="90" cy="133" rx="60" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" data-lp="hair"/>
   <!-- slots in the spoon -->
-  <rect x="40" y="129" width="14" height="6" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="60" y="127" width="14" height="6" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="80" y="126" width="14" height="6" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="100" y="127" width="14" height="6" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="120" y="129" width="14" height="6" rx="3" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="40" y="129" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="60" y="127" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="80" y="126" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="100" y="127" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="120" y="129" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- handle attachment -->
-  <path d="M 153 128 L 168 118 L 178 130 L 163 142 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
+  <path d="M 153 128 L 168 118 L 178 130 L 163 142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41" stroke-linejoin="round"/>
   <!-- long straight handle -->
-  <path d="M 170 120 L 260 40 L 270 50 L 180 130 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
+  <path d="M 170 120 L 260 40 L 270 50 L 180 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- handle highlight -->
   <path d="M 178 122 L 262 48" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- hanging hole -->
