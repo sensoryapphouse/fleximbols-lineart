@@ -3,10 +3,10 @@
   <path d="M 30,200 L 30,90 L 75,55 L 100,90 L 100,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 30,200 L 30,90 L 75,55 L 100,90 L 100,200 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45"></path>
   <line x1="33" y1="145" x2="100" y2="145" stroke="#1a1a1a" stroke-width="4.45"></line>
-  <circle cx="55" cy="115" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"></circle>
-  <circle cx="75" cy="125" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"></circle>
-  <circle cx="55" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"></circle>
-  <circle cx="75" cy="180" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"></circle>
+  <circle cx="55" cy="115" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="75" cy="125" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="55" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="75" cy="180" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <rect x="115" y="60" width="35" height="145" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"></rect>
   <line x1="115" y1="132" x2="150" y2="132" stroke="#1a1a1a" stroke-width="4.45"></line>
   <circle cx="132" cy="95" r="4" fill="#1a1a1a"></circle>

@@ -15,17 +15,17 @@
   <!-- Paneer cubes (white cheese squares) -->
   <!-- Cube 1 -->
   <rect x="82" y="140" width="26" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M82 151 L108 151" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M82 151 L108 151" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cube 2 -->
   <rect x="130" y="145" width="26" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M130 156 L156 156" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M130 156 L156 156" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cube 3 -->
   <rect x="175" y="141" width="24" height="22" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M175 151 L199 151" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M175 151 L199 151" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cube 4 (partially behind) -->
   <rect x="105" y="162" width="24" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M105 172 L129 172" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M105 172 L129 172" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cube 5 -->
   <rect x="158" y="165" width="24" height="20" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M158 174 L182 174" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M158 174 L182 174" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

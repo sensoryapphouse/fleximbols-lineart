@@ -5,12 +5,12 @@
 <circle cx="256.0" cy="120.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="256" y1="136" x2="256" y2="150" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="64" y1="150" x2="448" y2="150" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
-<line x1="70" y1="150" x2="106" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="142" y1="150" x2="106" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="70" y1="150" x2="106" y2="240" stroke="#1a1a1a" stroke-width="5.41" stroke-linecap="round"/>
+<line x1="142" y1="150" x2="106" y2="240" stroke="#1a1a1a" stroke-width="5.41" stroke-linecap="round"/>
 <path d="M 56 240 Q 106 290 156 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <line x1="56" y1="240" x2="156" y2="240" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<line x1="370" y1="150" x2="406" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="442" y1="150" x2="406" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="370" y1="150" x2="406" y2="240" stroke="#1a1a1a" stroke-width="5.41" stroke-linecap="round"/>
+<line x1="442" y1="150" x2="406" y2="240" stroke="#1a1a1a" stroke-width="5.41" stroke-linecap="round"/>
 <path d="M 356 240 Q 406 290 456 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <line x1="356" y1="240" x2="456" y2="240" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 </g></svg>

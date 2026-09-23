@@ -7,7 +7,7 @@
 <!-- emerging tube train front -->
 <path d="M 150 350 L 150 244 Q 150 196 256 196 Q 362 196 362 244 L 362 350 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <!-- destination band -->
-<rect x="150" y="218" width="212" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="150" y="218" width="212" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="150" y1="218" x2="362" y2="218" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="150" y1="244" x2="362" y2="244" stroke="#1a1a1a" stroke-width="6"/>
 <!-- twin cab windows -->

@@ -7,12 +7,12 @@
   <rect x="55" y="22" width="8" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="155" y="22" width="8" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- grid lines -->
-  <line x1="30" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="30" y1="135" x2="190" y2="135" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="30" y1="170" x2="190" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="70" y1="65" x2="70" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="110" y1="65" x2="110" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="150" y1="65" x2="150" y2="205" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="30" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="30" y1="135" x2="190" y2="135" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="30" y1="170" x2="190" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="70" y1="65" x2="70" y2="205" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="110" y1="65" x2="110" y2="205" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="150" y1="65" x2="150" y2="205" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Q1 marker (top-left cell) -->
   <circle cx="50" cy="82" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Q2 marker -->

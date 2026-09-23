@@ -9,8 +9,8 @@
   <!-- Vertical fold crease -->
   <path d="M145 100 Q148 128 145 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Slight puff bubble on top quarter -->
-  <ellipse cx="185" cy="125" rx="18" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="125" rx="18" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pale spots (no heavy charring, just softer speckling) -->
-  <ellipse cx="102" cy="175" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="165" cy="185" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="102" cy="175" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="165" cy="185" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

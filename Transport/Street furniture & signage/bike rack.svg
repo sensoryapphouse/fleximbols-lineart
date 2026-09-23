@@ -34,5 +34,5 @@
   <!-- crank -->
   <circle cx="196" cy="174" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- frame fill colour -->
-  <line x1="196" y1="163" x2="196" y2="174" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="196" y1="163" x2="196" y2="174" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

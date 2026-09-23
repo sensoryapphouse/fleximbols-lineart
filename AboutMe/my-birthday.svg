@@ -8,18 +8,18 @@
 <line x1="189" y1="188" x2="207" y2="180" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="189" y1="212" x2="207" y2="204" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="198" y1="168" x2="198" y2="156" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 198 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 198 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 198 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
+<path d="M 198 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
 <rect x="247.0" y="168.0" width="18.0" height="76.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="247" y1="188" x2="265" y2="180" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="247" y1="212" x2="265" y2="204" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="256" y1="168" x2="256" y2="156" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 256 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 256 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 256 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
+<path d="M 256 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
 <rect x="305.0" y="168.0" width="18.0" height="76.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="305" y1="188" x2="323" y2="180" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="305" y1="212" x2="323" y2="204" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
 <line x1="314" y1="168" x2="314" y2="156" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 314 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 314 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 314 122 q -16 18 0 34 q 16 -16 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
+<path d="M 314 134 q -7 9 0 18 q 7 -9 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
 </g></svg>

@@ -11,11 +11,11 @@
 <ellipse cx="206" cy="252" rx="30" ry="38" fill="#1a1a1a" transform="rotate(-20 206 252)"/>
 <ellipse cx="306" cy="252" rx="30" ry="38" fill="#1a1a1a" transform="rotate(20 306 252)"/>
 <!-- eyes -->
-<circle cx="206" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="206" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2" />
 <circle cx="206" cy="256" r="7" fill="#1a1a1a"/>
-<circle cx="306" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
+<circle cx="306" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2" />
 <circle cx="306" cy="256" r="7" fill="#1a1a1a"/>
 <!-- nose -->
 <ellipse cx="256" cy="306" rx="20" ry="14" fill="#1a1a1a"/>
 <path d="M 256 320 L 256 338 M 256 338 Q 236 352 224 336 M 256 338 Q 276 352 288 336" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

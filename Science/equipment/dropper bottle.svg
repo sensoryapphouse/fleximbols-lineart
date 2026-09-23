@@ -15,5 +15,5 @@
   <!-- Pipette tip -->
   <path d="M140 50 L145 38 L150 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Drop falling -->
-  <path d="M145 30 Q140 22 145 15 Q150 22 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M145 30 Q140 22 145 15 Q150 22 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

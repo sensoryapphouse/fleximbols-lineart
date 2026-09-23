@@ -7,11 +7,11 @@
   <rect x="28" y="145" width="38" height="18" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="224" y="145" width="38" height="18" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Liquid inside pot (hot water showing) -->
-  <rect x="72" y="148" width="146" height="65" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="72" y="148" width="146" height="65" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bubbles in liquid -->
-  <circle cx="105" cy="175" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="165" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="185" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="105" cy="175" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="165" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="185" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bold curling steam clouds -->
   <path d="M100,130 Q88,110 100,92 Q112,74 100,56 Q94,47 100,40" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
   <path d="M100,130 Q88,110 100,92 Q112,74 100,56 Q94,47 100,40" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round" stroke-dasharray="0"/>

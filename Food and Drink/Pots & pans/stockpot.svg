@@ -7,7 +7,7 @@
   <!-- Rim top ellipse -->
   <ellipse cx="145" cy="68" rx="77" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Interior at rim -->
-  <ellipse cx="145" cy="68" rx="67" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="68" rx="67" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lid dome -->
   <path d="M70,68 Q70,38 145,32 Q220,38 220,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lid highlight -->
@@ -22,5 +22,5 @@
   <!-- Right side handle loop -->
   <path d="M222,105 Q252,105 252,120 Q252,138 222,138" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <!-- Base -->
-  <ellipse cx="145" cy="193" rx="68" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="193" rx="68" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

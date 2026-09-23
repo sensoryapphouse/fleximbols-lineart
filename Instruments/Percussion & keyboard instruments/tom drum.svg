@@ -21,13 +21,13 @@
   <ellipse cx="145" cy="120" rx="72" ry="14" fill="none" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-8, 145, 120)"/>
 
   <!-- Lug casings on shell -->
-  <rect x="84" y="130" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 90, 141)"/>
-  <rect x="112" y="126" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 118, 137)"/>
-  <rect x="162" y="126" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 168, 137)"/>
-  <rect x="190" y="130" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-8, 196, 141)"/>
+  <rect x="84" y="130" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-8, 90, 141)"/>
+  <rect x="112" y="126" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-8, 118, 137)"/>
+  <rect x="162" y="126" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-8, 168, 137)"/>
+  <rect x="190" y="130" width="12" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-8, 196, 141)"/>
 
   <!-- No snare wires (key differentiator from snare) -->
   <!-- Single drumstick poised above -->
   <line x1="230" y1="60" x2="168" y2="110" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
-  <circle cx="166" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="166" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

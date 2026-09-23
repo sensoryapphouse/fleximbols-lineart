@@ -6,11 +6,11 @@
   <!-- Thermometer bulb -->
   <circle cx="51" cy="184" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Tick marks on thermometer -->
-  <line x1="64" y1="60" x2="72" y2="60" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="64" y1="60" x2="72" y2="60" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="64" y1="80" x2="70" y2="80" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="64" y1="100" x2="72" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="64" y1="100" x2="72" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="64" y1="120" x2="70" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="64" y1="140" x2="72" y2="140" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="64" y1="140" x2="72" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="64" y1="160" x2="70" y2="160" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Large water drop (centre-right) -->
   <!-- Drop body — teardrop shape: round bottom, pointed top -->

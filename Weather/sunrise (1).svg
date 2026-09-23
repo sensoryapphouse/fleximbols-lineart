@@ -21,5 +21,5 @@
   <!-- Far right ray -->
   <line x1="200" y1="145" x2="218" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Sun inner bright disc top -->
-  <path d="M 103,170 A 42,42 0 0 1 187,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M 103,170 A 42,42 0 0 1 187,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

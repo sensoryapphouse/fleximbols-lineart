@@ -14,7 +14,7 @@
   <path d="M72 163 L218 163" fill="none" stroke="#1a1a1a" stroke-width="5.18"/>
   <!-- Flap magnetic clasp buckle -->
   <rect x="130" y="156" width="30" height="14" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="138" y="159" width="14" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="138" y="159" width="14" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Front slip pocket line on lower body -->
   <rect x="86" y="174" width="118" height="30" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Shoulder strap D-ring left -->
@@ -22,4 +22,4 @@
   <!-- Feet bottom left/right -->
   <circle cx="90" cy="212" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="200" cy="212" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

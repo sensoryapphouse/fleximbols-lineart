@@ -12,11 +12,11 @@
   <ellipse cx="120" cy="92" rx="26" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="180" cy="102" rx="20" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Dough texture / small air pockets visible -->
-  <circle cx="100" cy="115" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="195" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="120" cy="135" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="175" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="115" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="135" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Original (smaller) dough position - dashed ghost outline showing growth from -->
   <path d="M90 138 Q90 122 110 118 Q145 112 180 118 Q200 122 200 138" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-dasharray="5,4" stroke-linecap="round"/>
   <!-- Arrow showing growth (big upward arrow on right side) -->
@@ -26,14 +26,14 @@
   <path d="M256 168 L250 162 M256 168 L262 162" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- Flour cloud / dusting on counter -->
   <ellipse cx="50" cy="210" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="40" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="58" cy="204" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="66" cy="208" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="40" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="58" cy="204" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="66" cy="208" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flour bag tipped -->
   <path d="M22 178 L18 210 L42 212 L40 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <rect x="24" y="180" width="14" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Flour bag label "FLOUR" representation: a small wheat icon dot -->
-  <circle cx="30" cy="194" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="30" cy="194" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flour spilling out base of bag (small) -->
   <ellipse cx="32" cy="214" rx="14" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

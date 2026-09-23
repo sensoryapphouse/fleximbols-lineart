@@ -9,8 +9,8 @@
   <!-- Layer 1 wide -->
   <path d="M80,195 Q75,155 105,140 Q125,125 145,120 Q165,125 185,140 Q210,155 210,195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Swirl grooves layer 1 -->
-  <path d="M90,190 Q88,160 115,148 Q130,140 145,138" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <path d="M200,190 Q202,160 175,148 Q160,140 145,138" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M90,190 Q88,160 115,148 Q130,140 145,138" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M200,190 Q202,160 175,148 Q160,140 145,138" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Layer 2 middle -->
   <path d="M100,178 Q95,148 118,132 Q130,122 145,118 Q160,122 172,132 Q195,148 190,178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Layer 3 upper -->

@@ -11,9 +11,9 @@
   <ellipse cx="145" cy="212" rx="45" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- 3 coffee beans on foam -->
   <ellipse cx="115" cy="82" rx="8" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M107 82 Q 115 80, 123 82" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M107 82 Q 115 80, 123 82" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="145" cy="82" rx="8" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M137 82 Q 145 80, 153 82" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M137 82 Q 145 80, 153 82" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="175" cy="82" rx="8" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M167 82 Q 175 80, 183 82" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M167 82 Q 175 80, 183 82" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

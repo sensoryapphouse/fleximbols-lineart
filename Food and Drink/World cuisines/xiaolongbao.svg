@@ -50,6 +50,6 @@
   <line x1="248" y1="50" x2="278" y2="215" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <line x1="262" y1="50" x2="284" y2="215" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <!-- Chopstick tips -->
-  <circle cx="278" cy="215" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="284" cy="215" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="278" cy="215" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="284" cy="215" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

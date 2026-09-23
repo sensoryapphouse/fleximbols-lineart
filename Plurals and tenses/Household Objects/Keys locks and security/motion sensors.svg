@@ -6,13 +6,13 @@
   <!-- Sensor lens (dome at front) -->
   <ellipse cx="145" cy="85" rx="55" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Lens highlight -->
-  <ellipse cx="130" cy="78" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="130" cy="78" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47" />
   <!-- LED -->
-  <circle cx="145" cy="55" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="55" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- Trigger indicator (alarm) badge -->
   <circle cx="240" cy="55" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <line x1="240" y1="44" x2="240" y2="60" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
-  <circle cx="240" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="240" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47" />
   <!-- Sound waves from alarm -->
   <path d="M 263,40 Q 273,40 275,30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 263,55 Q 278,55 282,55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -20,13 +20,13 @@
   <!-- Detection cone (fanning down from sensor) -->
   <path d="M 145,98 L 60,225 L 230,225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Cone wave bands inside (showing detection field) -->
-  <path d="M 95,180 Q 145,170 195,180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
-  <path d="M 78,210 Q 145,196 212,210" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <path d="M 95,180 Q 145,170 195,180" fill="none" stroke="#1a1a1a" stroke-width="4.47" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <path d="M 78,210 Q 145,196 212,210" fill="none" stroke="#1a1a1a" stroke-width="4.47" stroke-linecap="round" stroke-dasharray="4,3"/>
   <!-- Moving figure inside the cone (walking icon) -->
-  <circle cx="145" cy="150" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70"/>
-  <path d="M 138,158 L 152,158 L 150,180 L 140,180 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <circle cx="145" cy="150" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+  <path d="M 138,158 L 152,158 L 150,180 L 140,180 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47" stroke-linejoin="round"/>
   <path d="M 138,162 L 130,175" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M 152,162 L 160,175" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M 142,180 L 138,200" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <path d="M 148,180 L 154,200" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

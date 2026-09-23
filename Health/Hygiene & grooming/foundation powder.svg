@@ -9,18 +9,18 @@
   <path d="M120 44 L130 60" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- hinge -->
-  <rect x="60" y="98" width="160" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="60" y="98" width="160" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- lower pan (front) -->
   <path d="M50 108 L228 108 L222 180 Q220 188 212 188 L60 188 Q52 188 50 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- powder pan inset -->
   <ellipse cx="139" cy="146" rx="78" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- powder texture dots -->
-  <circle cx="105" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="140" cy="150" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="170" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="120" cy="156" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="158" cy="158" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="105" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="150" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="156" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="158" cy="158" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- powder brush angled across -->
   <!-- handle -->
@@ -31,9 +31,9 @@
   <path d="M165 184 Q180 184 200 192 Q210 196 206 204 Q198 212 184 208 Q170 200 158 196 Q150 188 165 184 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- powder puff icon (replaces POWDER text) -->
   <circle cx="145" cy="195" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="195" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M136 189 Q145 185 154 189" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M133 196 Q145 192 157 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="145" cy="195" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M136 189 Q145 185 154 189" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M133 196 Q145 192 157 196" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- ribbon handle -->
   <path d="M140 215 Q145 220 150 215" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

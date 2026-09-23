@@ -28,5 +28,5 @@
   <!-- moon -->
   <circle cx="200" cy="60" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- stars / sparkles -->
-  <path d="M85 65 L88 70 L93 71 L89 75 L90 80 L85 78 L80 80 L81 75 L77 71 L82 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M85 65 L88 70 L93 71 L89 75 L90 80 L85 78 L80 80 L81 75 L77 71 L82 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

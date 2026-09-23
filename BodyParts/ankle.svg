@@ -12,18 +12,18 @@
 
 </g>
 <ellipse cx="232" cy="440" rx="22" ry="16" fill="none" stroke="#1a1a1a" stroke-width="11"/>
-<line x1="232" y1="440" x2="314" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="232" cy="440" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="232" y1="440" x2="314" y2="224" stroke="#1a1a1a" stroke-width="5.82" stroke-linecap="round"/>
+<circle cx="232" cy="440" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.82"/>
 <circle cx="388" cy="150" r="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <clipPath id="cl232_440"><circle cx="388" cy="150" r="117"/></clipPath>
 <g clip-path="url(#cl232_440)"><g transform="translate(229.3 -65.8) scale(0.620)">
-<path d="M 108 358 Q 96 296 168 300 L 356 320 Q 412 324 412 360 Q 412 392 356 392 L 150 392 Q 108 392 108 358 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
+<path d="M 108 358 Q 96 296 168 300 L 356 320 Q 412 324 412 360 Q 412 392 356 392 L 150 392 Q 108 392 108 358 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" stroke-linejoin="round" data-lp="skin"/>
 <line x1="150" y1="322" x2="176" y2="300" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
-<ellipse cx="372" cy="330" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<ellipse cx="362" cy="332" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<ellipse cx="352" cy="334" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<ellipse cx="342" cy="336" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<ellipse cx="332" cy="338" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
+<ellipse cx="372" cy="330" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" data-lp="skin"/>
+<ellipse cx="362" cy="332" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" data-lp="skin"/>
+<ellipse cx="352" cy="334" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" data-lp="skin"/>
+<ellipse cx="342" cy="336" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" data-lp="skin"/>
+<ellipse cx="332" cy="338" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.39" data-lp="skin"/>
 <ellipse cx="150" cy="312" rx="46" ry="46" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 </g></g>
 <circle cx="388" cy="150" r="120" fill="none" stroke="#1a1a1a" stroke-width="6"/>

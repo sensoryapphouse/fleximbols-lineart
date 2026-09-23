@@ -2,7 +2,7 @@
 <g opacity="0.34">
 <g transform="translate(9.0 131.0) scale(0.660)">
 <polygon points="224,202 288,202 279,310 233,310" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="226,210 286,210 279,306 233,306" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="226,210 286,210 279,306 233,306" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linejoin="round"/>
 <path d="M 226 210 q 15 10 30 0 q 15 -10 30 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 </g>
 </g>

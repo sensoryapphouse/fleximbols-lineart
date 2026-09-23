@@ -5,9 +5,9 @@
   <!-- Wide nozzle -->
   <path d="M90,74 L52,80 L52,112 L90,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Nozzle opening -->
-  <ellipse cx="52" cy="96" rx="6" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="52" cy="96" rx="6" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Nozzle ring accent -->
-  <line x1="68" y1="76" x2="68" y2="116" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="68" y1="76" x2="68" y2="116" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pistol grip / handle -->
   <path d="M155,120 Q158,160 148,185 Q144,195 148,200 L170,200 Q174,195 172,185 Q165,160 165,120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Trigger guard -->
@@ -15,8 +15,8 @@
   <!-- Trigger -->
   <rect x="153" y="130" width="10" height="22" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Rear vent slits -->
-  <line x1="196" y1="80" x2="196" y2="112" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="203" y1="80" x2="203" y2="112" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="196" y1="80" x2="196" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="203" y1="80" x2="203" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Power cord from base of grip -->
   <path d="M158,200 Q155,218 170,222 Q185,225 200,218" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Heat waves from nozzle -->
@@ -28,5 +28,5 @@
   <rect x="105" y="70" width="10" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Speed selector switch -->
   <rect x="172" y="85" width="30" height="14" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="183" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="183" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

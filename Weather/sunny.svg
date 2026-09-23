@@ -11,6 +11,6 @@
 <line x1="256" y1="144" x2="256" y2="112" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="309" y1="158" x2="325" y2="130" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="348" y1="197" x2="376" y2="181" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<circle cx="256.0" cy="250.0" r="92.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="250.0" r="80.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="250.0" r="92.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.84"/>
+<circle cx="256.0" cy="250.0" r="80.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.84"/>
 </g></svg>

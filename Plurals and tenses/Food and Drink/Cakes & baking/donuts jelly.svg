@@ -21,7 +21,7 @@
   <!-- Jelly drip down the side -->
   <path d="M 145,150 Q 142,162 140,172 Q 142,176 145,170 Q 148,162 147,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Jelly drip left side -->
-  <path d="M 128,146 Q 124,158 122,168 Q 124,172 127,164 Q 130,154 130,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 128,146 Q 124,158 122,168 Q 124,172 127,164 Q 130,154 130,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Jelly highlight -->
-  <path d="M 128,142 Q 145,138 162,142" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 128,142 Q 145,138 162,142" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

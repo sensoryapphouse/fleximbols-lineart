@@ -11,7 +11,7 @@
   <rect x="48" y="100" width="54" height="95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- water droplet on label -->
   <path d="M75 115 Q65 130 75 145 Q85 130 75 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="72" cy="125" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="72" cy="125" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- big HA text -->
   <!-- H -->
   <path d="M57 158 L63 158 L63 168 L72 168 L72 158 L78 158 L78 188 L72 188 L72 175 L63 175 L63 188 L57 188 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

@@ -5,9 +5,9 @@
     <!-- Twist-up base (bottom, has cap/twist mechanism) -->
     <rect x="48" y="98" width="36" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
     <!-- Twist dial detail rings -->
-    <line x1="50" y1="108" x2="82" y2="108" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-    <line x1="50" y1="118" x2="82" y2="118" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-    <line x1="50" y1="128" x2="82" y2="128" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+    <line x1="50" y1="108" x2="82" y2="108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+    <line x1="50" y1="118" x2="82" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+    <line x1="50" y1="128" x2="82" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
     <!-- Stick barrel (metallic mid-section) -->
     <rect x="84" y="98" width="100" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
     <!-- Label band -->

@@ -26,6 +26,6 @@
 </g>
 <!-- brown seed centre -->
 <circle cx="0" cy="0" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="0" cy="0" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<circle cx="0" cy="0" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
 </g>
 </svg>

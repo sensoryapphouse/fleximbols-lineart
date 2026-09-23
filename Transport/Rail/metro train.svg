@@ -21,6 +21,6 @@
   <rect x="160" y="200" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="210" y="200" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Left rail -->
-  <rect x="80" y="198" width="8" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="202" y="198" width="8" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="80" y="198" width="8" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="202" y="198" width="8" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

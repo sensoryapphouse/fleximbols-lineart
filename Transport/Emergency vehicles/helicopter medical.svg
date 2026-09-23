@@ -6,25 +6,25 @@
   <!-- Side window -->
   <rect x="130" y="97" width="45" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- RED CROSS marking - prominent on fuselage side -->
-  <rect x="75" y="103" width="36" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="87" y="92" width="12" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="75" y="103" width="36" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="87" y="92" width="12" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tail boom -->
   <path d="M60 138 Q40 138 20 132 Q10 128 12 122 Q14 118 22 120 Q40 126 60 128" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
   <!-- Tail rotor -->
   <line x1="14" y1="108" x2="14" y2="140" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="4" y1="124" x2="24" y2="124" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <circle cx="14" cy="124" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="14" cy="124" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tail fin -->
   <path d="M18 120 Q12 105 16 95 Q22 90 26 98 Q24 108 22 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Main rotor mast -->
-  <rect x="140" y="75" width="8" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="140" y="75" width="8" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Main rotor blades -->
   <path d="M50 78 Q100 72 144 80 Q148 82 144 84 Q100 86 50 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M148 80 Q192 72 240 78 Q245 80 240 82 Q192 88 148 84 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Rotor hub -->
-  <circle cx="144" cy="82" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="144" cy="82" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Skids -->
   <path d="M80 155 L80 170 L190 170 L190 155" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="75" y="168" width="50" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="165" y="168" width="50" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="75" y="168" width="50" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="165" y="168" width="50" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

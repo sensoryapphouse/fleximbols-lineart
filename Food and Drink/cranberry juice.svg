@@ -2,7 +2,7 @@
 <!-- glass -->
 <path d="M168 150 L320 150 L304 392 Q244 408 184 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- juice fill -->
-<path d="M177 210 L311 210 L304 388 Q244 404 184 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M177 210 L311 210 L304 388 Q244 404 184 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- juice surface line -->
 <path d="M177 210 L311 210" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- re-stroke glass over fill -->

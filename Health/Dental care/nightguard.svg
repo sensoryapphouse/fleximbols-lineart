@@ -11,6 +11,6 @@
   <path d="M 163,86 Q 163,78 173,78 Q 183,78 183,86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 186,86 Q 186,80 196,80 Q 206,80 206,86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Slight highlight lines on tray surface to show thickness -->
-  <path d="M 65,120 Q 65,110 80,108" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 225,120 Q 225,110 210,108" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 65,120 Q 65,110 80,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 225,120 Q 225,110 210,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

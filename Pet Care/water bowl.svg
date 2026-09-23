@@ -5,9 +5,9 @@
   <!-- water surface -->
   <ellipse cx="145" cy="155" rx="110" ry="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- water shimmer lines -->
-  <path d="M100 151 Q120 147 140 151" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M150 155 Q170 151 190 155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M115 161 Q135 157 155 161" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M100 151 Q120 147 140 151" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M150 155 Q170 151 190 155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M115 161 Q135 157 155 161" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- rim -->
   <ellipse cx="145" cy="155" rx="110" ry="25" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

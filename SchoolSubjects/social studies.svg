@@ -3,8 +3,8 @@
   <circle cx="100" cy="110" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34"/>
   <!-- Latitude lines -->
   <ellipse cx="100" cy="110" rx="72" ry="25" fill="none" stroke="#1a1a1a" stroke-width="3.81"/>
-  <ellipse cx="100" cy="80" rx="60" ry="18" fill="none" stroke="#1a1a1a" stroke-width="2.54"/>
-  <ellipse cx="100" cy="140" rx="60" ry="18" fill="none" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="100" cy="80" rx="60" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="100" cy="140" rx="60" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Meridian -->
   <line x1="100" y1="38" x2="100" y2="182" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Land masses (simplified blobs) -->

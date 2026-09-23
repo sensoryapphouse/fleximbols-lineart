@@ -35,5 +35,5 @@
 <line x1="394" y1="70" x2="394" y2="92" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="394" y1="300" x2="262" y2="318" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="168" y1="248" x2="190" y2="248" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<polygon points="222,248 195,265 195,231" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="222,248 195,265 195,231" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.29" stroke-linejoin="round"/>
 </g></svg>

@@ -12,8 +12,8 @@
 <line x1="279" y1="245" x2="279" y2="341" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="303" y1="233" x2="303" y2="351" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <path d="M 372 150 q -36 -30 -76 -10 q 30 6 40 26 q -34 -6 -58 16 q 40 -2 58 14 q 8 -30 36 -36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="374.0" cy="148.0" r="4.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="300.0" cy="226.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="330.0" cy="196.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="264.0" cy="196.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="374.0" cy="148.0" r="4.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.76"/>
+<circle cx="300.0" cy="226.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.76"/>
+<circle cx="330.0" cy="196.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.76"/>
+<circle cx="264.0" cy="196.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.76"/>
 </g></svg>

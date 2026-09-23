@@ -6,18 +6,18 @@
   <!-- lined pages area (offset to right of binding) -->
   <rect x="98" y="42" width="130" height="165" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- horizontal rule lines -->
-  <path d="M108 60 L218 60" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 75 L218 75" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 90 L218 90" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 105 L218 105" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 120 L218 120" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 135 L218 135" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 150 L218 150" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 165 L218 165" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 180 L218 180" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M108 195 L218 195" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M108 60 L218 60" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 75 L218 75" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 90 L218 90" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 105 L218 105" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 120 L218 120" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 135 L218 135" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 150 L218 150" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 165 L218 165" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 180 L218 180" stroke="#1a1a1a" stroke-width="4.46"/>
+  <path d="M108 195 L218 195" stroke="#1a1a1a" stroke-width="4.46"/>
   <!-- red margin line -->
-  <path d="M108 42 L108 207" stroke="#1a1a1a" stroke-width="3.56"/>
+  <path d="M108 42 L108 207" stroke="#1a1a1a" stroke-width="4.46"/>
   <!-- spiral coil binding holes column (background) -->
   <rect x="78" y="42" width="14" height="165" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- spiral coil loops (twelve coils running down the binding) -->
@@ -32,4 +32,4 @@
   <path d="M74 170 Q70 167 78 165 L94 165 Q102 167 98 170 L98 176 Q102 179 94 181 L78 181 Q70 179 74 176 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M74 185 Q70 182 78 180 L94 180 Q102 182 98 185 L98 191 Q102 194 94 196 L78 196 Q70 194 74 191 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M74 200 Q70 197 78 195 L94 195 Q102 197 98 200 L98 206 Q102 209 94 211 L78 211 Q70 209 74 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

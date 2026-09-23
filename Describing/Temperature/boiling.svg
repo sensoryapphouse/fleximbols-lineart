@@ -22,5 +22,5 @@
 <!-- hot thermometer (red, high) at right -->
 <rect x="418" y="246" width="30" height="180" rx="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="433" cy="430" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="424" y="262" width="18" height="172" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="424" y="262" width="18" height="172" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

@@ -8,16 +8,16 @@
   <!-- Front pocket zipper line -->
   <line x1="97" y1="142" x2="193" y2="142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,5"/>
   <!-- Zipper pull -->
-  <circle cx="145" cy="142" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="142" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Main zipper arc -->
   <path d="M82,80 Q145,68 208,80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,5"/>
   <!-- Main zip pull -->
-  <circle cx="145" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Side straps -->
   <rect x="50" y="65" width="18" height="90" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <rect x="222" y="65" width="18" height="90" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Pencil poking out top-right -->
   <rect x="192" y="18" width="14" height="55" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <polygon points="192,18 206,18 199,5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="192" y="58" width="14" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="192" y="58" width="14" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -7,14 +7,14 @@
 <rect x="120" y="175" width="272" height="240" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- windows -->
 <rect x="146" y="208" width="52" height="48" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="172" y1="208" x2="172" y2="256" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="146" y1="232" x2="198" y2="232" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="172" y1="208" x2="172" y2="256" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="146" y1="232" x2="198" y2="232" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="314" y="208" width="52" height="48" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="340" y1="208" x2="340" y2="256" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="314" y1="232" x2="366" y2="232" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="340" y1="208" x2="340" y2="256" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="314" y1="232" x2="366" y2="232" stroke="#1a1a1a" stroke-width="6"/>
 <!-- door -->
 <rect x="228" y="330" width="56" height="85" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
-<line x1="256" y1="332" x2="256" y2="413" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="256" y1="332" x2="256" y2="413" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- rainbow arc over door (inclusion / nurturing cue) -->
 <path d="M 198 320 A 58 58 0 0 1 314 320" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 210 320 A 46 46 0 0 1 302 320" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>

@@ -11,9 +11,9 @@
 
 <path d="M 300 215 L 300 181 A 46 46 0 0 1 408 147" fill="none" stroke="#1a1a1a" stroke-width="20.150000000000002" stroke-linejoin="round"/>
 <rect x="271.6" y="214.8" width="148.8" height="130.2" rx="18.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="346.0" cy="269.5" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="341.4" y="269.5" width="9.3" height="41.7" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="452.0" cy="150.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="346.0" cy="269.5" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47"/>
+<rect x="341.4" y="269.5" width="9.3" height="41.7" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47"/>
+<circle cx="452.0" cy="150.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47"/>
 <line x1="433" y1="150" x2="447" y2="166" stroke="#1a1a1a" stroke-width="17.6" stroke-linecap="round"/><line x1="433" y1="150" x2="447" y2="166" stroke="#ffffff" stroke-width="11.56" stroke-linecap="round"/>
 <line x1="447" y1="166" x2="475" y2="129" stroke="#1a1a1a" stroke-width="17.6" stroke-linecap="round"/><line x1="447" y1="166" x2="475" y2="129" stroke="#ffffff" stroke-width="11.56" stroke-linecap="round"/>
 </g></svg>

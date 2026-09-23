@@ -13,7 +13,7 @@
 
 
 
-<rect x="296" y="129" width="140" height="150" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="296" y="129" width="140" height="150" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="304" y1="147" x2="317" y2="163" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="317" y1="163" x2="344" y2="129" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="304" y1="187" x2="317" y2="203" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="317" y1="203" x2="344" y2="169" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="304" y1="147" x2="317" y2="163" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="317" y1="163" x2="344" y2="129" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="350" y1="155" x2="420" y2="155" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

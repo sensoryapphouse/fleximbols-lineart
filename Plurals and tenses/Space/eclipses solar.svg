@@ -26,10 +26,10 @@
   <!-- Moon disc (dark) passing in front -->
   <circle cx="145" cy="120" r="52" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Thin bright corona inner edge -->
-  <circle cx="145" cy="120" r="52" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="120" r="52" fill="none" stroke="#1a1a1a" stroke-width="4.64"/>
   <!-- Stars visible during totality -->
-  <circle cx="55" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="240" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="58" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="238" cy="185" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="55" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.64"/>
+  <circle cx="240" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.64"/>
+  <circle cx="58" cy="188" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.64"/>
+  <circle cx="238" cy="185" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.64"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

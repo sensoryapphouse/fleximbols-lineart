@@ -19,8 +19,8 @@
   <!-- inner hole of 6 -->
   <ellipse cx="160" cy="185" rx="8" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- top decoration ribbon under numerals: small hearts -->
-  <path d="M65 130 C65 127 70 127 70 130 C70 127 75 127 75 130 C75 134 70 138 70 138 C70 138 65 134 65 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
-  <path d="M210 130 C210 127 215 127 215 130 C215 127 220 127 220 130 C220 134 215 138 215 138 C215 138 210 134 210 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
+  <path d="M65 130 C65 127 70 127 70 130 C70 127 75 127 75 130 C75 134 70 138 70 138 C70 138 65 134 65 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M210 130 C210 127 215 127 215 130 C215 127 220 127 220 130 C220 134 215 138 215 138 C215 138 210 134 210 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- sixteen candles arranged across the top - 8 front, 8 implied behind via spacing? draw 16 along top -->
   <!-- Each candle: thin rect + flame -->
   <!-- candles row -->

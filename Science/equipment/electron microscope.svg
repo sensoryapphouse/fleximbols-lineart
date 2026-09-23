@@ -18,14 +18,14 @@
 
   <!-- Monitor screen -->
   <rect x="186" y="85" width="78" height="58" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
-  <rect x="192" y="91" width="66" height="46" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="192" y="91" width="66" height="46" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Monitor stand -->
   <rect x="219" y="143" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <rect x="208" y="160" width="34" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Screen image (cell/sample cross) -->
-  <circle cx="225" cy="114" r="14" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="225" y1="100" x2="225" y2="128" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
-  <line x1="211" y1="114" x2="239" y2="114" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
+  <circle cx="225" cy="114" r="14" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="225" y1="100" x2="225" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="211" y1="114" x2="239" y2="114" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="225" cy="114" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- Cable from column to monitor -->

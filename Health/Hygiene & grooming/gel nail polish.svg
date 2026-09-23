@@ -5,9 +5,9 @@
   <!-- UV inner glow -->
   <rect x="160" y="72" width="100" height="28" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- LED dots -->
-  <circle cx="180" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="210" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="240" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="180" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="210" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- UV rays beaming down -->
   <path d="M180 115 L180 130 M210 115 L210 130 M240 115 L240 130" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- Glossy finished nail (under the lamp - polished glass-like shine) -->

@@ -48,5 +48,5 @@
   <polygon points="230,65 240,55 252,67 242,77" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- needle -->
   <line x1="245" y1="60" x2="265" y2="40" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <line x1="245" y1="60" x2="265" y2="40" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="245" y1="60" x2="265" y2="40" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

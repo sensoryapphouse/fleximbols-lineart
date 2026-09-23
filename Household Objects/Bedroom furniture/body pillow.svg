@@ -5,5 +5,5 @@
   <!-- inner seam border -->
   <rect x="110" y="36" width="70" height="168" rx="26" ry="26" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- subtle centre crease line -->
-  <line x1="145" y1="60" x2="145" y2="180" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="145" y1="60" x2="145" y2="180" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

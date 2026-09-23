@@ -4,11 +4,11 @@
 <rect x="319.0" y="150.0" width="138.0" height="28.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="362.0" y="132.0" width="52.0" height="22.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <path d="M 86 360 L 118 340 L 154 360 L 148 396 L 110 404 L 80 386 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 104 356 L 126 376 M 134 352 L 116 392 M 90 380 L 146 380" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 104 356 L 126 376 M 134 352 L 116 392 M 90 380 L 146 380" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 232 392 Q 202 322 180 314" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linejoin="round"/>
 <path d="M 232 392 Q 232 322 232 314" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linejoin="round"/>
 <path d="M 232 392 Q 262 322 284 314" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linejoin="round"/>
-<circle cx="232.0" cy="392.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="232.0" cy="392.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34"/>
 <g transform="rotate(64 312 376)">
 <path d="M 290 340 L 334 340 L 326 410 L 298 410 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <rect x="286.0" y="330.0" width="52.0" height="16.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

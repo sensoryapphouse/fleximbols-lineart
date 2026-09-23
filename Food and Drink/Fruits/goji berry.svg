@@ -4,9 +4,9 @@
   <path d="M40 165 Q145 195 250 165" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- red Asian context tag/lantern accent: small red circle with knot in corner -->
   <circle cx="245" cy="50" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M245 32 L245 28" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M245 72 L245 78" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M238 50 Q245 45 252 50 Q245 55 238 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M245 32 L245 28" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M245 72 L245 78" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M238 50 Q245 45 252 50 Q245 55 238 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- elongated bright red-orange berries piled in dish -->
   <ellipse cx="75" cy="155" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 75 155)"/>
   <ellipse cx="100" cy="148" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 100 148)"/>

@@ -17,12 +17,12 @@
   <rect x="190" y="110" width="6" height="35" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- skyscraper -->
   <rect x="215" y="55" width="30" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <rect x="220" y="62" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="232" y="62" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="220" y="76" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="232" y="76" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="220" y="90" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="232" y="90" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="220" y="62" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="232" y="62" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="220" y="76" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="232" y="76" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="220" y="90" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="232" y="90" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ground -->
   <rect x="10" y="145" width="270" height="85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- tourist FULL BODY -->
@@ -39,9 +39,9 @@
   <rect x="95" y="180" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="105" cy="187" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="105" cy="187" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="98" y="177" width="6" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="98" y="177" width="6" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- map -->
   <rect x="150" y="195" width="45" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M155,205 q10,-5 20,2 t15,3" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="180" cy="215" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="180" cy="215" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

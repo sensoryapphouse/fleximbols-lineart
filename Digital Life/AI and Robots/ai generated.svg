@@ -17,7 +17,7 @@
   <!-- Small sparkle top -->
   <path d="M 258,18 L 262,28 L 272,32 L 262,36 L 258,46 L 254,36 L 244,32 L 254,28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Tiny sparkle dot -->
-  <path d="M 240,10 L 243,17 L 250,20 L 243,23 L 240,30 L 237,23 L 230,20 L 237,17 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 240,10 L 243,17 L 250,20 L 243,23 L 240,30 L 237,23 L 230,20 L 237,17 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Extra sparkle inside the image (bottom-left) to read as AI-generated -->
   <path d="M 70,176 L 75,190 L 89,195 L 75,200 L 70,214 L 65,200 L 51,195 L 65,190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

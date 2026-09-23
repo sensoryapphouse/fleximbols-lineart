@@ -23,21 +23,21 @@
   <rect x="100" y="135" width="28" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="160" y="135" width="28" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- weapon: candlestick (centre top room) -->
-  <rect x="111" y="38" width="8" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="115" cy="36" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="111" y="38" width="8" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="115" cy="36" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- weapon: knife (top right) -->
-  <path d="M 168 38 L 195 38 L 198 43 L 195 48 L 168 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="158" y="40" width="12" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 168 38 L 195 38 L 198 43 L 195 48 L 168 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="158" y="40" width="12" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- weapon: rope (top left) -->
   <path d="M 38 38 Q 50 32 60 38 Q 70 44 80 38" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
-  <path d="M 38 38 Q 50 32 60 38 Q 70 44 80 38" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 38 38 Q 50 32 60 38 Q 70 44 80 38" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- magnifying glass overlapping bottom-right -->
   <circle cx="220" cy="160" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
-  <circle cx="220" cy="160" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="220" cy="160" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- footprint clue inside the glass -->
   <ellipse cx="215" cy="155" rx="8" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="222" cy="148" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="226" cy="151" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="222" cy="148" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="226" cy="151" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- handle -->
   <rect x="245" y="185" width="30" height="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" transform="rotate(40 250 191)"/>
 </g></svg>

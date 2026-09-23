@@ -27,8 +27,8 @@
 <!-- bridge -->
 <rect x="224" y="436" width="64" height="16" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <!-- strings -->
-<line x1="248" y1="150" x2="247" y2="436" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="253" y1="150" x2="252" y2="436" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="259" y1="150" x2="260" y2="436" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="264" y1="150" x2="265" y2="436" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="248" y1="150" x2="247" y2="436" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="253" y1="150" x2="252" y2="436" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="259" y1="150" x2="260" y2="436" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="264" y1="150" x2="265" y2="436" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

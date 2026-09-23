@@ -8,8 +8,8 @@
   <path d="M60 133 Q60 175 145 175 Q230 175 230 133 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <ellipse cx="145" cy="133" rx="85" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- kibble -->
-  <ellipse cx="125" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <ellipse cx="148" cy="127" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <ellipse cx="168" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <ellipse cx="125" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="148" cy="127" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="168" cy="130" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="145" cy="133" rx="85" ry="20" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

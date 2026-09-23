@@ -11,13 +11,13 @@
   <!-- Spoon bowl -->
   <ellipse cx="185" cy="138" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Sugar crystals/honey on spoon -->
-  <ellipse cx="185" cy="136" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="185" cy="136" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Honey/sugar drizzle from spoon tip -->
   <path d="M185 152 Q182 162 180 168 Q178 178 183 180" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <path d="M190 150 Q194 162 194 172" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Sugar crystals falling -->
-  <polygon points="158,148 162,155 166,148 162,141" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <polygon points="200,142 204,149 208,142 204,135" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="158,148 162,155 166,148 162,141" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="200,142 204,149 208,142 204,135" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Sweetness sparkles -->
   <!-- Sparkle 1 (top left) -->
   <line x1="55" y1="75" x2="55" y2="55" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

@@ -29,14 +29,14 @@
   <path d="M 196 150 Q 200 138 205 128 Q 208 118 207 110 Q 214 108 217 116 Q 215 124 218 133 Q 219 142 217 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M 207 110 Q 204 104 209 101 Q 214 99 213 105 Q 216 100 220 105 Q 218 110 217 116" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Seeds scattered over -->
-  <ellipse cx="105" cy="138" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 105 138)"/>
-  <ellipse cx="125" cy="132" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15 125 132)"/>
-  <ellipse cx="148" cy="136" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(30 148 136)"/>
-  <ellipse cx="168" cy="130" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-10 168 130)"/>
-  <ellipse cx="188" cy="136" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(25 188 136)"/>
-  <ellipse cx="140" cy="145" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 140 145)"/>
-  <ellipse cx="160" cy="143" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(15 160 143)"/>
+  <ellipse cx="105" cy="138" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 105 138)"/>
+  <ellipse cx="125" cy="132" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 125 132)"/>
+  <ellipse cx="148" cy="136" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(30 148 136)"/>
+  <ellipse cx="168" cy="130" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-10 168 130)"/>
+  <ellipse cx="188" cy="136" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(25 188 136)"/>
+  <ellipse cx="140" cy="145" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 140 145)"/>
+  <ellipse cx="160" cy="143" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 160 143)"/>
   <!-- Lemon wedge accent -->
   <path d="M 82 140 Q 92 130 102 140 Q 96 148 88 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <line x1="92" y1="131" x2="92" y2="148" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

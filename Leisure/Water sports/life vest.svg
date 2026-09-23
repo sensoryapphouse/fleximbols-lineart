@@ -11,10 +11,10 @@
   <line x1="145" y1="100" x2="145" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8,5"/>
   <!-- Buckle strap 1 -->
   <rect x="110" y="125" width="70" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="138" y="122" width="14" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="138" y="122" width="14" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Buckle strap 2 -->
   <rect x="110" y="158" width="70" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="138" y="155" width="14" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="138" y="155" width="14" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Reflective strip -->
-  <rect x="85" y="108" width="120" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="85" y="108" width="120" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

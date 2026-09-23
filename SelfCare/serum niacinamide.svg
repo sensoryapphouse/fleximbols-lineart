@@ -6,7 +6,7 @@
   <ellipse cx="208" cy="120" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Sparkle on clear skin -->
   <path d="M232 110 L234 116 L240 118 L234 120 L232 126 L230 120 L224 118 L230 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M210 150 L211 154 L215 155 L211 156 L210 160 L209 156 L205 155 L209 154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M210 150 L211 154 L215 155 L211 156 L210 160 L209 156 L205 155 L209 154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Light swatch drip (below bottle) -->
   <path d="M82 195 Q70 200 72 210 Q82 215 92 210 Q94 200 82 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Dropper bottle body (amber/dark, tall) -->

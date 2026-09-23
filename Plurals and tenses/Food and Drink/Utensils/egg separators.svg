@@ -3,7 +3,7 @@
   <path d="M 60 165 Q 60 220 145 220 Q 230 220 230 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
   <!-- bowl rim -->
   <ellipse cx="145" cy="165" rx="85" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="163" rx="80" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="163" rx="80" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- egg whites already separated in catch bowl -->
   <path d="M 90 195 Q 110 205 145 207 Q 180 205 200 195" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- separator cup sitting on the rim -->
@@ -22,4 +22,4 @@
   <path d="M 100 152 Q 100 162 102 170" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 190 152 Q 190 162 188 170" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 164 156 Q 164 168 165 175" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

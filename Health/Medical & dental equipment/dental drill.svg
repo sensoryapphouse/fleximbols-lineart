@@ -5,9 +5,9 @@
 <rect x="226" y="176" width="60" height="224" rx="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- grip knurling band -->
 <rect x="226" y="248" width="60" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<line x1="240" y1="256" x2="240" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="256" y1="256" x2="256" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="272" y1="256" x2="272" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="240" y1="256" x2="240" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="256" x2="256" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="272" y1="256" x2="272" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 
 <!-- angled head: a neck that bends forward off the body top, ending in the head -->
 <!-- neck bend (forward-leaning trapezoid off the body's top-left) -->

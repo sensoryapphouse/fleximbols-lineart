@@ -11,21 +11,21 @@
   <!-- Avocados - dark green pear shapes hanging down -->
   <!-- Avocado 1 -->
   <ellipse cx="108" cy="148" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="108" cy="138" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="108" y1="131" x2="108" y2="122" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="108" cy="138" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="108" y1="131" x2="108" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Avocado 2 -->
   <ellipse cx="135" cy="155" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="135" cy="145" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="135" y1="138" x2="135" y2="129" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="135" cy="145" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="135" y1="138" x2="135" y2="129" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Avocado 3 -->
   <ellipse cx="165" cy="150" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="165" cy="140" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="165" y1="133" x2="165" y2="124" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="165" cy="140" rx="6" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="165" y1="133" x2="165" y2="124" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Avocado 4 -->
   <ellipse cx="183" cy="135" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="183" cy="126" rx="5" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="183" cy="126" rx="5" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="183" y1="120" x2="183" y2="113" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- Avocado 5 -->
   <ellipse cx="118" cy="120" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="118" y1="109" x2="118" y2="101" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="118" y1="109" x2="118" y2="101" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

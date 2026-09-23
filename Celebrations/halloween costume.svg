@@ -17,7 +17,7 @@
   <polygon points="203,179 209,173 215,179 209,185" fill="#1a1a1a"/>
   <polygon points="225,179 231,173 237,179 231,185" fill="#1a1a1a"/>
   <!-- Pumpkin mouth -->
-  <path d="M205 192 Q215 202 225 192" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <path d="M205 192 Q215 202 225 192" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Witch hat on ghost head -->
   <polygon points="145,18 115,65 175,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="108" y="62" width="74" height="14" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>

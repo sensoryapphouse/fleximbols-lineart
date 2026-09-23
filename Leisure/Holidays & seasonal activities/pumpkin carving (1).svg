@@ -8,8 +8,8 @@
   <ellipse cx="195" cy="140" rx="42" ry="78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="140" rx="58" ry="85" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- jack-o-lantern face: triangle eyes -->
-  <path d="M108 125 L132 125 L120 145 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M158 125 L182 125 L170 145 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M108 125 L132 125 L120 145 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M158 125 L182 125 L170 145 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- jagged mouth -->
-  <path d="M100 170 L115 168 L120 178 L130 168 L140 178 L150 168 L160 178 L170 168 L175 178 L190 170 L185 188 L170 192 L155 188 L140 192 L125 188 L110 192 L100 188 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M100 170 L115 168 L120 178 L130 168 L140 178 L150 168 L160 178 L170 168 L175 178 L190 170 L185 188 L170 192 L155 188 L140 192 L125 188 L110 192 L100 188 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

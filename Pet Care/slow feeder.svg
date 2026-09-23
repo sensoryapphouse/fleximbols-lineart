@@ -14,9 +14,9 @@
   <path d="M75 160 Q75 125 145 122 Q215 125 215 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cross ridges -->
   <path d="M115 155 L130 143" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
-  <path d="M115 155 L130 143" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 155 L130 143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M175 155 L160 143" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
-  <path d="M175 155 L160 143" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M175 155 L160 143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- rim -->
   <ellipse cx="145" cy="155" rx="115" ry="30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

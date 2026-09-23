@@ -23,11 +23,11 @@
   <rect x="161" y="65" width="9" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <rect x="180" y="68" width="9" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- Wood stave lines on barrel -->
-  <line x1="118" y1="60" x2="116" y2="198" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="131" y1="59" x2="130" y2="200" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="145" y1="59" x2="145" y2="200" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="159" y1="59" x2="160" y2="200" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="172" y1="60" x2="174" y2="198" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="118" y1="60" x2="116" y2="198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="131" y1="59" x2="130" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="59" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="159" y1="59" x2="160" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="172" y1="60" x2="174" y2="198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Bottom hoop band -->
   <path d="M100,185 Q100,194 145,196 Q190,194 190,185" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
 </g></svg>

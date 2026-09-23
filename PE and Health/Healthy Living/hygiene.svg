@@ -3,15 +3,15 @@
 <rect x="125" y="128" width="29" height="25" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="108" y="111" width="42" height="17" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="108" y1="119" x2="79" y2="119" stroke="#1a1a1a" stroke-width="9.450000000000001" stroke-linecap="round"/>
-<rect x="113" y="176" width="55" height="42" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="113" y="176" width="55" height="42" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
 <line x1="96" y1="128" x2="92" y2="200" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="108" y1="134" x2="104" y2="206" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <rect x="206" y="316" width="60" height="76" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <rect x="264" y="316" width="60" height="76" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
-<circle cx="232" cy="300" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="308" cy="296" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="264" cy="282" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="248" cy="316" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="330" cy="330" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="206" cy="336" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="232" cy="300" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="308" cy="296" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="264" cy="282" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="248" cy="316" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="330" cy="330" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="206" cy="336" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
 </g></svg>

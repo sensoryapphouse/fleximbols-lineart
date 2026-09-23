@@ -32,10 +32,10 @@
   <line x1="28" y1="48" x2="74" y2="48" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-dasharray="6,5"/>
   <line x1="28" y1="60" x2="74" y2="60" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-dasharray="6,5"/>
   <!-- Stitch lines across whole quilt surface rows (simplified) -->
-  <line x1="20" y1="90" x2="270" y2="90" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="20" y1="198" x2="270" y2="198" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="82" y1="15" x2="82" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="145" y1="15" x2="145" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="207" y1="15" x2="207" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="20" y1="90" x2="270" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="20" y1="198" x2="270" y2="198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="82" y1="15" x2="82" y2="225" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="145" y1="15" x2="145" y2="225" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="207" y1="15" x2="207" y2="225" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="7,6"/>
 </g></svg>

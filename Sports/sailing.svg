@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0) translate(-256.00 -256.00)">
 <!-- water -->
 <rect x="30" y="430" width="452" height="60" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
-<path d="M 30 442 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 44 0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 30 462 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 44 0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 30 442 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 44 0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 30 462 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 68 0 q 34 -10 68 0 q 34 10 44 0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- mast -->
 <line x1="238" y1="70" x2="238" y2="418" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- boom -->
@@ -13,13 +13,13 @@
 <polygon points="238,110 238,296 150,296" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- boat hull -->
 <path d="M 96 400 Q 256 470 416 400 L 388 452 Q 256 500 124 452 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 96 400 Q 256 448 416 400" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 96 400 Q 256 448 416 400" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- sailor: house figure sitting in the boat, behind the sail base -->
 <!-- torso -->
 <polygon points="292,352 336,352 334,414 294,414" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- arm reaching to tiller (down-right) -->
 <line x1="330" y1="360" x2="374" y2="392" stroke-linecap="round" stroke="#1a1a1a" stroke-width="28.9" data-part="ink"/><line x1="330" y1="360" x2="374" y2="392" stroke-linecap="round" stroke="#ffffff" stroke-width="20.9" data-part="arm"/><circle cx="374" cy="392" r="11.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
-<circle cx="374" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
+<circle cx="374" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <!-- tiller / rope -->
 <line x1="374" y1="392" x2="404" y2="418" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- neck -->

@@ -13,8 +13,8 @@
 
 
 
-<path d="M 324 166 q 8 6 0 14" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 332 162 q 12 8 0 20" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 324 166 q 8 6 0 14" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 332 162 q 12 8 0 20" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="296" y1="332" x2="342" y2="332" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="342" y1="332" x2="324" y2="318" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="342" y1="332" x2="324" y2="346" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>

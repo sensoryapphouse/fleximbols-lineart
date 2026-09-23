@@ -7,8 +7,8 @@
   <!-- Tip -->
   <path d="M 241,208 L 246,208 L 248,214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- Bow hair -->
-  <line x1="234" y1="36" x2="246" y2="210" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <line x1="236" y1="36" x2="248" y2="210" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <line x1="234" y1="36" x2="246" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="36" x2="248" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- VIOLA BODY — proper hourglass outline -->
   <path d="M 120,97

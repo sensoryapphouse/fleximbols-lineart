@@ -28,7 +28,7 @@
   <path d="M145 135 Q135 128 132 120 Q134 113 140 112 Q145 114 145 120 Q145 114 150 112 Q156 113 158 120 Q155 128 145 135Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Center stamens suggestion -->
   <circle cx="145" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="140" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="150" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="145" cy="114" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="140" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="114" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

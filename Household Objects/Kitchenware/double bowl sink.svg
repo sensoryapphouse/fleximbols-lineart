@@ -10,13 +10,13 @@
   <!-- divider highlight -->
   <rect x="138" y="108" width="14" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- left drain -->
-  <ellipse cx="88" cy="185" rx="14" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="88" cy="185" rx="14" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="88" cy="185" r="3" fill="#1a1a1a"/>
   <!-- right drain -->
-  <ellipse cx="202" cy="185" rx="14" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="202" cy="185" rx="14" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="202" cy="185" r="3" fill="#1a1a1a"/>
   <!-- faucet center over divider -->
-  <rect x="138" y="50" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="138" y="50" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M145 64 L145 75" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M120 50 L120 30 Q145 10 170 30 L170 50" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M115 50 L175 50" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

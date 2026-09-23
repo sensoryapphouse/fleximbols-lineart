@@ -10,22 +10,22 @@
   <circle cx="62" cy="100" r="9" fill="#1a1a1a"/>
   <circle cx="58" cy="96" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- IR led indicator -->
-  <circle cx="82" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="82" cy="86" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- wifi signal between -->
   <path d="M104 80 Q120 70 136 80" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M110 92 Q120 86 130 92" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-  <circle cx="120" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="120" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- parent unit (handheld with screen) on right -->
   <rect x="150" y="50" width="120" height="170" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" data-lp="hair"/>
   <!-- screen -->
   <rect x="162" y="64" width="96" height="118" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- screen image: crib with baby (simplified) -->
   <rect x="170" y="140" width="80" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="180" y1="140" x2="180" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="195" y1="140" x2="195" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="210" y1="140" x2="210" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="225" y1="140" x2="225" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="240" y1="140" x2="240" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="180" y1="140" x2="180" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="140" x2="195" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="210" y1="140" x2="210" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="225" y1="140" x2="225" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="240" y1="140" x2="240" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- baby blob in crib -->
   <ellipse cx="210" cy="148" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="222" cy="142" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

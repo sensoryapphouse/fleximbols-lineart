@@ -20,7 +20,7 @@
   <rect x="218" y="185" width="22" height="42" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="224" y="175" width="10" height="14" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Puff spray from inhaler -->
-  <circle cx="210" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="200" cy="165" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="205" cy="158" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="210" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="165" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="205" cy="158" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

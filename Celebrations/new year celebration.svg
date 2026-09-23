@@ -2,14 +2,14 @@
   <!-- Ground / party scene base -->
   <rect x="22" y="188" width="246" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Confetti pieces -->
-  <rect x="38" y="155" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-20 38 155)"/>
-  <rect x="70" y="168" width="10" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(15 70 168)"/>
-  <rect x="105" y="160" width="11" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-30 105 160)"/>
-  <rect x="180" y="162" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(25 180 162)"/>
-  <rect x="215" y="155" width="10" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-15 215 155)"/>
-  <rect x="245" y="168" width="11" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(30 245 168)"/>
-  <rect x="55" y="140" width="9" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(10 55 140)"/>
-  <rect x="228" y="140" width="9" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-25 228 140)"/>
+  <rect x="38" y="155" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 38 155)"/>
+  <rect x="70" y="168" width="10" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 70 168)"/>
+  <rect x="105" y="160" width="11" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-30 105 160)"/>
+  <rect x="180" y="162" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(25 180 162)"/>
+  <rect x="215" y="155" width="10" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 215 155)"/>
+  <rect x="245" y="168" width="11" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(30 245 168)"/>
+  <rect x="55" y="140" width="9" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(10 55 140)"/>
+  <rect x="228" y="140" width="9" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-25 228 140)"/>
   <!-- Firework burst 1 - left (red) -->
   <circle cx="72" cy="68" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="72" y1="68" x2="50" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -19,13 +19,13 @@
   <line x1="72" y1="68" x2="104" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="72" y1="68" x2="50" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="72" y1="68" x2="94" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="50" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="72" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="94" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="40" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="104" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="50" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="94" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="50" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="72" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="94" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="40" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="104" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="50" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="94" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Firework burst 2 - center top (gold) -->
   <circle cx="145" cy="42" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="145" y1="42" x2="122" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -35,13 +35,13 @@
   <line x1="145" y1="42" x2="175" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="145" y1="42" x2="122" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="145" y1="42" x2="168" y2="62" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="122" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="168" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="115" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="175" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="122" cy="62" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="168" cy="62" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="122" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="168" cy="22" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="122" cy="62" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="168" cy="62" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Firework burst 3 - right (purple) -->
   <circle cx="218" cy="68" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="218" y1="68" x2="196" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -51,13 +51,13 @@
   <line x1="218" y1="68" x2="250" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="218" y1="68" x2="196" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="218" y1="68" x2="240" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="196" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="218" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="240" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="186" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="196" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="240" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="196" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="218" cy="36" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="186" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="196" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Party people silhouettes -->
   <circle cx="72" cy="172" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="62" y="182" width="20" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

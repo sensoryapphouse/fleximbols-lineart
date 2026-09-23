@@ -8,7 +8,7 @@
 <rect x="112.0" y="306.0" width="256.0" height="52.0" rx="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <circle cx="112.0" cy="332.0" r="28.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <path d="M 196 332 Q 196 268 256 268 Q 316 268 316 332 Q 316 372 256 372 Q 196 372 196 332 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<ellipse cx="256.0" cy="322.0" rx="40.0" ry="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256.0" cy="322.0" rx="40.0" ry="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
 <line x1="256" y1="258" x2="263" y2="245" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="256" y1="258" x2="249" y2="245" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="256" y1="232" x2="256" y2="258" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="256" y1="232" x2="256" y2="258" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <line x1="256" y1="258" x2="249" y2="245" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <line x1="256" y1="258" x2="263" y2="245" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>

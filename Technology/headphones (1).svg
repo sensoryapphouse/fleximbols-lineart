@@ -4,7 +4,7 @@
   <ellipse cx="65" cy="165" rx="22" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"></ellipse>
   <path d="M 190,140 Q 190,118 210,118 L 240,118 Q 260,118 260,140 L 260,200 Q 260,222 240,222 L 210,222 Q 190,222 190,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"></path>
   <ellipse cx="225" cy="165" rx="22" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"></ellipse>
-  <circle cx="140" cy="150" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="140" cy="150" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 147,150 L 147,108 L 175,100 L 175,140" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="168" cy="138" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="168" cy="138" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

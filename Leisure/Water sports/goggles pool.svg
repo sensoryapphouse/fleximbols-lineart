@@ -12,13 +12,13 @@
   <!-- right lens -->
   <ellipse cx="195" cy="130" rx="36" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- lens shine highlights -->
-  <ellipse cx="82" cy="120" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="182" cy="120" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="82" cy="120" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="182" cy="120" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nose bridge connector -->
-  <path d="M 143 130 C 140 145, 150 145, 147 130" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 143 130 C 140 145, 150 145, 147 130" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- strap ends -->
   <rect x="22" y="114" width="14" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="254" y="114" width="14" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- water droplet hint (pool) -->
-  <path d="M 145 200 C 140 210, 140 218, 145 220 C 150 218, 150 210, 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 145 200 C 140 210, 140 218, 145 220 C 150 218, 150 210, 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -10,5 +10,5 @@
     <path d="M333.4 240a178 178 0 0 0 14.4-72h-11v3.4c0 12-1 41.2-7.2 68.6a336 336 0 0 1 7.2 68.6v3.4h10.6v-2c0-10-1-43.1-13.5-69.5"/>
     <path d="M325.8 240a331 331 0 0 0 6.7-68.6V168h-10.6v144h10.6v-3.4c0-11.5 0-41.2-6.7-68.1"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

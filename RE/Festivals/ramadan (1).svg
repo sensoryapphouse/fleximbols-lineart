@@ -6,8 +6,8 @@
   <!-- Star next to crescent -->
   <path d="M120 50 L125 65 L140 65 L128 73 L133 88 L120 80 L107 88 L112 73 L100 65 L115 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Smaller stars -->
-  <path d="M155 25 L157 31 L163 31 L158 35 L160 41 L155 37 L150 41 L152 35 L147 31 L153 31 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M195 35 L197 41 L203 41 L198 45 L200 51 L195 47 L190 51 L192 45 L187 41 L193 41 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M155 25 L157 31 L163 31 L158 35 L160 41 L155 37 L150 41 L152 35 L147 31 L153 31 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M195 35 L197 41 L203 41 L198 45 L200 51 L195 47 L190 51 L192 45 L187 41 L193 41 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Ramadan lantern (right side, hanging) -->
   <!-- Hanging chain -->
   <path d="M225 10 L225 35" stroke="#1a1a1a" stroke-width="3.56"/>
@@ -29,15 +29,15 @@
   <ellipse cx="120" cy="195" rx="75" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Dates on plate (5 dates) -->
   <ellipse cx="80" cy="190" rx="11" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M75 185 Q80 178 85 185" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M75 185 Q80 178 85 185" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="100" cy="186" rx="11" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M95 181 Q100 174 105 181" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M95 181 Q100 174 105 181" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="120" cy="184" rx="11" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M115 179 Q120 172 125 179" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M115 179 Q120 172 125 179" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="140" cy="186" rx="11" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M135 181 Q140 174 145 181" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M135 181 Q140 174 145 181" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="160" cy="190" rx="11" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M155 185 Q160 178 165 185" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M155 185 Q160 178 165 185" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Highlight on each date -->
   <ellipse cx="78" cy="187" rx="2" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="118" cy="181" rx="2" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

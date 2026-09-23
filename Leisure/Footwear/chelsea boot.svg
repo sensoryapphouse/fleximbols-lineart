@@ -10,12 +10,12 @@
   <!-- ELASTIC SIDE PANEL (signature Chelsea) -->
   <path d="M 88 78 L 130 78 L 132 150 L 86 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- elastic ribbing -->
-  <path d="M 90 85 L 130 85 M 90 95 L 130 95 M 90 105 L 130 105 M 90 115 L 130 115 M 90 125 L 130 125 M 90 135 L 130 135 M 90 145 L 130 145" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M 90 85 L 130 85 M 90 95 L 130 95 M 90 105 L 130 105 M 90 115 L 130 115 M 90 125 L 130 125 M 90 135 L 130 135 M 90 145 L 130 145" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- PULL TAB at back -->
   <path d="M 50 60 L 50 45 Q 50 38 58 38 L 70 38 Q 78 38 78 45 L 78 65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 58 50 L 70 50" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 58 50 L 70 50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- vamp seam -->
-  <path d="M 132 78 Q 145 100 158 115" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 132 78 Q 145 100 158 115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- toe stitch -->
-  <path d="M 180 148 Q 210 155 240 165" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 180 148 Q 210 155 240 165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

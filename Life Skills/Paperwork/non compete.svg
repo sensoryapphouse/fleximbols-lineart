@@ -7,19 +7,19 @@
   <!-- three competitor logos in a row -->
   <!-- logo 1: rival building -->
   <rect x="60" y="65" width="45" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <rect x="66" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="90" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="66" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="90" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="66" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="78" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="90" y="72" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="66" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="78" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="90" y="86" width="8" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- big red X over logo 1 -->
   <line x1="55" y1="62" x2="110" y2="123" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <line x1="110" y1="62" x2="55" y2="123" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <!-- logo 2: rival briefcase -->
   <rect x="122" y="75" width="46" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" rx="3"/>
   <rect x="135" y="65" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="142" y="90" width="6" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="142" y="90" width="6" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- big red X over logo 2 -->
   <line x1="117" y1="62" x2="172" y2="120" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <line x1="172" y1="62" x2="117" y2="120" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>

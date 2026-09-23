@@ -13,7 +13,7 @@
   <polygon points="178,84 155,110 200,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" data-lp="hair"/>
   <polygon points="130,62 120,52 138,62" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" data-lp="hair"/>
   <line x1="100" y1="196" x2="168" y2="196" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="168,188 182,196 168,204" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" stroke-linejoin="round"/>
+  <polygon points="168,188 182,196 168,204" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="218" cy="148" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="218" y1="160" x2="218" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="206" y1="168" x2="230" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

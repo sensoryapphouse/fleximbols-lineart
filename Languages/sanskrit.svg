@@ -18,7 +18,7 @@
   <circle cx="145" cy="88" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   
   
-  <path d="M145,75 C152,80 157,86 145,98 C133,86 138,80 145,75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M145,75 C152,80 157,86 145,98 C133,86 138,80 145,75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <circle cx="145" cy="71" r="5" fill="#1a1a1a"/>
 </g></svg>

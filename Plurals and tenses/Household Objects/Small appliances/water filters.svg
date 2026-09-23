@@ -10,11 +10,11 @@
   <!-- Filter cartridge inside pitcher -->
   <rect x="122" y="60" width="46" height="90" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Filter mesh lines -->
-  <line x1="122" y1="82" x2="168" y2="82" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="122" y1="100" x2="168" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="122" y1="118" x2="168" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="122" y1="82" x2="168" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="122" y1="100" x2="168" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="122" y1="118" x2="168" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Water drop on pitcher -->
   <path d="M145 165 Q152 175 145 185 Q138 175 145 165Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Base -->
   <rect x="90" y="200" width="110" height="12" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

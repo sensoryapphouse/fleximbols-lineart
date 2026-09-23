@@ -26,7 +26,7 @@
   <path d="M 90,94 Q 115,92 138,94" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 158,92 Q 182,92 204,95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Slight crumble texture at wedge edge (blue cheese is crumbly) -->
-  <path d="M 68,160 Q 72,156 76,162 Q 72,168 68,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M 68,178 Q 72,174 76,180 Q 72,184 68,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M 222,152 Q 218,148 214,154 Q 218,160 222,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M 68,160 Q 72,156 76,162 Q 72,168 68,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M 68,178 Q 72,174 76,180 Q 72,184 68,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M 222,152 Q 218,148 214,154 Q 218,160 222,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
 </g></svg>

@@ -10,15 +10,15 @@
 <rect x="258" y="226" width="116" height="32" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" transform="rotate(-12 316 242)"/>
 <!-- grilled tomato halves -->
 <circle cx="150" cy="338" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="150" cy="338" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
+<circle cx="150" cy="338" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
 <circle cx="208" cy="360" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="208" cy="360" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
+<circle cx="208" cy="360" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
 <!-- baked beans cluster -->
 <g stroke="#1a1a1a" stroke-width="5">
-<ellipse cx="300" cy="330" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
-<ellipse cx="334" cy="346" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
-<ellipse cx="296" cy="362" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
-<ellipse cx="330" cy="378" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
-<ellipse cx="316" cy="346" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.31" />
+<ellipse cx="300" cy="330" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
+<ellipse cx="334" cy="346" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
+<ellipse cx="296" cy="362" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
+<ellipse cx="330" cy="378" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
+<ellipse cx="316" cy="346" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17" />
 </g>
 </g></svg>

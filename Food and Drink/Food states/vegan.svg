@@ -8,9 +8,9 @@
   <!-- Right branch of V (forms right arm of sprout V-shape) -->
   <path d="M 145,155 Q 172,138 195,110 Q 208,90 202,65 Q 185,58 172,72 Q 160,88 155,115 L 145,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Left leaf vein -->
-  <path d="M 120,80 Q 128,95 134,118" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M 120,80 Q 128,95 134,118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right leaf vein -->
-  <path d="M 170,80 Q 162,95 156,118" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M 170,80 Q 162,95 156,118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small top bud at centre joining point -->
   <ellipse cx="145" cy="122" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tiny root lines below soil -->

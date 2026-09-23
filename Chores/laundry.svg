@@ -14,11 +14,11 @@
     <polygon points="109,227 109,227 116,228 133,229 186,231 238,232 256,231 263,231 263,231 264,226 265,218 265,207 108,199 108,199 109,227 109,227" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="109,207 109,207 113,208 120,209 140,210 192,212 242,211 258,211 265,210 265,210 266,178 268,110 268,41 267,18 267,11 266,9 266,9 258,8 239,7 186,8 133,9 116,10 108,11 108,11 107,13 106,20 106,43 106,110 107,176 109,207 109,207" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="247,35 247,35 246,38 245,40 242,41 240,42 240,42 237,41 235,40 233,38 233,35 233,35 233,32 235,30 237,29 240,28 240,28 242,29 245,30 246,32 247,35 247,35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="106,18 106,18 131,17 185,15 239,14 258,15 266,15" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="106,18 106,18 131,17 185,15 239,14 258,15 266,15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="106,18 106,18 131,17 185,15 239,14 258,15 266,15" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-    <polygon points="105,51 159,50 159,50 159,50 161,49 162,48 162,43 162,43 161,38 160,32 155,24 151,18 149,16" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="105,51 159,50 159,50 159,50 161,49 162,48 162,43 162,43 161,38 160,32 155,24 151,18 149,16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="105,51 159,50 159,50 159,50 161,49 162,48 162,43 162,43 161,38 160,32 155,24 151,18 149,16" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-    <polygon points="105,55 105,55 131,54 186,53 241,53 267,53" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="105,55 105,55 131,54 186,53 241,53 267,53" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="105,55 105,55 131,54 186,53 241,53 267,53" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="233,33 233,33 234,33 235,32 240,33 244,34 245,35 246,36 246,36 245,37 244,37 239,37 235,35 234,34 233,33 233,33" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="140,40 140,40 145,41 148,43 148,44 148,44 145,45 145,45 131,46 123,46 117,45 117,45 114,44 112,43 112,42 113,41 117,39 120,38 120,38 128,39 140,40 140,40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>

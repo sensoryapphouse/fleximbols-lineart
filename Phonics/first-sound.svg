@@ -3,14 +3,14 @@
 <rect x="180.0" y="210.0" width="78.0" height="120.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="274.0" y="210.0" width="78.0" height="120.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="368.0" y="210.0" width="78.0" height="120.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="67.0" y="198.0" width="116.0" height="14.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="67.0" y="198.0" width="116.0" height="14.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.09"/>
 <line x1="125" y1="120" x2="125" y2="184" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="125" y1="270" x2="125" y2="300" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="125" y1="270" x2="155" y2="270" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="125" y1="270" x2="95" y2="270" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="125" y1="270" x2="125" y2="240" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="125" y1="184" x2="112" y2="161" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="125" y1="184" x2="138" y2="161" stroke="#1a1a1a" stroke-width="23.0" stroke-linecap="round"/><line x1="125" y1="120" x2="125" y2="184" stroke="#1a1a1a" stroke-width="17.5" stroke-linecap="round"/>
 <line x1="125" y1="184" x2="112" y2="161" stroke="#1a1a1a" stroke-width="17.5" stroke-linecap="round"/>
 <line x1="125" y1="184" x2="138" y2="161" stroke="#1a1a1a" stroke-width="17.5" stroke-linecap="round"/>
-<circle cx="125.0" cy="270.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="125.0" cy="270.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.09"/>
 <line x1="125" y1="270" x2="155" y2="270" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="125" y1="270" x2="125" y2="300" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="125" y1="270" x2="95" y2="270" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="125" y1="270" x2="125" y2="240" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
-<circle cx="125.0" cy="270.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="125.0" cy="270.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.09"/>
 </g></svg>

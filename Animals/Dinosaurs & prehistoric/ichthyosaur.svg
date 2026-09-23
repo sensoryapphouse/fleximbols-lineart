@@ -7,10 +7,10 @@
   <!-- belly band -->
   <path d="M 60 142 Q 130 154 210 144" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- gill line -->
-  <path d="M 80 120 Q 82 132 80 144" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 80 120 Q 82 132 80 144" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- large eye on head -->
-  <circle cx="62" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="62" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="63" cy="124" r="2.5" fill="#1a1a1a"/>
   <!-- small mouth on snout -->
-  <path d="M 24 134 L 50 132" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 24 134 L 50 132" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

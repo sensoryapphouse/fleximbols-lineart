@@ -14,10 +14,10 @@
   <path d="M154 93 Q168 88 182 93" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Eyes: sharp alert precision gaze -->
   <ellipse cx="122" cy="110" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="122" cy="110" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="122" cy="110" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="120" cy="108" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="168" cy="110" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="168" cy="110" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="168" cy="110" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="166" cy="108" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Mouth: firm precise -->
   <path d="M127 148 Q145 144 163 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -39,7 +39,7 @@
   <line x1="246" y1="58" x2="246" y2="102" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="224" y1="80" x2="268" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Crosshair center dot -->
-  <circle cx="246" cy="80" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="246" cy="80" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dotted line connecting dial to face -->
-  <line x1="68" y1="110" x2="93" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <line x1="68" y1="110" x2="93" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5 4"/>
 </g></svg>

@@ -10,11 +10,11 @@
   <!-- Top bunk mattress -->
   <rect x="45" y="38" width="200" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Top bunk mattress stripe -->
-  <rect x="45" y="52" width="200" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="45" y="52" width="200" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47" />
   <!-- Lower bunk mattress -->
   <rect x="45" y="122" width="200" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lower mattress stripe -->
-  <rect x="45" y="136" width="200" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="45" y="136" width="200" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47" />
   <!-- Curtain on upper bunk (privacy curtain, one side drawn closed) -->
   <path d="M49 68 Q70 62 80 38 L80 68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M80 68 Q100 56 108 38 L108 68 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -22,18 +22,18 @@
   <!-- Curtain rod/rail -->
   <line x1="49" y1="68" x2="145" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Curtain clip rings -->
-  <circle cx="65" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="94" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="122" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="65" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="94" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="122" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- Backpack on lower bunk (small, simple) -->
   <rect x="175" y="100" width="52" height="52" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Backpack handle loop -->
   <path d="M190 100 Q201 88 212 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Backpack front pocket -->
-  <rect x="183" y="120" width="36" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="183" y="120" width="36" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47" stroke-linejoin="round"/>
   <!-- Pocket zip -->
-  <line x1="185" y1="130" x2="217" y2="130" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <ellipse cx="201" cy="130" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="185" y1="130" x2="217" y2="130" stroke="#1a1a1a" stroke-width="4.47" stroke-linecap="round"/>
+  <ellipse cx="201" cy="130" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- Ladder on right side -->
   <line x1="241" y1="152" x2="241" y2="226" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="255" y1="152" x2="255" y2="226" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -42,4 +42,4 @@
   <line x1="241" y1="206" x2="255" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Floor line -->
   <line x1="35" y1="226" x2="255" y2="226" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

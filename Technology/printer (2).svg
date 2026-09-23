@@ -5,7 +5,7 @@
   <path d="M 95,75 L 195,75 M 95,90 L 175,90 M 95,108 L 195,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <rect x="180" y="165" width="50" height="22" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <path d="M 188,178 L 222,178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="70" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="95" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="120" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="70" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="95" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="120" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

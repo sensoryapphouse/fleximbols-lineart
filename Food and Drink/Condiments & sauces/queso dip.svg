@@ -14,13 +14,13 @@
   <!-- Jalapeno rings on top -->
   <!-- Ring 1 -->
   <ellipse cx="118" cy="120" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="118" cy="120" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="118" cy="120" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ring 2 -->
   <ellipse cx="148" cy="116" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="148" cy="116" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="148" cy="116" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ring 3 -->
   <ellipse cx="175" cy="119" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="175" cy="119" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="175" cy="119" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Small red speck for heat hint -->
-  <circle cx="136" cy="112" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="136" cy="112" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

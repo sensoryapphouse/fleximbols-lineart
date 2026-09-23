@@ -11,13 +11,13 @@
   <!-- screen -->
   <rect x="48" y="42" width="194" height="126" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- screen content: simple desktop -->
-  <rect x="58" y="52" width="60" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="125" y="52" width="60" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="192" y="52" width="40" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="58" y="100" width="100" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="165" y="100" width="67" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <rect x="58" y="52" width="60" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
+  <rect x="125" y="52" width="60" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
+  <rect x="192" y="52" width="40" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
+  <rect x="58" y="100" width="100" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
+  <rect x="165" y="100" width="67" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
   <!-- LED indicator -->
-  <circle cx="145" cy="174" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="145" cy="174" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
   <!-- connection cable trailing down -->
   <path d="M 200 185 Q 215 195 220 214" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

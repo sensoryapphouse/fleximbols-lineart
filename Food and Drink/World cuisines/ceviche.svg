@@ -23,14 +23,14 @@
   <!-- Lime wedge (front left) -->
   <path d="M45,125 L78,98 Q88,112 78,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <path d="M45,125 L78,98" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="62" y1="112" x2="56" y2="124" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="70" y1="106" x2="62" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="112" x2="56" y2="124" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="70" y1="106" x2="62" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Lime wedge (front right) -->
   <path d="M245,125 L212,98 Q202,112 212,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <path d="M245,125 L212,98" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="228" y1="112" x2="234" y2="124" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="220" y1="106" x2="228" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="228" y1="112" x2="234" y2="124" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="220" y1="106" x2="228" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Cilantro sprigs -->
   <circle cx="145" cy="96" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

@@ -9,12 +9,12 @@
 <!-- side window -->
 <rect x="252" y="190" width="180" height="56" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- blue battenburg band -->
-<rect x="60" y="276" width="396" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="60" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="148" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="236" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="324" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="412" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="60" y="276" width="396" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="60" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="148" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="236" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="324" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="412" y="276" width="44" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
 <line x1="60" y1="276" x2="456" y2="276" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="60" y1="310" x2="456" y2="310" stroke="#1a1a1a" stroke-width="6"/>
 <!-- wheels -->

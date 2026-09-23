@@ -4,19 +4,19 @@
   <!-- Glass door -->
   <rect x="45" y="72" width="150" height="118" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Door inner frame -->
-  <rect x="57" y="84" width="126" height="94" rx="5" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="57" y="84" width="126" height="94" rx="5" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Door handle -->
   <rect x="88" y="185" width="84" height="11" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Control panel (right side) -->
   <rect x="208" y="72" width="40" height="118" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Display screen -->
-  <rect x="213" y="82" width="30" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="213" y="82" width="30" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Button 1 -->
-  <circle cx="228" cy="120" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="228" cy="120" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Button 2 -->
-  <circle cx="228" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="228" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Button 3 -->
-  <circle cx="228" cy="160" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="228" cy="160" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Wifi arc outer -->
   <path d="M96,44 Q120,22 144,44" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Wifi arc mid -->

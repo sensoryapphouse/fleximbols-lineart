@@ -21,7 +21,7 @@
   <circle cx="148" cy="100" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <circle cx="148" cy="100" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="88" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="88" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="88" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bumpy surface ridges -->
   <polyline points="78,110 95,102 110,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <polyline points="175,105 185,118 180,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

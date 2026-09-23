@@ -2,14 +2,14 @@
 <g transform="translate(73.9,-59.7) scale(1.214)"><!-- Go board corner with a single black stone -->
   <rect x="30" y="120" width="240" height="280" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
   <!-- grid lines -->
-  <line x1="30" y1="170" x2="270" y2="170" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="30" y1="230" x2="270" y2="230" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="30" y1="290" x2="270" y2="290" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="30" y1="350" x2="270" y2="350" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="90" y1="120" x2="90" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="150" y1="120" x2="150" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
-  <line x1="210" y1="120" x2="210" y2="400" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="30" y1="170" x2="270" y2="170" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="30" y1="230" x2="270" y2="230" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="30" y1="290" x2="270" y2="290" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="30" y1="350" x2="270" y2="350" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="90" y1="120" x2="90" y2="400" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="150" y1="120" x2="150" y2="400" stroke="#1a1a1a" stroke-width="4.66" />
+  <line x1="210" y1="120" x2="210" y2="400" stroke="#1a1a1a" stroke-width="4.66" />
   <!-- single black go stone -->
   <ellipse cx="150" cy="230" rx="50" ry="46" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" />
-  <ellipse cx="134" cy="214" rx="14" ry="9" fill="#ffffff" opacity="0.35"  stroke="#1a1a1a" stroke-width="3.17" /></g>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <ellipse cx="134" cy="214" rx="14" ry="9" fill="#ffffff" opacity="0.35"  stroke="#1a1a1a" stroke-width="4.66" /></g>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -8,7 +8,7 @@
   <!-- creative work icons on doc -->
   <!-- book -->
   <path d="M52 100 L52 130 L82 130 L82 100 Q67 95 52 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M67 100 L67 130" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M67 100 L67 130" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- film reel -->
   <rect x="92" y="100" width="34" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="100" cy="114" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

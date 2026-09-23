@@ -8,9 +8,9 @@
   <!-- Foil pull tab -->
   <path d="M210 78 L240 60 L245 70 L215 86 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47" stroke-linejoin="round"/>
   <!-- Foil radial pattern -->
-  <line x1="145" y1="70" x2="145" y2="90" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="100" y1="75" x2="190" y2="85" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="100" y1="85" x2="190" y2="75" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="145" y1="70" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="100" y1="75" x2="190" y2="85" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="100" y1="85" x2="190" y2="75" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Spoon beside cup -->
   <line x1="248" y1="200" x2="232" y2="120" stroke="#1a1a1a" stroke-width="9.69" stroke-linecap="round"/>
   <ellipse cx="229" cy="113" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
@@ -20,6 +20,6 @@
   <!-- fresh berry on lid (yogurt flavour indicator) -->
   <circle cx="100" cy="55" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04"/>
   <path d="M97 48 Q100 42 103 48" fill="none" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
-  <circle cx="116" cy="60" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
-  <circle cx="84" cy="62" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="116" cy="60" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="84" cy="62" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

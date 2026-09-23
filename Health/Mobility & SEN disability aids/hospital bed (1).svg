@@ -9,7 +9,7 @@
   <!-- IV bag -->
   <rect x="248" y="55" width="20" height="28" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- IV tube -->
-  <line x1="258" y1="83" x2="258" y2="115" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="258" y1="83" x2="258" y2="115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Bed frame base -->
   <rect x="30" y="155" width="195" height="18" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>

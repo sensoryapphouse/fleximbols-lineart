@@ -42,5 +42,5 @@
 
   <!-- Small ball of wool yarn beside bowl -->
   <circle cx="55" cy="55" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
-  <path d="M 40 50 Q 55 40 70 55 M 42 60 Q 58 50 68 65 M 45 68 Q 58 60 66 72" fill="none" stroke="#1a1a1a" stroke-width="2.91" stroke-linecap="round"/>
+  <path d="M 40 50 Q 55 40 70 55 M 42 60 Q 58 50 68 65 M 45 68 Q 58 60 66 72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

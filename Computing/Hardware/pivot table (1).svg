@@ -25,8 +25,8 @@
   <!-- Total row highlight -->
   <rect x="23" y="179" width="214" height="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Small total bar inside last data cell (visual) -->
-  <rect x="138" y="183" width="38" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="84" y="183" width="22" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="138" y="183" width="38" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="84" y="183" width="22" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Rotation / fold arrow (top-right corner) -->
   <!-- Arrow arc: circular arrow suggesting rotation/pivot -->

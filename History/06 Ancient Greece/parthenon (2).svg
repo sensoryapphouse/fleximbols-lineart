@@ -60,12 +60,12 @@
   <!-- pediment (triangular roof) -->
   <path d="M45 62 L145 22 L245 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- pediment shadow inner -->
-  <path d="M60 60 L145 32 L230 60 Z" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M60 60 L145 32 L230 60 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ground/foreground grass -->
   <rect x="10" y="198" width="270" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- olive shrubs (Athens) -->
   <circle cx="35" cy="195" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <circle cx="260" cy="195" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="30" cy="190" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="265" cy="190" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="30" cy="190" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="265" cy="190" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

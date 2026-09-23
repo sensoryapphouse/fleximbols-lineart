@@ -18,9 +18,9 @@
   <line x1="210" y1="120" x2="290" y2="120" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-dasharray="6,4"/>
   <!-- baseline at y=222, letter height ~16, drawn as filled rects/paths -->
   <!-- compass rose on globe (replaces EQUATOR text) -->
-  <path d="M145 215 L148 205 L145 208 L142 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M145 225 L148 235 L145 232 L142 235 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M125 220 L115 217 L118 220 L115 223 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M165 220 L175 217 L172 220 L175 223 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M145 215 L148 205 L145 208 L142 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M145 225 L148 235 L145 232 L142 235 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M125 220 L115 217 L118 220 L115 223 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M165 220 L175 217 L172 220 L175 223 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="145" cy="220" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
 </g></svg>

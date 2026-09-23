@@ -6,10 +6,10 @@
   <!-- Small leaf icon on label -->
   <path d="M133,170 Q145,155 157,170 Q145,178 133,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Leaf vein -->
-  <line x1="145" y1="157" x2="145" y2="175" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="157" x2="145" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Label lines (medicinal feel) -->
-  <line x1="104" y1="185" x2="186" y2="185" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="104" y1="193" x2="175" y2="193" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="104" y1="185" x2="186" y2="185" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="104" y1="193" x2="175" y2="193" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Middle sleeve ring -->
   <rect x="98" y="130" width="94" height="18" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Inner cylinder above sleeve -->

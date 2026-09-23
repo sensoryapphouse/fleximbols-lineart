@@ -2,12 +2,12 @@
   <!-- reservoir water (behind dam) -->
   <rect x="20" y="90" width="140" height="110" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- reservoir surface ripple -->
-  <path d="M25,105 Q50,98 75,105 Q100,112 125,105 Q150,98 158,103" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M25,105 Q50,98 75,105 Q100,112 125,105 Q150,98 158,103" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- dam wall (trapezoidal, thick) -->
   <polygon points="155,70 185,70 200,215 155,215" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- dam face detail lines -->
-  <line x1="160" y1="100" x2="192" y2="215" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="170" y1="70" x2="196" y2="175" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="160" y1="100" x2="192" y2="215" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="170" y1="70" x2="196" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- spillway opening -->
   <rect x="163" y="150" width="22" height="14" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- water spilling out downstream -->

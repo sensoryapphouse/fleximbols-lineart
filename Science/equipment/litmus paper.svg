@@ -4,17 +4,17 @@
   <!-- Dish rim highlight -->
   <ellipse cx="145" cy="190" rx="88" ry="24" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Liquid surface inside dish -->
-  <ellipse cx="145" cy="188" rx="76" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="188" rx="76" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Paper strip — upper dry half (original neutral/purple) -->
   <rect x="128" y="55" width="24" height="100" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Paper strip — lower wet half (turned red from acid) -->
-  <rect x="128" y="148" width="24" height="46" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
+  <rect x="128" y="148" width="24" height="46" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Colour change boundary line -->
   <line x1="128" y1="148" x2="152" y2="148" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Strip outline over both halves -->
   <path d="M128 55 Q123 55 123 60 L123 195 Q123 200 128 200 L152 200 Q157 200 157 195 L157 60 Q157 55 152 55 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Small drop above strip -->
-  <path d="M145 45 Q140 35 145 26 Q150 35 145 45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M145 45 Q140 35 145 26 Q150 35 145 45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -2,7 +2,7 @@
   <!-- Coin body -->
   <circle cx="145" cy="120" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Coin inner ring -->
-  <circle cx="145" cy="120" r="88" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="120" r="88" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Three bold parallel slanted bars (parallelograms, bottom-left to top-right slant) -->
   <!-- Bar 1 (top) -->
   <polygon points="88,80 192,80 202,100 98,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

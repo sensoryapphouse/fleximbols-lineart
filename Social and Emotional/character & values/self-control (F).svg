@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="18.08 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<rect x="107" y="330" width="86" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="107" y="330" width="86" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="117" y1="340" x2="117" y2="378" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="183" y1="340" x2="183" y2="378" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<ellipse cx="150" cy="314" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<ellipse cx="150" cy="312" rx="18" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<polygon points="124,308 176,308 160,270 140,270" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 124 296 L 176 296" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 138 270 Q 150 256 162 270 Q 150 278 138 270 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<circle cx="150" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="150" cy="314" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="150" cy="312" rx="18" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="124,308 176,308 160,270 140,270" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 124 296 L 176 296" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 138 270 Q 150 256 162 270 Q 150 278 138 270 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="150" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <g data-part="hair-back"><g transform="translate(150.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="303" x2="280" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="303" x2="280" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="232" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>
@@ -22,12 +22,12 @@
 
 
 
-<rect x="307" y="189" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="308" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="316" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="324" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="332" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="299" y="197" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
+<rect x="307" y="189" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="308" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="316" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="324" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="332" y="175" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="299" y="197" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <circle cx="322" cy="197" r="44" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="291" y1="166" x2="353" y2="228" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 </svg>

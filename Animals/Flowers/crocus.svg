@@ -15,5 +15,5 @@
   <!-- centre front petal -->
   <path d="M130 78 Q132 55 145 45 Q158 55 160 78 Q152 90 145 95 Q138 90 130 78Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- yellow stamen at top -->
-  <ellipse cx="145" cy="68" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="68" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

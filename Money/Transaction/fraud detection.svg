@@ -13,7 +13,7 @@
 
   <!-- transaction rows -->
   <rect x="60" y="50" width="170" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="72" cy="61" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="72" cy="61" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M69 61 L71 63 L76 58" stroke="#ffffff" stroke-width="3.56" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="84" y="56" width="120" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <rect x="84" y="63" width="80" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
@@ -29,13 +29,13 @@
   <rect x="96" y="98" width="60" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
 
   <rect x="60" y="112" width="170" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="72" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="72" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M69 123 L71 125 L76 120" stroke="#ffffff" stroke-width="3.56" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="84" y="118" width="120" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <rect x="84" y="125" width="70" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
 
   <rect x="60" y="140" width="170" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="72" cy="151" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="72" cy="151" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M69 151 L71 153 L76 148" stroke="#ffffff" stroke-width="3.56" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="84" y="146" width="120" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <rect x="84" y="153" width="90" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
@@ -51,7 +51,7 @@
 
   <!-- magnifier checking screen -->
   <circle cx="190" cy="160" r="18" fill="none" stroke="#1a1a1a" stroke-width="7.11"/>
-  <circle cx="190" cy="160" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.89"/>
+  <circle cx="190" cy="160" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="190" cy="160" r="18" fill="none" stroke="#1a1a1a" stroke-width="7.11"/>
   <path d="M204 174 L222 192" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
   <path d="M204 174 L222 192" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>

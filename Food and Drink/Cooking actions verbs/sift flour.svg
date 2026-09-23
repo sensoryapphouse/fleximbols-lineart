@@ -8,15 +8,15 @@
   <line x1="80" y1="60" x2="210" y2="60" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- mesh bottom -->
   <rect x="85" y="108" width="120" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <line x1="92" y1="108" x2="92" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="105" y1="108" x2="105" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="118" y1="108" x2="118" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="131" y1="108" x2="131" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="144" y1="108" x2="144" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="157" y1="108" x2="157" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="170" y1="108" x2="170" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="183" y1="108" x2="183" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="196" y1="108" x2="196" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="92" y1="108" x2="92" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="105" y1="108" x2="105" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="118" y1="108" x2="118" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="131" y1="108" x2="131" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="144" y1="108" x2="144" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="157" y1="108" x2="157" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="170" y1="108" x2="170" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="183" y1="108" x2="183" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="196" y1="108" x2="196" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- flour inside sifter (white mound) -->
   <path d="M90 80 Q120 65 145 78 Q175 70 200 82 L200 107 L90 107 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- crank (side handle) -->

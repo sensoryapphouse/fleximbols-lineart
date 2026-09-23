@@ -18,5 +18,5 @@
 <line x1="402" y1="300" x2="338" y2="300" stroke="#1a1a1a" stroke-width="12.5" stroke-linecap="round"/>
 <line x1="338" y1="300" x2="360" y2="282" stroke="#1a1a1a" stroke-width="12.5" stroke-linecap="round"/>
 <line x1="338" y1="300" x2="360" y2="318" stroke="#1a1a1a" stroke-width="12.5" stroke-linecap="round"/>
-<path d="M 256 107 C 222 79 243 58 256 76 C 269 58 290 79 256 107 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 256 107 C 222 79 243 58 256 76 C 269 58 290 79 256 107 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.29" stroke-linejoin="round"/>
 </g></svg>

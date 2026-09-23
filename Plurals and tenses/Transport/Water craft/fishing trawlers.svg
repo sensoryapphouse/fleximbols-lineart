@@ -2,14 +2,14 @@
   <!-- fishing-trawler: working fishing boat with tall wheelhouse, outrigger booms/derricks, hanging nets, sturdy hull -->
 
   <!-- water band -->
-  <path d="M 0 192 Q 36 183 72 192 Q 108 201 144 192 Q 180 183 216 192 Q 252 201 290 192 L 290 240 L 0 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M 0 192 Q 36 183 72 192 Q 108 201 144 192 Q 180 183 216 192 Q 252 201 290 192 L 290 240 L 0 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
   <path d="M 0 192 Q 36 183 72 192 Q 108 201 144 192 Q 180 183 216 192 Q 252 201 290 192" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
 
   <!-- sturdy main hull (wide, deep, working boat) -->
   <path d="M 28 180 Q 38 202 90 208 Q 155 214 220 207 L 252 188 L 244 170 L 70 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
 
   <!-- rust/work stripe at waterline -->
-  <path d="M 55 200 Q 130 208 205 204 L 238 196 L 235 191 Q 195 200 125 196 L 58 194 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M 55 200 Q 130 208 205 204 L 238 196 L 235 191 Q 195 200 125 196 L 58 194 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
 
   <!-- main deck (flat working deck) -->
   <rect x="70" y="155" width="175" height="17" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
@@ -50,20 +50,20 @@
   <!-- HANGING NETS from left boom tip -->
   <path d="M 52 130 L 45 162 L 65 162 L 72 135 Z" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- net mesh lines horizontal -->
-  <line x1="46" y1="142" x2="70" y2="140" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="45" y1="152" x2="68" y2="150" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="46" y1="142" x2="70" y2="140" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="45" y1="152" x2="68" y2="150" stroke="#1a1a1a" stroke-width="4.22"/>
   <!-- net mesh lines vertical -->
-  <line x1="52" y1="130" x2="50" y2="162" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="58" y1="132" x2="56" y2="162" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="64" y1="135" x2="62" y2="162" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="52" y1="130" x2="50" y2="162" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="58" y1="132" x2="56" y2="162" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="64" y1="135" x2="62" y2="162" stroke="#1a1a1a" stroke-width="4.22"/>
 
   <!-- HANGING NETS from right boom tip -->
   <path d="M 260 128 L 256 160 L 275 160 L 272 130 Z" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
-  <line x1="257" y1="140" x2="273" y2="139" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="256" y1="151" x2="274" y2="150" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="260" y1="128" x2="259" y2="160" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="265" y1="130" x2="264" y2="160" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="270" y1="132" x2="270" y2="160" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="257" y1="140" x2="273" y2="139" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="256" y1="151" x2="274" y2="150" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="260" y1="128" x2="259" y2="160" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="265" y1="130" x2="264" y2="160" stroke="#1a1a1a" stroke-width="4.22"/>
+  <line x1="270" y1="132" x2="270" y2="160" stroke="#1a1a1a" stroke-width="4.22"/>
 
   <!-- foredeck fish hold hatch -->
   <rect x="78" y="158" width="55" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
@@ -78,5 +78,5 @@
   <line x1="74" y1="178" x2="83" y2="178" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
 
   <!-- flag at masthead -->
-  <path d="M 192 27 L 208 21 L 192 15 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 192 27 L 208 21 L 192 15 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -25,16 +25,16 @@
 <line x1="452" y1="320" x2="464" y2="320"/>
 </g>
 <!-- side sponson gun -->
-<rect x="240.0" y="248.0" width="64.0" height="48.0" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="240.0" y="248.0" width="64.0" height="48.0" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
 <line x1="296" y1="272" x2="404" y2="272" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
-<line x1="296" y1="272" x2="404" y2="272" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<circle cx="404.0" cy="272.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="296" y1="272" x2="404" y2="272" stroke="#1a1a1a" stroke-width="5.43" stroke-linecap="round"/>
+<circle cx="404.0" cy="272.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
 <!-- roof cab/hatch -->
-<rect x="196.0" y="212.0" width="60.0" height="24.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="212.0" y="204.0" width="20.0" height="12.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="196.0" y="212.0" width="60.0" height="24.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.43"/>
+<rect x="212.0" y="204.0" width="20.0" height="12.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
 <!-- rivets -->
-<circle cx="180.0" cy="256.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="180.0" cy="300.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="400.0" cy="252.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="400.0" cy="308.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="180.0" cy="256.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
+<circle cx="180.0" cy="300.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
+<circle cx="400.0" cy="252.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
+<circle cx="400.0" cy="308.0" r="3.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.43"/>
 </g></svg>

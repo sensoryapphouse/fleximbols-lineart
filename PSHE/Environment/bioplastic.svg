@@ -12,7 +12,7 @@
   <!-- Large leaf top of stem -->
   <path d="M195 95 Q215 75 205 58 Q190 68 195 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Leaf midrib -->
-  <line x1="195" y1="95" x2="205" y2="63" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="195" y1="95" x2="205" y2="63" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small leaf on stem -->
   <path d="M185 118 Q198 110 196 100 Q185 106 185 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Highlight on bottle -->

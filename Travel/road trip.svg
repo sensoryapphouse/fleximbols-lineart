@@ -5,9 +5,9 @@
   <path d="M 125,118 L 145,88 L 200,88 L 215,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <line x1="170" y1="88" x2="170" y2="118" stroke="#1a1a1a" stroke-width="4.45"></line>
   <circle cx="115" cy="158" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"></circle>
-  <circle cx="115" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="115" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <circle cx="215" cy="158" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"></circle>
-  <circle cx="215" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="215" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <path d="M 30,60 Q 40,75 30,90 Q 20,75 30,60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 250,30 Q 265,50 250,70 Q 235,50 250,30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <circle cx="125" cy="35" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>

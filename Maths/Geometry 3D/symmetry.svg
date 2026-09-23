@@ -7,6 +7,6 @@
 <line x1="256.0" y1="182.0" x2="256.0" y2="386.0" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
 <path d="M 256 182 C 234 150 226 132 230 118" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 256 182 C 278 150 286 132 282 118" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="230.0" cy="118.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="282.0" cy="118.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="230.0" cy="118.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.82"/>
+<circle cx="282.0" cy="118.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.82"/>
 </g></svg>

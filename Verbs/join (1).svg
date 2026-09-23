@@ -6,5 +6,5 @@
   <!-- arrows showing pieces coming together -->
   <line x1="146" y1="418" x2="186" y2="366" stroke="#1a1a1a" stroke-width="15.70" stroke-linecap="round"/>
   <line x1="366" y1="418" x2="326" y2="366" stroke="#1a1a1a" stroke-width="15.70" stroke-linecap="round"/>
-  <polygon points="256,346 232,376 280,376" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71" stroke-linejoin="round"/>
+  <polygon points="256,346 232,376 280,376" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round"/>
 </g></svg>

@@ -13,7 +13,7 @@
     <stop offset="100%" stop-color="#1a1a1a"/>
   </linearGradient>
 </defs>
-<polygon points="25,100 195,100 195,215 25,215" fill="url(#cuboidFront)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="25,100 70,55 240,55 195,100" fill="url(#cuboidTop)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="195,100 240,55 240,170 195,215" fill="url(#cuboidRight)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="25,100 195,100 195,215 25,215" fill="url(#cuboidFront)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="25,100 70,55 240,55 195,100" fill="url(#cuboidTop)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="195,100 240,55 240,170 195,215" fill="url(#cuboidRight)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

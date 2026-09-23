@@ -4,7 +4,7 @@
   <!-- Thick creamy head -->
   <path d="M98 75 Q96 42 115 38 Q128 34 145 38 Q162 34 175 38 Q194 42 192 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Head texture bumps -->
-  <path d="M104 62 Q112 54 122 60 Q132 50 145 56 Q158 48 168 56 Q178 52 186 62" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M104 62 Q112 54 122 60 Q132 50 145 56 Q158 48 168 56 Q178 52 186 62" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Glass highlight -->
   <path d="M100 90 L104 195" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Glass base -->

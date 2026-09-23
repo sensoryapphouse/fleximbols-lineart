@@ -14,5 +14,5 @@
   <path d="M40 72 Q145 70 250 72" fill="none" stroke="#ffffff" stroke-width="5.33" stroke-linecap="round"/>
   <!-- gel-pad sticker / label -->
   <ellipse cx="50" cy="170" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="50" cy="170" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="50" cy="170" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

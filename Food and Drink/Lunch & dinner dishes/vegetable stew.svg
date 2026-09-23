@@ -11,13 +11,13 @@
   <!-- Carrot rounds - bright orange -->
   <ellipse cx="92" cy="106" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
   <!-- Carrot cross marks -->
-  <line x1="87" y1="106" x2="97" y2="106" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="92" y1="101" x2="92" y2="111" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="87" y1="106" x2="97" y2="106" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="92" y1="101" x2="92" y2="111" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="118" cy="108" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
-  <line x1="113" y1="108" x2="123" y2="108" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="113" y1="108" x2="123" y2="108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Celery pieces - green -->
   <rect x="135" y="101" width="14" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="142" y1="101" x2="142" y2="109" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="142" y1="101" x2="142" y2="109" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="162" y="104" width="12" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Potato chunk - pale -->
   <path d="M178,108 Q170,100 173,92 Q176,84 186,86 Q196,88 194,99 Q192,110 178,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
@@ -34,6 +34,6 @@
   <!-- Leaf silhouette (small, bottom-right) - identifies as vegetable -->
   <path d="M240,195 Q252,178 265,172 Q275,168 278,175 Q280,182 270,188 Q262,192 252,198 Q248,202 240,210 Q238,202 240,195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Leaf vein -->
-  <path d="M240,195 Q258,182 278,175" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M246,204 Q255,192 265,184" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M240,195 Q258,182 278,175" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M246,204 Q255,192 265,184" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

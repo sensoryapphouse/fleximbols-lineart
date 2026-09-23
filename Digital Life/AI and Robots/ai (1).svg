@@ -17,14 +17,14 @@
   <rect x="56" y="100" width="16" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="218" y="100" width="16" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <!-- AI label on forehead -->
-  <rect x="122" y="70" width="46" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="122" y="70" width="46" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></rect>
   <path d="M 132,82 L 136,72 L 140,82 M 133,79 L 139,79" fill="none" stroke="#ffffff" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 148,72 L 148,82 M 152,72 L 152,82 M 148,77 L 152,77" fill="none" stroke="#ffffff" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Neck -->
   <rect x="128" y="182" width="34" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <!-- Chest panel -->
   <rect x="90" y="200" width="110" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
-  <circle cx="120" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="145" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="170" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="120" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="170" cy="215" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

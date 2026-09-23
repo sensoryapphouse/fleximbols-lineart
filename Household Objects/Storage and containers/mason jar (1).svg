@@ -10,6 +10,6 @@
   <circle cx="151" cy="152" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="145" cy="161" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 145,143 Q 152,135 160,138 Q 156,146 148,146 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <path d="M 112,175 L 178,175" stroke="#1a1a1a" stroke-width="3.33"></path>
+  <path d="M 112,175 L 178,175" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 130,193 L 130,212 M 145,193 L 145,212 M 160,193 L 160,212" stroke="#1a1a1a" stroke-width="4.45"></path>
 </g></svg>

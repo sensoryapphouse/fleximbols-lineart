@@ -8,7 +8,7 @@
   <text x="30" y="180" font-family="sans-serif" font-size="9" fill="#1a1a1a">SEAT 12A</text>
   <text x="200" y="100" font-family="sans-serif" font-size="9" font-weight="700" fill="#1a1a1a">GATE</text>
   <text x="227" y="135" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="700" fill="#1a1a1a">B7</text>
-  <path d="M 195,160 L 260,160" stroke="#1a1a1a" stroke-width="2.96"></path>
-  <path d="M 195,170 L 260,170" stroke="#1a1a1a" stroke-width="2.96"></path>
-  <path d="M 195,180 L 240,180" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 195,160 L 260,160" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 195,170 L 260,170" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 195,180 L 240,180" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

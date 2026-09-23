@@ -15,10 +15,10 @@
   <!-- wings spread wide -->
   <!-- left wing -->
   <path d="M128 110 Q70 90 35 110 Q60 120 80 130 Q55 140 40 160 Q80 150 125 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M85 110 L95 125 M70 115 L82 130 M55 122 L70 138" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" fill="none"/>
+  <path d="M85 110 L95 125 M70 115 L82 130 M55 122 L70 138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- right wing -->
   <path d="M162 110 Q220 90 255 110 Q230 120 210 130 Q235 140 250 160 Q210 150 165 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M205 110 L195 125 M220 115 L208 130 M235 122 L220 138" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" fill="none"/>
+  <path d="M205 110 L195 125 M220 115 L208 130 M235 122 L220 138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- atom held above (nucleus + orbits) -->
   <circle cx="145" cy="40" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <ellipse cx="145" cy="40" rx="20" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>

@@ -17,9 +17,9 @@
   <line x1="22" y1="95" x2="22" y2="85" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="17" y1="90" x2="27" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Small star bottom right -->
-  <polygon points="258,175 261,167 264,175 272,175 266,180 268,188 261,183 254,188 256,180 250,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="258,175 261,167 264,175 272,175 266,180 268,188 261,183 254,188 256,180 250,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Small star bottom left -->
-  <polygon points="32,170 35,162 38,170 46,170 40,175 42,183 35,178 28,183 30,175 24,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="32,170 35,162 38,170 46,170 40,175 42,183 35,178 28,183 30,175 24,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Large happy face -->
   <!-- Face circle -->
   <circle cx="145" cy="125" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>

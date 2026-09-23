@@ -28,15 +28,15 @@
   <ellipse cx="232" cy="198" rx="34" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" data-lp="hair"/>
   <path d="M200 198 Q232 178 264 198" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Rice texture dots -->
-  <rect x="214" y="185" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="228" y="183" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="242" y="185" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="214" y="185" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="228" y="183" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="242" y="185" width="5" height="8" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Orange slice -->
   <circle cx="50" cy="195" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Orange segments -->
   <path d="M50 167 L50 223" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M22 195 L78 195" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M30 175 L70 215" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M30 215 L70 175" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M30 175 L70 215" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M30 215 L70 175" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="50" cy="195" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

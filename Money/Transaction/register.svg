@@ -14,7 +14,7 @@
   <polyline points="84,108 90,114 102,102" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Pen writing on the bottom new-entry line -->
   <rect x="145" y="148" width="8" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 149 162)"/>
-  <polygon points="149,178 153,178 151,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" transform="rotate(-30 151 180)"/>
+  <polygon points="149,178 153,178 151,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-30 151 180)"/>
   <!-- Plus sign (adding new entry) — drawn as two rectangles -->
   <rect x="195" y="170" width="38" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="207" y="158" width="12" height="38" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

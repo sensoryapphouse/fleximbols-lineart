@@ -11,27 +11,27 @@
   <!-- Grey/dark saddle (woolier, more diffuse) -->
   <ellipse cx="155" cy="128" rx="68" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- White belly and sides -->
-  <ellipse cx="148" cy="170" rx="62" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="148" cy="170" rx="62" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Woolly coat texture sides -->
-  <ellipse cx="90" cy="140" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="210" cy="140" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="90" cy="140" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="210" cy="140" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Neck - thick/heavy -->
   <rect x="68" y="112" width="42" height="50" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- White chest -->
-  <ellipse cx="76" cy="140" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="76" cy="140" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Head: broad, heavier than husky -->
   <ellipse cx="68" cy="96" rx="40" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Dark cap on head -->
   <ellipse cx="68" cy="82" rx="34" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- White blaze/face markings -->
-  <ellipse cx="56" cy="100" rx="20" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="56" cy="100" rx="20" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Muzzle - broad -->
   <ellipse cx="36" cy="106" rx="16" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Nose - big -->
   <ellipse cx="22" cy="104" rx="7" ry="6" fill="#1a1a1a"/>
   <!-- Eyes (brown, not blue like husky) -->
-  <circle cx="56" cy="90" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="56" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="56" cy="90" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="56" cy="90" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="56" cy="90" r="3" fill="#1a1a1a"/>
   <circle cx="58" cy="88" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Erect triangular ears - broader based -->
@@ -43,12 +43,12 @@
   <path d="M232,142 C252,120 268,96 260,72 C252,52 230,58 226,76" fill="none" stroke="#1a1a1a" stroke-width="26.65" stroke-linecap="round"/>
   <path d="M232,142 C252,120 268,96 260,72 C252,52 230,58 226,76" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- White plume tip -->
-  <ellipse cx="226" cy="74" rx="16" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="226" cy="74" rx="16" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fluffy tail accent -->
   <path d="M238,130 C256,114 262,98 255,80" fill="none" stroke="#ffffff" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Paws -->
-  <ellipse cx="93" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="119" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="189" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="215" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="93" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="119" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="189" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="215" cy="212" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

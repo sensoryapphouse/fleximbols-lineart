@@ -9,9 +9,9 @@
   <path d="M160,68 L200,34" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <ellipse cx="155" cy="72" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- salt crystals hint — small dots above opening -->
-  <circle cx="120" cy="30" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <circle cx="134" cy="22" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <circle cx="148" cy="28" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="120" cy="30" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="134" cy="22" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="28" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ceramic glaze band near top -->
-  <path d="M70,108 Q145,102 220,108" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M70,108 Q145,102 220,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

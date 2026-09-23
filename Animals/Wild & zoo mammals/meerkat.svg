@@ -7,7 +7,7 @@
 <!-- upright standing body -->
 <path d="M 220 200 Q 196 220 198 290 Q 200 360 226 392 Q 256 404 284 392 Q 312 360 312 290 Q 312 220 286 200 Q 256 184 220 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- lighter belly -->
-<ellipse cx="256" cy="318" rx="40" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256" cy="318" rx="40" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- little arms held to chest -->
 <path d="M 224 250 Q 244 276 252 304 M 288 250 Q 268 276 260 304" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- head -->

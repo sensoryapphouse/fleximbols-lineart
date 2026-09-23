@@ -6,7 +6,7 @@
   <rect x="138" y="60" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <rect x="128" y="70" width="34" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- star on trophy -->
-  <path d="M145 25 L148 32 L155 32 L150 37 L152 44 L145 40 L138 44 L140 37 L135 32 L142 32 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M145 25 L148 32 L155 32 L150 37 L152 44 L145 40 L138 44 L140 37 L135 32 L142 32 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- math symbols floating -->
   <path d="M30 30 L48 30 M39 21 L39 39" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <path d="M240 30 L258 30 M240 38 L258 38" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
@@ -22,7 +22,7 @@
   <path d="M61 122 Q60 110 75 108 Q90 110 89 122 L88 116 Q83 113 75 113 Q67 113 62 116 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <circle cx="70" cy="124" r="1.8" fill="#1a1a1a"/>
   <circle cx="80" cy="124" r="1.8" fill="#1a1a1a"/>
-  <path d="M71 132 Q75 134 79 132" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M71 132 Q75 134 79 132" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- torso -->
   <path d="M60 139 L90 139 L93 185 L57 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- arm writing -->
@@ -46,7 +46,7 @@
   <path d="M201 124 Q200 110 215 108 Q230 110 229 122 L228 130 L218 128 Q210 128 207 132 L201 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <circle cx="210" cy="124" r="1.8" fill="#1a1a1a"/>
   <circle cx="220" cy="124" r="1.8" fill="#1a1a1a"/>
-  <path d="M211 132 Q215 134 219 132" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M211 132 Q215 134 219 132" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- torso -->
   <path d="M200 139 L230 139 L233 185 L197 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- arm raised thinking -->
@@ -66,6 +66,6 @@
   <rect x="120" y="155" width="50" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <path d="M127 167 L143 167 M135 161 L135 173" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <path d="M148 167 L163 167" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
-  <path d="M127 183 L138 183 M127 188 L138 188" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
-  <path d="M148 180 L163 188 M148 188 L163 180" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <path d="M127 183 L138 183 M127 188 L138 188" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M148 180 L163 188 M148 188 L163 180" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

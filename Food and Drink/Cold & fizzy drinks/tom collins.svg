@@ -11,7 +11,7 @@
   <rect x="125" y="165" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- lemon slice on rim -->
   <circle cx="118" cy="38" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <path d="M118 26 L118 50 M106 38 L130 38 M110 30 L126 46 M126 30 L110 46" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" fill="none"/>
+  <path d="M118 26 L118 50 M106 38 L130 38 M110 30 L126 46 M126 30 L110 46" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- cherry -->
   <circle cx="165" cy="50" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <path d="M165 41 Q 170 28 178 30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

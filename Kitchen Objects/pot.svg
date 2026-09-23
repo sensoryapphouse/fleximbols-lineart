@@ -5,7 +5,7 @@
 <path d="M 364 284 q 42 4 42 36 q 0 30 -42 30" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linejoin="round"/>
 <path d="M 122 250 Q 246 192 370 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 122 250 L 370 250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="246.0" cy="200.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="246.0" cy="200.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
 <line x1="246" y1="214" x2="246" y2="228" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 200 184 q -20 -23 0 -41 q 20 -18 0 -41" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round"/>
 <path d="M 246 184 q -20 -23 0 -41 q 20 -18 0 -41" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round"/>

@@ -3,7 +3,7 @@
 <path d="M 196 150 L 196 184 L 316 184 L 316 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="196" y1="166" x2="316" y2="166" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 224 240 L 288 240 L 282 268 L 320 300 Q 332 312 330 332 L 330 420 L 182 420 L 182 332 Q 180 312 192 300 L 230 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M 230 268 L 256 240" fill="none" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 230 268 L 256 240" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 230 268 L 188 226" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 282 268 L 324 226" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 224 240 L 256 218 L 288 240" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>

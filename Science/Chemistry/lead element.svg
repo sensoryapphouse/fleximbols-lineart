@@ -6,14 +6,14 @@
   <path d="M 170 90 L 195 95 L 185 115 L 150 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- thick lead point (dark grey graphite) -->
   <path d="M 195 95 L 220 100 L 215 120 L 185 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 220 100 L 230 110 L 215 120 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 220 100 L 230 110 L 215 120 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- ferrule end of pencil -->
   <path d="M 30 180 L 50 200 L 38 212 L 18 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pencil stripe -->
-  <line x1="58" y1="172" x2="158" y2="80" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="58" y1="172" x2="158" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- lead fishing weight beside -->
   <ellipse cx="225" cy="180" rx="25" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="225" cy="170" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="225" cy="170" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- eyelet on top of weight -->
   <circle cx="225" cy="150" r="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="225" y1="156" x2="225" y2="165" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>

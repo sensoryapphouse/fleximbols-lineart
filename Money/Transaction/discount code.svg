@@ -12,21 +12,21 @@
   <line x1="160" y1="120" x2="232" y2="40" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <rect x="15" y="160" width="260" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Code dots row -->
-  <circle cx="55" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="80" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="105" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="130" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="155" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="180" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="205" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="230" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="55" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="205" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="230" cy="220" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- barcode lines on banner (replaces DISCOUNT text) -->
   <line x1="56" y1="195" x2="56" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="62" y1="195" x2="62" y2="220" stroke="#1a1a1a" stroke-width="7.40"/>
-  <line x1="70" y1="195" x2="70" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="70" y1="195" x2="70" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="76" y1="195" x2="76" y2="220" stroke="#1a1a1a" stroke-width="5.93"/>
   <line x1="83" y1="195" x2="83" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="89" y1="195" x2="89" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="89" y1="195" x2="89" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="95" y1="195" x2="95" y2="220" stroke="#1a1a1a" stroke-width="7.40"/>
   <line x1="102" y1="195" x2="102" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

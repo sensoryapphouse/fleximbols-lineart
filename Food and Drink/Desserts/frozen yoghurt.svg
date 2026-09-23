@@ -4,9 +4,9 @@
   <path d="M 95,135 Q 110,120 128,118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 165,118 Q 182,122 198,135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 110,105 Q 145,98 178,105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="110" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="145" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="178" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="125" cy="122" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="168" cy="122" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="110" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="178" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="125" cy="122" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="168" cy="122" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

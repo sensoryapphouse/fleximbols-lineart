@@ -37,7 +37,7 @@
   <!-- Y -->
   <path d="M 258 35 L 264 47 L 270 35 M 264 47 L 264 60" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- -50% mini text in yellow strip -->
-  <rect x="35" y="78" width="220" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="78" width="220" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- minus -->
   <path d="M 60 89 L 75 89" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- 5 -->

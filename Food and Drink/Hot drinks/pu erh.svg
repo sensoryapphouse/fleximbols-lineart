@@ -7,10 +7,10 @@
   <path d="M 95,112 Q 90,98 85,95 Q 80,98 78,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 40,135 Q 60,128 80,132 Q 100,128 130,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 175,158 Q 175,150 184,150 L 248,150 Q 257,150 257,158 L 254,200 Q 252,210 240,210 L 192,210 Q 180,210 178,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 182,168 Q 215,178 250,168 L 248,200 Q 215,206 184,200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M 182,168 Q 215,178 250,168 L 248,200 Q 215,206 184,200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M 182,168 Q 215,178 250,168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <ellipse cx="225" cy="100" rx="32" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 193,100 L 198,128 Q 225,134 252,128 L 257,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="225" cy="100" rx="32" ry="8" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="225" cy="100" rx="32" ry="8" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M 70,80 Q 65,60 75,40 M 100,75 Q 95,55 105,35" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

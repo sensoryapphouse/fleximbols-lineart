@@ -2,7 +2,7 @@
 <g transform="translate(256 256)">
 <!-- wrapping cone -->
 <path d="M -86 40 L 86 40 L 40 200 L -40 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M -86 40 L 86 40 L 60 92 L -60 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M -86 40 L 86 40 L 60 92 L -60 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="-86" y1="40" x2="86" y2="40" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- stems -->
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">

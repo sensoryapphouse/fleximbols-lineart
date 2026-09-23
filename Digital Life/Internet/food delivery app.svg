@@ -8,19 +8,19 @@
   <!-- Meal on screen: plate -->
   <ellipse cx="115" cy="100" rx="34" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Food items on plate -->
-  <ellipse cx="115" cy="98" rx="24" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="115" cy="98" rx="24" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Steam wisps -->
-  <path d="M 107 76 Q 104 69 107 63" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 115 74 Q 112 67 115 61" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 123 76 Q 120 69 123 63" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 107 76 Q 104 69 107 63" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 115 74 Q 112 67 115 61" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 123 76 Q 120 69 123 63" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Order button on screen -->
   <rect x="72" y="148" width="86" height="28" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Scooter icon: body -->
   <ellipse cx="225" cy="185" r="18" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
-  <ellipse cx="225" cy="185" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="225" cy="185" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Scooter front wheel -->
   <ellipse cx="260" cy="185" r="15" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
-  <ellipse cx="260" cy="185" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="260" cy="185" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Scooter body frame -->
   <path d="M 233 185 L 248 160 L 258 160 L 260 170" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 233 185 L 215 170 L 215 158 L 248 158" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

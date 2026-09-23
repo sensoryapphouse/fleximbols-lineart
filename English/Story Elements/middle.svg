@@ -9,6 +9,6 @@
 <circle cx="250.0" cy="370.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="385.4" cy="384.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="422.0" cy="418.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="314.8" cy="330.0" r="50.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="314.8" cy="330.0" r="50.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.75"/>
 <polygon points="314.8 282.0 327.4 312.3 360.0 314.9 335.2 336.2 342.8 368.0 314.8 350.9 286.8 368.0 294.4 336.2 269.6 314.9 302.2 312.3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

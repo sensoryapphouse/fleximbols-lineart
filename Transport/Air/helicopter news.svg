@@ -6,7 +6,7 @@
   <!-- Rotor hub -->
   <circle cx="145" cy="73" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Rotor mast -->
-  <rect x="141" y="80" width="8" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="141" y="80" width="8" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Main fuselage body -->
   <ellipse cx="140" cy="138" rx="72" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Cockpit bubble (large glazed nose) -->
@@ -14,9 +14,9 @@
   <!-- Camera ball under nose -->
   <circle cx="85" cy="162" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Camera lens highlight -->
-  <circle cx="85" cy="162" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="85" cy="162" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Camera ball mount strut -->
-  <rect x="82" y="149" width="6" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="82" y="149" width="6" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fuselage belly skid left -->
   <line x1="95" y1="175" x2="85" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Fuselage belly skid right -->
@@ -30,17 +30,17 @@
   <!-- Tail fin vertical -->
   <polygon points="265,138 275,108 282,138" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Tail rotor blade top -->
-  <rect x="272" y="108" width="8" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="272" y="108" width="8" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Tail rotor hub -->
-  <circle cx="276" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="276" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- TV satellite dome on top -->
   <ellipse cx="162" cy="100" rx="20" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Antenna mast -->
-  <line x1="162" y1="98" x2="162" y2="90" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="162" y1="98" x2="162" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Antenna horizontal -->
-  <line x1="152" y1="90" x2="172" y2="90" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="152" y1="90" x2="172" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Window row on fuselage -->
-  <rect x="120" y="122" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="142" y="122" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="164" y="124" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="120" y="122" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="142" y="122" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="164" y="124" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

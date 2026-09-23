@@ -4,18 +4,18 @@
 <line x1="364" y1="164" x2="378" y2="150" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <circle cx="256" cy="272" r="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 256 272 L 256 128 A 144 144 0 0 1 271.1 128.8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<line x1="256" y1="133" x2="256" y2="125" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="256" y1="133" x2="256" y2="125" stroke="#1a1a1a" stroke-width="4.46" stroke-linecap="round"/>
 <line x1="326" y1="152" x2="330" y2="145" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="376" y1="202" x2="383" y2="198" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="395" y1="272" x2="403" y2="272" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="395" y1="272" x2="403" y2="272" stroke="#1a1a1a" stroke-width="4.46" stroke-linecap="round"/>
 <line x1="376" y1="342" x2="383" y2="346" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="326" y1="392" x2="330" y2="399" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="256" y1="411" x2="256" y2="419" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="256" y1="411" x2="256" y2="419" stroke="#1a1a1a" stroke-width="4.46" stroke-linecap="round"/>
 <line x1="187" y1="392" x2="183" y2="399" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="136" y1="342" x2="129" y2="346" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="117" y1="272" x2="109" y2="272" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="117" y1="272" x2="109" y2="272" stroke="#1a1a1a" stroke-width="4.46" stroke-linecap="round"/>
 <line x1="136" y1="202" x2="129" y2="198" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="186" y1="152" x2="182" y2="145" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="256" y1="272" x2="269" y2="150" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<circle cx="256" cy="272" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="272" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.46"/>
 </g></svg>

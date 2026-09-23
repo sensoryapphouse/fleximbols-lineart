@@ -6,8 +6,8 @@
 <rect x="172" y="182" width="44" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="296" y="182" width="44" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <polygon points="146,300 366,300 410,392 110,392" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<line x1="206" y1="300" x2="178" y2="392" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="306" y1="300" x2="334" y2="392" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="206" y1="300" x2="178" y2="392" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="306" y1="300" x2="334" y2="392" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 196 350 L 332 350 Q 312 392 264 392 Q 216 392 196 350 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="196" y1="350" x2="332" y2="350" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <rect x="240" y="320" width="48" height="32" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

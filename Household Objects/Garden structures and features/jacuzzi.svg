@@ -26,12 +26,12 @@
   <path d="M59 140 Q80 138 88 146" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <path d="M59 170 Q80 168 88 176" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <!-- Bubbles on water surface -->
-  <circle cx="110" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="96" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="178" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="110" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="96" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="178" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Control panel strip -->
   <rect x="55" y="55" width="80" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="75" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="95" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="115" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="75" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="95" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

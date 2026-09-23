@@ -12,11 +12,11 @@
   <ellipse cx="57" cy="100" rx="14" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="233" cy="100" rx="14" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Drum vent slats -->
-  <line x1="100" y1="52" x2="100" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="125" y1="50" x2="125" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="150" y1="50" x2="150" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="175" y1="50" x2="175" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="200" y1="52" x2="200" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="52" x2="100" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="125" y1="50" x2="125" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="150" y1="50" x2="150" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="175" y1="50" x2="175" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="200" y1="52" x2="200" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Access door on drum -->
   <rect x="120" y="68" width="50" height="38" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Handle/crank on right end -->

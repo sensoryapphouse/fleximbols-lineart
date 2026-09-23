@@ -14,11 +14,11 @@
   <!-- Cartridge top nub -->
   <rect x="138" y="76" width="24" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Filter mesh lines -->
-  <line x1="126" y1="106" x2="174" y2="106" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="126" y1="124" x2="174" y2="124" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="126" y1="142" x2="174" y2="142" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="126" y1="106" x2="174" y2="106" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="126" y1="124" x2="174" y2="124" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="126" y1="142" x2="174" y2="142" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Filtered water area below cartridge -->
   <rect x="98" y="170" width="104" height="40" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Water drop -->
-  <path d="M150 175 Q156 184 150 192 Q144 184 150 175Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M150 175 Q156 184 150 192 Q144 184 150 175Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

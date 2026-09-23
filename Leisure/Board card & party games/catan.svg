@@ -23,9 +23,9 @@
   <rect x="195" y="175" width="60" height="55" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- wheat sheaf on the card -->
   <path d="M 225 188 L 225 220" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="219" cy="195" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="231" cy="195" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="219" cy="207" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="231" cy="207" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="225" cy="190" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="219" cy="195" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="231" cy="195" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="219" cy="207" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="231" cy="207" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="225" cy="190" rx="4" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

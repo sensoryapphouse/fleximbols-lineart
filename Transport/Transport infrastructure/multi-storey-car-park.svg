@@ -3,16 +3,16 @@
 <line x1="140" y1="192" x2="372" y2="192" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="140" y1="264" x2="372" y2="264" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="140" y1="336" x2="372" y2="336" stroke="#1a1a1a" stroke-width="7"/>
-<rect x="166" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="206" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="246" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="286" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="166" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="206" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="286" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="166" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="246" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="286" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="166" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="206" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="246" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="286" y="148" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="166" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="206" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="286" y="220" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="166" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="246" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="286" y="292" width="26" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="232" y="348" width="48" height="64" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="296" y="138" width="60" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 326 150 L 326 174 M 314 174 L 338 174 Q 348 174 348 162 Q 348 150 338 150 L 326 150" fill="none" stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>

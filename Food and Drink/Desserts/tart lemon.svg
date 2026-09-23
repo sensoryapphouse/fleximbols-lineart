@@ -13,9 +13,9 @@
   <!-- Wedge body -->
   <path d="M128,118 L145,88 L162,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wedge flesh segments -->
-  <line x1="145" y1="88" x2="128" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="88" x2="145" y2="118" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="145" y1="88" x2="162" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="88" x2="128" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="88" x2="145" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="88" x2="162" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Lemon rind arc on wedge -->
   <path d="M126,116 Q145,100 164,116" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Wedge curved rind outer arc -->

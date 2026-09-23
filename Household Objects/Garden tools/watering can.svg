@@ -2,10 +2,10 @@
   <path d="M 60,108 Q 60,90 75,82 L 175,82 Q 195,82 195,108 L 200,200 Q 195,222 175,222 L 75,222 Q 55,222 55,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 195,108 Q 245,108 268,55 L 280,68 Q 260,128 195,138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 268,55 L 290,40 L 285,32 L 263,48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="285" cy="40" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="280" cy="36" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="275" cy="48" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="282" cy="50" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="285" cy="40" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="280" cy="36" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="275" cy="48" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="282" cy="50" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 60,108 Q 30,108 30,160 Q 30,200 60,200" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 280,68 L 280,82 M 290,75 L 290,90 M 282,95 L 282,108" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 280,68 L 280,82 M 290,75 L 290,90 M 282,95 L 282,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

@@ -17,13 +17,13 @@
   <!-- stamen column -->
   <line x1="145" y1="125" x2="145" y2="68" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round"/>
   <line x1="145" y1="125" x2="145" y2="68" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round" fill="none" stroke-dasharray="0"/>
-  <rect x="141" y="65" width="8" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="141" y="65" width="8" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stamen tips -->
-  <circle cx="145" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="138" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
-  <circle cx="152" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
-  <circle cx="135" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
-  <circle cx="155" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
+  <circle cx="145" cy="65" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="138" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="152" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- centre -->
   <circle cx="145" cy="125" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
 </g></svg>

@@ -6,7 +6,7 @@
   <!-- arrows pointing at center box from both sides -->
   <line x1="110" y1="418" x2="196" y2="370" stroke="#1a1a1a" stroke-width="14.26" stroke-linecap="round"/>
   <line x1="402" y1="418" x2="316" y2="370" stroke="#1a1a1a" stroke-width="14.26" stroke-linecap="round"/>
-  <polygon points="256,350 234,376 278,376" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.28" stroke-linejoin="round"/>
+  <polygon points="256,350 234,376 278,376" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round"/>
   <!-- dot in exact centre of middle box -->
   <circle cx="256" cy="250" r="12" fill="#1a1a1a"/>
 </g></svg>

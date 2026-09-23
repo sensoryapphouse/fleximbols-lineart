@@ -8,8 +8,8 @@
   <path d="M 122,50 Q 117,40 122,30 Q 127,40 122,50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 144,45 Q 139,32 144,22 Q 149,32 144,45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 166,50 Q 161,40 166,30 Q 171,40 166,50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <ellipse cx="85" cy="192" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></ellipse>
-  <ellipse cx="115" cy="200" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></ellipse>
-  <ellipse cx="170" cy="192" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></ellipse>
-  <ellipse cx="200" cy="205" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="85" cy="192" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="115" cy="200" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="170" cy="192" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <ellipse cx="200" cy="205" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></ellipse>
 </g></svg>

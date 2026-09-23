@@ -4,14 +4,14 @@
   <!-- Bottle cap -->
   <rect x="60" y="30" width="150" height="35" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Cap ridges -->
-  <path d="M75 30 L75 65 M90 30 L90 65 M105 30 L105 65 M120 30 L120 65 M135 30 L135 65 M150 30 L150 65 M165 30 L165 65 M180 30 L180 65 M195 30 L195 65" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M75 30 L75 65 M90 30 L90 65 M105 30 L105 65 M120 30 L120 65 M135 30 L135 65 M150 30 L150 65 M165 30 L165 65 M180 30 L180 65 M195 30 L195 65" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Label -->
   <rect x="80" y="90" width="110" height="115" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Focus target (concentric circles) -->
   <circle cx="135" cy="140" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="135" cy="140" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <circle cx="135" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-  <circle cx="135" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Attention arrow pointing into target -->
   <path d="M95 195 L125 165" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M118 162 L125 165 L122 172" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>

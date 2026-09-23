@@ -4,7 +4,7 @@
   <!-- Waistband -->
   <rect x="84" y="48" width="122" height="24" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Waistband inner line -->
-  <path d="M88 66 Q145 72 202 66" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M88 66 Q145 72 202 66" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Centre front seam -->
   <path d="M145 72 L145 202" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Left leg opening curve -->

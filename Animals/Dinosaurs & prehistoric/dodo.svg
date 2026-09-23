@@ -6,7 +6,7 @@
 <!-- plump body -->
 <ellipse cx="250" cy="312" rx="98" ry="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- belly highlight -->
-<ellipse cx="240" cy="330" rx="56" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="240" cy="330" rx="56" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- stubby wing -->
 <path d="M 326 296 Q 366 300 360 340 Q 332 336 320 312 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- tail tuft -->

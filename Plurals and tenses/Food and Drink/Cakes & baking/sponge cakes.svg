@@ -29,11 +29,11 @@
   <!-- Top powdered sugar dusting on angled face -->
   <path d="M 62,95 L 145,57 L 228,95 Q 208,87 188,93 Q 165,83 145,88 Q 125,83 102,93 Q 82,87 62,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Sugar dust dots on top -->
-  <circle cx="120" cy="74" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="133" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="148" cy="65" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="163" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="175" cy="73" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="74" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="133" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="65" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="163" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="73" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Left side -->
   <rect x="55" y="95" width="9" height="120" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right side -->
@@ -52,4 +52,4 @@
   <path d="M 138,44 Q 136,34 140,28" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
   <path d="M 145,40 Q 145,30 145,24" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
   <path d="M 152,44 Q 154,34 150,28" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

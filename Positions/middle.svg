@@ -2,7 +2,7 @@
 <rect x="128.0" y="80.0" width="256.0" height="352.0" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="12"/>
 <line x1="128" y1="197" x2="384" y2="197" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="128" y1="315" x2="384" y2="315" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<rect x="136.0" y="201.3" width="240.0" height="109.3" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136.0" y="201.3" width="240.0" height="109.3" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.22"/>
 <path d="M 246.0 70.0 L 246.0 155.7 L 234.0 155.7 L 256.0 195.3 L 278.0 155.7 L 266.0 155.7 L 266.0 70.0 A 10.0 10.0 0 0 1 246.0 70.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.0" stroke-linejoin="round"/>
 <path d="M 266.0 442.0 L 266.0 356.3 L 278.0 356.3 L 256.0 316.7 L 234.0 356.3 L 246.0 356.3 L 246.0 442.0 A 10.0 10.0 0 0 1 266.0 442.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.0" stroke-linejoin="round"/>
 </g></svg>

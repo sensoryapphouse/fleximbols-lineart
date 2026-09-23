@@ -23,13 +23,13 @@
   <rect x="174" y="110" width="5" height="40" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="183" y="102" width="5" height="48" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Back row - taller, behind -->
-  <rect x="97" y="72" width="4" height="50" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="107" y="60" width="4" height="60" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="117" y="68" width="4" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="127" y="55" width="4" height="65" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="137" y="48" width="4" height="70" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="147" y="55" width="4" height="65" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="157" y="62" width="4" height="58" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="167" y="70" width="4" height="52" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="177" y="65" width="4" height="57" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="97" y="72" width="4" height="50" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="107" y="60" width="4" height="60" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="117" y="68" width="4" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="127" y="55" width="4" height="65" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="137" y="48" width="4" height="70" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="147" y="55" width="4" height="65" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="157" y="62" width="4" height="58" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="167" y="70" width="4" height="52" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="177" y="65" width="4" height="57" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

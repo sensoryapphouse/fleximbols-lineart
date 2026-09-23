@@ -4,11 +4,11 @@
 <!-- left vial -->
 <rect x="142" y="238" width="74" height="36" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <circle cx="179" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<line x1="167" y1="238" x2="167" y2="274" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="191" y1="238" x2="191" y2="274" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="167" y1="238" x2="167" y2="274" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="191" y1="238" x2="191" y2="274" stroke="#1a1a1a" stroke-width="6"/>
 <!-- right vial -->
 <rect x="296" y="238" width="74" height="36" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <circle cx="333" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<line x1="321" y1="238" x2="321" y2="274" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="345" y1="238" x2="345" y2="274" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="321" y1="238" x2="321" y2="274" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="345" y1="238" x2="345" y2="274" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

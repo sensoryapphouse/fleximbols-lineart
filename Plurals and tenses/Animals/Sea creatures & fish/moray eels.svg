@@ -3,8 +3,8 @@
   <path d="M20,155 Q60,130 110,140 Q140,145 160,160 Q140,175 110,178 Q60,182 20,165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M20,165 Q60,182 110,178 Q140,175 160,160 L160,220 L20,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- rock highlight cracks -->
-  <path d="M55,138 Q62,148 58,160" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M90,135 Q95,147 92,162" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M55,138 Q62,148 58,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M90,135 Q95,147 92,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- eel body emerging from crevice -->
   <path d="M155,158 Q200,140 230,110 Q250,88 245,65 Q240,50 230,55 Q235,70 225,88 Q210,112 185,130 Q165,145 155,172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- eel belly lighter stripe -->
@@ -24,4 +24,4 @@
   <ellipse cx="204" cy="148" rx="3" ry="3" fill="#1a1a1a"/>
   <!-- nostril -->
   <ellipse cx="214" cy="144" rx="2.5" ry="1.5" fill="#1a1a1a"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

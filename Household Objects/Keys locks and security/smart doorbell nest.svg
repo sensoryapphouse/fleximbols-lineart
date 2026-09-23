@@ -12,10 +12,10 @@
   <circle cx="145" cy="100" r="7" fill="#1a1a1a"/>
   <circle cx="141" cy="96" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- minimal status dot -->
-  <circle cx="145" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bell button area (subtle, flush) -->
   <circle cx="145" cy="170" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- bell icon inside -->
   <path d="M 139 164 L 139 172 L 136 175 L 154 175 L 151 172 L 151 164 Q 151 159 145 159 Q 139 159 139 164 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="145" cy="179" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="179" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -9,9 +9,9 @@
   <!-- top rim ellipse outline -->
   <ellipse cx="145" cy="125" rx="115" ry="35" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- fluted scallop ridges around rim (front arc) -->
-  <path d="M 45 145 L 55 165 M 70 152 L 78 172 M 100 158 L 105 180 M 140 162 L 142 184 M 180 158 L 178 180 M 210 152 L 205 172 M 235 145 L 228 165" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+  <path d="M 45 145 L 55 165 M 70 152 L 78 172 M 100 158 L 105 180 M 140 162 L 142 184 M 180 158 L 178 180 M 210 152 L 205 172 M 235 145 L 228 165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- inner pan floor (removable bottom seam) -->
-  <ellipse cx="145" cy="128" rx="95" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="128" rx="95" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small tab/notch on side suggesting removable bottom -->
-  <path d="M 250 122 L 258 122 L 258 130 L 250 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 250 122 L 258 122 L 258 130 L 250 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

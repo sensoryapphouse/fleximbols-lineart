@@ -12,11 +12,11 @@
   <ellipse cx="145" cy="215" rx="38" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
 
   <!-- Metallic body sheen: decorative band/etching lines -->
-  <ellipse cx="145" cy="140" rx="60" ry="20" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="155" rx="52" ry="16" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="140" rx="60" ry="20" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="155" rx="52" ry="16" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Ornate decorative engravings (arabesque-style bands) -->
-  <rect x="88" y="108" width="114" height="14" rx="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="88" y="108" width="114" height="14" rx="4" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Small diamond/ornament details in band -->
   <polygon points="115,115 120,110 125,115 120,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <polygon points="140,115 145,110 150,115 145,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -30,5 +30,5 @@
   <ellipse cx="145" cy="90" rx="67" ry="14" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Waist constriction line (hourglass middle) -->
-  <line x1="97" y1="168" x2="193" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="97" y1="168" x2="193" y2="168" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -12,17 +12,17 @@
   <!-- Repeated identical speech bubbles (3, bouncing in ring) -->
   <!-- Bubble 1: upper-right -->
   <rect x="172" y="44" width="52" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="182,72 190,84 198,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="182,72 190,84 198,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="179" y="52" width="12" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="195" y="52" width="20" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bubble 2: right -->
   <rect x="204" y="112" width="52" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="208,126 194,134 208,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="208,126 194,134 208,140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="211" y="120" width="12" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="227" y="120" width="20" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bubble 3: upper-left -->
   <rect x="62" y="44" width="52" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="100,72 106,84 114,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="100,72 106,84 114,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="69" y="52" width="12" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="85" y="52" width="20" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

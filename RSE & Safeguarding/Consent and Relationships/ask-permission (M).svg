@@ -16,5 +16,5 @@
 
 <path d="M 320.0 87.0 L 400.0 87.0 Q 426.0 87.0 426.0 113.0 L 426.0 153.0 Q 426.0 179.0 400.0 179.0 L 349.2 179.0 L 326.2 209.0 L 323.2 179.0 L 320.0 179.0 Q 294.0 179.0 294.0 153.0 L 294.0 113.0 Q 294.0 87.0 320.0 87.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <g transform="translate(75.3 38.23) scale(0.78)"><path d="M 341 109 q 0 -28 24 -28 q 24 0 24 21 q 0 16 -20 22 q -5 2 -5 12" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="364" cy="156" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
+<circle cx="364" cy="156" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.61"/></g>
 </g></svg>

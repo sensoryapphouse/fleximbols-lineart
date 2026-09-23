@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.25)">
-<circle style="fill:#ffffff" cx="256" cy="256" r="44.522" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<circle style="fill:#ffffff" cx="256" cy="256" r="44.522" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <g>
-	<polygon style="fill:#ffffff" points="256,110.532 255.999,110.533 256,110.534 	" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<path style="fill:#ffffff" d="M256,401.466L256,401.466L256,401.466z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<polygon style="fill:#ffffff" points="256,110.532 255.999,110.533 256,110.534 	" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M256,401.466L256,401.466L256,401.466z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <path style="fill:#ffffff" d="M431.971,165.835c-3.742-1.656-7.59-3.247-11.516-4.784c0.632-4.169,1.179-8.297,1.615-12.365
 	c6.022-56.115-7.497-96.739-38.069-114.389c-30.568-17.65-72.51-9.047-118.098,24.225c-3.305,2.412-6.606,4.95-9.902,7.582
@@ -37,7 +37,7 @@
 	C393.835,405.781,386.018,437.98,367.304,448.784z M388.21,150.316c-19.906-5.576-41.377-9.838-63.865-12.693
 	c-13.716-18.048-28.143-34.512-42.926-48.963c25.716-19.568,49.538-29.845,67.82-29.845c6.867,0,12.955,1.45,18.065,4.4
 	C386.018,74.019,393.835,106.219,388.21,150.316z M413.63,317.656c-5.123-20.027-12.169-40.753-20.94-61.656
-	c8.772-20.903,15.816-41.628,20.94-61.656c41.001,17.178,64.978,40.047,64.978,61.656S454.632,300.478,413.63,317.656z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	c8.772-20.903,15.816-41.628,20.94-61.656c41.001,17.178,64.978,40.047,64.978,61.656S454.632,300.478,413.63,317.656z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path style="fill:#ffffff" d="M431.971,165.835c-3.742-1.656-7.59-3.247-11.516-4.784c0.632-4.169,1.179-8.297,1.615-12.365
 	c6.022-56.115-7.497-96.739-38.069-114.389c-30.568-17.65-72.51-9.047-118.098,24.225c-3.305,2.412-6.606,4.95-9.902,7.582v44.427
 	v0.002c7.379,7.08,14.814,14.847,22.225,23.294c-7.352-0.289-14.763-0.444-22.225-0.444v33.391c17.46,0,34.208,0.84,50.138,2.384
@@ -54,7 +54,7 @@
 	c-19.906-5.576-41.377-9.838-63.865-12.693c-13.716-18.048-28.143-34.512-42.926-48.963c25.716-19.568,49.538-29.845,67.82-29.845
 	c6.867,0,12.955,1.45,18.065,4.4C386.018,74.019,393.835,106.219,388.21,150.316z M413.63,317.656
 	c-5.123-20.027-12.169-40.753-20.94-61.656c8.772-20.903,15.816-41.628,20.94-61.656c41.001,17.178,64.978,40.047,64.978,61.656
-	S454.632,300.478,413.63,317.656z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	S454.632,300.478,413.63,317.656z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path style="fill:#ffffff" d="M300.522,256c0-24.588-19.934-44.522-44.522-44.522v89.043
-	C280.588,300.521,300.522,280.589,300.522,256z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	C280.588,300.521,300.522,280.589,300.522,256z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g></g></svg>

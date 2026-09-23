@@ -2,15 +2,15 @@
 <g transform="translate(77.6,162.3) scale(0.755)"><!-- Baby bottle in the left region -->
   <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
     <!-- Teat / nipple -->
-    <path d="M105 70c0-16 60-16 60 0 0 14-9 20-9 32h-42c0-12-9-18-9-32z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="4.51"/>
+    <path d="M105 70c0-16 60-16 60 0 0 14-9 20-9 32h-42c0-12-9-18-9-32z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.41"/>
     <!-- Collar dome -->
-    <path d="M85 118c0-20 100-20 100 0v34H85z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="4.51"/>
+    <path d="M85 118c0-20 100-20 100 0v34H85z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.41"/>
     <!-- Screw ring -->
-    <rect x="62" y="152" width="146" height="40" rx="10" fill="#ffffff"  stroke="#1a1a1a" stroke-width="4.51"/>
+    <rect x="62" y="152" width="146" height="40" rx="10" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.41"/>
     <!-- Bottle body -->
-    <path d="M74 192h122v202a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="4.51"/>
+    <path d="M74 192h122v202a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.41"/>
     <!-- Milk fill -->
-    <path d="M74 320h122v74a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="4.51"/>
+    <path d="M74 320h122v74a56 56 0 0 1-56 56 56 56 0 0 1-56-56z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.41"/>
     <!-- Measure marks -->
     <line x1="98" y1="240" x2="138" y2="240" />
     <line x1="98" y1="284" x2="148" y2="284" />
@@ -25,8 +25,8 @@
 <path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" class="skin" data-lp="skin"/>
 <path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="348" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="388" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="348" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.09"/>
+<circle cx="388" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.09"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.09"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.09"/>
 </g></svg>

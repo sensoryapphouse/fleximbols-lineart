@@ -7,18 +7,18 @@
   <!-- Main left crystal -->
   <polygon points="75,175 100,175 88,70" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Face facet left -->
-  <polygon points="75,175 88,70 80,165" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="75,175 88,70 80,165" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Main centre crystal -->
   <polygon points="115,175 150,175 132,45" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Face facet centre -->
-  <polygon points="115,175 132,45 122,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="115,175 132,45 122,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Main right crystal -->
   <polygon points="155,175 190,175 172,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Face facet right -->
-  <polygon points="155,175 172,68 162,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="155,175 172,68 162,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Small right crystal -->
   <polygon points="195,175 215,175 210,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Highlight lines -->
-  <line x1="88" y1="70" x2="90" y2="120" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="132" y1="45" x2="134" y2="110" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="88" y1="70" x2="90" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="132" y1="45" x2="134" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

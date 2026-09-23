@@ -12,10 +12,10 @@
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
     <polygon points="134,46 433,46 528,153 280,453 36,151 134,46" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="40,150 176,47 282,153 394,46 525,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="40,150 176,47 282,153 394,46 525,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="40,150 176,47 282,153 394,46 525,150" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="176,47 130,157 280,453 282,153" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="394,46 442,151 280,449" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="394,46 442,151 280,449" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="394,46 442,151 280,449" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="36,151 528,153" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>

@@ -4,7 +4,7 @@
   <ellipse cx="256" cy="345" rx="230" ry="140" fill="none" stroke="#1a1a1a" stroke-width="8.72" stroke-dasharray="14,10" />
 
   
-  <polygon points="485,345 470,330 478,360" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.49" stroke-linejoin="round" />
+  <polygon points="485,345 470,330 478,360" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" />
 
   
   <rect x="140" y="270" width="232" height="44" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.97" />

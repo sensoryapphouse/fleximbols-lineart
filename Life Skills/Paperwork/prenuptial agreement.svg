@@ -10,8 +10,8 @@
   <circle cx="140" cy="80" r="14" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <circle cx="140" cy="80" r="14" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- small gems -->
-  <polygon points="115,67 118,72 115,75 112,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <polygon points="140,67 143,72 140,75 137,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="115,67 118,72 115,75 112,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="140,67 143,72 140,75 137,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- scales of justice (small, on doc) -->
   <line x1="200" y1="65" x2="200" y2="100" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="180" y1="75" x2="220" y2="75" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>

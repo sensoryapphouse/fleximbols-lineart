@@ -12,7 +12,7 @@
   <circle cx="120" cy="105" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- dimension lines/arrows -->
   <line x1="60" y1="160" x2="180" y2="160" stroke="#1a1a1a" stroke-width="3.95"/>
-  <path d="M60 160 L66 156 L66 164 Z M180 160 L174 156 L174 164 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M60 160 L66 156 L66 164 Z M180 160 L174 156 L174 164 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- signature line -->
   <line x1="44" y1="190" x2="140" y2="190" stroke="#1a1a1a" stroke-width="4.94"/>
   <path d="M48 186 Q58 179 68 188 Q82 192 96 182 Q110 180 134 188" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>

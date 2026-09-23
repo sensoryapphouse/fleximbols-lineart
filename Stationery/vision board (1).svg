@@ -6,10 +6,10 @@
   <rect x="40" y="115" width="70" height="75" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="120" y="115" width="55" height="70" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="185" y="130" width="55" height="60" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
-  <circle cx="67" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="135" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="210" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="75" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="147" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="212" cy="135" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="67" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="135" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="210" cy="50" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="75" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="147" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="212" cy="135" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

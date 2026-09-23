@@ -13,6 +13,6 @@
 <ellipse cx="258" cy="246" rx="9" ry="15"/>
 </g>
 <path d="M 112 392 q 40 -26 88 -16 q -30 10 -36 16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="138" cy="384" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="170" cy="388" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="138" cy="384" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="170" cy="388" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

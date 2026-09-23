@@ -20,12 +20,12 @@
   <path d="M50 63 Q55 55 60 63 Q65 71 70 63" fill="none" stroke="#1a1a1a" stroke-width="7.78" stroke-linecap="round"/>
   <path d="M50 76 Q55 68 60 76 Q65 84 70 76" fill="none" stroke="#1a1a1a" stroke-width="7.78" stroke-linecap="round"/>
   <!-- Arrow pointing heat symbol toward spine -->
-  <polygon points="73,63 82,63 78,58 78,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="73,63 82,63 78,58 78,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42" />
   <!-- No punched holes visible - thermal binding has a clean spine -->
   <!-- Inner glue indicator: thin horizontal lines on spine band -->
-  <line x1="88" y1="75" x2="108" y2="75" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="100" x2="108" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="125" x2="108" y2="125" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="150" x2="108" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="175" x2="108" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="88" y1="75" x2="108" y2="75" stroke="#1a1a1a" stroke-width="4.42" stroke-dasharray="3,3"/>
+  <line x1="88" y1="100" x2="108" y2="100" stroke="#1a1a1a" stroke-width="4.42" stroke-dasharray="3,3"/>
+  <line x1="88" y1="125" x2="108" y2="125" stroke="#1a1a1a" stroke-width="4.42" stroke-dasharray="3,3"/>
+  <line x1="88" y1="150" x2="108" y2="150" stroke="#1a1a1a" stroke-width="4.42" stroke-dasharray="3,3"/>
+  <line x1="88" y1="175" x2="108" y2="175" stroke="#1a1a1a" stroke-width="4.42" stroke-dasharray="3,3"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -8,9 +8,9 @@
   <!-- Laptop keyboard deck angled on stand (bottom edge rests on shelf) -->
   <polygon points="112,195 215,195 235,88 132,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Keyboard surface detail -->
-  <polygon points="124,185 207,185 224,103 141,103" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
+  <polygon points="124,185 207,185 224,103 141,103" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
   <!-- Laptop screen panel angled up -->
   <polygon points="132,88 235,88 228,30 125,30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Screen display area -->
-  <polygon points="140,81 227,81 221,38 134,38" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="140,81 227,81 221,38 134,38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

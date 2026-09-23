@@ -2,14 +2,14 @@
   <!-- V-shape glass -->
   <path d="M55 40 L145 150 L235 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- very clear liquid -->
-  <path d="M85 60 L145 135 L205 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M85 60 L145 135 L205 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- liquid surface line -->
-  <line x1="85" y1="60" x2="205" y2="60" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="85" y1="60" x2="205" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lemon twist - curly peel ribbon -->
   <path d="M160 35 Q175 50 170 75 Q160 90 145 85 Q135 80 145 70 Q160 65 165 80 Q170 95 155 100" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M160 35 Q175 50 170 75 Q160 90 145 85 Q135 80 145 70 Q160 65 165 80 Q170 95 155 100" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M160 35 Q175 50 170 75 Q160 90 145 85 Q135 80 145 70 Q160 65 165 80 Q170 95 155 100" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lemon zest detail -->
-  <path d="M162 45 Q168 55 165 65" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M162 45 Q168 55 165 65" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stem -->
   <rect x="140" y="150" width="10" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- base -->

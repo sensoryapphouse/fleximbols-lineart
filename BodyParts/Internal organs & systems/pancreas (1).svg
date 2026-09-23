@@ -4,7 +4,7 @@
   <!-- Neck -->
   <rect x="125" y="14" width="40" height="22" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Stomach (context, grey) -->
-  <path d="M140 95 C132 92 122 95 118 104 C115 112 116 124 120 132 C125 140 135 144 145 142 C155 140 160 132 162 122 C165 112 162 100 155 96 C150 93 145 95 140 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M140 95 C132 92 122 95 118 104 C115 112 116 124 120 132 C125 140 135 144 145 142 C155 140 160 132 162 122 C165 112 162 100 155 96 C150 93 145 95 140 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
   <!-- PANCREAS: elongated tadpole/sausage shape behind stomach, horizontal, highlighted -->
   <!-- Head (wider right end) -->
   <ellipse cx="178" cy="140" rx="16" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

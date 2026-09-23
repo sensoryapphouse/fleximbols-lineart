@@ -8,8 +8,8 @@
   <ellipse cx="133" cy="98" rx="8" ry="58" transform="rotate(-14 133 98)" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="157" cy="98" rx="8" ry="58" transform="rotate(14 157 98)" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wing venation lines -->
-  <line x1="133" y1="55" x2="133" y2="138" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="157" y1="55" x2="157" y2="138" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="133" y1="55" x2="133" y2="138" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="157" y1="55" x2="157" y2="138" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Slender elongated body -->
   <!-- Thorax -->
   <ellipse cx="145" cy="138" rx="10" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>

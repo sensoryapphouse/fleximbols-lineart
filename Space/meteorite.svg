@@ -12,8 +12,8 @@
   <line x1="45" y1="200" x2="25" y2="210" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="245" y1="190" x2="270" y2="195" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="240" y1="200" x2="265" y2="210" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-  <circle cx="30" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="260" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="22" cy="220" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="268" cy="220" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="30" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="260" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="22" cy="220" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="268" cy="220" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

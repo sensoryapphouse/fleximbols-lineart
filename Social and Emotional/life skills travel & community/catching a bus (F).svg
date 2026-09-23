@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="111.94 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
 <rect x="277" y="288" width="178" height="104" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="291" y="304" width="150" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="321" y1="304" x2="321" y2="344" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="351" y1="304" x2="351" y2="344" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="381" y1="304" x2="381" y2="344" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="411" y1="304" x2="411" y2="344" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<rect x="291" y="292" width="150" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="411" y="352" width="32" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="427" y1="352" x2="427" y2="386" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="283" y1="346" x2="449" y2="346" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<circle cx="323" cy="392" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="323" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="409" cy="392" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="409" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="285" cy="362" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="291" y="304" width="150" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="321" y1="304" x2="321" y2="344" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="351" y1="304" x2="351" y2="344" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="381" y1="304" x2="381" y2="344" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="411" y1="304" x2="411" y2="344" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<rect x="291" y="292" width="150" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="411" y="352" width="32" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="427" y1="352" x2="427" y2="386" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="283" y1="346" x2="449" y2="346" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="323" cy="392" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="323" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="409" cy="392" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="409" cy="392" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="285" cy="362" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="344" y1="221" x2="380" y2="221" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="380" y1="221" x2="362" y2="207" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="380" y1="221" x2="362" y2="235" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="344" y1="221" x2="380" y2="221" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="380" y1="221" x2="362" y2="207" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="380" y1="221" x2="362" y2="235" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>

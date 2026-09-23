@@ -2,7 +2,7 @@
   <!-- Chromecast: round hockey-puck dongle on a short HDMI tail -->
   <!-- HDMI plug at bottom -->
   <rect x="122" y="192" width="46" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
-  <rect x="130" y="204" width="30" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="130" y="204" width="30" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Cable tail -->
   <rect x="138" y="164" width="14" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Puck body -->
@@ -16,5 +16,5 @@
   <path d="M118 136 Q125 153 140 153" fill="none" stroke="#ffffff" stroke-width="3.95" stroke-linecap="round"/>
   <path d="M118 128 Q132 153 152 153" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Status LED on puck edge -->
-  <circle cx="185" cy="105" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="185" cy="105" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

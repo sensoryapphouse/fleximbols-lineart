@@ -7,7 +7,7 @@
 <!-- cabin running along top -->
 <path d="M 110 256 L 400 256 L 400 300 L 110 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- cream cabin band -->
-<rect x="110" y="294" width="290" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="110" y="294" width="290" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- round portholes -->
 <circle cx="160" cy="276" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="230" cy="276" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

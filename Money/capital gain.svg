@@ -2,21 +2,21 @@
   <!-- chart frame -->
   <rect x="25" y="25" width="240" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- grid -->
-  <line x1="25" y1="75" x2="265" y2="75" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="25" y1="125" x2="265" y2="125" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="25" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="25" y1="75" x2="265" y2="75" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="25" y1="125" x2="265" y2="125" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="25" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- axes -->
   <line x1="40" y1="35" x2="40" y2="200" stroke="#1a1a1a" stroke-width="5.56"/>
   <line x1="40" y1="200" x2="260" y2="200" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- rising line chart -->
   <polyline points="45,185 75,170 105,155 135,130 165,110 195,85 225,60" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- data dots -->
-  <circle cx="45" cy="185" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="75" cy="170" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="105" cy="155" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="135" cy="130" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="165" cy="110" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="195" cy="85" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="45" cy="185" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="75" cy="170" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="155" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="130" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="110" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="85" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- big green arrow up -->
   <polygon points="225,60 245,75 235,75 235,95 215,95 215,75 205,75" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- "GAIN" as path letters at bottom -->

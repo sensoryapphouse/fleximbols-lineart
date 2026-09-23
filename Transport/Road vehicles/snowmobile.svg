@@ -25,7 +25,7 @@
     <polygon points="338,357 246,396 246,396 242,396 235,396 231,394 228,392 226,389 225,384 225,384 224,380 223,377 220,375 217,373 215,373 213,374 209,377 203,384 203,384 205,390 208,396 212,403 217,409 220,412 224,415 228,417 233,418 238,419 244,418 244,418 302,394 344,375 359,367 364,364 367,361 338,357" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="307,331 297,381 307,377 314,331 307,331" fill="none" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="379,336 515,274 513,245 513,245 501,248 486,253 468,261 458,266 448,273 437,280 425,289 414,299 402,310 390,322 379,336 379,336" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="398,153 438,134 441,149 400,165 394,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="398,153 438,134 441,149 400,165 394,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="398,153 438,134 441,149 400,165 394,150" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

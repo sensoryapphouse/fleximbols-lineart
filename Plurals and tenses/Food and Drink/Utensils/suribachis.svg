@@ -2,8 +2,8 @@
   <!-- Wooden pestle (surikogi) -->
   <path d="M 178 25 L 196 43 L 142 132 L 124 114 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pestle wood grain -->
-  <path d="M 180 34 L 145 110" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 189 42 L 155 118" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 180 34 L 145 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 189 42 L 155 118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pestle rounded tip (light wood) -->
   <ellipse cx="133" cy="123" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-45 133 123)"/>
   <!-- Suribachi ceramic bowl exterior (warm tan/brown ceramic) -->
@@ -13,7 +13,7 @@
   <!-- Inner cavity rim -->
   <ellipse cx="145" cy="130" rx="88" ry="19" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Inner bowl visible surface with combed kushime grooves -->
-  <ellipse cx="145" cy="128" rx="78" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="128" rx="78" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Combed pattern (kushime) — radiating fine grooves on inner surface -->
   <g stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round" fill="none">
     <path d="M 80 128 L 88 132"/>
@@ -38,4 +38,4 @@
     <path d="M 190 134 L 185 140"/>
     <path d="M 205 134 L 198 138"/>
   </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

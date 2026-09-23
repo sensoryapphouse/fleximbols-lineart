@@ -9,9 +9,9 @@
   <!-- briefcase (centered, prominent) -->
   <rect x="115" y="78" width="60" height="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" rx="3"/>
   <rect x="132" y="65" width="26" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <rect x="138" y="71" width="14" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="138" y="71" width="14" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="115" y1="98" x2="175" y2="98" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="140" y="95" width="10" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="140" y="95" width="10" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- handshake -->
   <!-- left hand (sleeve) -->
   <path d="M50,150 L90,150 L100,160 L100,175 L50,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
@@ -19,16 +19,16 @@
   <path d="M240,150 L200,150 L190,160 L190,175 L240,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- gripping hands -->
   <path d="M100,158 L145,150 L190,158 L190,170 L145,178 L100,170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
-  <line x1="120" y1="158" x2="125" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="135" y1="155" x2="140" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="150" y1="155" x2="155" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="165" y1="158" x2="170" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="120" y1="158" x2="125" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="135" y1="155" x2="140" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="150" y1="155" x2="155" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="165" y1="158" x2="170" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- two signature lines side by side -->
   <line x1="55" y1="200" x2="135" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M60,198 q6,-6 12,0 q6,4 12,-2 q5,-3 10,2" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <line x1="155" y1="200" x2="235" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M160,198 q6,-6 12,0 q6,4 12,-2 q5,-3 10,2" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <!-- tiny labels (dots representing employee/employer) -->
-  <circle cx="60" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="160" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="60" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

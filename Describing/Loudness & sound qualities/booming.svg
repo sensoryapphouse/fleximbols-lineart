@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="27.46 72.69 395.64 395.64"><!-- booming: big bass drum with large rolling sound waves -->
 <g fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
 <!-- big rolling sound waves on left -->
-<path d="M 168 196 Q 120 256 168 316" stroke="#1a1a1a"/>
-<path d="M 134 168 Q 64 256 134 344" stroke="#1a1a1a"/>
-<path d="M 100 144 Q 12 256 100 368" stroke="#1a1a1a"/>
+<path d="M 168 196 Q 120 256 168 316" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 134 168 Q 64 256 134 344" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 100 144 Q 12 256 100 368" stroke="#1a1a1a" stroke-width="6"/>
 </g>
 <!-- drum rim back / depth -->
 <ellipse cx="356" cy="256" rx="20" ry="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>

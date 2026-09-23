@@ -26,20 +26,20 @@
   <line x1="62" y1="118" x2="62" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 62 102 Q 50 96 48 86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 62 102 Q 74 96 76 86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="48" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="76" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="48" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="76" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cell (1,3) sprout -->
   <line x1="174" y1="118" x2="174" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 174 102 Q 162 96 160 86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 174 102 Q 186 96 188 86" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="160" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="188" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="160" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="188" cy="85" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cell (2,2) small sprout -->
   <line x1="118" y1="152" x2="118" y2="133" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="110" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="126" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="126" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cell (2,4) small sprout -->
   <line x1="230" y1="152" x2="230" y2="133" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="222" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="238" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="222" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="238" cy="128" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

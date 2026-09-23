@@ -18,7 +18,7 @@
     <path d="M97,152L97,152L97,136L97,126L97,120L96,113L96,113L92,108L89,106L86,104L82,104L79,105L75,109L72,116L72,116L70,124L68,131L67,143L67,150L68,153L97,152Z M68,187L92,188L91,169L92,188L98,188L97,153L70,154L68,154L68,154L67,154L67,154L67,158L68,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="72,86 72,86 71,88 71,91 71,94 72,96 76,101 80,104 83,104 86,104 89,104 91,102 94,100 96,97 98,92 100,87 100,87 87,88 79,87 72,86 72,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="101,85 101,85 98,85 90,86 77,85 69,83 61,81 61,81 60,80 61,80 66,79 74,80 74,80 75,77 77,75 81,73 85,73 90,73 95,75 98,79 101,85 101,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="85,159 85,159 78,160 73,159 71,158 70,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="88,146 88,146 86,138 84,130 82,121 82,121 83,119 84,118 85,117 86,118 86,118 87,130 89,139 91,147 91,147 91,147 91,147 91,147 87,150 77,158 75,158 75,158 82,151 88,146 88,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -30,7 +30,7 @@
     <path d="M150,152L150,152L150,136L150,126L150,120L149,113L149,113L145,108L142,106L139,104L135,104L132,105L128,109L125,116L125,116L122,124L121,131L119,143L120,150L120,153L150,152Z M121,187L144,188L144,169L144,188L150,188L150,153L122,154L121,154L121,154L120,154L120,154L120,158L121,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="125,86 125,86 124,88 124,91 124,94 125,96 128,101 133,104 136,104 138,104 141,104 144,102 147,100 149,97 151,92 153,87 153,87 139,88 132,87 125,86 125,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="153,85 153,85 151,85 142,86 130,85 122,83 113,81 113,81 113,80 114,80 118,79 126,80 126,80 127,77 130,75 134,73 138,73 143,73 147,75 151,79 153,85 153,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="137,159 137,159 130,160 125,159 124,158 123,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="141,146 141,146 139,138 137,130 135,121 135,121 135,119 136,118 137,117 138,118 138,118 140,130 142,139 144,147 144,147 144,147 144,147 144,147 139,150 130,158 127,158 127,158 135,151 141,146 141,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -42,7 +42,7 @@
     <path d="M202,152L202,152L202,136L203,126L203,120L201,113L201,113L197,108L195,106L191,104L188,104L184,105L181,109L178,116L178,116L175,124L173,131L172,143L172,150L173,153L202,152Z M173,187L197,188L197,169L197,188L203,188L202,153L175,154L174,154L174,154L173,154L173,154L172,158L173,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="178,86 178,86 177,88 176,91 177,94 178,96 181,101 186,104 188,104 191,104 194,104 197,102 199,100 202,97 204,92 205,87 205,87 192,88 185,87 178,86 178,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="206,85 206,85 203,85 195,86 182,85 175,83 166,81 166,81 165,80 166,80 171,79 179,80 179,80 180,77 182,75 186,73 191,73 195,73 200,75 204,79 206,85 206,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="190,159 190,159 183,160 178,159 176,158 176,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="194,146 194,146 191,138 190,130 188,121 188,121 188,119 189,118 190,117 191,118 191,118 193,130 194,139 197,147 197,147 196,147 197,147 197,147 192,150 182,158 180,158 180,158 187,151 194,146 194,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -54,9 +54,9 @@
     <path d="M255,152L255,152L255,136L255,126L255,120L254,113L254,113L250,108L247,106L244,104L240,104L237,105L233,109L230,116L230,116L228,124L226,131L225,143L225,150L225,153L255,152Z M226,187L250,188L249,169L250,188L256,188L255,153L228,154L226,154L226,154L225,154L225,154L225,158L226,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="230,86 230,86 229,88 229,91 229,94 230,96 234,101 238,104 241,104 244,104 246,104 249,102 252,100 254,97 256,92 258,87 258,87 244,88 237,87 230,86 230,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="259,85 259,85 256,85 248,86 235,85 227,83 219,81 219,81 218,80 219,80 224,79 232,80 232,80 233,77 235,75 239,73 243,73 248,73 252,75 256,79 259,85 259,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-    <polygon points="243,159 243,159 235,160 231,159 229,158 228,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="243,159 243,159 235,160 231,159 229,158 228,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="243,159 243,159 235,160 231,159 229,158 228,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="246,146 246,146 244,138 242,130 240,121 240,121 240,119 241,118 243,117 243,118 243,118 245,130 247,139 249,147 249,147 249,147 249,147 249,147 244,150 235,158 232,158 232,158 240,151 246,146 246,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="239,134 239,134 238,130 236,121 236,117 236,112 238,109 240,108 242,107 242,107 243,107 245,107 246,108 248,110 249,115 250,123 249,133 249,133 247,133 239,134 239,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -68,7 +68,7 @@
     <path d="M44,152L44,152L44,136L45,126L45,120L44,113L44,113L40,108L37,106L33,104L30,104L26,105L23,109L20,116L20,116L17,124L15,131L14,143L14,150L15,153L44,152Z M15,187L39,188L39,169L39,188L45,188L44,153L17,154L16,154L16,154L15,154L15,154L14,158L15,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="20,86 20,86 19,88 19,91 19,94 20,96 23,101 28,104 30,104 33,104 36,104 39,102 41,100 44,97 46,92 48,87 48,87 34,88 27,87 20,86 20,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="48,85 48,85 45,85 37,86 24,85 17,83 8,81 8,81 7,80 8,80 13,79 21,80 21,80 22,77 25,75 28,73 33,73 37,73 42,75 46,79 48,85 48,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="32,159 32,159 25,160 20,159 18,158 18,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="36,146 36,146 33,138 32,130 30,121 30,121 30,119 31,118 32,117 33,118 33,118 35,130 36,139 39,147 39,147 39,147 39,147 39,147 34,150 24,158 22,158 22,158 29,151 36,146 36,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -80,7 +80,7 @@
     <path d="M97,152L97,152L97,136L97,126L97,120L96,113L96,113L92,108L89,106L86,104L82,104L79,105L75,109L72,116L72,116L70,124L68,131L67,143L67,150L68,153L97,152Z M68,187L92,188L91,169L92,188L98,188L97,153L70,154L68,154L68,154L67,154L67,154L67,158L68,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="72,86 72,86 71,88 71,91 71,94 72,96 76,101 80,104 83,104 86,104 89,104 91,102 94,100 96,97 98,92 100,87 100,87 87,88 79,87 72,86 72,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="101,85 101,85 98,85 90,86 77,85 69,83 61,81 61,81 60,80 61,80 66,79 74,80 74,80 75,77 77,75 81,73 85,73 90,73 95,75 98,79 101,85 101,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="97,159 97,159 97,161 96,166 94,168 92,170 89,172 85,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="85,159 85,159 78,160 73,159 71,158 70,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="88,146 88,146 86,138 84,130 82,121 82,121 83,119 84,118 85,117 86,118 86,118 87,130 89,139 91,147 91,147 91,147 91,147 91,147 87,150 77,158 75,158 75,158 82,151 88,146 88,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -92,7 +92,7 @@
     <path d="M150,152L150,152L150,136L150,126L150,120L149,113L149,113L145,108L142,106L139,104L135,104L132,105L128,109L125,116L125,116L122,124L121,131L119,143L120,150L120,153L150,152Z M121,187L144,188L144,169L144,188L150,188L150,153L122,154L121,154L121,154L120,154L120,154L120,158L121,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="125,86 125,86 124,88 124,91 124,94 125,96 128,101 133,104 136,104 138,104 141,104 144,102 147,100 149,97 151,92 153,87 153,87 139,88 132,87 125,86 125,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="153,85 153,85 151,85 142,86 130,85 122,83 113,81 113,81 113,80 114,80 118,79 126,80 126,80 127,77 130,75 134,73 138,73 143,73 147,75 151,79 153,85 153,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="150,159 150,159 149,161 148,166 147,168 144,170 141,172 137,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="137,159 137,159 130,160 125,159 124,158 123,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="141,146 141,146 139,138 137,130 135,121 135,121 135,119 136,118 137,117 138,118 138,118 140,130 142,139 144,147 144,147 144,147 144,147 144,147 139,150 130,158 127,158 127,158 135,151 141,146 141,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -104,7 +104,7 @@
     <path d="M202,152L202,152L202,136L203,126L203,120L201,113L201,113L197,108L195,106L191,104L188,104L184,105L181,109L178,116L178,116L175,124L173,131L172,143L172,150L173,153L202,152Z M173,187L197,188L197,169L197,188L203,188L202,153L175,154L174,154L174,154L173,154L173,154L172,158L173,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="178,86 178,86 177,88 176,91 177,94 178,96 181,101 186,104 188,104 191,104 194,104 197,102 199,100 202,97 204,92 205,87 205,87 192,88 185,87 178,86 178,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="206,85 206,85 203,85 195,86 182,85 175,83 166,81 166,81 165,80 166,80 171,79 179,80 179,80 180,77 182,75 186,73 191,73 195,73 200,75 204,79 206,85 206,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="202,159 202,159 202,161 201,166 199,168 197,170 194,172 190,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="190,159 190,159 183,160 178,159 176,158 176,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="194,146 194,146 191,138 190,130 188,121 188,121 188,119 189,118 190,117 191,118 191,118 193,130 194,139 197,147 197,147 196,147 197,147 197,147 192,150 182,158 180,158 180,158 187,151 194,146 194,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -116,9 +116,9 @@
     <path d="M255,152L255,152L255,136L255,126L255,120L254,113L254,113L250,108L247,106L244,104L240,104L237,105L233,109L230,116L230,116L228,124L226,131L225,143L225,150L225,153L255,152Z M226,187L250,188L249,169L250,188L256,188L255,153L228,154L226,154L226,154L225,154L225,154L225,158L226,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="230,86 230,86 229,88 229,91 229,94 230,96 234,101 238,104 241,104 244,104 246,104 249,102 252,100 254,97 256,92 258,87 258,87 244,88 237,87 230,86 230,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="259,85 259,85 256,85 248,86 235,85 227,83 219,81 219,81 218,80 219,80 224,79 232,80 232,80 233,77 235,75 239,73 243,73 248,73 252,75 256,79 259,85 259,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="255,158 255,158 255,160 253,164 252,166 250,169 247,170 242,171" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-    <polygon points="243,159 243,159 235,160 231,159 229,158 228,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="243,159 243,159 235,160 231,159 229,158 228,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="243,159 243,159 235,160 231,159 229,158 228,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="246,146 246,146 244,138 242,130 240,121 240,121 240,119 241,118 243,117 243,118 243,118 245,130 247,139 249,147 249,147 249,147 249,147 249,147 244,150 235,158 232,158 232,158 240,151 246,146 246,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="239,134 239,134 238,130 236,121 236,117 236,112 238,109 240,108 242,107 242,107 243,107 245,107 246,108 248,110 249,115 250,123 249,133 249,133 247,133 239,134 239,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
@@ -130,7 +130,7 @@
     <path d="M44,152L44,152L44,136L45,126L45,120L44,113L44,113L40,108L37,106L33,104L30,104L26,105L23,109L20,116L20,116L17,124L15,131L14,143L14,150L15,153L44,152Z M15,187L39,188L39,169L39,188L45,188L44,153L17,154L16,154L16,154L15,154L15,154L14,158L15,187Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="20,86 20,86 19,88 19,91 19,94 20,96 23,101 28,104 30,104 33,104 36,104 39,102 41,100 44,97 46,92 48,87 48,87 34,88 27,87 20,86 20,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
     <polygon points="48,85 48,85 45,85 37,86 24,85 17,83 8,81 8,81 7,80 8,80 13,79 21,80 21,80 22,77 25,75 28,73 33,73 37,73 42,75 46,79 48,85 48,85" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
-    <polygon points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polyline points="44,159 44,159 44,161 43,166 41,168 39,170 36,172 32,173" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polyline points="32,159 32,159 25,160 20,159 18,158 18,156" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
     <polygon points="36,146 36,146 33,138 32,130 30,121 30,121 30,119 31,118 32,117 33,118 33,118 35,130 36,139 39,147 39,147 39,147 39,147 39,147 34,150 24,158 22,158 22,158 29,151 36,146 36,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>

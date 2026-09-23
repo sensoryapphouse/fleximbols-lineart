@@ -4,17 +4,17 @@
   <!-- mug body -->
   <path d="M70 80 Q70 70 80 70 L210 70 Q220 70 220 80 L218 210 Q216 224 200 224 L90 224 Q74 224 72 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- deep red liquid -->
-  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M78 90 Q145 108 212 90" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- almonds (cream-coloured ovals) -->
   <ellipse cx="100" cy="105" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 100 105)"/>
   <ellipse cx="125" cy="115" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 125 115)"/>
   <ellipse cx="185" cy="108" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 185 108)"/>
   <!-- raisins (small dark ovals) -->
-  <ellipse cx="115" cy="100" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="150" cy="110" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="165" cy="118" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="140" cy="98" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="115" cy="100" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="150" cy="110" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="165" cy="118" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="140" cy="98" rx="4" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cardamom pod (spice) -->
   <ellipse cx="170" cy="100" rx="5" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- cinnamon stick -->

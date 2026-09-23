@@ -13,16 +13,16 @@
 
 
 
-<rect x="207" y="263" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="208" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="216" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="224" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="232" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="199" y="271" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="275" y="263" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="276" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="284" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="292" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="300" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="267" y="271" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
+<rect x="207" y="263" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="208" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="216" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="224" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="232" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="199" y="271" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="275" y="263" width="30" height="28" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="276" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="284" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="292" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="300" y="249" width="6" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="267" y="271" width="12" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 </svg>

@@ -13,9 +13,9 @@
 
 
 
-<rect x="321" y="211" width="34" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="337" y="187" width="15" height="26" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><polygon points="342,149 348,163 363,164 351,174 355,189 342,181 329,189 333,174 321,164 336,163" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/></g>
-<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><line x1="367" y1="191" x2="381" y2="191" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/></g>
-<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><line x1="374" y1="184" x2="374" y2="198" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/></g>
+<rect x="321" y="211" width="34" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="337" y="187" width="15" height="26" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><polygon points="342,149 348,163 363,164 351,174 355,189 342,181 329,189 333,174 321,164 336,163" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.14" stroke-linejoin="round"/></g>
+<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><line x1="367" y1="191" x2="381" y2="191" stroke="#1a1a1a" stroke-width="4.14" stroke-linecap="round"/></g>
+<g transform="translate(321 174) scale(1.450) translate(-321 -174)"><line x1="374" y1="184" x2="374" y2="198" stroke="#1a1a1a" stroke-width="4.14" stroke-linecap="round"/></g>
 </svg>

@@ -33,7 +33,7 @@
   <circle cx="156" cy="106" r="6" fill="#1a1a1a"/>
   <circle cx="158" cy="104" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Cere (blue) above beak -->
-  <ellipse cx="145" cy="116" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="116" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Small hooked beak -->
   <path d="M 138,122 Q 145,119 152,122 Q 154,128 150,132 Q 145,135 140,132 Q 136,128 138,122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Feet -->

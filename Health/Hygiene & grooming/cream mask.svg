@@ -14,7 +14,7 @@
   <!-- Cream peak (soft dollop rising) -->
   <path d="M125 110 Q130 96 140 100 Q142 108 138 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Soft sparkle on cream -->
-  <path d="M155 95 L157 99 L161 100 L157 102 L155 106 L153 102 L149 100 L153 99 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M155 95 L157 99 L161 100 L157 102 L155 106 L153 102 L149 100 L153 99 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Jar label band -->
   <rect x="80" y="145" width="110" height="36" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- "MASK" label letters as paths -->
@@ -28,9 +28,9 @@
   <!-- Cream dab on brush tip -->
   <ellipse cx="245" cy="150" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 245 150)"/>
   <!-- flower petals + jar spatula (replaces CREAM text) -->
-  <circle cx="145" cy="165" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="132" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 132 162)"/>
-  <ellipse cx="158" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 158 162)"/>
-  <ellipse cx="145" cy="152" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="165" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="132" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 132 162)"/>
+  <ellipse cx="158" cy="162" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 158 162)"/>
+  <ellipse cx="145" cy="152" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

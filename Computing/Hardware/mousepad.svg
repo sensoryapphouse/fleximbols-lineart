@@ -2,13 +2,13 @@
   <!-- small rectangular mousepad -->
   <rect x="65" y="90" width="160" height="100" rx="10" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- inset stitching border -->
-  <rect x="75" y="100" width="140" height="80" rx="6" ry="6" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="75" y="100" width="140" height="80" rx="6" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- mouse on the pad -->
   <ellipse cx="155" cy="140" rx="28" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- mouse split line -->
   <line x1="155" y1="105" x2="155" y2="140" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- scroll wheel -->
-  <rect x="151" y="115" width="8" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="151" y="115" width="8" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cable from mouse -->
   <path d="M155 178 Q 160 200 200 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

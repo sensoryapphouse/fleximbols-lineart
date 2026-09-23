@@ -4,7 +4,7 @@
   <!-- Rim top ellipse (lighter to show thickness) -->
   <ellipse cx="145" cy="108" rx="81" ry="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Interior surface, slightly lighter -->
-  <ellipse cx="145" cy="108" rx="71" ry="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="145" cy="108" rx="71" ry="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Short stub handle left -->
   <rect x="22" y="112" width="36" height="16" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Stub handle end bead -->
@@ -18,5 +18,5 @@
   <circle cx="145" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="170" cy="108" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Base -->
-  <ellipse cx="145" cy="186" rx="70" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <ellipse cx="145" cy="186" rx="70" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

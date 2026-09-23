@@ -14,11 +14,11 @@
   <!-- Bin body decoration band -->
   <rect x="82" y="126" width="126" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Odour lock icon — squiggles inside bin body -->
-  <path d="M116 160 Q122 153 128 160 Q134 167 140 160 Q146 153 152 160 Q158 167 164 160 Q170 153 174 160" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M116 160 Q122 153 128 160 Q134 167 140 160 Q146 153 152 160 Q158 167 164 160 Q170 153 174 160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small diaper silhouette on side of bin -->
-  <path d="M100 178 L106 162 Q109 156 115 156 L130 156 Q136 156 139 162 L145 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="99" y="176" width="12" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="135" y="176" width="12" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M100 178 L106 162 Q109 156 115 156 L130 156 Q136 156 139 162 L145 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="99" y="176" width="12" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="135" y="176" width="12" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bin base foot -->
   <rect x="82" y="212" width="126" height="10" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

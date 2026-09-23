@@ -14,12 +14,12 @@
   <!-- Resin model hanging from build plate (partially lifted) -->
   <rect x="120" y="61" width="50" height="55" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Model detail layers -->
-  <line x1="120" y1="76" x2="170" y2="76" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="120" y1="91" x2="170" y2="91" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="120" y1="106" x2="170" y2="106" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="120" y1="76" x2="170" y2="76" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="120" y1="91" x2="170" y2="91" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="120" y1="106" x2="170" y2="106" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Resin drip from model -->
   <path d="M140,116 Q138,128 140,135" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-  <ellipse cx="140" cy="138" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="140" cy="138" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- UV light indicator at base -->
-  <rect x="80" y="195" width="130" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="80" y="195" width="130" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

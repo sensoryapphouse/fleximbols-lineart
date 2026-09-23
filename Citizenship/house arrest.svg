@@ -10,7 +10,7 @@
   <path d="M60 116 L160 42 L260 116 L250 116 L160 54 L70 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- door -->
   <rect x="190" y="148" width="36" height="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="218" cy="174" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="218" cy="174" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- window -->
   <rect x="92" y="130" width="46" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M115 130 L115 170 M92 150 L138 150" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -19,15 +19,15 @@
   <circle cx="115" cy="142" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="113" cy="142" r="0.9" fill="#1a1a1a"/>
   <circle cx="117" cy="142" r="0.9" fill="#1a1a1a"/>
-  <path d="M111 130 Q115 126 119 130" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M111 130 Q115 126 119 130" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- torso -->
   <path d="M108 148 Q115 146 122 148 L122 162 L108 162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- arms -->
   <path d="M108 150 L102 162" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M122 150 L128 162" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- legs -->
-  <rect x="109" y="162" width="5" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="116" y="162" width="5" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="109" y="162" width="5" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="116" y="162" width="5" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- ankle monitor icon overlay on door -->
   <g>

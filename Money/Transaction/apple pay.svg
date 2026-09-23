@@ -2,11 +2,11 @@
   <!-- Contactless reader (right side, flat box) -->
   <rect x="192" y="58" width="50" height="124" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Reader screen panel -->
-  <rect x="200" y="68" width="34" height="50" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="200" y="68" width="34" height="50" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Reader card-slot line -->
-  <rect x="200" y="126" width="34" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="200" y="126" width="34" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Reader indicator dot -->
-  <circle cx="217" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="217" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Phone body (tilted via transform, held near reader) -->
   <g transform="rotate(-10,120,120)">
     <rect x="58" y="52" width="104" height="168" rx="16" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -14,9 +14,9 @@
     <!-- Phone screen content: pay indicator -->
     <rect x="68" y="68" width="84" height="20" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
     <circle cx="110" cy="126" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-    <circle cx="110" cy="126" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="110" cy="126" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <!-- Coin on screen -->
-    <circle cx="110" cy="126" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="110" cy="126" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- NFC arcs between phone and reader -->
   <path d="M174 90 Q182 100 182 120 Q182 140 174 150" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

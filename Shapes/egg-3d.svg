@@ -6,7 +6,7 @@
     <stop offset="100%" stop-color="#ffffff"/>
   </radialGradient>
 </defs>
-<path d="M 145 25 C 95 25 65 100 65 145 C 65 195 100 215 145 215 C 190 215 225 195 225 145 C 225 100 195 25 145 25 Z" fill="url(#eggG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 145 25 C 95 25 65 100 65 145 C 65 195 100 215 145 215 C 190 215 225 195 225 145 C 225 100 195 25 145 25 Z" fill="url(#eggG)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <ellipse cx="115" cy="80" rx="22" ry="34" fill="#ffffff" opacity="0.45" transform="rotate(-20 115 80)" stroke="#1a1a1a" stroke-width="5.00" />
 <ellipse cx="108" cy="72" rx="9" ry="14" fill="#ffffff" opacity="0.85" transform="rotate(-20 108 72)" stroke="#1a1a1a" stroke-width="5.00" />
 </svg>

@@ -5,6 +5,6 @@
   <rect x="70" y="80" width="150" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <text x="145" y="115" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#1a1a1a">DO NOT</text>
   <text x="145" y="138" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#1a1a1a">DISTURB</text>
-  <circle cx="145" cy="165" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"></circle>
-  <line x1="138" y1="158" x2="152" y2="172" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"></line>
+  <circle cx="145" cy="165" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <line x1="138" y1="158" x2="152" y2="172" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"></line>
 </g></svg>

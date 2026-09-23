@@ -4,7 +4,7 @@
   <!-- Crock rim (lip) -->
   <ellipse cx="145" cy="105" rx="90" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.83" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dark brown broth / caramelized onion base visible at rim -->
-  <ellipse cx="145" cy="110" rx="76" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="110" rx="76" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Caramelized onion strands visible in broth -->
   <path d="M90,114 Q108,106 126,114 Q140,120 155,112 Q170,104 185,113" fill="none" stroke="#1a1a1a" stroke-width="5.47" stroke-linecap="round"/>
   <path d="M95,122 Q112,114 128,122 Q142,128 158,120 Q172,112 186,121" fill="none" stroke="#1a1a1a" stroke-width="4.79" stroke-linecap="round"/>
@@ -14,10 +14,10 @@
   <!-- Broiled cheese layer on top - bubbly and golden-brown -->
   <rect x="68" y="42" width="154" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.47" stroke-linejoin="round"/>
   <!-- Broiled cheese bubbles (darker golden brown spots) -->
-  <ellipse cx="92" cy="52" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="120" cy="49" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="152" cy="52" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="185" cy="50" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="92" cy="52" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="120" cy="49" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="152" cy="52" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="185" cy="50" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Broiled dark spots on cheese (oven crust cue) -->
   <ellipse cx="105" cy="51" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="140" cy="48" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

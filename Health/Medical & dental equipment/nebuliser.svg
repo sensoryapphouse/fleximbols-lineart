@@ -11,11 +11,11 @@
 <!-- medication cup -->
 <path d="M 332 250 L 392 250 L 384 210 L 340 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- medicine in cup -->
-<path d="M 340 250 L 384 250 L 380 230 L 344 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 340 250 L 384 250 L 380 230 L 344 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- mouthpiece on top -->
 <rect x="348" y="172" width="28" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- mist puffs -->
-<circle cx="362" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="384" cy="132" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="340" cy="128" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="362" cy="150" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="384" cy="132" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="340" cy="128" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

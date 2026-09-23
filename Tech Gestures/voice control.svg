@@ -3,10 +3,10 @@
   <rect x="150" y="40" width="110" height="80" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="190" y="130" width="30" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="166" y="144" width="78" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
-  <rect x="158" y="56" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="158" y="68" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="158" y="80" width="60" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="158" y="92" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
+  <rect x="158" y="56" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="158" y="68" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="158" y="80" width="60" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="158" y="92" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
   <rect x="40" y="70" width="50" height="100" rx="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="50" y="84" width="30" height="76" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <path d="M 28,140 Q 28,180 65,180 Q 102,180 102,140" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"></path>

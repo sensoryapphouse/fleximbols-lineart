@@ -10,8 +10,8 @@
 <path d="M 280 188 Q 276 156 300 142" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <g>
 <ellipse cx="356" cy="178" rx="16" ry="11" fill="#1a1a1a"/>
-<circle cx="346" cy="166" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="366" cy="166" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="346" cy="166" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="366" cy="166" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="356" y1="178" x2="340" y2="194" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="356" y1="178" x2="372" y2="194" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 </g>

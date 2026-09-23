@@ -6,11 +6,11 @@
   <!-- Rim top ellipse -->
   <ellipse cx="145" cy="95" rx="80" ry="19" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Interior at rim (soup surface visible) -->
-  <ellipse cx="145" cy="95" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="95" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lid partially on, angled (ladle pushes it open) -->
   <path d="M68,95 Q68,64 145,58 Q202,64 215,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lid highlight -->
-  <path d="M92,80 Q108,62 145,59" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M92,80 Q108,62 145,59" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Lid rim -->
   <ellipse cx="145" cy="95" rx="73" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Lid knob -->
@@ -26,7 +26,7 @@
   <!-- Ladle bowl (ellipse inside pot at soup surface) -->
   <ellipse cx="123" cy="93" rx="20" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Ladle bowl depth curve -->
-  <path d="M103,93 Q123,105 143,93" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M103,93 Q123,105 143,93" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Base -->
-  <ellipse cx="145" cy="186" rx="68" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <ellipse cx="145" cy="186" rx="68" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

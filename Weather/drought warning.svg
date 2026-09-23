@@ -36,10 +36,10 @@
   <!-- Wilted flower head flopped over -->
   <path d="M60 76 Q50 70 46 75 Q42 82 50 84 Q58 85 60 76" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Dry twig branches from stem -->
-  <line x1="70" y1="136" x2="55" y2="130" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="70" y1="136" x2="55" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Warning triangle sign - centre -->
   <polygon points="148,18 270,18 209,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.88"/>
   <!-- Exclamation mark in triangle (paths, not text) -->
-  <rect x="203" y="42" width="12" height="52" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="203" y="102" width="12" height="14" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="203" y="42" width="12" height="52" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="203" y="102" width="12" height="14" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

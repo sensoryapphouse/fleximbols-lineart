@@ -14,8 +14,8 @@
   <!-- Vortex arm 3 (tighter) -->
   <path d="M145,68 Q200,72 212,118 Q218,154 184,170 Q158,184 130,176 Q98,162 88,132 Q78,102 96,80 Q116,60 145,68" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Rotation direction arrows on outer arm -->
-  <polygon points="240,100 230,92 244,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <polygon points="66,148 56,140 54,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="240,100 230,92 244,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="66,148 56,140 54,154" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Snowflake 1 (upper-right, on spiral) -->
   <g stroke="#ffffff" stroke-width="3.70" stroke-linecap="round">
     <line x1="222" y1="64" x2="222" y2="82"/>

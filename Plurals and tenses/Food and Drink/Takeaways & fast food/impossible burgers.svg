@@ -9,20 +9,20 @@
   <!-- Sear marks - grill lines like beef -->
   <path d="M70,170 Q102,166 132,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M152,168 Q184,164 212,168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M82,178 L96,168" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M118,180 L130,170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M175,176 L188,166" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M82,178 L96,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M118,180 L130,170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M175,176 L188,166" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small oval single-leaf plant-based cue - top right corner of bun -->
   <path d="M228,70 Q248,50 264,68 Q254,90 228,84 Q233,77 228,70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M230,72 Q246,72 263,68" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M230,72 Q246,72 263,68" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Top bun with sesame seeds -->
   <path d="M50,154 Q50,92 145,92 Q240,92 240,154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <ellipse cx="145" cy="154" rx="95" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <path d="M72,132 Q105,116 145,112 Q185,116 218,132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Sesame seeds - 5-seed pattern -->
-  <ellipse cx="118" cy="120" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 118 120)"/>
-  <ellipse cx="145" cy="110" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="172" cy="120" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 172 120)"/>
-  <ellipse cx="98" cy="134" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15 98 134)"/>
-  <ellipse cx="192" cy="134" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(15 192 134)"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <ellipse cx="118" cy="120" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 118 120)"/>
+  <ellipse cx="145" cy="110" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="172" cy="120" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 172 120)"/>
+  <ellipse cx="98" cy="134" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 98 134)"/>
+  <ellipse cx="192" cy="134" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 192 134)"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

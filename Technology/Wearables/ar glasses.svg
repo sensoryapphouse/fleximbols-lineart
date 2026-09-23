@@ -4,14 +4,14 @@
   <path d="M 25,108 Q 18,108 18,118 L 18,150 Q 18,168 35,168 L 105,168 Q 130,168 135,148 L 138,118 Q 138,108 128,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 265,108 Q 272,108 272,118 L 272,150 Q 272,168 255,168 L 185,168 Q 160,168 155,148 L 152,118 Q 152,108 162,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 138,115 Q 145,108 152,115" fill="none" stroke="#1a1a1a" stroke-width="5.93"></path>
-  <rect x="30" y="120" width="50" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
-  <rect x="30" y="132" width="35" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
+  <rect x="30" y="120" width="50" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="30" y="132" width="35" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
   <circle cx="105" cy="135" r="9" fill="none" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 100,135 L 104,140 L 110,128" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"></path>
-  <rect x="195" y="120" width="50" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
-  <rect x="195" y="132" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
+  <rect x="195" y="120" width="50" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="195" y="132" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
   <path d="M 178,142 L 192,142 L 192,156 L 178,156 Z M 178,142 L 184,136 L 198,136 L 192,142 M 192,156 L 198,150 L 198,136" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"></path>
   <path d="M 25,108 L 14,98 L 14,90 L 22,90" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 265,108 L 276,98 L 276,90 L 268,90" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="18" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="18" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
 </g></svg>

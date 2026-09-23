@@ -23,11 +23,11 @@
   <!-- Tassel cord drop -->
   <line x1="145" y1="184" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tassel head knot -->
-  <circle cx="145" cy="213" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="213" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tassel strands -->
-  <line x1="137" y1="219" x2="133" y2="232" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="141" y1="219" x2="139" y2="232" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="219" x2="145" y2="232" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="149" y1="219" x2="151" y2="232" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="153" y1="219" x2="157" y2="232" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="137" y1="219" x2="133" y2="232" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="141" y1="219" x2="139" y2="232" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="219" x2="145" y2="232" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="149" y1="219" x2="151" y2="232" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="153" y1="219" x2="157" y2="232" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

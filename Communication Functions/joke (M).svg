@@ -14,12 +14,12 @@
 
 <rect x="255" y="75" width="210" height="150" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="206" y1="153" x2="225.6" y2="173.0" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<polygon points="245.2,193.0 215.6,182.8 235.6,163.2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="245.2,193.0 215.6,182.8 235.6,163.2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.66" stroke-linejoin="round"/>
 <path d="M 314 126 q 16 18 32 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 370 126 q 16 18 32 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 324 152 Q 358 198 392 152 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 324 152 Q 358 198 392 152 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.66" stroke-linejoin="round"/>
 <path d="M 332 156 Q 358 164 384 156" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
-<line x1="112" y1="138" x2="96" y2="130" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="108" y1="96" x2="94" y2="84" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="74" x2="150" y2="56" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="112" y1="138" x2="96" y2="130" stroke="#1a1a1a" stroke-width="5.66" stroke-linecap="round"/>
+<line x1="108" y1="96" x2="94" y2="84" stroke="#1a1a1a" stroke-width="5.66" stroke-linecap="round"/>
+<line x1="150" y1="74" x2="150" y2="56" stroke="#1a1a1a" stroke-width="5.66" stroke-linecap="round"/>
 </g></svg>

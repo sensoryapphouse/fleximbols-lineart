@@ -6,11 +6,11 @@
   <!-- liquid surface highlight -->
   <ellipse cx="145" cy="55" rx="23" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bubbles rising -->
-  <circle cx="135" cy="75" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="150" cy="90" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="140" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="155" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="142" cy="130" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="135" cy="75" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="90" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="142" cy="130" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stem -->
   <rect x="142" y="145" width="6" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- foot/base -->
@@ -18,4 +18,4 @@
   <!-- lemon twist -->
   <path d="M170 25 C 195 18 215 35 208 55 C 200 70 185 65 188 50" fill="none" stroke="#1a1a1a" stroke-width="15.56" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M170 25 C 195 18 215 35 208 55 C 200 70 185 65 188 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

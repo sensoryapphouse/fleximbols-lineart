@@ -6,7 +6,7 @@
   <!-- arc ends at arrowhead base (371,157); butt cap so stroke stops exactly there -->
   <path d="M 30,380 C 30,100 220,168 371,157" fill="none" stroke="#1a1a1a" stroke-width="23.55" stroke-linecap="butt"/>
   <!-- arrowhead: tip at (395,155) pointing toward ball centre (460,150) -->
-  <polygon points="395,155 372,170 370,144" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" stroke-linejoin="round"/>
+  <polygon points="395,155 372,170 370,144" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round"/>
   <!-- ball r=30, drawn last -->
   <circle cx="460" cy="150" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85"/>
   <circle cx="447" cy="135" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.04" />

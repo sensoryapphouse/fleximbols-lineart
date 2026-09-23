@@ -18,8 +18,8 @@
   <!-- Motor housing bump (rounded body section) -->
   <ellipse cx="220" cy="119" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Ventilation slots -->
-  <line x1="210" y1="100" x2="210" y2="138" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="240" y1="100" x2="240" y2="138" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="210" y1="100" x2="210" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="240" y1="100" x2="240" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pistol grip handle pointing down -->
   <path d="M240,135 Q248,135 252,145 Q256,160 250,175 Q244,188 235,185 Q226,182 226,168 Q225,155 232,145 Q236,138 240,135Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <!-- Trigger -->
@@ -29,4 +29,4 @@
   <line x1="262" y1="100" x2="262" y2="104" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
   <!-- Cord / tail at rear -->
   <path d="M268,115 Q278,115 284,120 Q288,128 282,135" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

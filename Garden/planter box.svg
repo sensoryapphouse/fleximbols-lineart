@@ -20,7 +20,7 @@
   <circle cx="140" cy="70" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <circle cx="140" cy="70" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Drainage holes at bottom -->
-  <circle cx="100" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="145" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="190" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="100" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

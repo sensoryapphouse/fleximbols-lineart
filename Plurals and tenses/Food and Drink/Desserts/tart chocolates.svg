@@ -15,9 +15,9 @@
   <ellipse cx="165" cy="143" rx="9" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Chocolate curls garnish -->
   <!-- Curl 1 -->
-  <path d="M120,120 Q128,108 136,116 Q144,124 132,130 Q122,134 118,126" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120,120 Q128,108 136,116 Q144,124 132,130 Q122,134 118,126" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Curl 2 -->
-  <path d="M148,112 Q158,100 166,108 Q174,116 162,122 Q152,126 148,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M148,112 Q158,100 166,108 Q174,116 162,122 Q152,126 148,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Curl 3 (small) -->
-  <path d="M133,104 Q140,96 146,102 Q150,108 143,112 Q137,114 133,108" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M133,104 Q140,96 146,102 Q150,108 143,112 Q137,114 133,108" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

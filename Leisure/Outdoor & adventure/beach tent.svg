@@ -18,8 +18,8 @@
   <!-- opening curtain -->
   <path d="M 125 188 Q 130 150 145 145" fill="none" stroke="#ffffff" stroke-width="2.96"/>
   <!-- pegs / ground tabs -->
-  <rect x="44" y="186" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="234" y="186" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="44" y="186" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="234" y="186" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- top peak -->
-  <circle cx="145" cy="60" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="60" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

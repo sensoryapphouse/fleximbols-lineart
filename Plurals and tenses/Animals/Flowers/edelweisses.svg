@@ -10,36 +10,36 @@
   <!-- Bract 1 top -->
   <path d="M145,118 Q138,105 145,88 Q152,105 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Fuzzy edge texture on bracts -->
-  <path d="M145,118 Q136,104 139,90 Q141,100 145,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q136,104 139,90 Q141,100 145,88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 2 top-right -->
   <path d="M145,118 Q158,108 170,96 Q162,112 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q159,108 168,97 Q158,111 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q159,108 168,97 Q158,111 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 3 right -->
   <path d="M145,118 Q162,118 178,118 Q164,126 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q163,117 178,118 Q163,124 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q163,117 178,118 Q163,124 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 4 bottom-right -->
   <path d="M145,118 Q156,130 165,142 Q148,134 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q157,129 164,142 Q150,133 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q157,129 164,142 Q150,133 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 5 bottom -->
   <path d="M145,118 Q138,133 145,150 Q152,133 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q139,132 145,150 Q148,132 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q139,132 145,150 Q148,132 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 6 bottom-left -->
   <path d="M145,118 Q130,130 120,143 Q128,127 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q130,130 120,142 Q130,126 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q130,130 120,142 Q130,126 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 7 left -->
   <path d="M145,118 Q128,118 112,118 Q126,110 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q128,117 112,118 Q128,113 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q128,117 112,118 Q128,113 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bract 8 top-left -->
   <path d="M145,118 Q132,108 120,96 Q128,112 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M145,118 Q132,108 121,97 Q130,112 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M145,118 Q132,108 121,97 Q130,112 145,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Woolly centre cluster (small yellow buttons) -->
   <circle cx="145" cy="112" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Small button clusters within centre -->
-  <circle cx="141" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="149" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="137" cy="114" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="153" cy="114" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="141" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="149" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="137" cy="114" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="153" cy="114" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fuzzy halo around centre -->
   <circle cx="145" cy="112" r="18" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="3,4"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

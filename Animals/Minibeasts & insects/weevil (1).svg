@@ -4,9 +4,9 @@
   <!-- elytra centre line -->
   <line x1="145" y1="102" x2="145" y2="214" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- elytra texture ridges -->
-  <path d="M110 128 Q120 122 145 120 Q170 122 180 128" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M100 148 Q116 142 145 140 Q174 142 190 148" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M98 168 Q116 162 145 160 Q174 162 192 168" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 128 Q120 122 145 120 Q170 122 180 128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 148 Q116 142 145 140 Q174 142 190 148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M98 168 Q116 162 145 160 Q174 162 192 168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- thorax -->
   <ellipse cx="145" cy="108" rx="30" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- head (small, round) -->
@@ -16,12 +16,12 @@
   <!-- rostrum tip -->
   <circle cx="141" cy="154" r="4" fill="#1a1a1a"/>
   <!-- eyes (on sides of head) -->
-  <circle cx="130" cy="80" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="160" cy="80" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="130" cy="80" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="80" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- antennae (on rostrum, elbowed) -->
-  <path d="M137 112 Q122 108 110 100" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M137 112 Q122 108 110 100" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="110" cy="100" r="3" fill="#1a1a1a"/>
-  <path d="M143 112 Q158 108 170 100" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M143 112 Q158 108 170 100" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="170" cy="100" r="3" fill="#1a1a1a"/>
   <!-- 6 legs -->
   <path d="M102 118 Q84 124 68 132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

@@ -35,8 +35,8 @@
   <!-- Lemon segments -->
   <line x1="48" y1="179" x2="48" y2="205" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="35" y1="192" x2="61" y2="192" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="39" y1="183" x2="57" y2="201" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="57" y1="183" x2="39" y2="201" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="39" y1="183" x2="57" y2="201" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="57" y1="183" x2="39" y2="201" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fresh dill sprig -->
   <path d="M240 175 Q245 160 248 148" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
   <ellipse cx="244" cy="164" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-35 244 164)"/>

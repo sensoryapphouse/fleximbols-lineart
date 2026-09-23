@@ -13,11 +13,11 @@
 
 
 
-<rect x="404" y="221" width="28" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="405" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="412" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="419" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
-<rect x="426" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" data-lp="skin"/>
+<rect x="404" y="221" width="28" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="405" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="412" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="419" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="426" y="209" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="157" y1="345" x2="151" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="157" y1="345" x2="151" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="179" y1="345" x2="185" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="179" y1="345" x2="185" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <ellipse cx="151" cy="460" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>
@@ -32,11 +32,11 @@
 
 
 
-<polygon points="202.8,157.2 176,196 219.6,163.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<ellipse cx="214" cy="132" rx="56" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="214" cy="132" rx="56" ry="42" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<polygon points="202.8,157.2 176,196 219.6,163.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="214" cy="132" rx="56" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="214" cy="132" rx="56" ry="42" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="214" y1="114" x2="214" y2="138" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="214" cy="150" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 256 261.2 C 240 245.2 248.0 234 256 244.4 C 264.0 234 272 245.2 256 261.2 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="214" cy="150" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 256 261.2 C 240 245.2 248.0 234 256 244.4 C 264.0 234 272 245.2 256 261.2 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="96" y1="455" x2="452" y2="455" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 </svg>

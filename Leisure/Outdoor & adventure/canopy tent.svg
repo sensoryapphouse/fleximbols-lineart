@@ -17,8 +17,8 @@
   <!-- center peak post (short) -->
   <line x1="145" y1="70" x2="145" y2="88" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- pole foot pads -->
-  <rect x="47" y="202" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="227" y="202" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="77" y="197" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="197" y="197" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="47" y="202" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="227" y="202" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="77" y="197" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="197" y="197" width="16" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

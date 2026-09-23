@@ -11,5 +11,5 @@
   <path d="M 182,108 Q 200,122 202,148 Q 202,172 182,185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 96,90 Q 72,108 70,148 Q 70,180 96,198" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 194,90 Q 218,108 220,148 Q 220,180 194,198" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="107" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="107" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

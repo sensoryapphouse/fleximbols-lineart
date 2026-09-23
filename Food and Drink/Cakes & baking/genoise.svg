@@ -23,9 +23,9 @@
   <path d="M 120,82 L 170,82" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" fill="none"/>
   <path d="M 122,80 Q 145,72 168,80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
   <!-- Italian flag accent - small tricolour on top right of slice -->
-  <rect x="195" y="50" width="6" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="201" y="50" width="6" height="22" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="207" y="50" width="6" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="195" y="50" width="6" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="201" y="50" width="6" height="22" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="207" y="50" width="6" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Flag pole -->
   <line x1="213" y1="50" x2="213" y2="36" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

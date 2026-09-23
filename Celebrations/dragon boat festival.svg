@@ -9,7 +9,7 @@
   <line x1="40" y1="165" x2="240" y2="165" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- dragon head at front -->
   <path d="M 245 158 Q 270 145 275 130 Q 270 138 255 138 Q 265 125 280 122 Q 275 145 260 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <circle cx="270" cy="135" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="270" cy="135" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- dragon tail at back -->
   <path d="M 25 165 Q 10 155 5 140 Q 15 150 25 150 Q 15 155 18 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- rower 1 (full body) -->
@@ -60,7 +60,7 @@
   <line x1="30" y1="60" x2="50" y2="60" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="33" y1="68" x2="47" y2="68" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 60 75 L 65 90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M 60 75 L 65 90" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 60 75 L 65 90" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sun -->
   <circle cx="255" cy="40" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <line x1="255" y1="20" x2="255" y2="14" stroke="#1a1a1a" stroke-width="4.45"/>

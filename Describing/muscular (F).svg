@@ -8,7 +8,7 @@
   <path d="M120 205 Q170 175 200 205 Q198 250 158 252 Q120 248 120 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
   <!-- fist on top -->
   <ellipse cx="210" cy="80" rx="40" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
-  <path d="M180 70 L240 70 M180 84 L240 84 M180 98 L240 98" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" /></g>
+  <path d="M180 70 L240 70 M180 84 L240 84 M180 98 L240 98" stroke="#1a1a1a" stroke-width="5.04" stroke-linecap="round" /></g>
 <g data-part="hair-back"><g transform="translate(262.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="344" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

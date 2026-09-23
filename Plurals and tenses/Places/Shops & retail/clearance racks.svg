@@ -14,7 +14,7 @@
   <path d="M 90 80 L 90 75 Q 90 70 95 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 72 92 L 108 92 L 116 110 L 105 110 L 105 165 L 75 165 L 75 110 L 64 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tag on shirt -->
-  <path d="M 82 130 L 96 130 L 100 142 L 86 142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 82 130 L 96 130 L 100 142 L 86 142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="84" y1="125" x2="80" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="85" y1="134" x2="93" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
@@ -23,7 +23,7 @@
   <path d="M 145 80 L 145 75 Q 145 70 150 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 127 92 L 163 92 L 171 110 L 160 110 L 160 170 L 130 170 L 130 110 L 119 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tag -->
-  <path d="M 137 132 L 151 132 L 155 144 L 141 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 137 132 L 151 132 L 155 144 L 141 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="139" y1="127" x2="135" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <circle cx="145" cy="138" r="2" fill="#1a1a1a"/>
   <line x1="142" y1="141" x2="148" y2="134" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
@@ -33,7 +33,7 @@
   <path d="M 200 80 L 200 75 Q 200 70 205 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 182 92 L 218 92 L 226 108 L 213 108 L 230 180 L 170 180 L 187 108 L 174 108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tag -->
-  <path d="M 192 134 L 206 134 L 210 146 L 196 146 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 192 134 L 206 134 L 210 146 L 196 146 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="194" y1="129" x2="190" y2="124" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="195" y1="138" x2="207" y2="142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- price tag with big % replacing CLEARANCE sign text -->
@@ -43,5 +43,5 @@
   <circle cx="130" cy="40" r="8" fill="none" stroke="#ffffff" stroke-width="5.93"/>
   <line x1="142" y1="25" x2="88" y2="55" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
   <!-- price tag hole -->
-  <circle cx="217" cy="43" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="217" cy="43" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.72"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

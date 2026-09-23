@@ -6,8 +6,8 @@
   <!-- Roof parapet band -->
   <rect x="45" y="72" width="200" height="24" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Green cross emblem on parapet (centred) -->
-  <rect x="126" y="78" width="38" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
-  <rect x="139" y="72" width="12" height="24" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="126" y="78" width="38" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="139" y="72" width="12" height="24" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Windows row 1 -->
   <rect x="72" y="104" width="36" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="182" y="104" width="36" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
@@ -16,8 +16,8 @@
   <rect x="182" y="150" width="36" height="26" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Entry door -->
   <rect x="120" y="174" width="50" height="44" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <rect x="157" y="193" width="6" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="157" y="193" width="6" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Small red cross on building facade (secondary identity) -->
-  <rect x="120" y="140" width="50" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
-  <rect x="138" y="132" width="14" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <rect x="120" y="140" width="50" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="138" y="132" width="14" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

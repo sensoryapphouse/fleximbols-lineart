@@ -13,10 +13,10 @@
   <!-- Rounded nose (domey top, no sharp point) -->
   <path d="M110,90 Q110,40 145,32 Q180,40 180,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
   <!-- Stainless steel panel lines (horizontal bands) -->
-  <line x1="110" y1="110" x2="180" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="110" y1="130" x2="180" y2="130" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="110" y1="150" x2="180" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="110" y1="170" x2="180" y2="170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="110" y1="110" x2="180" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="110" y1="130" x2="180" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="110" y1="150" x2="180" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="110" y1="170" x2="180" y2="170" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Canard flaps at top (small, near nose) -->
   <path d="M110,95 L85,75 L95,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
   <path d="M180,95 L205,75 L195,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
@@ -30,10 +30,10 @@
   <ellipse cx="145" cy="208" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="160" cy="208" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Flames from three engines -->
-  <path d="M123,213 Q130,228 137,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M138,213 Q145,228 152,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M153,213 Q160,228 167,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M123,213 Q130,228 137,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M138,213 Q145,228 152,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M153,213 Q160,228 167,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Outer flame glow -->
-  <path d="M120,213 Q130,235 140,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M150,213 Q160,235 170,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M120,213 Q130,235 140,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M150,213 Q160,235 170,213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

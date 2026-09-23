@@ -4,9 +4,9 @@
   <!-- Ground / land at bottom -->
   <path d="M26,196 Q80,188 145,194 Q200,198 264,192 L264,224 L26,224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Farmland patches on ground -->
-  <rect x="36" y="200" width="52" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="108" y="202" width="42" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="196" y="198" width="54" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="36" y="200" width="52" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="108" y="202" width="42" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="196" y="198" width="54" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Cyclone spiral: Southern Hemisphere, CLOCKWISE from above -->
   <!-- Outer band (CW) -->
   <path d="M145,108 Q68,56 50,112 Q32,170 76,202 Q122,230 168,214 Q224,194 242,148 Q260,98 218,60 Q182,26 145,40 Q90,54 74,100" fill="none" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
@@ -17,19 +17,19 @@
   <!-- Directional wind arrows (CW rotation, clearly labelled) -->
   <!-- Arrow TOP: pointing right -->
   <line x1="140" y1="42" x2="158" y2="42" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="158,42 150,36 150,48" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round"/>
+  <polygon points="158,42 150,36 150,48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Arrow RIGHT: pointing down -->
   <line x1="238" y1="108" x2="238" y2="126" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="238,126 231,118 245,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round"/>
+  <polygon points="238,126 231,118 245,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Arrow BOTTOM: pointing left -->
   <line x1="150" y1="180" x2="132" y2="180" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="132,180 140,174 140,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round"/>
+  <polygon points="132,180 140,174 140,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Arrow LEFT: pointing up -->
   <line x1="52" y1="118" x2="52" y2="100" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="52,100 58,108 46,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round"/>
+  <polygon points="52,100 58,108 46,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Eye wall -->
   <circle cx="145" cy="114" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Eye -->
   <circle cx="145" cy="114" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="114" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="114" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

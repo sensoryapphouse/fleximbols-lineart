@@ -20,9 +20,9 @@
   <ellipse cx="150" cy="160" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(5 150 160)"/>
   <ellipse cx="180" cy="158" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(25 180 158)"/>
   <!-- nut centre lines -->
-  <line x1="58" y1="135" x2="72" y2="145" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="125" y1="137" x2="135" y2="147" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="190" y1="135" x2="200" y2="145" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="108" y1="153" x2="122" y2="163" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="173" y1="153" x2="187" y2="163" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="58" y1="135" x2="72" y2="145" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="125" y1="137" x2="135" y2="147" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="190" y1="135" x2="200" y2="145" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="108" y1="153" x2="122" y2="163" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="173" y1="153" x2="187" y2="163" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

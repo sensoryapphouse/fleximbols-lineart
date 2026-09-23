@@ -20,7 +20,7 @@
   <circle cx="220" cy="75" r="2" fill="#1a1a1a"/>
   <!-- Curved arrow between clocks (day change) -->
   <path d="M 250 75 Q 265 90 250 105" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="250,105 244,98 256,97" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="250,105 244,98 256,97" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Second clock -->
   <circle cx="265" cy="125" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <line x1="265" y1="125" x2="265" y2="108" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

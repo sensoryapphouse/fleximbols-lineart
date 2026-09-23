@@ -8,11 +8,11 @@
   <!-- Sheet drapes down sides slightly differently from mud mask - flat fabric, slightly wider at bottom -->
   <path d="M68,115 Q65,50 145,42 Q225,50 222,115 Q226,170 216,190 Q200,210 145,212 Q90,210 74,190 Q64,170 68,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.71" stroke-linejoin="round"/>
   <!-- Fabric texture: horizontal stitch lines across the sheet -->
-  <line x1="75" y1="100" x2="215" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="72" y1="120" x2="218" y2="120" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="72" y1="140" x2="218" y2="140" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="74" y1="160" x2="216" y2="160" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="76" y1="180" x2="214" y2="180" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="75" y1="100" x2="215" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="72" y1="120" x2="218" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="72" y1="140" x2="218" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="74" y1="160" x2="216" y2="160" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="76" y1="180" x2="214" y2="180" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Eye cut-outs in sheet (oval holes, skin showing through) -->
   <ellipse cx="113" cy="112" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
   <ellipse cx="177" cy="112" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>

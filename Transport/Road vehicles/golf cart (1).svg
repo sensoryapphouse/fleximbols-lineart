@@ -15,9 +15,9 @@
   <!-- bag holder area at back with club shafts -->
   <rect x="200" y="80" width="22" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="207" y1="80" x2="204" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="207" y1="80" x2="204" y2="55" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="207" y1="80" x2="204" y2="55" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="214" y1="80" x2="216" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="214" y1="80" x2="216" y2="55" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="214" y1="80" x2="216" y2="55" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- chassis bottom -->
   <rect x="38" y="172" width="204" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- wheels -->

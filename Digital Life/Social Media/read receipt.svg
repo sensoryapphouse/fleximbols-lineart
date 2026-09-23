@@ -8,14 +8,14 @@
   <!-- Profile circle (small, bottom-left area) -->
   <circle cx="52" cy="170" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
   <!-- Head in profile -->
-  <circle cx="52" cy="164" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="52" cy="164" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Body arc in profile -->
-  <path d="M34 192 Q52 178 70 192" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M34 192 Q52 178 70 192" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Double check (blue ticks) -->
   <polyline points="105,178 115,190 135,162" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <polyline points="118,178 128,190 148,162" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Eye icon (seen indicator) -->
   <ellipse cx="195" cy="178" rx="28" ry="16" fill="none" stroke="#1a1a1a" stroke-width="3.95"/>
-  <circle cx="195" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="199" cy="175" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

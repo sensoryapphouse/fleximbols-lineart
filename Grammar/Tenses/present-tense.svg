@@ -5,8 +5,8 @@
 <line x1="138" y1="286" x2="138" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="256" y1="286" x2="256" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="374" y1="286" x2="374" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="138" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="374" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="138" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"/>
+<circle cx="374" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"/>
 <circle cx="256" cy="300" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="256" y1="268" x2="263" y2="252" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="256" y1="268" x2="249" y2="252" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="256" y1="220" x2="256" y2="268" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="256" y1="220" x2="256" y2="268" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="256" y1="268" x2="249" y2="252" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>

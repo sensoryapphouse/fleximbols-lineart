@@ -8,6 +8,6 @@
   <ellipse cx="170" cy="120" rx="11" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="80" cy="120" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="210" cy="120" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
-  <path d="M 120,160 Q 118,180 122,200" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"></path>
-  <path d="M 170,160 Q 172,180 168,200" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"></path>
+  <path d="M 120,160 Q 118,180 122,200" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"></path>
+  <path d="M 170,160 Q 172,180 168,200" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"></path>
 </g></svg>

@@ -7,19 +7,19 @@
   <!-- Mat frame -->
   <rect x="25" y="145" width="191" height="68" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Vertical weave lines on mat -->
-  <line x1="60" y1="148" x2="60" y2="213" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="95" y1="148" x2="95" y2="213" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="130" y1="148" x2="130" y2="213" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="165" y1="148" x2="165" y2="213" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="200" y1="148" x2="200" y2="213" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="60" y1="148" x2="60" y2="213" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="95" y1="148" x2="95" y2="213" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="130" y1="148" x2="130" y2="213" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="165" y1="148" x2="165" y2="213" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="200" y1="148" x2="200" y2="213" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Soba noodle pile on mat -->
   <path d="M 45,155 Q 65,142 88,148 Q 110,154 88,162 Q 65,168 48,160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 70,140 Q 95,128 118,136 Q 140,144 116,152 Q 90,158 68,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 50,132 Q 80,118 110,126 Q 138,134 108,142 Q 76,148 52,138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Noodle strand lines -->
-  <path d="M 55,136 Q 78,130 100,136" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 58,142 Q 84,136 106,142" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 72,148 Q 96,143 118,148" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 55,136 Q 78,130 100,136" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 58,142 Q 84,136 106,142" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 72,148 Q 96,143 118,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Dipping cup (tsuyu) -->
   <path d="M 230,148 Q 225,142 228,135 L 268,135 Q 271,142 266,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="226" y="148" width="44" height="60" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>

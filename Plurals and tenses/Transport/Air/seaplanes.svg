@@ -11,9 +11,9 @@
 <!-- cockpit windscreen -->
 <path d="M 110 218 Q 134 200 168 214 L 168 226 L 110 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- cabin windows -->
-<circle cx="226" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="260" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="294" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="226" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.1"/>
+<circle cx="260" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.1"/>
+<circle cx="294" cy="222" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.1"/>
 <!-- struts from fuselage to float -->
 <line x1="168" y1="250" x2="168" y2="306" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="316" y1="250" x2="316" y2="306" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
@@ -21,4 +21,4 @@
 <path d="M 132 308 L 360 308 Q 378 308 376 322 L 372 332 Q 370 340 356 340 L 150 340 Q 126 340 122 326 Q 120 312 132 308 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
 <!-- water surface -->
 <path d="M 96 366 q 28 -16 56 0 q 28 16 56 0 q 28 -16 56 0 q 28 16 56 0 q 28 -16 56 0" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

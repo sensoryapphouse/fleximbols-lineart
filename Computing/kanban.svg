@@ -20,13 +20,13 @@
   <rect x="193" y="102" width="63" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="193" y="140" width="63" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- lines on cards to suggest content -->
-  <line x1="42" y1="76"  x2="88"  y2="76"  stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="42" y1="85"  x2="78"  y2="85"  stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="42" y1="114" x2="88"  y2="114" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="42" y1="152" x2="88"  y2="152" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="121" y1="76"  x2="168" y2="76"  stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="121" y1="114" x2="168" y2="114" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="201" y1="76"  x2="247" y2="76"  stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="201" y1="114" x2="247" y2="114" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="201" y1="152" x2="247" y2="152" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="42" y1="76"  x2="88"  y2="76"  stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="42" y1="85"  x2="78"  y2="85"  stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="42" y1="114" x2="88"  y2="114" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="42" y1="152" x2="88"  y2="152" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="121" y1="76"  x2="168" y2="76"  stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="121" y1="114" x2="168" y2="114" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="201" y1="76"  x2="247" y2="76"  stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="201" y1="114" x2="247" y2="114" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="201" y1="152" x2="247" y2="152" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

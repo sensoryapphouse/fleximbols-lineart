@@ -20,23 +20,23 @@
   <!-- Month header strip -->
   <rect x="40" y="126" width="210" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Month header bar representing text -->
-  <rect x="100" y="132" width="90" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="100" y="132" width="90" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- Day-of-week header row -->
-  <rect x="40" y="150" width="210" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="40" y="150" width="210" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- Grid lines vertical -->
-  <line x1="70" y1="150" x2="70" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="100" y1="150" x2="100" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="130" y1="150" x2="130" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="160" y1="150" x2="160" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="190" y1="150" x2="190" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="220" y1="150" x2="220" y2="230" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="70" y1="150" x2="70" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="100" y1="150" x2="100" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="130" y1="150" x2="130" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="160" y1="150" x2="160" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="190" y1="150" x2="190" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="220" y1="150" x2="220" y2="230" stroke="#1a1a1a" stroke-width="4.51"/>
   <!-- Grid lines horizontal -->
-  <line x1="40" y1="166" x2="250" y2="166" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="40" y1="182" x2="250" y2="182" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="40" y1="198" x2="250" y2="198" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="40" y1="214" x2="250" y2="214" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="40" y1="166" x2="250" y2="166" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="40" y1="182" x2="250" y2="182" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="40" y1="198" x2="250" y2="198" stroke="#1a1a1a" stroke-width="4.51"/>
+  <line x1="40" y1="214" x2="250" y2="214" stroke="#1a1a1a" stroke-width="4.51"/>
   <!-- Highlighted today cell -->
-  <rect x="130" y="182" width="30" height="16" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="130" y="182" width="30" height="16" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- Outer border redraw on top -->
   <rect x="40" y="30" width="210" height="200" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

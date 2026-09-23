@@ -7,13 +7,13 @@
   <!-- Cherry tomato 1 (top-left small round) -->
   <circle cx="95" cy="115" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M82 100 Q78 110 82 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="95" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="95" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cherry tomato 2 (top-right small round) -->
   <circle cx="195" cy="125" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M182 110 Q178 120 182 130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="195" cy="93" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="195" cy="93" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cherry tomato 3 (bottom-center small round) -->
   <circle cx="145" cy="175" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M130 158 Q124 172 130 185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="145" cy="139" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="139" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

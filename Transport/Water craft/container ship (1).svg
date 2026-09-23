@@ -27,15 +27,15 @@
   <rect x="108" y="96" width="36" height="28" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="148" y="96" width="36" height="28" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- container door lines -->
-  <line x1="46" y1="122" x2="46" y2="150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="86" y1="122" x2="86" y2="150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="126" y1="122" x2="126" y2="150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="166" y1="122" x2="166" y2="150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="46" y1="96" x2="46" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="86" y1="96" x2="86" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="126" y1="96" x2="126" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="166" y1="96" x2="166" y2="122" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="46" y1="122" x2="46" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="86" y1="122" x2="86" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="126" y1="122" x2="126" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="166" y1="122" x2="166" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="46" y1="96" x2="46" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="86" y1="96" x2="86" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="126" y1="96" x2="126" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="166" y1="96" x2="166" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- water -->
   <path d="M15 185 Q55 177 95 185 Q135 193 175 185 Q215 177 255 185 Q268 189 278 185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M12 195 Q50 187 90 195 Q130 203 170 195 Q210 187 250 195 Q265 199 278 195" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M12 195 Q50 187 90 195 Q130 203 170 195 Q210 187 250 195 Q265 199 278 195" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

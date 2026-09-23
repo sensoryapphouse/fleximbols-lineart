@@ -19,8 +19,8 @@
   <line x1="80" y1="113" x2="80" y2="108" stroke="#1a1a1a" stroke-width="3.56"/>
   <line x1="240" y1="113" x2="240" y2="108" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- door handles -->
-  <rect x="125" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="170" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="125" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="170" y="155" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- headlight -->
   <rect x="24" y="160" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- tail light (flat back) -->

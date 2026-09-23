@@ -4,16 +4,16 @@
   <path d="M40 210 L250 180 L256 230 L46 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
   <!-- Open book on lectern -->
   <path d="M70 208 Q145 188 220 200 L220 218 Q145 206 70 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-  <line x1="145" y1="197" x2="148" y2="222" stroke="#1a1a1a" stroke-width="4"/>
+  <line x1="145" y1="197" x2="148" y2="222" stroke="#1a1a1a" stroke-width="5.05"/>
   <!-- Page lines -->
-  <line x1="90" y1="210" x2="135" y2="204" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
-  <line x1="158" y1="204" x2="205" y2="210" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="90" y1="210" x2="135" y2="204" stroke="#1a1a1a" stroke-width="5.05" stroke-linecap="round"/>
+  <line x1="158" y1="204" x2="205" y2="210" stroke="#1a1a1a" stroke-width="5.05" stroke-linecap="round"/>
   <!-- Column / stand -->
   <rect x="120" y="244" width="56" height="161" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
   <!-- Base -->
   <rect x="78" y="402" width="140" height="26" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
   <!-- Decorative band -->
-  <rect x="120" y="320" width="56" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/></g>
+  <rect x="120" y="320" width="56" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.05"/></g>
 <line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="344" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

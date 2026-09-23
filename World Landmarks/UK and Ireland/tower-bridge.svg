@@ -4,31 +4,31 @@
 <path d="M 488 300 Q 452 332 455.0 300" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <rect x="57.0" y="150.0" width="78.0" height="210.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="49.0" y="130.0" width="20.0" height="70.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="49.0 130 59.0 108 69.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="49.0 130 59.0 108 69.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <rect x="123.0" y="130.0" width="20.0" height="70.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="123.0 130 133.0 108 143.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="123.0 130 133.0 108 143.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <rect x="55.0" y="150.0" width="82.0" height="14.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="66 150 96 80 126 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="96" y1="80" x2="96" y2="60" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<polygon points="66 150 96 80 126 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
+<line x1="96" y1="80" x2="96" y2="60" stroke="#1a1a1a" stroke-width="6.82" stroke-linecap="round"/>
 <circle cx="96.0" cy="56.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="84.0" y="200.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="84.0" y="250.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="84.0" y="300.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="377.0" y="150.0" width="78.0" height="210.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="369.0" y="130.0" width="20.0" height="70.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="369.0 130 379.0 108 389.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="369.0 130 379.0 108 389.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <rect x="443.0" y="130.0" width="20.0" height="70.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="443.0 130 453.0 108 463.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="443.0 130 453.0 108 463.0 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <rect x="375.0" y="150.0" width="82.0" height="14.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="386 150 416 80 446 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="416" y1="80" x2="416" y2="60" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<polygon points="386 150 416 80 446 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
+<line x1="416" y1="80" x2="416" y2="60" stroke="#1a1a1a" stroke-width="6.82" stroke-linecap="round"/>
 <circle cx="416.0" cy="56.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="404.0" y="200.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="404.0" y="250.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="404.0" y="300.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="96.0" y="170.0" width="320.0" height="30.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="135.0 360 135.0 342 248 308 248 326" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<polygon points="377.0 360 377.0 342 264 308 264 326" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="135.0 360 135.0 342 248 308 248 326" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
+<polygon points="377.0 360 377.0 342 264 308 264 326" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <rect x="53.0" y="360.0" width="86.0" height="36.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="373.0" y="360.0" width="86.0" height="36.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </g></svg>

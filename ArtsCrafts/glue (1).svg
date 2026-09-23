@@ -8,19 +8,19 @@
   <path d="M105,167 Q145,152 185,167" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M105,183 Q145,168 185,183" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Glue drop dripping -->
-  <ellipse cx="145" cy="200" rx="10" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="135,200 155,200 145,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="200" rx="10" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="135,200 155,200 145,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Glue bottle/stick body -->
   <rect x="110" y="38" width="70" height="110" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bottle label area -->
-  <rect x="118" y="65" width="54" height="60" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="118" y="65" width="54" height="60" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Glue bottle cap/nozzle -->
   <rect x="124" y="18" width="42" height="24" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Nozzle tip -->
   <polygon points="138,18 152,18 145,8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Squeeze lines on bottle -->
-  <line x1="115" y1="95" x2="175" y2="95" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="115" y1="110" x2="175" y2="110" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="115" y1="95" x2="175" y2="95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="115" y1="110" x2="175" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Glue oozing from nozzle tip -->
   <path d="M145,8 Q148,0 145,155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

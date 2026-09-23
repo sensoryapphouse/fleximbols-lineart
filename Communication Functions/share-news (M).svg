@@ -14,10 +14,10 @@
 
 <rect x="258" y="75" width="196" height="150" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="206" y1="153" x2="227.7" y2="173.9" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<polygon points="247.9,193.3 218.0,184.0 237.4,163.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="247.9,193.3 218.0,184.0 237.4,163.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.42" stroke-linejoin="round"/>
 <rect x="300" y="98" width="112" height="104" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="310" y="108" width="92" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="310" y="140" width="42" height="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="310" y="108" width="92" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.42"/>
+<rect x="310" y="140" width="42" height="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.42"/>
 <line x1="360" y1="144" x2="402" y2="144" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="360" y1="158" x2="402" y2="158" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="360" y1="172" x2="402" y2="172" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>

@@ -16,13 +16,13 @@
   <!-- Baby bottle in pocket -->
   <rect x="204" y="92" width="18" height="50" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="208" y="84" width="10" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="210" y="76" width="6" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="210" y="76" width="6" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Diaper peeking out from top -->
   <path d="M86 98 L76 78 Q74 68 86 64 L140 58 L140 98 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Diaper tabs -->
-  <rect x="74" y="62" width="14" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="138" y="56" width="14" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="74" y="62" width="14" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="138" y="56" width="14" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Front zipper line -->
   <line x1="80" y1="168" x2="210" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="8 5"/>
-  <circle cx="80" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="80" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

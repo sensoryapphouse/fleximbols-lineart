@@ -4,9 +4,9 @@
   <!-- top banner (priority/tracking header) -->
   <rect x="30" y="25" width="230" height="32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- tracking dot pattern in header -->
-  <circle cx="50" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="65" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="80" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="50" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="65" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- shipping arrow icon in header -->
   <path d="M210 32 L240 32 L240 28 L250 41 L240 54 L240 50 L210 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- TO: section divider -->

@@ -13,12 +13,12 @@
   <circle cx="145" cy="107" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="145" cy="107" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- voice waveform bars -->
-  <rect x="85" y="100" width="4" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="93" y="92" width="4" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="101" y="96" width="4" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="185" y="96" width="4" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="193" y="92" width="4" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="201" y="100" width="4" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="85" y="100" width="4" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="93" y="92" width="4" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="101" y="96" width="4" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="185" y="96" width="4" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="193" y="92" width="4" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="201" y="100" width="4" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- time on screen -->
   <line x1="75" y1="60" x2="100" y2="60" stroke="#ffffff" stroke-width="7.41" stroke-linecap="round"/>
   <line x1="105" y1="60" x2="125" y2="60" stroke="#ffffff" stroke-width="7.41" stroke-linecap="round"/>
@@ -27,7 +27,7 @@
   <line x1="210" y1="51" x2="210" y2="54" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="210" y1="70" x2="210" y2="73" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- camera dot above screen -->
-  <circle cx="145" cy="46" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="46" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- WiFi arcs top right -->
   <path d="M250 30 Q263 18 275 30" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <path d="M254 38 Q263 30 272 38" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>

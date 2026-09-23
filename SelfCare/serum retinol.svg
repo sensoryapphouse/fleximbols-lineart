@@ -7,7 +7,7 @@
   <rect x="90" y="69" width="70" height="155" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- pipette stem above (with serum visible) -->
   <rect x="120" y="20" width="10" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="120" y="30" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="120" y="30" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- label -->
   <rect x="98" y="100" width="54" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- youth indicator: smooth skin patch with crow's feet eye -->
@@ -19,7 +19,7 @@
   <!-- dark amber serum drop -->
   <path d="M215 100 Q200 130 215 150 Q230 130 215 100 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- highlight on drop -->
-  <ellipse cx="210" cy="120" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="210" cy="120" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nighttime moon (retinol is a PM product) -->
   <path d="M235 180 Q220 175 220 195 Q220 215 240 210 Q230 205 230 195 Q230 185 235 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- retinol molecule dot (replaces RETINOL label) -->

@@ -2,8 +2,8 @@
   <!-- Waffle cone -->
   <path d="M 95,160 Q 145,170 195,160 L 165,228 Q 145,236 125,228 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Cone crosshatch lines -->
-  <path d="M 100,165 L 128,226 M 115,163 L 138,228 M 130,162 L 150,228 M 148,162 L 162,228 M 165,163 L 168,225 M 180,165 L 170,223" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 95,170 Q 145,178 195,170 M 100,180 Q 145,188 190,180 M 107,194 Q 145,200 183,194 M 116,208 Q 145,212 174,208" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 100,165 L 128,226 M 115,163 L 138,228 M 130,162 L 150,228 M 148,162 L 162,228 M 165,163 L 168,225 M 180,165 L 170,223" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 95,170 Q 145,178 195,170 M 100,180 Q 145,188 190,180 M 107,194 Q 145,200 183,194 M 116,208 Q 145,212 174,208" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Swirled soft serve - built as stacked curves giving coiled appearance -->
   <!-- Bottom coil tier -->
   <path d="M 100,162 Q 88,148 92,132 Q 96,118 118,118 Q 130,118 138,128 Q 146,118 158,118 Q 180,118 184,132 Q 188,148 178,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>

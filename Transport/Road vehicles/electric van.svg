@@ -14,7 +14,7 @@
   <!-- Rear door line -->
   <line x1="195" y1="114" x2="195" y2="182" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Door handle -->
-  <rect x="198" y="143" width="20" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="198" y="143" width="20" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wheels -->
   <circle cx="75" cy="197" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="75" cy="197" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

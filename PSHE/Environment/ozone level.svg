@@ -17,7 +17,7 @@
 
   <!-- O3 molecule badge: O circle + subscript 3 lines (no letters) -->
   <circle cx="180" cy="220" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="180" cy="220" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="180" cy="220" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- three dots representing "3" atoms -->
   <circle cx="205" cy="213" r="3" fill="#1a1a1a"/>
   <circle cx="212" cy="220" r="3" fill="#1a1a1a"/>

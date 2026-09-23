@@ -22,9 +22,9 @@
   <path d="M140 178 q4 -3 8 0" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M190 172 q4 -3 8 0" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- eye-spots (small dark indents) -->
-  <circle cx="90" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="140" cy="132" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="200" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="110" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="170" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="90" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="132" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="110" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

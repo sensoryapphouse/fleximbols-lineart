@@ -8,18 +8,18 @@
   <!-- Post column (sisal) -->
   <rect x="236" y="118" width="16" height="82" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Sisal wrapping lines -->
-  <line x1="236" y1="128" x2="252" y2="128" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="138" x2="252" y2="138" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="148" x2="252" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="158" x2="252" y2="158" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="168" x2="252" y2="168" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="178" x2="252" y2="178" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="236" y1="188" x2="252" y2="188" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="236" y1="128" x2="252" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="138" x2="252" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="148" x2="252" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="158" x2="252" y2="158" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="168" x2="252" y2="168" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="178" x2="252" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="236" y1="188" x2="252" y2="188" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Platform top -->
   <rect x="222" y="106" width="44" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- === CAT TOY (dangling from post) === -->
-  <line x1="222" y1="114" x2="206" y2="136" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="222" y1="114" x2="206" y2="136" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="204" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- === PERSON (seated on floor) === -->
@@ -36,7 +36,7 @@
   <!-- Head -->
   <circle cx="96" cy="66" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Hair -->
-  <path d="M74 64 Q78 42 96 40 Q114 42 118 64 Q113 52 96 50 Q79 52 74 64Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M74 64 Q78 42 96 40 Q114 42 118 64 Q113 52 96 50 Q79 52 74 64Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Left arm extended offering toy -->
   <path d="M72 100 L44 128 L56 136 L80 112" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <ellipse cx="46" cy="138" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -50,18 +50,18 @@
   <!-- Cat head -->
   <ellipse cx="126" cy="158" rx="18" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Cat ears -->
-  <path d="M112 146 L108 132 L122 142Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M130 144 L132 130 L142 142Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M112 146 L108 132 L122 142Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M130 144 L132 130 L142 142Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Cat eyes (happy, half-closed) -->
-  <path d="M118 156 Q121 152 124 156" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M128 156 Q131 152 134 156" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M118 156 Q121 152 124 156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M128 156 Q131 152 134 156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cat nose -->
-  <path d="M124 162 L126 164 L128 162 L126 160Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M124 162 L126 164 L128 162 L126 160Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Whiskers -->
-  <line x1="108" y1="162" x2="122" y2="162" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="108" y1="166" x2="122" y2="165" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="130" y1="162" x2="144" y2="162" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="130" y1="166" x2="144" y2="165" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="108" y1="162" x2="122" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="108" y1="166" x2="122" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="130" y1="162" x2="144" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="130" y1="166" x2="144" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cat tail curled -->
   <path d="M128 184 Q148 196 152 186 Q156 178 144 174" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 </g></svg>

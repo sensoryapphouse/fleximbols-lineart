@@ -12,12 +12,12 @@
   <path d="M95,75 L118,82 M95,90 L118,97 M95,105 L118,112 M95,120 L118,127 M95,135 L118,142"
         fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <!-- lace eyelets -->
-  <circle cx="95" cy="75" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="118" cy="82" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="95" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="118" cy="112" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="95" cy="135" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="118" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="75" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="82" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="95" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="112" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="95" cy="135" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- blade holder -->
   <path d="M60,165 L60,180 Q60,188 70,188 L225,188 Q235,188 235,180 L235,165 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
@@ -28,5 +28,5 @@
   <path d="M50,205 L240,205 Q248,205 248,210 L248,213 Q248,218 240,218 L50,218 Q42,218 42,213 L42,210 Q42,205 50,205 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round" data-lp="hair"/>
   <!-- blade highlight line -->
-  <path d="M55,211 L235,211" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M55,211 L235,211" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -10,5 +10,5 @@
   <!-- Label on bottle -->
   <rect x="112" y="118" width="66" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Label mountain motif lines -->
-  <polyline points="118,158 130,135 142,150 154,128 166,158" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="118,158 130,135 142,150 154,128 166,158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

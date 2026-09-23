@@ -13,19 +13,19 @@
   <!-- Red enchilada sauce over both -->
   <rect x="55" y="148" width="180" height="72" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sauce drips at edges -->
-  <ellipse cx="80" cy="220" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="145" cy="222" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="210" cy="220" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="80" cy="220" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="222" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="210" cy="220" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tortilla roll ends visible through sauce -->
-  <ellipse cx="70" cy="165" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="70" cy="183" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="220" cy="165" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="220" cy="183" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="70" cy="165" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="70" cy="183" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="220" cy="165" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="220" cy="183" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Melted cheese blobs -->
-  <ellipse cx="110" cy="155" rx="28" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="170" cy="157" rx="24" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="140" cy="175" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="110" cy="155" rx="28" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="170" cy="157" rx="24" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="140" cy="175" rx="30" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Crema drizzle -->
   <path d="M90 165 Q120 158 155 163 Q180 168 210 160" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M85 182 Q115 175 150 180 Q178 185 215 178" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

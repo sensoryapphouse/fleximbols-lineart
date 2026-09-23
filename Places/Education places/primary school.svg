@@ -13,11 +13,11 @@
 <line x1="256" y1="322" x2="256" y2="413" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- windows -->
 <rect x="148" y="210" width="56" height="50" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="176" y1="210" x2="176" y2="260" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="148" y1="235" x2="204" y2="235" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="176" y1="210" x2="176" y2="260" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="148" y1="235" x2="204" y2="235" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="308" y="210" width="56" height="50" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="336" y1="210" x2="336" y2="260" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="308" y1="235" x2="364" y2="235" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="336" y1="210" x2="336" y2="260" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="308" y1="235" x2="364" y2="235" stroke="#1a1a1a" stroke-width="6"/>
 <!-- ABC toy blocks (primary cue) -->
 <rect x="150" y="320" width="44" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="318" y="320" width="44" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>

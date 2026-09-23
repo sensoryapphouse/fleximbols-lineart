@@ -25,8 +25,8 @@
   <circle cx="232" cy="190" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="264" cy="190" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Wavy blur-wave lines across background -->
-  <path d="M15 105 Q60 95 105 105 Q150 115 195 105 Q240 95 275 105" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <path d="M15 118 Q65 108 115 118 Q165 128 215 118 Q250 112 275 118" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <path d="M15 105 Q60 95 105 105 Q150 115 195 105 Q240 95 275 105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M15 118 Q65 108 115 118 Q165 128 215 118 Q250 112 275 118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Person bust silhouette (sharp/foreground, centered) -->
   <!-- Head (sharp, in focus) -->
   <circle cx="145" cy="130" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

@@ -20,12 +20,12 @@
   <line x1="74" y1="210" x2="79" y2="206" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Wood chips at the base / spilled in front -->
   <rect x="30" y="218" width="232" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="50" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="78" cy="228" rx="7" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="118" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="160" cy="228" rx="7" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="206" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="242" cy="228" rx="6" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="50" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="78" cy="228" rx="7" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="118" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="160" cy="228" rx="7" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="206" cy="226" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="242" cy="228" rx="6" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Chimney -->
   <rect x="148" y="64" width="22" height="32" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <rect x="142" y="58" width="34" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

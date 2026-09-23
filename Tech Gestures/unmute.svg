@@ -14,5 +14,5 @@
   <!-- Sound-wave arcs (active/audible state) on the right -->
   <path d="M210 90 Q228 120 210 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M222 76 Q248 120 222 164" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
-  <path d="M236 64 Q268 120 236 176" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M236 64 Q268 120 236 176" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

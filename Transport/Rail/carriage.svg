@@ -8,7 +8,7 @@
 <!-- single coach body -->
 <rect x="70" y="150" width="372" height="210" rx="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
 <!-- roof band -->
-<rect x="70" y="150" width="372" height="34" rx="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="70" y="150" width="372" height="34" rx="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="80" y1="184" x2="432" y2="184" stroke="#1a1a1a" stroke-width="6"/>
 <!-- window strip -->
 <rect x="94" y="200" width="324" height="80" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

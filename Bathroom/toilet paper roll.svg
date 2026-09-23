@@ -14,7 +14,7 @@
   <!-- sheet hanging down -->
   <path d="M85 150 Q90 200 80 225 L130 225 Q120 200 125 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- perforation line on sheet -->
-  <path d="M90 185 L120 185" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M90 185 L120 185" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- roll surface curve hint -->
-  <path d="M80 110 Q145 90 210 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M80 110 Q145 90 210 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

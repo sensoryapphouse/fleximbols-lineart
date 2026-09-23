@@ -7,9 +7,9 @@
   <rect x="85" y="60" width="120" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="85" y="118" width="120" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlight -->
-  <rect x="95" y="38" width="14" height="135" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="95" y="38" width="14" height="135" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- drip -->
   <path d="M205 100 Q220 115 215 135 Q210 150 200 145 Q195 130 205 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- drip drop falling -->
   <path d="M215 165 Q220 175 215 185 Q210 175 215 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

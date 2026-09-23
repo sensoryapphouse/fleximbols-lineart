@@ -8,13 +8,13 @@
 <path d="M 332 200 C 348 280 304 320 326 410 C 334 444 320 456 330 470" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/>
 <path d="M 396 250 q 40 -28 84 -6 q 18 10 6 30 q -10 18 -34 12" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <ellipse cx="452.0" cy="372.0" rx="40.0" ry="60.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<path d="M 452 318 Q 426 372 452 426" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
-<path d="M 452 320 Q 478 372 452 424" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
-<path d="M 438 340 Q 452 372 438 404" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
-<path d="M 466 340 Q 452 372 466 404" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M 452 318 Q 426 372 452 426" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+<path d="M 452 320 Q 478 372 452 424" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+<path d="M 438 340 Q 452 372 438 404" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+<path d="M 466 340 Q 452 372 466 404" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 <path d="M 452 312 q 6 -30 -26 -42 q -30 -10 -34 -28" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 360 196 q 26 -18 52 0 q 14 12 -2 30 q -30 22 -50 -2 q -14 -16 0 -28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="368" y1="210" x2="404" y2="216" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="380" y1="200" x2="388" y2="226" stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round"/>
-<line x1="392" y1="200" x2="398" y2="224" stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="368" y1="210" x2="404" y2="216" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+<line x1="380" y1="200" x2="388" y2="226" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
+<line x1="392" y1="200" x2="398" y2="224" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 </g></svg>

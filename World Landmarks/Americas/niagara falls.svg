@@ -7,10 +7,10 @@
   <path d="M80 70 Q145 50 210 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cliff/rock left side -->
   <path d="M10 100 L60 100 L60 220 L10 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M10 110 L60 110 L60 130 L10 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M10 110 L60 110 L60 130 L10 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cliff right side -->
   <path d="M230 100 L280 100 L280 220 L230 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M230 110 L280 110 L280 130 L230 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M230 110 L280 110 L280 130 L230 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- WIDE waterfall main cascade -->
   <path d="M60 100 L230 100 L228 195 Q200 200 180 195 Q160 200 140 195 Q120 200 100 195 Q80 200 62 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- vertical water streaks -->
@@ -34,12 +34,12 @@
   <!-- boat cabin -->
   <rect x="134" y="196" width="32" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- boat windows -->
-  <rect x="138" y="200" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="148" y="200" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="158" y="200" width="4" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="138" y="200" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="148" y="200" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="200" width="4" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tiny tourist on deck with blue poncho -->
-  <circle cx="125" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <path d="M122 209 L128 209 L130 216 L120 216 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="174" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <path d="M171 209 L177 209 L179 216 L169 216 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="125" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M122 209 L128 209 L130 216 L120 216 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="174" cy="206" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M171 209 L177 209 L179 216 L169 216 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

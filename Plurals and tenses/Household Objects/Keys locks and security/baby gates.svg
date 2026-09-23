@@ -13,12 +13,12 @@
   <!-- Gate bottom rail -->
   <rect x="52" y="182" width="186" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Vertical bars (7 bars) -->
-  <rect x="72"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="99"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="126" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="153" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="180" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="207" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="72"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
+  <rect x="99"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
+  <rect x="126" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
+  <rect x="153" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
+  <rect x="180" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
+  <rect x="207" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
   <!-- Latch on right side -->
   <rect x="222" y="120" width="22" height="38" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <rect x="227" y="130" width="12" height="8" rx="3" fill="#1a1a1a"/>
@@ -27,4 +27,4 @@
   <circle cx="57" cy="170" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Floor line -->
   <line x1="28" y1="210" x2="262" y2="210" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

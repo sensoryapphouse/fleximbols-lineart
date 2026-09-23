@@ -13,7 +13,7 @@
         fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- wood grain lines -->
   <path d="M140,130 L88,210 M130,123 L78,205 M120,118 L70,200 M155,135 L105,212"
-        fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+        fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- bat edge highlight -->
   <path d="M150,115 L165,125 L102,213 L98,210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- cricket ball (red) -->

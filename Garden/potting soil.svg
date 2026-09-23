@@ -4,11 +4,11 @@
   <ellipse cx="155" cy="210" rx="95" ry="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <path d="M 65 210 Q 80 168 120 158 Q 155 150 190 158 Q 228 168 245 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Soil texture lumps -->
-  <ellipse cx="110" cy="188" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="155" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="195" cy="186" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="135" cy="196" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="172" cy="194" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="188" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="155" cy="178" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="195" cy="186" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="135" cy="196" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="172" cy="194" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bag body (leaning, open at bottom-left) -->
   <path d="M 90 30 L 70 155 Q 110 148 145 152 L 185 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bag side gusset shadow -->

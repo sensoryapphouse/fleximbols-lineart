@@ -9,11 +9,11 @@
 <!-- lower jaw (toothed) -->
 <path d="M 300 272 L 150 316 L 150 292 L 296 260 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- teeth on upper jaw -->
-<polygon points="200 213 212 224 224 209" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="160 204 172 218 184 201" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="200 213 212 224 224 209" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="160 204 172 218 184 201" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- teeth on lower jaw -->
-<polygon points="200 299 212 288 224 303" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="160 308 172 294 184 311" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="200 299 212 288 224 303" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="160 308 172 294 184 311" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- pivot -->
 <circle cx="288" cy="256" r="11" fill="#1a1a1a"/>
 </svg>

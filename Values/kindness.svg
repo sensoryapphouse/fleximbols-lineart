@@ -4,6 +4,6 @@
 <line x1="318" y1="314" x2="328" y2="294" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <line x1="340" y1="314" x2="350" y2="294" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <path d="M 290.0 294.9 C 223.5 241.7 223.5 167.6 256.8 167.6 C 278.6 167.6 290.0 199.9 290.0 215.1 C 290.0 199.9 301.4 167.6 323.2 167.6 C 356.5 167.6 356.5 241.7 290.0 294.9 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="352.0" cy="204.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="230.0" cy="242.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="352.0" cy="204.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.88"/>
+<circle cx="230.0" cy="242.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.88"/>
 </g></svg>

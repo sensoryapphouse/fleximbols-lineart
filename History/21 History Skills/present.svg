@@ -17,7 +17,7 @@
 <line x1="416" y1="336" x2="416" y2="358"/>
 </g>
 <!-- the NOW point on the timeline -->
-<circle cx="256" cy="336" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="336" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
 <!-- big "you-are-here" map pin marking the present, pointing down at NOW -->
 <path d="M 256 304
          C 214 232 184 214 184 162
@@ -26,7 +26,7 @@
       fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <circle cx="256" cy="162" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- small clock face inside the pin = this exact moment in time -->
-<circle cx="256" cy="162" r="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="162" r="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
 <line x1="256" y1="162" x2="256" y2="146" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="256" y1="162" x2="270" y2="162" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <circle cx="256" cy="162" r="4" fill="#1a1a1a"/>

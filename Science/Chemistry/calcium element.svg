@@ -3,9 +3,9 @@
   <!-- glass tumbler shape -->
   <path d="M30 60 L100 60 L92 215 L38 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- milk inside -->
-  <path d="M36 75 L94 75 L88 205 L42 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M36 75 L94 75 L88 205 L42 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- milk surface ellipse -->
-  <ellipse cx="65" cy="75" rx="29" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
+  <ellipse cx="65" cy="75" rx="29" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- glass highlight -->
   <line x1="48" y1="90" x2="45" y2="195" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- glass rim highlight -->

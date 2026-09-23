@@ -3,7 +3,7 @@
   <!-- Water surface -->
   <rect x="10" y="185" width="270" height="45" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Water ripples -->
-  <path d="M20,195 Q40,190 60,195 Q80,200 100,195 Q120,190 140,195 Q160,200 180,195 Q200,190 220,195 Q240,200 260,195" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M20,195 Q40,190 60,195 Q80,200 100,195 Q120,190 140,195 Q160,200 180,195 Q200,190 220,195 Q240,200 260,195" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fuselage - light plane body -->
   <polygon points="28,128 60,112 215,110 252,120 215,130 60,144" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Nose with propeller hub -->
@@ -13,7 +13,7 @@
   <ellipse cx="28" cy="151" rx="6" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(20,28,128)"/>
   <!-- Cockpit canopy -->
   <ellipse cx="100" cy="110" rx="32" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="70" y1="110" x2="130" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="70" y1="110" x2="130" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Wings - high mounted -->
   <polygon points="90,112 70,68 200,68 185,112" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Tail fin -->
@@ -31,6 +31,6 @@
   <!-- Right pontoon float -->
   <ellipse cx="175" cy="184" rx="42" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Float detail lines -->
-  <line x1="80" y1="184" x2="150" y2="184" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="140" y1="184" x2="210" y2="184" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="80" y1="184" x2="150" y2="184" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="184" x2="210" y2="184" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

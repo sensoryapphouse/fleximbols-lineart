@@ -30,6 +30,6 @@
   <line x1="130" y1="168" x2="110" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="160" y1="168" x2="180" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Zzz fatigue marks -->
-  <path d="M162,136 L170,136 L162,128 L170,128" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M172,130 L178,130 L172,124 L178,124" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M162,136 L170,136 L162,128 L170,128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M172,130 L178,130 L172,124 L178,124" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

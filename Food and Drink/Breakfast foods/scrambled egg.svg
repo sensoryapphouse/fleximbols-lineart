@@ -19,8 +19,8 @@
   <!-- Small top-left curd -->
   <path d="M78,168 Q75,160 82,155 Q91,150 97,157 Q101,164 94,169 Q86,173 78,168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04"/>
   <!-- Bits of white mixed in -->
-  <path d="M118,174 Q115,168 120,165 Q127,162 132,167 Q135,172 128,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.03"/>
-  <path d="M155,170 Q153,165 158,162 Q163,160 166,165 Q167,169 162,171 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.03"/>
+  <path d="M118,174 Q115,168 120,165 Q127,162 132,167 Q135,172 128,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M155,170 Q153,165 158,162 Q163,160 166,165 Q167,169 162,171 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Highlight texture on curds -->
   <ellipse cx="125" cy="162" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="75" cy="166" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -10,39 +10,39 @@
 <!-- fish (define shape, reused at sizes) facing right -->
 <!-- fish 1 big centre -->
 <g transform="translate(250 230) scale(1.15)">
-<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
-<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.88" />
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.88" />
 <path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
 <circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
 <path d="M -30 -10 q 16 12 0 24 M -8 -14 q 18 16 0 30" fill="none" stroke="#1a1a1a" stroke-width="5"/>
 </g>
 <!-- fish 2 upper-left, blue -->
 <g transform="translate(135 130) scale(0.72)">
-<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.94" />
-<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.94" />
-<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.4" />
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.4" />
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="9.4" stroke="#1a1a1a" />
 <circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
 </g>
 <!-- fish 3 upper-right, blue -->
 <g transform="translate(390 145) scale(0.72)">
-<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.94" />
-<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.94" />
-<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.4" />
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.4" />
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="9.4" stroke="#1a1a1a" />
 <circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
 </g>
 <!-- fish 4 lower-left, orange -->
 <g transform="translate(150 345) scale(0.76)">
-<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.58" />
-<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.58" />
-<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.9" />
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.9" />
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="8.9" stroke="#1a1a1a" />
 <circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
 </g>
 <!-- fish 5 lower-right, orange -->
 <g transform="translate(375 340) scale(0.78)">
-<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.41" />
-<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.41" />
-<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="7" stroke="#1a1a1a" />
+<path d="M -55 0 L -90 -28 L -90 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.68" />
+<ellipse cx="0" cy="0" rx="58" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.68" />
+<path d="M 0 -38 Q 14 -54 30 -36 Z" fill="#ffffff" stroke-width="8.68" stroke="#1a1a1a" />
 <circle cx="34" cy="-6" r="7" fill="#1a1a1a"/>
 </g>
 </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

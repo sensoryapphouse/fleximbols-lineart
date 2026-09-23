@@ -33,5 +33,5 @@
   <!-- WiFi arcs from motor -->
   <path d="M250 50 Q260 40 270 50" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
   <path d="M254 58 Q260 52 266 58" fill="none" stroke="#1a1a1a" stroke-width="7.41" stroke-linecap="round"/>
-  <circle cx="260" cy="65" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="260" cy="65" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

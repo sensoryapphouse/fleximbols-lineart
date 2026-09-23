@@ -9,12 +9,12 @@
   <path d="M130 148 L128 110 L132 90 L128 70 L132 50 Q133 38 145 38 Q157 38 158 50 L162 70 L158 90 L162 110 L160 148" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Receipt line items (drawn lines) -->
   <line x1="134" y1="60" x2="156" y2="60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="134" y1="70" x2="152" y2="70" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="134" y1="70" x2="152" y2="70" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="134" y1="80" x2="156" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="134" y1="90" x2="150" y2="90" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="134" y1="100" x2="156" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="134" y1="90" x2="150" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="134" y1="100" x2="156" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="134" y1="110" x2="152" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="134" y1="120" x2="156" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="134" y1="120" x2="156" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Total bar -->
   <rect x="131" y="130" width="28" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Keys on register -->

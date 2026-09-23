@@ -12,6 +12,6 @@
 <line x1="402" y1="150" x2="402" y2="220" stroke="#1a1a1a" stroke-width="11.5" stroke-linecap="round"/>
 <line x1="402" y1="220" x2="412" y2="202" stroke="#1a1a1a" stroke-width="11.5" stroke-linecap="round"/>
 <line x1="402" y1="220" x2="392" y2="202" stroke="#1a1a1a" stroke-width="11.5" stroke-linecap="round"/>
-<circle cx="196.0" cy="338.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="316.0" cy="338.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="196.0" cy="338.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/>
+<circle cx="316.0" cy="338.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/>
 </g></svg>

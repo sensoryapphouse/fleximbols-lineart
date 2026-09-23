@@ -12,11 +12,11 @@
   <!-- sigmoid/bottom -->
   <path d="M105 185 C105 192 110 196 117 196 L145 196 L173 196 C180 196 185 192 185 185" fill="none" stroke="#1a1a1a" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Cecum (bottom of ascending colon) -->
-  <ellipse cx="185" cy="188" rx="12" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
+  <ellipse cx="185" cy="188" rx="12" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- APPENDIX: worm-like pouch at lower-right, red -->
   <path d="M190 192 C196 196 202 198 206 200 C210 202 214 200 214 195 C214 192 212 190 208 190 C205 190 200 190 197 187 C194 185 192 183 193 180 C194 177 196 177 197 175" fill="none" stroke="#1a1a1a" stroke-width="5.19" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="197" cy="175" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="197" cy="175" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pointer line and dot -->
-  <line x1="207" y1="192" x2="222" y2="182" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="207" y1="192" x2="222" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="222" cy="182" r="4" fill="#1a1a1a"/>
 </g></svg>

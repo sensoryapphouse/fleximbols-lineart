@@ -10,7 +10,7 @@
   <!-- Trigger guard bar -->
   <line x1="169" y1="106" x2="196" y2="106" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Nozzle tip protruding left -->
-  <rect x="82" y="84" width="24" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="82" y="84" width="24" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Mist dots fanning left/up-left -->
   <circle cx="68" cy="78" r="4" fill="#1a1a1a"/>
   <circle cx="56" cy="66" r="3.5" fill="#1a1a1a"/>
@@ -22,5 +22,5 @@
   <circle cx="32" cy="90" r="2" fill="#1a1a1a"/>
   <circle cx="40" cy="50" r="2.5" fill="#1a1a1a"/>
   <!-- Bottle cap line -->
-  <line x1="108" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="108" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

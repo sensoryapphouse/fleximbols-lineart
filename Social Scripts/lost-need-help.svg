@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","mc"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0334) translate(-256.00 -304.50)">
-<rect x="40" y="452" width="432" height="60" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="40" y1="452" x2="472" y2="452" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<rect x="40" y="452" width="432" height="60" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81"/>
+<line x1="40" y1="452" x2="472" y2="452" stroke="#1a1a1a" stroke-width="5.81" stroke-linecap="round"/>
 <line x1="372" y1="200" x2="372" y2="452" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<polygon points="370,212 446,212 462,230 446,248 370,248" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="374,262 300,262 284,280 300,298 374,298" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="370,312 438,312 454,330 438,348 370,348" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="370,212 446,212 462,230 446,248 370,248" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81" stroke-linejoin="round"/>
+<polygon points="374,262 300,262 284,280 300,298 374,298" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81" stroke-linejoin="round"/>
+<polygon points="370,312 438,312 454,330 438,348 370,348" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81" stroke-linejoin="round"/>
 <line x1="138" y1="340" x2="129" y2="452" stroke-linecap="round" stroke="#1a1a1a" stroke-width="35.3" data-part="ink"/><line x1="138" y1="340" x2="129" y2="452" stroke-linecap="round" stroke="#ffffff" stroke-width="27.3" data-part="leg"/>
 <line x1="162" y1="340" x2="171" y2="452" stroke-linecap="round" stroke="#1a1a1a" stroke-width="35.3" data-part="ink"/><line x1="162" y1="340" x2="171" y2="452" stroke-linecap="round" stroke="#ffffff" stroke-width="27.3" data-part="leg"/>
-<ellipse cx="129" cy="454" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="171" cy="454" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="129" cy="454" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81"/>
+<ellipse cx="171" cy="454" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.81"/>
 <polygon data-part="top" points="114,254 186,254 182,340 118,340" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="123" y1="254" x2="95" y2="247" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="123" y1="254" x2="95" y2="247" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="arm"/><line x1="123" y1="254" x2="113" y2="252" stroke-linecap="round" stroke="#1a1a1a" stroke-width="35.2" data-part="ink"/><line x1="123" y1="254" x2="113" y2="252" stroke-linecap="round" stroke="#ffffff" stroke-width="27.2" data-part="sleeve"/><circle cx="95" cy="247" r="12.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
 <line x1="177" y1="254" x2="205" y2="247" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="177" y1="254" x2="205" y2="247" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="arm"/><line x1="177" y1="254" x2="187" y2="252" stroke-linecap="round" stroke="#1a1a1a" stroke-width="35.2" data-part="ink"/><line x1="177" y1="254" x2="187" y2="252" stroke-linecap="round" stroke="#ffffff" stroke-width="27.2" data-part="sleeve"/><circle cx="205" cy="247" r="12.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
@@ -18,8 +18,8 @@
 
 
 
-<line x1="135" y1="194" x2="144" y2="197" stroke="#1a1a1a" stroke-width="2.375" stroke-linecap="round"/>
-<line x1="165" y1="194" x2="156" y2="197" stroke="#1a1a1a" stroke-width="2.375" stroke-linecap="round"/>
+<line x1="135" y1="194" x2="144" y2="197" stroke="#1a1a1a" stroke-width="5.81" stroke-linecap="round"/>
+<line x1="165" y1="194" x2="156" y2="197" stroke="#1a1a1a" stroke-width="5.81" stroke-linecap="round"/>
 <path d="M 86 247 Q 95 258 104 247" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
 <path d="M 196 247 Q 205 258 214 247" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
 <!-- question mark: red, in a house-style bordered tile (rounded white tile + black outline), clear above the head -->

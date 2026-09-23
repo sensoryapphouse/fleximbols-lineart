@@ -13,5 +13,5 @@
   <circle cx="120" cy="112" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="170" cy="112" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Brim stitch line -->
-  <path d="M58,162 Q145,170 232,162" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <path d="M58,162 Q145,170 232,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6,4"/>
 </g></svg>

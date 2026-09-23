@@ -3,7 +3,7 @@
   <!-- open gasping mouth (big O) -->
   <ellipse cx="140" cy="270" rx="80" ry="100" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
   <!-- inner mouth / tongue -->
-  <ellipse cx="140" cy="305" rx="48" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <ellipse cx="140" cy="305" rx="48" ry="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.92"/>
   <!-- hands on cheeks suggestion replaced by shock burst lines -->
   <path d="M140 130 L140 90" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round"/>
   <path d="M70 200 L36 170" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round"/>
@@ -11,8 +11,8 @@
   <path d="M52 270 L14 270" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round"/>
   <path d="M228 270 L266 270" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round"/>
   <!-- exclamation mark -->
-  <rect x="232" y="100" width="20" height="70" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <circle cx="242" cy="192" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/></g>
+  <rect x="232" y="100" width="20" height="70" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.92"/>
+  <circle cx="242" cy="192" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.92"/></g>
 <g data-part="hair-back"><g transform="translate(262.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><path data-part="dress" d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>
 <line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>

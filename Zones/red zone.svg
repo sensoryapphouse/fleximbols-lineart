@@ -16,14 +16,14 @@
   <path d="M106 94 Q114 102 126 97" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
   <path d="M164 97 Q176 102 184 94" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
   
-  <path d="M108 104 Q122 97 136 104" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M154 104 Q168 97 182 104" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M108 104 Q122 97 136 104" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M154 104 Q168 97 182 104" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   
   <ellipse cx="145" cy="148" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   
   <rect x="128" y="140" width="34" height="9" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   
-  <path d="M136 82 L138 74" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M145 80 L145 72" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M154 82 L152 74" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M136 82 L138 74" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145 80 L145 72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M154 82 L152 74" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

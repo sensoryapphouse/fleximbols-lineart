@@ -10,33 +10,33 @@
 
   <!-- Loading bay door right -->
   <rect x="195" y="110" width="70" height="80" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <line x1="195" y1="124" x2="265" y2="124" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="195" y1="138" x2="265" y2="138" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="195" y1="152" x2="265" y2="152" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="195" y1="166" x2="265" y2="166" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="195" y1="180" x2="265" y2="180" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="195" y1="124" x2="265" y2="124" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="138" x2="265" y2="138" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="152" x2="265" y2="152" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="166" x2="265" y2="166" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="180" x2="265" y2="180" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- BULK PALLET emblem (left side) -->
   <!-- Pallet slats -->
   <rect x="22" y="178" width="88" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="22" y="168" width="88" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pallet legs -->
-  <rect x="26" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="61" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="96" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="26" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="61" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="96" y="168" width="10" height="14" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Boxes on pallet -->
   <rect x="22" y="140" width="42" height="28" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="43" y1="140" x2="43" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="22" y1="154" x2="64" y2="154" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="43" y1="140" x2="43" y2="168" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="154" x2="64" y2="154" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="66" y="146" width="44" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="88" y1="146" x2="88" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="88" y1="146" x2="88" y2="168" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- MEMBERSHIP CARD emblem (centre) -->
   <rect x="105" y="118" width="80" height="52" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Card chip -->
   <rect x="118" y="130" width="18" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Card magnetic stripe -->
-  <rect x="105" y="152" width="80" height="8" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="105" y="152" width="80" height="8" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Card decorative lines -->
   <line x1="142" y1="126" x2="178" y2="126" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="142" y1="133" x2="178" y2="133" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

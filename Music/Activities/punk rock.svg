@@ -12,8 +12,8 @@
   <path d="M72 148 Q72 118 88 108 Q96 104 104 106 Q96 115 96 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M148 148 Q148 118 132 108 Q124 104 116 106 Q124 115 124 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Eye -->
-  <ellipse cx="98" cy="150" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="122" cy="150" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="98" cy="150" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="122" cy="150" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mouth (sneer) -->
   <path d="M100 170 Q110 165 120 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Safety pin -->

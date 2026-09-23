@@ -9,7 +9,7 @@
 <rect x="160" y="196" width="192" height="150" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="176" y1="322" x2="336" y2="322" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 206 322 L 306 322 L 296 286 Q 256 270 216 286 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 216 286 Q 256 270 296 286 Q 256 300 216 286 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 216 286 Q 256 270 296 286 Q 256 300 216 286 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.34" stroke-linejoin="round"/>
 <line x1="196" y1="314" x2="196" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="226" y1="314" x2="226" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="256" y1="314" x2="256" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

@@ -3,13 +3,13 @@
   <!-- back bowl (largest) -->
   <path d="M 30 75 Q 35 175 145 195 Q 255 175 260 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="75" rx="115" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="75" rx="100" ry="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="75" rx="100" ry="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- middle bowl -->
   <path d="M 60 100 Q 65 175 145 188 Q 225 175 230 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="100" rx="85" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="100" rx="72" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="100" rx="72" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- smallest bowl in front -->
   <path d="M 90 130 Q 95 180 145 188 Q 195 180 200 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="130" rx="55" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="145" cy="130" rx="44" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="130" rx="44" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

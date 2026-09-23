@@ -15,6 +15,6 @@
 <circle cx="240" cy="194" r="9" fill="#1a1a1a"/>
 <circle cx="272" cy="194" r="9" fill="#1a1a1a"/>
 <!-- fangs -->
-<path d="M 244 222 L 248 236 L 252 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 260 222 L 264 236 L 268 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 244 222 L 248 236 L 252 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 260 222 L 264 236 L 268 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

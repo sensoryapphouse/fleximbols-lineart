@@ -9,14 +9,14 @@
   <!-- lamp base -->
   <rect x="195" y="150" width="20" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- lamp stem -->
-  <rect x="202" y="100" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="202" y="100" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lamp shade -->
   <path d="M180 100 L230 100 L222 65 L188 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- key bowl -->
   <path d="M130 155 Q150 170 170 155 L168 165 Q150 175 132 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- keys in bowl -->
-  <circle cx="145" cy="158" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="148" y="156" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="158" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="148" y="156" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- narrow console table top -->
   <rect x="40" y="160" width="220" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- table legs -->

@@ -3,5 +3,5 @@
 <path d="M 106 256 A 150 40 0 0 0 406 256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 8"/>
 <path d="M 106 256 A 150 40 0 0 1 406 256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 256 106 A 46 150 0 0 1 256 406" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="198.0" cy="194.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="198.0" cy="194.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.13"/>
 </g></svg>

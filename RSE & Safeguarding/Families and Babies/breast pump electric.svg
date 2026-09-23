@@ -5,11 +5,11 @@
   <!-- digital display screen -->
   <rect x="35" y="95" width="80" height="40" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- display bars showing suction level -->
-  <rect x="45" y="110" width="8" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="58" y="105" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="71" y="100" width="8" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="84" y="105" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="97" y="115" width="8" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="110" width="8" height="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="58" y="105" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="71" y="100" width="8" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="84" y="105" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="97" y="115" width="8" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- control buttons -->
   <circle cx="50" cy="160" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="75" cy="160" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
@@ -19,8 +19,8 @@
   <path d="M71 160 L79 160" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- power label area -->
   <rect x="35" y="178" width="80" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="50" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="65" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="50" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="65" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- flexible tube curving from motor to flange -->
   <path d="M130 110 Q175 75 215 105" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round" fill="none"/>
   <path d="M130 110 Q175 75 215 105" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>

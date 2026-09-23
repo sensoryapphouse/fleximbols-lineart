@@ -25,6 +25,6 @@
   <line x1="148" y1="126" x2="148" y2="140" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- small luggage tag -->
   <rect x="50" y="170" width="30" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="55" y1="178" x2="75" y2="178" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="55" y1="184" x2="70" y2="184" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="55" y1="178" x2="75" y2="178" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="55" y1="184" x2="70" y2="184" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

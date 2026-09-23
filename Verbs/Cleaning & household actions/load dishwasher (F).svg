@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="95.73 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<rect x="306" y="232" width="104" height="150" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 316 250 h 84 v 96 h -84 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<rect x="316" y="236" width="84" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<polygon points="306,382 410,382 424,412 292,412" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<rect x="314" y="328" width="88" height="18" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="324" y1="328" x2="324" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="334" y1="328" x2="334" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="344" y1="328" x2="344" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="354" y1="328" x2="354" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="364" y1="328" x2="364" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="374" y1="328" x2="374" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="384" y1="328" x2="384" y2="314" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<ellipse cx="342" cy="322" rx="6" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<ellipse cx="366" cy="322" rx="6" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<ellipse cx="342" cy="221" rx="7" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="306" y="232" width="104" height="150" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 316 250 h 84 v 96 h -84 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="316" y="236" width="84" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<polygon points="306,382 410,382 424,412 292,412" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="314" y="328" width="88" height="18" rx="3" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="324" y1="328" x2="324" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="334" y1="328" x2="334" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="344" y1="328" x2="344" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="354" y1="328" x2="354" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="364" y1="328" x2="364" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="374" y1="328" x2="374" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="384" y1="328" x2="384" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="342" cy="322" rx="6" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="366" cy="322" rx="6" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="342" cy="221" rx="7" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="342" y1="279" x2="350" y2="264" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="342" y1="247" x2="342" y2="279" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="342" y1="279" x2="334" y2="264" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="342" y1="247" x2="342" y2="279" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="342" y1="279" x2="334" y2="264" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="342" y1="279" x2="350" y2="264" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>

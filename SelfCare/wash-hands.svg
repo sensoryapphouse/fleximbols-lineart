@@ -7,8 +7,8 @@
 <line x1="278" y1="168" x2="274" y2="250" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <rect x="206" y="300" width="60" height="70" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <rect x="264" y="300" width="60" height="70" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
-<circle cx="228" cy="288" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="300" cy="284" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="264" cy="272" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="248" cy="304" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="228" cy="288" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.72"/>
+<circle cx="300" cy="284" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.72"/>
+<circle cx="264" cy="272" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.72"/>
+<circle cx="248" cy="304" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.72"/>
 </g></svg>

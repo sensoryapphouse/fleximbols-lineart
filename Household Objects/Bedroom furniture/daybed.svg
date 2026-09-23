@@ -5,9 +5,9 @@
   <!-- Mattress top pad -->
   <rect x="32" y="128" width="226" height="52" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tufting dots -->
-  <circle cx="90" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="200" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="90" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="154" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Left bolster (cylindrical end cushion) -->
   <ellipse cx="38" cy="154" rx="14" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Right bolster -->

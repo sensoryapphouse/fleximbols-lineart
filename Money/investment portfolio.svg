@@ -30,5 +30,5 @@
   <!-- Upward trend line (top area of briefcase) -->
   <polyline points="140,178 160,158 178,165 200,138" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Arrow tip on trend line -->
-  <polygon points="200,138 192,145 205,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="200,138 192,145 205,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

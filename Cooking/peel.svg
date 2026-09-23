@@ -2,11 +2,11 @@
 <!-- potato -->
 <ellipse cx="216" cy="300" rx="100" ry="122" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- eyes / dimples -->
-<circle cx="188" cy="252" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" />
-<circle cx="206" cy="338" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" />
-<circle cx="172" cy="312" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" />
+<circle cx="188" cy="252" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" />
+<circle cx="206" cy="338" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" />
+<circle cx="172" cy="312" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" />
 <!-- bare peeled patch where skin is removed (right side) -->
-<path d="M 244 230 Q 292 300 246 374 Q 240 300 240 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" />
+<path d="M 244 230 Q 292 300 246 374 Q 240 300 240 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" />
 <!-- bold curling ribbon of peeled SKIN coming off the side -->
 <path d="M 296 256 q 72 8 80 72 q 6 50 -42 58 q 32 -18 26 -52 q -8 -48 -70 -56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 318 274 q 38 14 40 52" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>

@@ -33,9 +33,9 @@
   <circle cx="182" cy="208" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- multi-device icon (replaces UNIVERSAL label) -->
   <rect x="30" y="185" width="230" height="42" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <rect x="42" y="192" width="26" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="75" y="195" width="20" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="120" cy="202" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="138" y="192" width="22" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M172 202 Q180 194 188 202 Q180 210 172 202 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <rect x="42" y="192" width="26" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="75" y="195" width="20" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="202" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="138" y="192" width="22" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M172 202 Q180 194 188 202 Q180 210 172 202 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

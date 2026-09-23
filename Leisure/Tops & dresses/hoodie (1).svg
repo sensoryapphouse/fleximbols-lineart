@@ -24,7 +24,7 @@
   <!-- Drawstring right -->
   <line x1="157" y1="66" x2="162" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Drawstring tip left -->
-  <circle cx="128" cy="97" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="97" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drawstring tip right -->
-  <circle cx="162" cy="97" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="162" cy="97" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

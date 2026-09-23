@@ -3,7 +3,7 @@
   <path d="M20,205 L270,205 L270,222 L20,222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
   <!-- grass tufts -->
   <path d="M40,205 L45,195 L50,205 M105,205 L110,195 L115,205 M180,205 L185,195 L190,205 M240,205 L245,195 L250,205"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round" stroke-linecap="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- base / lower pole between uprights (the stub of H) -->
   <path d="M138,90 L152,90 L152,205 L138,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
   <!-- left upright -->
@@ -18,6 +18,6 @@
   <path d="M147,90 L152,90 L152,205 L147,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   <path d="M60,95 L230,95 L230,100 L60,100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   <!-- upright top caps -->
-  <ellipse cx="75" cy="15" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74"/>
-  <ellipse cx="215" cy="15" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74"/>
+  <ellipse cx="75" cy="15" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="215" cy="15" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

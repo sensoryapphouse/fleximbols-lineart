@@ -7,5 +7,5 @@
   <!-- small rounded brown cap -->
   <path d="M 75 130 Q 75 70 145 60 Q 215 70 215 130 Q 200 138 145 138 Q 90 138 75 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- highlight -->
-  <path d="M 100 90 Q 115 75 135 78 Q 130 92 115 100 Q 102 100 100 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 100 90 Q 115 75 135 78 Q 130 92 115 100 Q 102 100 100 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

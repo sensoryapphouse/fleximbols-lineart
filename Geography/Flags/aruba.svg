@@ -5,8 +5,8 @@
     </clipPath>
   </defs>
   <g clip-path="url(#aw-a)" transform="scale(2.2222)">
-    <path fill="#ffffff" d="M0 0v216h324V0z" stroke="#1a1a1a" stroke-width="2.25"/>
-    <path fill="#ffffff" d="M0 144v12h324v-12zm0 24v12h324v-12z" stroke="#1a1a1a" stroke-width="2.25"/>
+    <path fill="#ffffff" d="M0 0v216h324V0z" stroke="#1a1a1a" stroke-width="2.7"/>
+    <path fill="#ffffff" d="M0 144v12h324v-12zm0 24v12h324v-12z" stroke="#1a1a1a" stroke-width="2.7"/>
   </g>
   <path fill="#ffffff" d="m142.7 28 2.9 3zm-3 6 3 3zm5.9 0 3 3z" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="m139.7 37 3 2.9-3-3m5.9 0 3 3z" stroke="#1a1a1a" stroke-width="5.00"/>
@@ -183,5 +183,5 @@
   <path fill="#ffffff" d="m148.6 225.9 2.9 3z" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="m139.7 231.8 3 3zm5.9 0 3 3z" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="m139.7 234.7 3 3zm5.9 0 3 3zm-3 6 3 2.9z" stroke="#1a1a1a" stroke-width="5.00"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

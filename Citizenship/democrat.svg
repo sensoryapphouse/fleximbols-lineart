@@ -14,7 +14,7 @@
   <path d="M245 85 Q240 60 248 55 Q256 60 252 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <path d="M255 85 Q254 60 263 55 Q270 62 264 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- inner ear -->
-  <path d="M247 80 Q245 68 250 65 Q252 70 251 82 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M247 80 Q245 68 250 65 Q252 70 251 82 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- eye -->
   <circle cx="248" cy="108" r="3.5" fill="#1a1a1a"/>
   <circle cx="247.5" cy="107" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

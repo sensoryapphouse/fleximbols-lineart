@@ -4,11 +4,11 @@
   <!-- Highlight crease line on bag -->
   <path d="M 78,118 Q 145,148 212,118" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Fold creases on bag side -->
-  <path d="M 95,150 Q 100,180 90,205 M 195,150 Q 192,180 200,205" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 95,150 Q 100,180 90,205 M 195,150 Q 192,180 200,205" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Twist tie neck -->
   <path d="M 110,72 L 115,55 L 130,72 L 145,52 L 160,72 L 175,55 L 190,72" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Red twist tie wrap -->
   <path d="M 118,58 Q 145,42 172,58" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Tag detail on tie -->
-  <circle cx="145" cy="46" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="46" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

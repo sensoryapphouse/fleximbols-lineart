@@ -13,8 +13,8 @@
   <!-- mouthpiece (bite) -->
   <path d="M218 175 Q258 175 262 188 Q258 205 218 205 Q210 196 210 190 Q210 184 218 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- mouthpiece bite ridge -->
-  <line x1="232" y1="180" x2="232" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="245" y1="178" x2="245" y2="202" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="232" y1="180" x2="232" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="245" y1="178" x2="245" y2="202" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- mask strap clip -->
-  <rect x="115" y="100" width="20" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="115" y="100" width="20" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

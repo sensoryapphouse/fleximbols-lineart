@@ -48,9 +48,9 @@
   <path d="M220 45 L230 45" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <path d="M220 205 L230 205" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <!-- tick marks -->
-  <path d="M223 85 L227 85" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <path d="M223 125 L227 125" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <path d="M223 165 L227 165" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M223 85 L227 85" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M223 125 L227 125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M223 165 L227 165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- small AA tag at bottom-left to reinforce size -->
   <rect x="40" y="175" width="34" height="30" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M46 199 L51 181 L56 199" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

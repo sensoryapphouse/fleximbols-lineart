@@ -18,7 +18,7 @@
     <polygon points="256,193 256,193 264,193 272,193 282,195 293,200 299,203 304,207 309,212 314,217 318,224 321,232 230,355 230,355 228,355 221,356 211,356 205,355 199,354 194,351 188,348 183,344 179,339 175,332 172,324 171,314 170,303 256,193" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="170,303 170,303 180,303 190,304 202,307 208,310 213,313 218,317 223,322 226,328 229,336 230,345 230,355" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polygon points="192,324 192,324 196,325 203,328 207,330 211,333 213,336 214,340 186,380 163,393 163,374 192,324" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="165,392 111,469" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="165,392 111,469" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="165,392 111,469" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

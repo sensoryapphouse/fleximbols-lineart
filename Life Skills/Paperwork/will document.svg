@@ -8,11 +8,11 @@
   <!-- title bar -->
   <rect x="75" y="50" width="140" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- text lines as bars -->
-  <rect x="60" y="78" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="60" y="92" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="60" y="106" width="140" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="60" y="120" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="60" y="134" width="100" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="60" y="78" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="60" y="92" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="60" y="106" width="140" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="60" y="120" width="170" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="60" y="134" width="100" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- signature line -->
   <line x1="60" y1="165" x2="180" y2="165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- signature -->
@@ -20,11 +20,11 @@
   <!-- wax seal -->
   <circle cx="210" cy="180" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M203,173 L217,173 M203,180 L217,180 M203,187 L217,187" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="210" cy="180" r="9" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="180" r="9" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- quill pen -->
   <path d="M195,75 Q235,40 260,30 Q255,55 230,85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M205,68 Q230,50 250,40" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M210,75 Q232,57 250,48" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M205,68 Q230,50 250,40" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M210,75 Q232,57 250,48" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="195" y1="75" x2="180" y2="95" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- ink dot at nib -->
   <circle cx="178" cy="97" r="3" fill="#1a1a1a"/>

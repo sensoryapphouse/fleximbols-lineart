@@ -15,10 +15,10 @@
   <ellipse cx="170" cy="120" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="145" cy="150" rx="12" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Cheese bubble/melt lines -->
-  <path d="M 85 98 Q 110 93 135 96 Q 120 108 95 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 165 95 Q 195 90 215 96 Q 200 110 172 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 85 98 Q 110 93 135 96 Q 120 108 95 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 165 95 Q 195 90 215 96 Q 200 110 172 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fold line suggestion at tip -->
   <path d="M 141 195 Q 145 220 149 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Underside fold shadow at tip -->
   <path d="M 136 210 Q 145 225 154 210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

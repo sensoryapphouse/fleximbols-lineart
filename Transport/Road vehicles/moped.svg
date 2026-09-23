@@ -11,7 +11,7 @@
 <!-- flat footboard top highlight -->
 <rect x="214" y="356" width="62" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- rear body panel under seat -->
-<path d="M 300 300 L 392 300 L 392 320 Q 392 300 372 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 300 300 L 392 300 L 392 320 Q 392 300 372 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- seat -->
 <path d="M 296 292 Q 300 276 322 276 L 384 276 Q 396 276 396 292 L 396 302 L 296 302 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <!-- handlebar column + bars -->

@@ -3,8 +3,8 @@
   <!-- Dark blue night sky panel background (NOT full canvas - smaller framed sky) -->
   <rect x="20" y="25" width="250" height="80" rx="6" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Stars -->
-  <path d="M50 50 L52 55 L57 55 L53 58 L55 63 L50 60 L45 63 L47 58 L43 55 L48 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M230 45 L231 48 L234 48 L232 50 L233 53 L230 51 L227 53 L228 50 L226 48 L229 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M50 50 L52 55 L57 55 L53 58 L55 63 L50 60 L45 63 L47 58 L43 55 L48 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M230 45 L231 48 L234 48 L232 50 L233 53 L230 51 L227 53 L228 50 L226 48 L229 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="90" cy="40" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="190" cy="80" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="120" cy="85" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -20,11 +20,11 @@
   <!-- Jar lid -->
   <ellipse cx="90" cy="126" rx="38" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Tiny moon on lid -->
-  <path d="M95 121 Q88 124 90 130 Q92 132 98 128 Q93 125 95 121 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M95 121 Q88 124 90 130 Q92 132 98 128 Q93 125 95 121 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Jar label -->
-  <rect x="65" y="170" width="50" height="22" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="65" y="170" width="50" height="22" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lip pictogram on label -->
-  <path d="M75 181 Q83 176 90 178 Q97 176 105 181 Q97 188 90 188 Q83 188 75 181 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M75 181 Q83 176 90 178 Q97 176 105 181 Q97 188 90 188 Q83 188 75 181 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Sleeping lips (closed/resting lips being treated overnight) -->
   <path d="M165 165 Q190 155 215 165 Q240 155 265 165 Q260 185 215 188 Q175 185 165 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Mask coating on lips (overnight treatment glaze) -->

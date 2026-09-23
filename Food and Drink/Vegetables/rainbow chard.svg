@@ -12,9 +12,9 @@
   <path d="M135 100 Q108 60 118 25 Q140 18 152 38 Q160 65 152 100 Q142 96 135 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M165 98 Q188 58 178 25 Q156 20 148 40 Q145 70 152 100 Q158 95 165 98 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- veins -->
-  <path d="M70 78 Q92 88 112 95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M225 78 Q203 88 183 95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M135 40 Q140 70 145 95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M70 78 Q92 88 112 95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M225 78 Q203 88 183 95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M135 40 Q140 70 145 95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- tie at base -->
   <path d="M88 215 Q150 208 220 215 Q220 230 150 230 Q88 230 88 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -11,8 +11,8 @@
   <!-- Drain opening in sink floor -->
   <ellipse cx="145" cy="80" rx="18" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Drain strainer lines -->
-  <line x1="136" y1="80" x2="154" y2="80" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="145" y1="74" x2="145" y2="86" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="136" y1="80" x2="154" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="74" x2="145" y2="86" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Drain neck pipe connecting sink to disposal -->
   <rect x="133" y="87" width="24" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -25,8 +25,8 @@
   <ellipse cx="145" cy="182" rx="45" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Grinding ring detail (horizontal bands) -->
-  <line x1="102" y1="130" x2="188" y2="130" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="102" y1="150" x2="188" y2="150" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="102" y1="130" x2="188" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="102" y1="150" x2="188" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Reset button on bottom -->
   <circle cx="145" cy="192" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>

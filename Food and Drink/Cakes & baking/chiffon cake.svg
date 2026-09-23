@@ -12,10 +12,10 @@
   <!-- Inner hole on top surface -->
   <ellipse cx="145" cy="82" rx="48" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Light chiffon texture lines on side - airy/fluffy feel -->
-  <path d="M 42,180 Q 90,174 145,176 Q 200,174 248,180" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 38,155 Q 88,149 145,151 Q 202,149 252,155" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 38,130 Q 88,124 145,126 Q 202,124 252,130" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 42,108 Q 88,102 145,104 Q 202,102 248,108" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 42,180 Q 90,174 145,176 Q 200,174 248,180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 38,155 Q 88,149 145,151 Q 202,149 252,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 38,130 Q 88,124 145,126 Q 202,124 252,130" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 42,108 Q 88,102 145,104 Q 202,102 248,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Powdered sugar dusting on top - white dots -->
   <circle cx="118" cy="76" r="4" fill="#1a1a1a" stroke="none"/>
   <circle cx="135" cy="70" r="3" fill="#1a1a1a" stroke="none"/>

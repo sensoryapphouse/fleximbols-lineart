@@ -20,9 +20,9 @@
   <circle cx="192" cy="78" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="218" cy="78" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Cell dividers inside body -->
-  <line x1="97" y1="95" x2="97" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="95" x2="145" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="193" y1="95" x2="193" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="97" y1="95" x2="97" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="95" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="193" y1="95" x2="193" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Electrolyte level indicator lines -->
-  <line x1="60" y1="130" x2="235" y2="130" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="60" y1="130" x2="235" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

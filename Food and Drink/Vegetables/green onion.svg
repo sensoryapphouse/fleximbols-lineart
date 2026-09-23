@@ -21,14 +21,14 @@
   <ellipse cx="164" cy="207" rx="11" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="193" cy="207" rx="11" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- root hairs -->
-  <path d="M 90 220 L 86 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 100 222 L 102 234" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 132 220 L 130 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 140 222 L 142 234" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 161 220 L 159 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 168 222 L 170 234" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 190 220 L 188 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 198 222 L 200 234" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 90 220 L 86 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 100 222 L 102 234" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 132 220 L 130 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 140 222 L 142 234" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 161 220 L 159 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 168 222 L 170 234" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 190 220 L 188 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 198 222 L 200 234" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- band detail -->
-  <path d="M 85 162 L 205 162" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 85 162 L 205 162" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -4,9 +4,9 @@
   <path d="M 140 314 L 372 314 L 388 326 L 124 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" stroke-linejoin="round" />
   <rect x="120" y="326" width="272" height="94" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" />
   
-  <rect x="40" y="363" width="380" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" />
+  <rect x="40" y="363" width="380" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" />
   
-  <polygon points="436,370 410,346 410,394" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89" />
+  <polygon points="436,370 410,346 410,394" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" />
   
   <circle cx="470" cy="370" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.81" />
   <circle cx="450" cy="350" r="13" fill="#ffffff"  stroke="#1a1a1a" stroke-width="6.04" />

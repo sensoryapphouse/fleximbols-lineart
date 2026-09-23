@@ -4,6 +4,6 @@
 <ellipse cx="300" cy="117" rx="13" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <path d="M 92 382 Q 150 250 240 170 Q 280 136 300 117" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 300 117 Q 318 132 332 168 Q 340 190 336 214" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="92.0" cy="382.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="336.0" cy="214.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="92.0" cy="382.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.58"/>
+<circle cx="336.0" cy="214.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.58"/>
 </g></svg>

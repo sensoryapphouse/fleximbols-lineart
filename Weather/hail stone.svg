@@ -13,9 +13,9 @@
   <!-- Core - darker grey -->
   <circle cx="145" cy="120" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Specular highlight (top-left glint - white sheen of ice) -->
-  <ellipse cx="112" cy="88" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="112" cy="88" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Smaller secondary glint -->
-  <ellipse cx="100" cy="100" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="100" cy="100" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Radial crack lines radiating outward (icy texture) -->
   <line x1="145" y1="30" x2="145" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="145" y1="185" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

@@ -8,7 +8,7 @@
   <!-- maraschino cherry -->
   <circle cx="145" cy="105" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- cherry highlight -->
-  <circle cx="141" cy="101" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="141" cy="101" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cherry stem -->
   <path d="M145 95 Q150 85 158 78" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- stem -->

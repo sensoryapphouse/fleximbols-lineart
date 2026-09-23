@@ -7,34 +7,34 @@
   <!-- WOODEN PLANK being sawed -->
   <rect x="30" y="130" width="170" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Wood grain lines -->
-  <line x1="60" y1="133" x2="60" y2="147" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="90" y1="133" x2="90" y2="147" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="120" y1="133" x2="120" y2="147" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="150" y1="133" x2="150" y2="147" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="60" y1="133" x2="60" y2="147" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="133" x2="90" y2="147" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="120" y1="133" x2="120" y2="147" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="150" y1="133" x2="150" y2="147" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- SAW cutting the plank -->
   <rect x="165" y="115" width="65" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Saw teeth -->
-  <path d="M172 127 L175 133 L178 127 L181 133 L184 127 L187 133 L190 127 L193 133 L196 127 L199 133 L202 127" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="miter"/>
+  <path d="M172 127 L175 133 L178 127 L181 133 L184 127 L187 133 L190 127 L193 133 L196 127 L199 133 L202 127" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="miter"/>
   <!-- Saw handle -->
   <path d="M225 115 Q235 108 230 100 Q220 96 215 105 L218 115" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sawdust pile -->
-  <ellipse cx="155" cy="152" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="155" cy="152" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- HAND PLANE tool -->
   <rect x="38" y="100" width="70" height="28" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Plane blade -->
-  <polygon points="80,128 88,128 86,138" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="80,128 88,128 86,138" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Plane knob -->
   <ellipse cx="58" cy="100" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Plane tote (handle) -->
   <path d="M92 100 Q105 92 110 100 Q110 110 100 114 L88 114" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- CHISEL -->
   <rect x="218" y="100" width="10" height="42" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <polygon points="218,142 228,142 226,155 220,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="218,142 228,142 226,155 220,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- WOODWORKING GOGGLES -->
   <ellipse cx="60" cy="193" rx="16" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="92" cy="193" rx="16" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="76" y1="193" x2="76" y2="193" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M74 193 Q76 190 78 193" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M74 193 Q76 190 78 193" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Strap left -->
   <path d="M44 193 Q38 193 36 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Strap right -->

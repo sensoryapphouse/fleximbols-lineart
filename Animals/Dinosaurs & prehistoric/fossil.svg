@@ -3,7 +3,7 @@
 <!-- rock slab -->
 <path d="M 96 120 L 416 120 L 400 400 Q 256 424 112 400 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- slab inner shade -->
-<path d="M 122 148 L 390 148 L 376 380 Q 256 400 136 380 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 122 148 L 390 148 L 376 380 Q 256 400 136 380 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- ammonite outer shell disc -->
 <circle cx="256" cy="270" r="108" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- spiral chambers as concentric arcs, opening to one side -->

@@ -19,8 +19,8 @@
   <!-- Worm mouth smile -->
   <path d="M 242,90 Q 252,97 262,90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Translucent gloss lines along body -->
-  <path d="M 80,186 Q 96,178 108,182" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 132,170 Q 148,162 158,168" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 172,138 Q 184,128 195,134" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 196,98 Q 212,88 222,96" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 80,186 Q 96,178 108,182" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 132,170 Q 148,162 158,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 172,138 Q 184,128 195,134" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 196,98 Q 212,88 222,96" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

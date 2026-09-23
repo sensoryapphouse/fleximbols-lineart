@@ -131,16 +131,16 @@
     <polygon points="204,131 204,131 204,133 203,134 201,135 199,136 58,136 58,136 57,135 55,134 54,133 54,131 54,30 54,30 54,28 55,27 57,26 58,25 199,25 199,25 201,26 203,27 204,28 204,30 204,131" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.49" fill-rule="evenodd"/>
     <polygon points="186,146 186,146 186,148 187,149 188,150 190,151 190,151 192,150 193,149 194,148 194,146 194,146 194,144 193,143 192,142 190,142 190,142 188,142 187,143 186,144 186,146 186,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49" fill-rule="evenodd"/>
     <polygon points="93,11 93,11 100,15 106,18 113,20 119,21 130,21 141,20 149,17 156,15 162,11 93,11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49" fill-rule="evenodd" data-lp="hair"/>
-    <polygon points="184,135 74,135 74,39 184,39 184,135" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="90,55 158,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="184,135 74,135 74,39 184,39 184,135" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
+    <polygon points="90,55 158,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
     <polyline points="90,55 158,55" fill="none" stroke="#1a1a1a" stroke-width="8.98"/>
-    <polygon points="90,70 158,70" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="90,70 158,70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
     <polyline points="90,70 158,70" fill="none" stroke="#1a1a1a" stroke-width="8.98"/>
-    <polygon points="90,84 158,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="90,84 158,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
     <polyline points="90,84 158,84" fill="none" stroke="#1a1a1a" stroke-width="8.98"/>
-    <polygon points="90,99 158,99" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="90,99 158,99" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
     <polyline points="90,99 158,99" fill="none" stroke="#1a1a1a" stroke-width="8.98"/>
-    <polygon points="90,114 158,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="90,114 158,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" fill-rule="evenodd"/>
     <polyline points="90,114 158,114" fill="none" stroke="#1a1a1a" stroke-width="8.98"/>
   </g>
 </g></svg>

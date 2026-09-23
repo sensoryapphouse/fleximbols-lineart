@@ -27,8 +27,8 @@
   <ellipse cx="145" cy="45" rx="22" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="145" cy="37" rx="22" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="145" cy="29" rx="22" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="123" y1="29" x2="123" y2="45" stroke="#1a1a1a" stroke-width="2.66"/>
-  <line x1="167" y1="29" x2="167" y2="45" stroke="#1a1a1a" stroke-width="2.66"/>
+  <line x1="123" y1="29" x2="123" y2="45" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="167" y1="29" x2="167" y2="45" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Taller bar chart (3 bars, taller than series-a) -->
   <rect x="40" y="158" width="16" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>

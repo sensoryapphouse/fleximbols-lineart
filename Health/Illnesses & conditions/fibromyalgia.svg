@@ -35,5 +35,5 @@
   <circle cx="169" cy="200" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- soft ache aura — concentric rings around figure, low saturation warm -->
   <ellipse cx="145" cy="155" rx="80" ry="90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="8 6"/>
-  <ellipse cx="145" cy="155" rx="98" ry="108" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="6 8"/>
+  <ellipse cx="145" cy="155" rx="98" ry="108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6 8"/>
 </g></svg>

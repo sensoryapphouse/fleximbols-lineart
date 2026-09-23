@@ -12,26 +12,26 @@
   <rect x="158" y="130" width="118" height="46" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <rect x="178" y="112" width="78" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Car windows -->
-  <rect x="182" y="115" width="32" height="17" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="218" y="115" width="32" height="17" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="182" y="115" width="32" height="17" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="218" y="115" width="32" height="17" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Car wheels -->
   <circle cx="184" cy="178" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="184" cy="178" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="184" cy="178" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="248" cy="178" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="248" cy="178" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="248" cy="178" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- HAILSTONES - big round white balls falling, NOT droplets -->
   <!-- Stone 1 (in air, leftmost) -->
   <circle cx="38" cy="112" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="38" cy="112" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="38" cy="112" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stone 2 (in air) -->
   <circle cx="82" cy="124" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="82" cy="124" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="82" cy="124" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stone 3 (in air) -->
   <circle cx="124" cy="112" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="124" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="124" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stone 4 (about to hit car) -->
   <circle cx="210" cy="106" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="210" cy="106" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="210" cy="106" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stone 5 (bouncing on ground) -->
   <circle cx="52" cy="166" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Stone 6 on ground -->
@@ -42,5 +42,5 @@
   <line x1="124" y1="96" x2="124" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="210" y1="88" x2="210" y2="94" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Impact dent on car roof -->
-  <path d="M200 112 Q204 108 208 112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M200 112 Q204 108 208 112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

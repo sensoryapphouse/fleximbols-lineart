@@ -2,7 +2,7 @@
   <!-- Greeting card body -->
   <rect x="55" y="30" width="180" height="180" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Card fold line -->
-  <line x1="145" y1="30" x2="145" y2="210" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="30" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Heart on card -->
   <path d="M105 100 C105 85 88 78 82 90 C76 102 90 118 105 130 C120 118 134 102 128 90 C122 78 105 85 105 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Flower stem -->

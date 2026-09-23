@@ -20,10 +20,10 @@
   <!-- TYRE on ground (left side) -->
   <circle cx="58" cy="190" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <circle cx="58" cy="190" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="58" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="58" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tyre tread marks -->
-  <path d="M32 178 Q28 190 32 202" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M84 178 Q88 190 84 202" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M32 178 Q28 190 32 202" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M84 178 Q88 190 84 202" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- WRENCH (large, right side) -->
   <rect x="218" y="155" width="14" height="55" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wrench open end top -->

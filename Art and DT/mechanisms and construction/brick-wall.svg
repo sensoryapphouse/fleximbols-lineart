@@ -29,29 +29,29 @@
 
 <g id="brickwall">
 
-<path class="st6" d="M354.76,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C346.46,176.14,350.18,179.85,354.76,179.85z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M354.76,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C346.46,176.14,350.18,179.85,354.76,179.85z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M229.47,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C221.18,176.14,224.89,179.85,229.47,179.85z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M229.47,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C221.18,176.14,224.89,179.85,229.47,179.85z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M104.19,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C95.89,176.14,99.61,179.85,104.19,179.85z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M104.19,179.85h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C95.89,176.14,99.61,179.85,104.19,179.85z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M354.76,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C346.46,306.45,350.18,310.17,354.76,310.17z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M354.76,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C346.46,306.45,350.18,310.17,354.76,310.17z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M229.47,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C221.18,306.45,224.89,310.17,229.47,310.17z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M229.47,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C221.18,306.45,224.89,310.17,229.47,310.17z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M104.19,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C95.89,306.45,99.61,310.17,104.19,310.17z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M104.19,310.17h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C95.89,306.45,99.61,310.17,104.19,310.17z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M297.12,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C288.82,241.27,292.54,244.99,297.12,244.99z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M297.12,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C288.82,241.27,292.54,244.99,297.12,244.99z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M171.83,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C163.54,241.27,167.25,244.99,171.83,244.99z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M171.83,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C163.54,241.27,167.25,244.99,171.83,244.99z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M46.55,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3H46.55c-4.58,0-8.3,3.71-8.3,8.3   v38.56C38.25,241.27,41.96,244.99,46.55,244.99z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M46.55,244.99h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3H46.55c-4.58,0-8.3,3.71-8.3,8.3   v38.56C38.25,241.27,41.96,244.99,46.55,244.99z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M297.12,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C288.82,371.6,292.54,375.32,297.12,375.32z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M297.12,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C288.82,371.6,292.54,375.32,297.12,375.32z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M171.83,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C163.54,371.6,167.25,375.32,171.83,375.32z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M171.83,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3h-98.69   c-4.58,0-8.3,3.71-8.3,8.3v38.56C163.54,371.6,167.25,375.32,171.83,375.32z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
-<path class="st6" d="M46.55,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3H46.55c-4.58,0-8.3,3.71-8.3,8.3   v38.56C38.25,371.6,41.96,375.32,46.55,375.32z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path class="st6" d="M46.55,375.32h98.69c4.58,0,8.3-3.71,8.3-8.3v-38.56c0-4.58-3.71-8.3-8.3-8.3H46.55c-4.58,0-8.3,3.71-8.3,8.3   v38.56C38.25,371.6,41.96,375.32,46.55,375.32z" stroke="#1a1a1a" stroke-width="7.08" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 
 </g>
 

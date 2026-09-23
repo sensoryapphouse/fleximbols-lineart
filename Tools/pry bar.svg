@@ -8,7 +8,7 @@
   <!-- Heel: flat curved end piece -->
   <path d="M 62 185 Q 45 195 40 210 Q 55 222 70 215 Q 72 205 75 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Heel notch/slot (for nail pulling) -->
-  <path d="M 48 208 Q 52 200 58 198" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" fill="none"/>
+  <path d="M 48 208 Q 52 200 58 198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- Flat bar highlight (shows it's flat, not round) -->
-  <path d="M 70 186 L 214 50" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 70 186 L 214 50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

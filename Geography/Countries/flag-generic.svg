@@ -2,10 +2,10 @@
 <ellipse cx="256.0" cy="430.0" rx="150.0" ry="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="120" y1="430" x2="392" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="168" y1="430" x2="168" y2="96" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<circle cx="168.0" cy="96.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="168.0" cy="430.0" rx="26.0" ry="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 168 104 C 232.68 82 297.36 126 364 104 L 364 236 C 297.36 258 232.68 214 168 236 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 168 104 C 232.68 82 297.36 126 364 104 L 364 170.0 C 297.36 181.0 232.68 159.0 168 170.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="168.0" cy="96.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+<ellipse cx="168.0" cy="430.0" rx="26.0" ry="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+<path d="M 168 104 C 232.68 82 297.36 126 364 104 L 364 236 C 297.36 258 232.68 214 168 236 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97" stroke-linejoin="round"/>
+<path d="M 168 104 C 232.68 82 297.36 126 364 104 L 364 170.0 C 297.36 181.0 232.68 159.0 168 170.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97" stroke-linejoin="round"/>
 <path d="M 168 104 C 232.68 82 297.36 126 364 104 L 364 236 C 297.36 258 232.68 214 168 236 Z" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<polygon points="266.0 140.0 273.6 159.5 294.5 160.7 278.4 174.0 283.6 194.3 266.0 183.0 248.4 194.3 253.6 174.0 237.5 160.7 258.4 159.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="266.0 140.0 273.6 159.5 294.5 160.7 278.4 174.0 283.6 194.3 266.0 183.0 248.4 194.3 253.6 174.0 237.5 160.7 258.4 159.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97" stroke-linejoin="round"/>
 </g></svg>

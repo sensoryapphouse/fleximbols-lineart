@@ -11,6 +11,6 @@
   <!-- Cashew inner concave edge highlight -->
   <path d="M200,140 Q195,160 202,178" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Cashew texture -->
-  <path d="M215,133 Q230,135 240,148" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <path d="M220,145 Q235,148 242,162" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M215,133 Q230,135 240,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M220,145 Q235,148 242,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -7,7 +7,7 @@
   <polygon points="230,58 265,38 265,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Projector body -->
   <rect x="248" y="46" width="30" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
-  <circle cx="256" cy="57" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="256" cy="57" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Two cinema seats -->
   <!-- Seat left -->
   <rect x="60" y="178" width="52" height="32" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
@@ -20,5 +20,5 @@
   <rect x="170" y="158" width="10" height="42" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <rect x="228" y="158" width="10" height="42" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Floor -->
-  <rect x="25" y="208" width="240" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="25" y="208" width="240" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

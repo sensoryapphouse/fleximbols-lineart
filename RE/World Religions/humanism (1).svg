@@ -7,7 +7,7 @@
   <!-- happy human FULL BODY arms raised, in front of globe -->
   <circle cx="145" cy="70" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- smile -->
-  <path d="M139 72 Q145 78 151 72" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M139 72 Q145 78 151 72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="140" cy="68" r="1.5" fill="#1a1a1a"/>
   <circle cx="150" cy="68" r="1.5" fill="#1a1a1a"/>
   <!-- torso -->
@@ -22,10 +22,10 @@
   <path d="M146 140 L150 200 L162 200 L155 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- book lower left -->
   <path d="M20 200 L50 200 L50 222 L20 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="35" y1="200" x2="35" y2="222" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="35" y1="200" x2="35" y2="222" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- atom science lower right -->
-  <circle cx="260" cy="210" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(60 260 210)"/>
-  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-60 260 210)"/>
+  <circle cx="260" cy="210" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(60 260 210)"/>
+  <ellipse cx="260" cy="210" rx="18" ry="7" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-60 260 210)"/>
 </g></svg>

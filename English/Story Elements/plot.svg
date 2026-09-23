@@ -10,5 +10,5 @@
 <circle cx="314.8" cy="330.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="385.4" cy="384.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="422.0" cy="418.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<polygon points="314.8 280.0 320.1 292.7 333.8 293.8 323.4 302.8 326.6 316.2 314.8 309.0 303.0 316.2 306.2 302.8 295.8 293.8 309.5 292.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="314.8 280.0 320.1 292.7 333.8 293.8 323.4 302.8 326.6 316.2 314.8 309.0 303.0 316.2 306.2 302.8 295.8 293.8 309.5 292.7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.75" stroke-linejoin="round"/>
 </g></svg>

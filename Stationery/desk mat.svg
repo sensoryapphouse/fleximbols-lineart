@@ -9,17 +9,17 @@
   <!-- large desk mat covering most of the desk surface -->
   <rect x="25" y="80" width="240" height="90" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- subtle stitched border -->
-  <rect x="33" y="88" width="224" height="74" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="33" y="88" width="224" height="74" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- monitor on mat -->
   <rect x="115" y="40" width="80" height="55" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="121" y="46" width="68" height="43" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="121" y="46" width="68" height="43" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="148" y="95" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="135" y="103" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- keyboard on mat -->
   <rect x="60" y="120" width="120" height="28" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="68" y1="130" x2="172" y2="130" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="68" y1="138" x2="172" y2="138" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="68" y1="130" x2="172" y2="130" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="68" y1="138" x2="172" y2="138" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- mouse on mat -->
   <ellipse cx="210" cy="135" rx="14" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="210" y1="118" x2="210" y2="135" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="210" y1="118" x2="210" y2="135" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

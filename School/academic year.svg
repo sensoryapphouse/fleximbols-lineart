@@ -8,12 +8,12 @@
   <circle cx="72" cy="36" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="122" cy="36" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Calendar grid lines -->
-  <line x1="22" y1="90" x2="180" y2="90" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="22" y1="115" x2="180" y2="115" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="22" y1="140" x2="180" y2="140" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="60" y1="70" x2="60" y2="186" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="100" y1="70" x2="100" y2="186" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="140" y1="70" x2="140" y2="186" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="22" y1="90" x2="180" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="115" x2="180" y2="115" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="140" x2="180" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="70" x2="60" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="100" y1="70" x2="100" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="70" x2="140" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Graduation cap (mortarboard) -->
   <!-- Board top -->
   <polygon points="230,96 186,116 230,136 274,116" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -29,11 +29,11 @@
   <!-- Pencil tip -->
   <polygon points="132,158 152,167 132,176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pencil tip graphite -->
-  <polygon points="148,167 152,167 150,167" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <polygon points="148,167 152,167 150,167" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pencil eraser end -->
   <rect x="22" y="158" width="14" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pencil wood tip detail -->
-  <line x1="132" y1="158" x2="132" y2="176" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="132" y1="158" x2="132" y2="176" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pencil line detail -->
-  <line x1="36" y1="167" x2="128" y2="167" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="36" y1="167" x2="128" y2="167" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

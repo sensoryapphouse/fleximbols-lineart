@@ -5,12 +5,12 @@
 <path d="M 196 470 L 196 360 Q 196 300 256 300 Q 316 300 316 360 L 316 470 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 214 396 L 298 396 L 286 452 Q 256 466 226 452 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <ellipse cx="256.0" cy="398.0" rx="42.0" ry="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<ellipse cx="256.0" cy="397.0" rx="24.0" ry="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 210 372 Q 216 330 226 302 Q 236 330 242 372 Q 226 392 210 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 240 372 Q 246 314 256 276 Q 266 314 272 372 Q 256 392 240 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 268 372 Q 274 332 284 306 Q 294 332 300 372 Q 284 392 268 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 228 372 Q 234 336 244 312 Q 254 336 260 372 Q 244 392 228 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 254 372 Q 260 337 270 314 Q 280 337 286 372 Q 270 392 254 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<ellipse cx="256.0" cy="397.0" rx="24.0" ry="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06"/>
+<path d="M 210 372 Q 216 330 226 302 Q 236 330 242 372 Q 226 392 210 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06" stroke-linejoin="round"/>
+<path d="M 240 372 Q 246 314 256 276 Q 266 314 272 372 Q 256 392 240 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06" stroke-linejoin="round"/>
+<path d="M 268 372 Q 274 332 284 306 Q 294 332 300 372 Q 284 392 268 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06" stroke-linejoin="round"/>
+<path d="M 228 372 Q 234 336 244 312 Q 254 336 260 372 Q 244 392 228 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06" stroke-linejoin="round"/>
+<path d="M 254 372 Q 260 337 270 314 Q 280 337 286 372 Q 270 392 254 372 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.06" stroke-linejoin="round"/>
 <rect x="70.0" y="412.0" width="70.0" height="26.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <polygon points="140,408 140,442 172,425" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

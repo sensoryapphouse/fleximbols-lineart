@@ -22,5 +22,5 @@
   <ellipse cx="145" cy="110" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="168" cy="113" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Whey/milky shine across bowl surface -->
-  <path d="M 78,144 Q 100,142 120,143" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 78,144 Q 100,142 120,143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

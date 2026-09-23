@@ -19,9 +19,9 @@
   <path d="M 207,110 Q 220,122 233,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 207,110 Q 220,108 233,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Sweat drops -->
-  <path d="M 200,82 Q 196,76 200,72 Q 204,76 200,82 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 244,88 Q 240,82 244,78 Q 248,82 244,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 220,60 Q 216,54 220,50 Q 224,54 220,60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 200,82 Q 196,76 200,72 Q 204,76 200,82 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 244,88 Q 240,82 244,78 Q 248,82 244,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 220,60 Q 216,54 220,50 Q 224,54 220,60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Red flushed cheeks -->
   <ellipse cx="205" cy="105" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="235" cy="105" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

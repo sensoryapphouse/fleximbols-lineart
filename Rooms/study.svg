@@ -4,7 +4,7 @@
 <line x1="138" y1="296" x2="188" y2="256" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <circle cx="138.0" cy="296.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 168 244 L 222 244 L 210 290 L 180 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 180 290 L 210 290 L 196 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 180 290 L 210 290 L 196 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
 <rect x="96.0" y="392.0" width="320.0" height="22.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="118.0" y="414.0" width="16.0" height="34.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="378.0" y="414.0" width="16.0" height="34.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>

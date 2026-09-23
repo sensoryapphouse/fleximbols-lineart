@@ -4,14 +4,14 @@
 <path d="M 164 192 Q 106 220 130 320 Q 164 290 178 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" data-lp="hair"/>
 <path d="M 348 192 Q 406 220 382 320 Q 348 290 334 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" data-lp="hair"/>
 <ellipse cx="256" cy="294" rx="70" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="256.0" cy="274.0" r="18.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="274.0" r="18.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.65"/>
 <line x1="256" y1="292" x2="256" y2="312" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 234 312 q 22 18 22 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 278 312 q -22 18 -22 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <circle cx="214.0" cy="226.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="216.0" cy="228.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="216.0" cy="228.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.65"/>
 <circle cx="298.0" cy="226.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="300.0" cy="228.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="300.0" cy="228.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.65"/>
 <path d="M 178 346 Q 256 378 334 346" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linejoin="round"/>
 <path d="M 256 400 C 234 376 234 360 248 366 C 254 369 256 373 256 376 C 256 373 258 369 264 366 C 278 360 278 376 256 400 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 </g></svg>

@@ -10,11 +10,11 @@
   
   <line x1="68" y1="148" x2="222" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   
-  <line x1="82" y1="96" x2="208" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="82" y1="108" x2="208" y2="108" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="82" y1="96" x2="208" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="82" y1="108" x2="208" y2="108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
-  <line x1="82" y1="164" x2="208" y2="164" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="82" y1="176" x2="208" y2="176" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="82" y1="164" x2="208" y2="164" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="82" y1="176" x2="208" y2="176" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
   <path d="M128,78 Q128,64 145,64 Q162,64 162,78" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   

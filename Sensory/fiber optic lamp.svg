@@ -2,15 +2,15 @@
 <!-- fibre optic lamp: cone base with fanned glowing strands and light tips -->
 <!-- fanned fibre strands -->
 <g fill="none" stroke-width="7" stroke-linecap="round">
-<path d="M256 320 Q150 220 120 130" stroke="#1a1a1a"/>
-<path d="M256 320 Q180 200 160 110" stroke="#1a1a1a"/>
-<path d="M256 320 Q215 190 205 98" stroke="#1a1a1a"/>
-<path d="M256 320 Q250 185 256 92" stroke="#1a1a1a"/>
-<path d="M256 320 Q297 190 307 98" stroke="#1a1a1a"/>
-<path d="M256 320 Q332 200 352 110" stroke="#1a1a1a"/>
-<path d="M256 320 Q362 220 392 130" stroke="#1a1a1a"/>
-<path d="M256 320 Q130 250 100 188" stroke="#1a1a1a"/>
-<path d="M256 320 Q382 250 412 188" stroke="#1a1a1a"/>
+<path d="M256 320 Q150 220 120 130" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q180 200 160 110" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q215 190 205 98" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q250 185 256 92" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q297 190 307 98" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q332 200 352 110" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q362 220 392 130" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q130 250 100 188" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M256 320 Q382 250 412 188" stroke="#1a1a1a" stroke-width="6"/>
 </g>
 <!-- glowing tips -->
 <g stroke="#1a1a1a" stroke-width="3">

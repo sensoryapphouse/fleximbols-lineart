@@ -13,7 +13,7 @@
   <path d="M122 95 Q145 88 168 95 L163 102 Q145 97 127 102Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Hanging chain -->
   <line x1="145" y1="72" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="145" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lantern upper taper -->
   <path d="M127 102 Q120 112 118 125 L172 125 Q170 112 163 102Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Lantern main body -->
@@ -26,11 +26,11 @@
   <!-- Bottom finial -->
   <ellipse cx="145" cy="202" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="145" y1="207" x2="145" y2="218" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="145" cy="220" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="220" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Decorative arch on lantern -->
-  <path d="M130 131 Q145 120 160 131" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M130 131 Q145 120 160 131" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Lantern bottom cap -->
   <path d="M118 177 L172 177" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Glow dot centre -->
-  <circle cx="145" cy="151" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="151" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

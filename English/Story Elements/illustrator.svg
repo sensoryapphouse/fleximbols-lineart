@@ -11,7 +11,7 @@
 <!-- pencil drawing on the sheet -->
 <line x1="330" y1="138" x2="392" y2="200" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
 <line x1="386" y1="194" x2="416" y2="224" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round"/>
-<polygon points="392 200 360 196 372 168" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="392 200 360 196 372 168" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="408" y1="216" x2="424" y2="232" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
 <line x1="420" y1="228" x2="438" y2="246" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
 <!-- pencil mark on the page -->

@@ -8,9 +8,9 @@
         fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- sandy edges of peninsula -->
   <path d="M60 150 L150 155 Q200 165 230 150 Q229 154 226 158 Q195 168 150 159 L60 154 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M60 86 L60 92 L150 102 Q200 112 230 132 Q227 126 224 122 Q195 108 150 100 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- trees on mainland -->
   <circle cx="30" cy="55" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="30" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

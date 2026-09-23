@@ -21,7 +21,7 @@
   <!-- Handle loop 2 -->
   <ellipse cx="200" cy="136" rx="12" ry="9" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Cut line dashes on wrap -->
-  <line x1="185" y1="140" x2="210" y2="140" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <line x1="185" y1="140" x2="210" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6,4"/>
   <!-- Small leaf accent top-right of box -->
-  <path d="M175,96 Q185,82 192,88 Q186,98 175,96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M175,96 Q185,82 192,88 Q186,98 175,96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

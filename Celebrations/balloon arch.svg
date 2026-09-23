@@ -9,36 +9,36 @@
   <path d="M39 200 Q39 60 145 50 Q251 60 251 200" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- balloon left bottom red -->
   <ellipse cx="42" cy="188" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M40 210 L42 200 L44 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M40 210 L42 200 L44 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon left lower orange -->
   <ellipse cx="38" cy="148" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M36 170 L38 160 L40 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M36 170 L38 160 L40 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon left mid yellow -->
   <ellipse cx="52" cy="108" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M50 130 L52 120 L54 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M50 130 L52 120 L54 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon left upper green -->
   <ellipse cx="82" cy="74" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M80 96 L82 86 L84 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M80 96 L82 86 L84 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon top blue -->
   <ellipse cx="120" cy="56" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M118 78 L120 68 L122 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M118 78 L120 68 L122 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon top centre purple -->
   <ellipse cx="170" cy="56" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M168 78 L170 68 L172 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M168 78 L170 68 L172 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon right upper pink -->
   <ellipse cx="208" cy="74" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M206 96 L208 86 L210 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M206 96 L208 86 L210 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon right mid teal -->
   <ellipse cx="238" cy="108" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M236 130 L238 120 L240 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M236 130 L238 120 L240 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon right lower orange -->
   <ellipse cx="252" cy="148" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M250 170 L252 160 L254 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M250 170 L252 160 L254 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- balloon right bottom red -->
   <ellipse cx="248" cy="188" rx="18" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M246 210 L248 200 L250 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M246 210 L248 200 L250 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- highlight on top purple -->
-  <ellipse cx="164" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="164" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- highlight on top blue -->
-  <ellipse cx="114" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="114" cy="48" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

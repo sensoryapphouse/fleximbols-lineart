@@ -4,7 +4,7 @@
   <!-- mug body -->
   <path d="M70 80 Q70 70 80 70 L210 70 Q220 70 220 80 L218 210 Q216 224 200 224 L90 224 Q74 224 72 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- creamy yellow liquid -->
-  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M78 90 Q145 108 212 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cinnamon dust dots on top -->
   <circle cx="95" cy="100" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -19,10 +19,10 @@
   <circle cx="160" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="180" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- nutmeg piece -->
-  <ellipse cx="110" cy="120" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="110" cy="120" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cinnamon stick -->
-  <rect x="155" y="50" width="10" height="80" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(20 160 90)"/>
-  <line x1="172" y1="68" x2="178" y2="85" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="155" y="50" width="10" height="80" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(20 160 90)"/>
+  <line x1="172" y1="68" x2="178" y2="85" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- mug handle -->
   <path d="M220 108 Q260 108 260 150 Q260 192 220 192" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

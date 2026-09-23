@@ -10,7 +10,7 @@
 <!-- handlebars riser + bars -->
 <line x1="204" y1="232" x2="190" y2="150" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <path d="M 190 150 L 152 142 M 190 150 L 224 158" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<circle cx="150" cy="142" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="150" cy="142" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.88"/>
 <!-- headlight -->
 <path d="M 168 248 L 132 240 Q 120 240 120 254 L 120 272 Q 120 284 134 282 L 170 274 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- footrest -->
@@ -25,4 +25,4 @@
 <circle cx="142" cy="356" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="142" cy="356" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <g stroke="#1a1a1a" stroke-width="6"><line x1="142" y1="288" x2="142" y2="300"/><line x1="142" y1="412" x2="142" y2="424"/><line x1="74" y1="356" x2="86" y2="356"/><line x1="198" y1="356" x2="210" y2="356"/></g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

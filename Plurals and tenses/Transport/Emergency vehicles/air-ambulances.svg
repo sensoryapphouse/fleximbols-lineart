@@ -6,13 +6,13 @@
 <!-- fuselage (white) with green tail -->
 <path d="M 96 300 Q 60 300 66 256 Q 74 200 168 196 L 360 210 Q 400 214 408 240 L 452 248 L 452 268 L 404 274 Q 392 300 320 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
 <!-- green band along belly -->
-<path d="M 96 300 Q 70 300 70 282 L 404 282 Q 396 300 320 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 96 300 Q 70 300 70 282 L 404 282 Q 396 300 320 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="70" y1="282" x2="404" y2="282" stroke="#1a1a1a" stroke-width="5"/>
 <!-- cockpit window -->
 <path d="M 100 290 Q 78 290 82 258 Q 88 218 150 214 L 168 214 L 168 282 L 100 282 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- red cross on side -->
-<rect x="240" y="232" width="44" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="254" y="218" width="16" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="240" y="232" width="44" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="254" y="218" width="16" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- blue light on nose -->
 <circle cx="86" cy="276" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- tail rotor -->
@@ -23,4 +23,4 @@
 <line x1="150" y1="336" x2="330" y2="336" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="176" y1="300" x2="196" y2="336" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="300" y1="300" x2="286" y2="336" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

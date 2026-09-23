@@ -3,13 +3,13 @@
   <rect x="60" y="15" width="170" height="210" rx="20" ry="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="72" y="32" width="146" height="176" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- speaker -->
-  <rect x="135" y="22" width="20" height="4" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="135" y="22" width="20" height="4" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- home indicator -->
-  <rect x="135" y="214" width="20" height="4" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="135" y="214" width="20" height="4" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- header bar -->
   <rect x="72" y="32" width="146" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="85" cy="43" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M95 41 Q100 39 105 41 M95 46 Q102 44 108 46" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="85" cy="43" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M95 41 Q100 39 105 41 M95 46 Q102 44 108 46" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- first message bubble (incoming, big "1" badge) -->
   <path d="M82 70 Q82 64 88 64 L160 64 Q166 64 166 70 L166 92 Q166 98 160 98 L100 98 L90 108 L92 98 L88 98 Q82 98 82 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- squiggle text in bubble -->

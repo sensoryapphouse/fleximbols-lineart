@@ -2,18 +2,18 @@
 <path d="M 176 268 L 336 268 L 352 486 Q 352 496 342 496 L 170 496 Q 160 496 160 486 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 176 268 L 336 268 L 340 322 L 172 322 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <ellipse cx="256" cy="268" rx="80" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<ellipse cx="256" cy="268" rx="64" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
+<ellipse cx="256" cy="268" rx="64" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.25"/>
 <path d="M 196 268 Q 196 210 226 210 Q 256 210 256 268" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <path d="M 316 268 Q 316 210 286 210 Q 256 210 256 268" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <g>
 <rect x="200" y="232" width="58" height="58" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<line x1="200" y1="252" x2="258" y2="252" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<ellipse cx="229" cy="270" rx="16" ry="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
+<line x1="200" y1="252" x2="258" y2="252" stroke="#1a1a1a" stroke-width="5.25" stroke-linecap="round"/>
+<ellipse cx="229" cy="270" rx="16" ry="10.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.25"/>
 </g>
 <g>
 <rect x="262" y="216" width="58" height="62" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<line x1="262" y1="237" x2="320" y2="237" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<ellipse cx="291" cy="255" rx="16" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
+<line x1="262" y1="237" x2="320" y2="237" stroke="#1a1a1a" stroke-width="5.25" stroke-linecap="round"/>
+<ellipse cx="291" cy="255" rx="16" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.25"/>
 </g>
 <path d="M 162.0 142.0 L 162.0 166.4 L 148.0 166.4 L 170.0 206.0 L 192.0 166.4 L 178.0 166.4 L 178.0 142.0 A 8.0 8.0 0 0 1 162.0 142.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 344.0 142.0 L 344.0 166.4 L 330.0 166.4 L 352.0 206.0 L 374.0 166.4 L 360.0 166.4 L 360.0 142.0 A 8.0 8.0 0 0 1 344.0 142.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>

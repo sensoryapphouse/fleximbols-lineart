@@ -24,7 +24,7 @@
   <rect x="180" y="170" width="60" height="45" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="198" y="163" width="24" height="10" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
   <line x1="180" y1="187" x2="240" y2="187" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="190" cy="180" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="190" cy="180" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- umbrella over suitcase -->
   <path d="M170 145 Q210 100 250 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>

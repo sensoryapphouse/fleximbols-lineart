@@ -7,14 +7,14 @@
   <!-- Record disc -->
   <circle cx="130" cy="138" r="78" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Groove rings -->
-  <circle cx="130" cy="138" r="68" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="130" cy="138" r="56" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="130" cy="138" r="44" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="130" cy="138" r="68" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="138" r="56" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="138" r="44" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Centre label -->
   <circle cx="130" cy="138" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="138" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="130" cy="138" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Spindle hole -->
-  <circle cx="130" cy="138" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="130" cy="138" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tonearm pivot base -->
   <circle cx="226" cy="72" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Tonearm -->

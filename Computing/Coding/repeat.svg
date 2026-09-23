@@ -3,5 +3,5 @@
 <rect x="120.0" y="214.0" width="200.0" height="44.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="120.0" y="278.0" width="200.0" height="44.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <path d="M 320 300 Q 392 300 392 236 Q 392 172 320 172" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
-<polygon points="320,172 352,160 350,188" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="320,172 352,160 350,188" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
 </g></svg>

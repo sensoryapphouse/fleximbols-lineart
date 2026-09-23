@@ -3,14 +3,14 @@
 <line x1="74" y1="316" x2="74" y2="344" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="286" y1="316" x2="286" y2="344" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <rect x="92.0" y="238.0" width="56.0" height="60.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="92" y1="258" x2="148" y2="258" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<ellipse cx="120.0" cy="275.5" rx="15.7" ry="10.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="92" y1="258" x2="148" y2="258" stroke="#1a1a1a" stroke-width="3.97" stroke-linecap="round"/>
+<ellipse cx="120.0" cy="275.5" rx="15.7" ry="10.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.97"/>
 <rect x="202.0" y="232.0" width="60.0" height="64.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="202" y1="253" x2="262" y2="253" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<ellipse cx="232.0" cy="272.0" rx="16.8" ry="11.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="202" y1="253" x2="262" y2="253" stroke="#1a1a1a" stroke-width="3.97" stroke-linecap="round"/>
+<ellipse cx="232.0" cy="272.0" rx="16.8" ry="11.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.97"/>
 <rect x="202.0" y="144.0" width="60.0" height="64.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="202" y1="165" x2="262" y2="165" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<ellipse cx="232.0" cy="184.0" rx="16.8" ry="11.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="202" y1="165" x2="262" y2="165" stroke="#1a1a1a" stroke-width="3.97" stroke-linecap="round"/>
+<ellipse cx="232.0" cy="184.0" rx="16.8" ry="11.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.97"/>
 <line x1="290" y1="62" x2="242" y2="108" stroke="#ffffff" stroke-width="24" stroke-linecap="round"/>
 <ellipse cx="232.0" cy="120.0" rx="30.0" ry="24.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <rect x="207.0" y="128.0" width="14.0" height="34.0" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>

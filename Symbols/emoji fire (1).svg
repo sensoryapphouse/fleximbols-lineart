@@ -6,5 +6,5 @@
   <!-- inner flame — yellow -->
   <path d="M 145 80 C 156 100 175 106 173 130 C 171 155 190 148 188 168 C 184 190 100 190 98 168 C 96 148 116 155 114 130 C 112 106 134 100 145 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- core — bright yellow -->
-  <path d="M 145 112 C 152 124 164 130 163 144 C 161 158 174 154 172 166 C 169 178 118 178 116 166 C 114 154 128 158 126 144 C 124 130 138 124 145 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 145 112 C 152 124 164 130 163 144 C 161 158 174 154 172 166 C 169 178 118 178 116 166 C 114 154 128 158 126 144 C 124 130 138 124 145 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

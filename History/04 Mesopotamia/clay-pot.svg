@@ -3,7 +3,7 @@
 <path d="M 200 180 C 168 220 162 300 178 360" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
 <rect x="206.0" y="96.0" width="100.0" height="40.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <ellipse cx="256.0" cy="96.0" rx="64.0" ry="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<ellipse cx="256.0" cy="96.0" rx="44.0" ry="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<ellipse cx="256.0" cy="96.0" rx="44.0" ry="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.09" data-lp="hair"/>
 <path d="M 132 196 q -44 24 6 96" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linejoin="round"/>
 <path d="M 380 196 q 44 24 -6 96" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linejoin="round"/>
 <path d="M 132 250 C 190 268 322 268 380 250" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>

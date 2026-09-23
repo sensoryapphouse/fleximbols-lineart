@@ -17,5 +17,5 @@
   <ellipse cx="132" cy="60" rx="5" ry="8" fill="#1a1a1a"/>
   <ellipse cx="158" cy="60" rx="5" ry="8" fill="#1a1a1a"/>
   <!-- open wailing mouth -->
-  <ellipse cx="145" cy="85" rx="8" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="85" rx="8" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

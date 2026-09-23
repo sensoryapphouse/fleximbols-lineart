@@ -2,7 +2,7 @@
   <!-- Road at bottom -->
   <rect x="0" y="205" width="290" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Road centre marking -->
-  <rect x="110" y="215" width="70" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="110" y="215" width="70" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Sign post -->
   <rect x="136" y="175" width="18" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Warning diamond sign - yellow background -->
@@ -18,6 +18,6 @@
   <polygon points="145,82 133,105 157,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="139" y="104" width="12" height="18" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Exclamation mark - top portion of diamond (drawn as filled rects, not text) -->
-  <rect x="139" y="32" width="12" height="34" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="139" y="72" width="12" height="12" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="139" y="32" width="12" height="34" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="139" y="72" width="12" height="12" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

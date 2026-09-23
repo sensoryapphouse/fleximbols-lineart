@@ -10,5 +10,5 @@
 <path d="M 214 244 L 286 244 L 296 280 L 204 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- outboard engine at stern (left) -->
 <rect x="92" y="262" width="34" height="58" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="100" y="270" width="18" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="100" y="270" width="18" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

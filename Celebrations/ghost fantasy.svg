@@ -10,5 +10,5 @@
   <path d="M75 130 Q 60 140, 65 160 Q 75 158, 80 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M215 130 Q 230 140, 225 160 Q 215 158, 210 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- subtle hovering arc lines below to suggest floating (not a drop shadow rect) -->
-  <path d="M90 225 Q 145 235, 200 225" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <path d="M90 225 Q 145 235, 200 225" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,4"/>
 </g></svg>

@@ -27,6 +27,6 @@
   <rect x="26" y="168" width="238" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="26" y1="168" x2="264" y2="168" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Snow/ground texture -->
-  <ellipse cx="80" cy="180" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" data-lp="hair"/>
-  <ellipse cx="200" cy="182" rx="35" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" data-lp="hair"/>
+  <ellipse cx="80" cy="180" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <ellipse cx="200" cy="182" rx="35" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
 </g></svg>

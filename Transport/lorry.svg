@@ -3,15 +3,15 @@
 <line x1="150.0" y1="300.0" x2="462.0" y2="300.0" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 50 340 L 50 226 Q 50 210 70 210 L 150 210 L 150 340 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 66 224 L 138 224 L 138 264 L 66 264 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M 66 224 Q 62 224 60 236 L 60 264 L 66 264 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="50.0" y="322.0" width="412.0" height="18.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 66 224 Q 62 224 60 236 L 60 264 L 66 264 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.62" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="50.0" y="322.0" width="412.0" height="18.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.62"/>
 <circle cx="108.0" cy="340.0" r="42.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
 <circle cx="108.0" cy="340.0" r="18.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="108.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="108.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.62"/>
 <circle cx="300.0" cy="340.0" r="42.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
 <circle cx="300.0" cy="340.0" r="18.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="300.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="300.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.62"/>
 <circle cx="396.0" cy="340.0" r="42.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
 <circle cx="396.0" cy="340.0" r="18.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="396.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="396.0" cy="340.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.62"/>
 </g></svg>

@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="10.74 32.93 475.15 475.15"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<rect x="168" y="438" width="196" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="190" cy="460" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="190" cy="460" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="346" cy="460" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="346" cy="460" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="168" y="438" width="196" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="190" cy="460" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="190" cy="460" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="346" cy="460" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="346" cy="460" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="346" y1="438" x2="346" y2="234" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="316" y1="234" x2="376" y2="234" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<rect x="310" y="227" width="13" height="14" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="370" y="227" width="13" height="14" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="310" y="227" width="13" height="14" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="370" y="227" width="13" height="14" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <g data-part="hair-back"><g transform="translate(150.17 80.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="286" x2="230" y2="438" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="286" x2="230" y2="438" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="286" x2="278" y2="380" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="286" x2="278" y2="380" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="230" cy="443" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>
@@ -21,7 +21,7 @@
 
 <line x1="226" y1="182" x2="330" y2="236" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="226" y1="182" x2="330" y2="236" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="arm"/><line x1="226" y1="182" x2="262" y2="201" stroke-linecap="round" stroke="#1a1a1a" stroke-width="36.6" data-part="ink"/><line x1="226" y1="182" x2="262" y2="201" stroke-linecap="round" stroke="#ffffff" stroke-width="28.6" data-part="sleeve"/><circle cx="330" cy="236" r="13.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
 <line x1="286" y1="182" x2="360" y2="234" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="286" y1="182" x2="360" y2="234" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="arm"/><line x1="286" y1="182" x2="312" y2="200" stroke-linecap="round" stroke="#1a1a1a" stroke-width="36.6" data-part="ink"/><line x1="286" y1="182" x2="312" y2="200" stroke-linecap="round" stroke="#ffffff" stroke-width="28.6" data-part="sleeve"/><circle cx="360" cy="234" r="13.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
-<line x1="150" y1="366" x2="116" y2="366" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="348" x2="116" y2="348" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="330" x2="116" y2="330" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="150" y1="366" x2="116" y2="366" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="348" x2="116" y2="348" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="330" x2="116" y2="330" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

@@ -12,12 +12,12 @@
   <!-- lid skirt fill -->
   <path d="M45 105 Q145 145 245 105 Q230 130 210 128 Q145 145 80 128 Q60 130 45 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- top highlight ring -->
-  <ellipse cx="145" cy="100" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="100" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- center pinch handle -->
   <ellipse cx="145" cy="95" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- stretch lines (flex hint) -->
-  <path d="M90 110 Q90 118 88 124" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M120 112 Q120 122 118 128" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M170 112 Q170 122 172 128" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M200 110 Q200 118 202 124" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M90 110 Q90 118 88 124" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M120 112 Q120 122 118 128" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M170 112 Q170 122 172 128" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M200 110 Q200 118 202 124" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

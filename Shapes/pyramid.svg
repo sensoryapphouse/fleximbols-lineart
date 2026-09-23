@@ -9,9 +9,9 @@
     <stop offset="100%" stop-color="#1a1a1a"/>
   </linearGradient>
 </defs>
-<polygon points="145,25 95,180 195,180" fill="url(#pyrLight)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,25 195,180 245,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,25 95,180 45,150" fill="url(#pyrDark)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="45,150 95,180 195,180 245,150" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<line x1="145" y1="25" x2="145" y2="180" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="4 3" opacity="0.4"/>
+<polygon points="145,25 95,180 195,180" fill="url(#pyrLight)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,25 195,180 245,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,25 95,180 45,150" fill="url(#pyrDark)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="45,150 95,180 195,180 245,150" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<line x1="145" y1="25" x2="145" y2="180" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="4 3" opacity="0.4"/>
 </svg>

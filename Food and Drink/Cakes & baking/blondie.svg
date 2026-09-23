@@ -7,7 +7,7 @@
   <path d="M225,175 L225,215 L210,215 L210,145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Slight golden sheen on top -->
   <path d="M88,148 Q145,145 192,148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M95,152 Q145,149 185,152" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M95,152 Q145,149 185,152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- White chocolate chips on top surface -->
   <!-- Chip 1 -->
   <ellipse cx="102" cy="156" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>

@@ -2,9 +2,9 @@
   <path d="M 40,60 L 250,60 L 250,200 Q 250,210 240,210 L 50,210 Q 40,210 40,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 40,140 L 90,140 L 105,165 L 185,165 L 200,140 L 250,140" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 100,75 L 190,75 L 200,140 L 90,140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <line x1="115" y1="92" x2="175" y2="92" stroke="#1a1a1a" stroke-width="3.33"></line>
-  <line x1="115" y1="108" x2="175" y2="108" stroke="#1a1a1a" stroke-width="3.33"></line>
-  <line x1="115" y1="124" x2="155" y2="124" stroke="#1a1a1a" stroke-width="3.33"></line>
+  <line x1="115" y1="92" x2="175" y2="92" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="115" y1="108" x2="175" y2="108" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="115" y1="124" x2="155" y2="124" stroke="#1a1a1a" stroke-width="4.1"></line>
   <circle cx="225" cy="80" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="219" cy="80" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <circle cx="225" cy="80" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>

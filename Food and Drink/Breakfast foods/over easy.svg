@@ -22,5 +22,5 @@
   <!-- Slight highlight - low dome -->
   <ellipse cx="125" cy="172" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Brown edge crust line to show it was flipped -->
-  <ellipse cx="130" cy="186" rx="74" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-dasharray="6,5"/>
+  <ellipse cx="130" cy="186" rx="74" ry="14" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,5"/>
 </g></svg>

@@ -13,6 +13,6 @@
 
 
 
-<path d="M 324 166 q 8 6 0 14" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 332 162 q 12 8 0 20" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 324 166 q 8 6 0 14" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 332 162 q 12 8 0 20" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

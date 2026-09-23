@@ -10,5 +10,5 @@
 <line x1="316" y1="244" x2="316" y2="294" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 300 244 Q 300 226 316 226 Q 332 226 332 244" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 380 250 a 50 50 0 0 1 26 70" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<path d="M 392 226 l 12 26 l -28 4 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 392 226 l 12 26 l -28 4 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

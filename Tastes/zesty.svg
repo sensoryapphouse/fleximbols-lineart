@@ -11,13 +11,13 @@
   <!-- zester handle -->
   <rect x="255" y="40" width="20" height="12" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- zester holes -->
-  <circle cx="190" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="200" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="210" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="220" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="230" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="240" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="250" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="190" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="210" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="220" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="230" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="46" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lemon zest spiral curl coming off zester -->
   <path d="M 185 60 Q 175 75 160 78 Q 145 80 142 95 Q 142 108 155 110 Q 168 110 168 100 Q 168 92 158 92 Q 152 92 152 100" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- second zest curl -->

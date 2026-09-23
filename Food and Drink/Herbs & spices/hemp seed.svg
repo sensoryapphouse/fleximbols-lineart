@@ -6,19 +6,19 @@
   <!-- Hemp seeds: pale oval seeds with stripe, distinct from flax (rounder, lighter) -->
   <!-- Seed 1 -->
   <ellipse cx="122" cy="112" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(10,122,112)"/>
-  <line x1="122" y1="100" x2="122" y2="124" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" transform="rotate(10,122,112)"/>
+  <line x1="122" y1="100" x2="122" y2="124" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" transform="rotate(10,122,112)"/>
   <!-- Seed 2 -->
   <ellipse cx="145" cy="106" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-15,145,106)"/>
-  <line x1="145" y1="94" x2="145" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" transform="rotate(-15,145,106)"/>
+  <line x1="145" y1="94" x2="145" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" transform="rotate(-15,145,106)"/>
   <!-- Seed 3 -->
   <ellipse cx="166" cy="111" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(20,166,111)"/>
-  <line x1="166" y1="99" x2="166" y2="123" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" transform="rotate(20,166,111)"/>
+  <line x1="166" y1="99" x2="166" y2="123" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" transform="rotate(20,166,111)"/>
   <!-- Seed 4 -->
   <ellipse cx="133" cy="124" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-5,133,124)"/>
-  <line x1="133" y1="112" x2="133" y2="136" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" transform="rotate(-5,133,124)"/>
+  <line x1="133" y1="112" x2="133" y2="136" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" transform="rotate(-5,133,124)"/>
   <!-- Seed 5 -->
   <ellipse cx="157" cy="126" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(12,157,126)"/>
-  <line x1="157" y1="114" x2="157" y2="138" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" transform="rotate(12,157,126)"/>
+  <line x1="157" y1="114" x2="157" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" transform="rotate(12,157,126)"/>
   <!-- Hemp leaf top-right, 5-pointed palmate -->
   <g transform="translate(210,80)">
     <!-- Centre stem -->

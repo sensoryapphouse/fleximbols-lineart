@@ -3,16 +3,16 @@
 <ellipse cx="256" cy="408" rx="156" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="110" y="352" width="292" height="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- decorative panel dots -->
-<circle cx="160" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="256" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="352" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="160" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="352" cy="380" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- center pole -->
 <rect x="246" y="150" width="20" height="206" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- horse poles (barber striped) -->
 <line x1="158" y1="186" x2="158" y2="352" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<line x1="158" y1="186" x2="158" y2="352" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="12 12"/>
+<line x1="158" y1="186" x2="158" y2="352" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="12 12"/>
 <line x1="354" y1="186" x2="354" y2="352" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<line x1="354" y1="186" x2="354" y2="352" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="12 12"/>
+<line x1="354" y1="186" x2="354" y2="352" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="12 12"/>
 <line x1="256" y1="186" x2="256" y2="352" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- two horses + one bench gondola -->
 <g transform="translate(158 288)">

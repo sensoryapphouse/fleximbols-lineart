@@ -10,7 +10,7 @@
   <!-- Zip slider track -->
   <rect x="50" y="58" width="62" height="10" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="70" y="54" width="18" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="79" cy="63" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="79" cy="63" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Toggle switch -->
   <rect x="126" y="54" width="38" height="20" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="152" cy="64" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -24,11 +24,11 @@
   <!-- MIDDLE ROW: rough texture patch left, smooth fabric centre, button panel right -->
   <!-- Rough bumpy patch -->
   <rect x="50" y="98" width="60" height="46" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="66" cy="112" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="80" cy="106" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="93" cy="114" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="72" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="88" cy="128" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="66" cy="112" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="106" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="93" cy="114" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="72" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="88" cy="128" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Velcro/fabric square -->
   <rect x="126" y="98" width="48" height="46" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="134" y1="110" x2="166" y2="110" stroke="#1a1a1a" stroke-width="3.70"/>

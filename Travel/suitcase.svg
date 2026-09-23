@@ -3,16 +3,16 @@
 <line x1="232" y1="125" x2="232" y2="171" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="280" y1="125" x2="280" y2="171" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <rect x="136.0" y="165.0" width="240.0" height="230.0" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<rect x="136.0" y="268.0" width="240.0" height="24.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="142.0" y="269.0" width="228.0" height="22.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="136.0" y="268.0" width="240.0" height="24.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.29"/>
+<rect x="142.0" y="269.0" width="228.0" height="22.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/>
 <rect x="200.0" y="271.0" width="22.0" height="18.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="290.0" y="271.0" width="22.0" height="18.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="154.0" cy="183.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="358.0" cy="183.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="154.0" cy="377.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="358.0" cy="377.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="154.0" cy="183.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.29"/>
+<circle cx="358.0" cy="183.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.29"/>
+<circle cx="154.0" cy="377.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.29"/>
+<circle cx="358.0" cy="377.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.29"/>
 <circle cx="166.0" cy="409.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="346.0" cy="409.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="166.0" cy="409.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="346.0" cy="409.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="166.0" cy="409.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/>
+<circle cx="346.0" cy="409.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/>
 </g></svg>

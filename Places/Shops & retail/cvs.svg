@@ -9,8 +9,8 @@
   <!-- Heart drawn as two overlapping circles + triangle -->
   <path d="M 72,81 C 72,75 65,72 61,77 C 57,72 50,75 50,81 C 50,87 61,97 61,97 C 61,97 72,87 72,81 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Small cross overlaid on heart -->
-  <rect x="56" y="82" width="12" height="4" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
-  <rect x="60" y="78" width="4" height="12" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="56" y="82" width="12" height="4" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="60" y="78" width="4" height="12" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Large red cross pharmacy emblem on right of banner -->
   <rect x="196" y="82" width="44" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="211" y="76" width="14" height="26" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>

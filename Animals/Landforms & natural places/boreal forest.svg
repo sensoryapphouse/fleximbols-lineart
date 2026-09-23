@@ -15,21 +15,21 @@
   <path d="M115 175 L140 60 L165 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M122 145 L140 80 L158 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- trunk -->
-  <rect x="136" y="170" width="8" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="136" y="170" width="8" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- foreground conifer right -->
   <path d="M180 178 L200 85 L220 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M186 150 L200 100 L214 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="196" y="172" width="8" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="196" y="172" width="8" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- snow caps on trees -->
-  <path d="M133 95 L140 80 L147 95 Q140 92 133 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M193 115 L200 100 L207 115 Q200 112 193 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M133 95 L140 80 L147 95 Q140 92 133 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M193 115 L200 100 L207 115 Q200 112 193 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- wolf silhouette on snow (full body) -->
   <!-- body -->
   <path d="M30 210 Q35 198 50 196 L78 196 Q92 196 95 205 L98 215 L92 218 L88 210 L75 210 L72 218 L65 218 L60 210 L48 210 L44 218 L37 218 L33 213 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- head -->
   <path d="M95 198 L108 190 L115 192 L114 200 L108 205 L95 205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- ear -->
-  <path d="M104 192 L106 184 L110 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M104 192 L106 184 L110 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- tail -->
   <path d="M30 205 Q18 198 22 188" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- eye -->

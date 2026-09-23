@@ -3,7 +3,7 @@
   <path d="M145 28 C 148 45 150 58 152 70" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Leaf -->
   <path d="M145 32 C 165 22 192 28 200 48 C 184 56 162 52 145 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M150 36 C 168 42 182 48 196 48" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M150 36 C 168 42 182 48 196 48" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cluster of deep purple-black grapes -->
   <circle cx="125" cy="80" r="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="170" cy="80" r="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>

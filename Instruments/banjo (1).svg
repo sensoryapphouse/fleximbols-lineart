@@ -28,10 +28,10 @@
 	<line style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:10" x1="19.04" y1="96.17" x2="25.3" y2="89.08" />
 	<path style="fill:#ffffff" d="M15.18,109.22l-5.66-5.23l1.3-4.08l5.63-5.99c0.37-0.43,1.02-0.46,1.43-0.06l4.81,4.74   c0.4,0.39,0.38,1.04-0.03,1.42l-6.61,5.92L15.18,109.22z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
 	<g>
-		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:10" points="23.79,87.58 101.21,19.37     101.72,16.97   " />
-		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:10" points="25.3,89.08 102.81,19.83 112.32,9.02       " />
-		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:10" points="26.81,90.59 103.64,20.84     117.22,13.39   " />
-		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:0.5;stroke-miterlimit:10" points="28.33,92.09 104.63,22.04     107.17,21.47   " />
+		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:1.81;stroke-miterlimit:10" points="23.79,87.58 101.21,19.37     101.72,16.97   " />
+		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:1.81;stroke-miterlimit:10" points="25.3,89.08 102.81,19.83 112.32,9.02       " />
+		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:1.81;stroke-miterlimit:10" points="26.81,90.59 103.64,20.84     117.22,13.39   " />
+		<polyline style="fill:none;stroke:#1a1a1a;stroke-width:1.81;stroke-miterlimit:10" points="28.33,92.09 104.63,22.04     107.17,21.47   " />
 	</g>
 	<line style="fill:none;stroke:#1a1a1a;stroke-width:2.6114;stroke-miterlimit:10" x1="21.38" y1="85.18" x2="31.48" y2="95.23" />
 	<circle style="fill:#ffffff" cx="101.72" cy="16.97" r="1.53" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />

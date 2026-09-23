@@ -17,7 +17,7 @@
 
 
 <path d="M 166 90 q 90 -60 180 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<polygon points="186,69 190,79 200,79 192,86 195,96 186,91 177,96 180,86 172,79 182,79" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="256,41 260,52 272,53 263,60 266,72 256,66 246,72 249,60 240,53 252,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="326,69 330,79 340,79 332,86 335,96 326,91 317,96 320,86 312,79 322,79" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="186,69 190,79 200,79 192,86 195,96 186,91 177,96 180,86 172,79 182,79" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+<polygon points="256,41 260,52 272,53 263,60 266,72 256,66 246,72 249,60 240,53 252,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
+<polygon points="326,69 330,79 340,79 332,86 335,96 326,91 317,96 320,86 312,79 322,79" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" stroke-linejoin="round"/>
 </g></svg>

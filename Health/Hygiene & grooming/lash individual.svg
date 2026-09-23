@@ -15,11 +15,11 @@
   <path d="M156,164 Q160,188 162,214" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
   <path d="M156,164 Q166,184 174,210" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
   <!-- Small base knot of cluster -->
-  <circle cx="156" cy="166" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="156" cy="166" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tweezer metal shine lines -->
-  <line x1="108" y1="40" x2="148" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="182" y1="40" x2="162" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="108" y1="40" x2="148" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="182" y1="40" x2="162" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- One stray single lash beside (for context) -->
   <path d="M40,160 Q44,184 42,210" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
-  <circle cx="40" cy="160" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="40" cy="160" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

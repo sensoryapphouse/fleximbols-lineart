@@ -9,7 +9,7 @@
   <path d="M137,70 L152,70 L152,210 L137,210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
   <path d="M189,70 L204,70 L204,210 L189,210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round"/>
   <!-- wood grain -->
-  <path d="M92,90 L92,200 M144,90 L144,200 M196,90 L196,200" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M92,90 L92,200 M144,90 L144,200 M196,90 L196,200" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- pointed stump tips (top) -->
   <path d="M85,70 L92,60 L100,70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M137,70 L144,60 L152,70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -20,8 +20,8 @@
   <path d="M132,40 L210,40 Q215,40 215,46 L215,50 Q215,56 210,56 L132,56 Q127,56 127,50 L127,46 Q127,40 132,40 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- bail spindle details -->
-  <circle cx="85" cy="60" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="150" cy="60" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="137" cy="48" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="205" cy="48" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="85" cy="60" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="60" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="137" cy="48" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="205" cy="48" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

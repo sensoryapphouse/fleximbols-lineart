@@ -12,8 +12,8 @@
   <path d="M145 100 Q120 75 90 50 Q90 25 145 25 Q200 25 200 50 Q170 75 145 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
   <!-- horn rim/opening -->
   <ellipse cx="145" cy="28" rx="55" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04"/>
-  <ellipse cx="145" cy="28" rx="42" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <ellipse cx="145" cy="28" rx="42" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- crank arm -->
   <line x1="163" y1="115" x2="180" y2="125" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
-  <circle cx="183" cy="127" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="183" cy="127" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

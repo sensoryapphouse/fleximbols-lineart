@@ -5,6 +5,6 @@
   <path d="M 47,120 Q 85,108 145,120 Q 205,108 243,120" fill="none" stroke="#1a1a1a" stroke-width="5.08"></path>
   <path d="M 75,55 Q 95,98 75,180" fill="none" stroke="#1a1a1a" stroke-width="3.81"></path>
   <path d="M 215,55 Q 195,98 215,180" fill="none" stroke="#1a1a1a" stroke-width="3.81"></path>
-  <path d="M 65,75 Q 80,108 60,140" fill="none" stroke="#1a1a1a" stroke-width="2.54"></path>
-  <path d="M 225,75 Q 210,108 230,140" fill="none" stroke="#1a1a1a" stroke-width="2.54"></path>
+  <path d="M 65,75 Q 80,108 60,140" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 225,75 Q 210,108 230,140" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

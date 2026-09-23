@@ -5,8 +5,8 @@
   <!-- image area placeholder at top of card -->
   <rect x="42" y="42" width="176" height="80" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- image placeholder diagonal lines -->
-  <line x1="42" y1="42" x2="218" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="218" y1="42" x2="42" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="42" y1="42" x2="218" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="218" y1="42" x2="42" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- content lines -->
   <rect x="42" y="136" width="140" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="42" y="154" width="110" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -17,7 +17,7 @@
   <rect x="80" y="181" width="32" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- dollar coin at bottom-right corner of card -->
   <circle cx="218" cy="182" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="218" cy="182" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="218" cy="182" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- coin symbol — vertical bar + two horizontal bars (no letter) -->
   <rect x="216" y="168" width="4" height="28" rx="2" fill="#1a1a1a" stroke="none"/>
   <rect x="208" y="175" width="20" height="4" rx="2" fill="#1a1a1a" stroke="none"/>

@@ -16,7 +16,7 @@
   <path d="M75 90 Q58 68 45 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M75 90 Q55 78 42 84" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M75 90 Q80 110 90 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="75" cy="94" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="75" cy="94" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="145" y1="175" x2="135" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="195" y1="170" x2="205" y2="190" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <rect x="138" y="162" width="65" height="18" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

@@ -44,18 +44,18 @@
   <ellipse cx="92" cy="66" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="85" y1="64" x2="85" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="91" y1="63" x2="91" y2="73" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="86" cy="61" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="98" cy="61" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="86" cy="61" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="98" cy="61" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bee 2 -->
   <ellipse cx="197" cy="114" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="190" y1="112" x2="190" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="196" y1="111" x2="196" y2="121" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="191" cy="109" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="203" cy="109" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="191" cy="109" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="203" cy="109" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bee 3 -->
   <ellipse cx="137" cy="162" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="130" y1="160" x2="130" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="136" y1="159" x2="136" y2="169" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="131" cy="157" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="143" cy="157" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="131" cy="157" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="143" cy="157" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

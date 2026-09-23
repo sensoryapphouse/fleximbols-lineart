@@ -4,6 +4,6 @@
   <path d="M 145,150 Q 100,140 105,108 Q 135,108 145,128 Q 155,108 185,108 Q 190,140 145,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 145,128 Q 110,115 95,80 Q 125,75 145,108 Q 165,75 195,80 Q 180,115 145,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 145,108 Q 122,80 122,42 Q 145,40 145,80 Q 145,40 168,42 Q 168,80 145,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"></circle>
-  <path d="M 145,38 L 145,30 M 168,52 L 173,48 M 122,52 L 117,48" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"></path>
+  <circle cx="145" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <path d="M 145,38 L 145,30 M 168,52 L 173,48 M 122,52 L 117,48" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"></path>
 </g></svg>

@@ -7,12 +7,12 @@
 <path d="M 110 160 L 175 160 L 178 300 L 230 300 L 230 360 L 110 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="110" y1="190" x2="175" y2="190" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- mud caked on -->
-<path d="M 108 320 Q 150 300 230 318 L 230 362 L 108 362 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="150" cy="330" rx="16" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="200" cy="336" rx="13" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 108 320 Q 150 300 230 318 L 230 362 L 108 362 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="150" cy="330" rx="16" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="200" cy="336" rx="13" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- mud drips/splats -->
-<ellipse cx="130" cy="384" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="180" cy="390" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="130" cy="384" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="180" cy="390" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- CLEAN boot (right, faded) -->
 <g opacity="0.34">
 <path d="M 342 160 L 407 160 L 410 300 L 462 300 L 462 360 L 342 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>

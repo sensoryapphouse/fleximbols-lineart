@@ -3,12 +3,12 @@
   <rect x="40" y="70" width="200" height="372" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
   <rect x="40" y="70" width="200" height="60" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
   <!-- rainbow stripes -->
-  <rect x="70" y="160" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <rect x="70" y="186" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <rect x="70" y="212" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <rect x="70" y="238" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <rect x="70" y="264" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-  <rect x="70" y="290" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="70" y="160" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
+  <rect x="70" y="186" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
+  <rect x="70" y="212" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
+  <rect x="70" y="238" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
+  <rect x="70" y="264" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
+  <rect x="70" y="290" width="140" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.66"/>
   <!-- checkmark -->
   <circle cx="140" cy="380" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
   <path d="M118 380 L135 398 L165 360" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>

@@ -2,8 +2,8 @@
   <!-- Waffle cone - slightly shorter/wider for denser look -->
   <path d="M 80,162 Q 138,172 196,162 L 166,228 Q 138,238 110,228 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Cone crosshatch lines -->
-  <path d="M 85,167 L 112,227 M 100,165 L 125,228 M 116,163 L 138,228 M 138,163 L 152,228 M 158,163 L 165,227 M 175,165 L 172,224" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 80,172 Q 138,180 196,172 M 86,184 Q 138,192 190,184 M 94,198 Q 138,205 178,198 M 104,212 Q 138,218 166,212" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 85,167 L 112,227 M 100,165 L 125,228 M 116,163 L 138,228 M 138,163 L 152,228 M 158,163 L 165,227 M 175,165 L 172,224" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 80,172 Q 138,180 196,172 M 86,184 Q 138,192 190,184 M 94,198 Q 138,205 178,198 M 104,212 Q 138,218 166,212" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Denser swirled custard - fuller/rounder coils with warm yellow tint -->
   <!-- Bottom coil - very full/dense -->
   <path d="M 82,162 Q 68,146 72,128 Q 76,112 100,112 Q 114,112 124,124 Q 134,112 148,112 Q 172,112 176,128 Q 180,146 168,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
@@ -16,5 +16,5 @@
   <!-- Egg icon beside cone - egg shape -->
   <ellipse cx="228" cy="165" rx="22" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Yolk circle inside egg -->
-  <circle cx="228" cy="170" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="228" cy="170" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

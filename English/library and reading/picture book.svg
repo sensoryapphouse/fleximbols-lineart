@@ -6,8 +6,8 @@
   <!-- center spine fold -->
   <path d="M145 50 L145 205" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- page curl shadows under each side -->
-  <path d="M40 200 Q90 192 145 205" stroke="#1a1a1a" stroke-width="2.67" fill="none"/>
-  <path d="M145 205 Q200 192 250 200" stroke="#1a1a1a" stroke-width="2.67" fill="none"/>
+  <path d="M40 200 Q90 192 145 205" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M145 205 Q200 192 250 200" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- LEFT PAGE illustration: sun and grass scene (child-friendly) -->
   <!-- sky background panel -->
   <rect x="45" y="62" width="93" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -39,7 +39,7 @@
   <circle cx="181" cy="100" r="1.5" fill="#1a1a1a"/>
   <circle cx="189" cy="100" r="1.5" fill="#1a1a1a"/>
   <!-- cat smile -->
-  <path d="M181 106 Q185 109 189 106" stroke="#1a1a1a" stroke-width="2.67" fill="none"/>
+  <path d="M181 106 Q185 109 189 106" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- cat tail -->
   <path d="M205 120 Q215 110 215 100" stroke="#1a1a1a" stroke-width="5.33" fill="none" stroke-linecap="round"/>
   <!-- cat legs -->

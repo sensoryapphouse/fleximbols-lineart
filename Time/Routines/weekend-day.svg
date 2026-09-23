@@ -23,7 +23,7 @@
 <!-- relax: person leaning back -->
 <g>
 <circle id="h1" data-fig="mc" cx="158" cy="226" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" data-lp="skin"/>
-<path d="M 130 226 Q 130 198 158 198 Q 186 198 186 226 Q 158 210 130 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="hair"/>
+<path d="M 130 226 Q 130 198 158 198 Q 186 198 186 226 Q 158 210 130 226 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
 <path d="M 116 320 Q 120 264 158 262 Q 196 264 200 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <line x1="158" y1="262" x2="158" y2="290" stroke="#1a1a1a" stroke-width="6"/>
 </g>

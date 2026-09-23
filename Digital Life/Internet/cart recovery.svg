@@ -13,9 +13,9 @@
   <line x1="152" y1="128" x2="156" y2="184" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wheels -->
   <circle cx="88" cy="198" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="88" cy="198" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="88" cy="198" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="160" cy="198" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="160" cy="198" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="198" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Circular recovery arrow around cart -->
   <path d="M226,140 Q256,118 256,86 Q256,42 200,42 Q150,42 130,80" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
   <polygon points="128,72 124,90 142,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

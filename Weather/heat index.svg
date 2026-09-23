@@ -6,11 +6,11 @@
   <!-- Thermometer bulb (hot, red) -->
   <circle cx="69" cy="193" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Tick marks -->
-  <line x1="83" y1="45" x2="95" y2="45" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="83" y1="70" x2="95" y2="70" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="83" y1="95" x2="95" y2="95" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="83" y1="120" x2="95" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="83" y1="145" x2="95" y2="145" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="83" y1="45" x2="95" y2="45" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="83" y1="70" x2="95" y2="70" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="83" y1="95" x2="95" y2="95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="83" y1="120" x2="95" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="83" y1="145" x2="95" y2="145" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Sun (upper right) -->
   <circle cx="210" cy="70" r="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Sun rays -->
@@ -27,5 +27,5 @@
   <!-- Sweat drop highlight -->
   <ellipse cx="163" cy="172" rx="5" ry="9" fill="#ffffff" transform="rotate(-15 163 172)" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Small wavy heat lines above thermometer top -->
-  <path d="M 69 15 Q 62 8 69 1" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M 69 15 Q 62 8 69 1" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

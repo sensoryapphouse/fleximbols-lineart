@@ -15,15 +15,15 @@
   <line x1="116" y1="80" x2="102" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- hanging garments left rail: dress + shirt + jacket -->
   <!-- hanger 1 -->
-  <path d="M60,78 L56,98 L76,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M60,78 L56,98 L76,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="50" y="98" width="32" height="44" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- hanger 2 -->
-  <path d="M84,78 L80,98 L100,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M84,78 L80,98 L100,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="74" y="98" width="32" height="44" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- collar on shirt -->
-  <path d="M82,98 Q90,106 98,98" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M82,98 Q90,106 98,98" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- hanger 3 -->
-  <path d="M106,78 L102,98 L116,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M106,78 L102,98 L116,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="96" y="98" width="26" height="38" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- RIGHT clothes rail + hanging garments -->
   <line x1="174" y1="36" x2="174" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -32,21 +32,21 @@
   <line x1="244" y1="36" x2="244" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="244" y1="80" x2="230" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- hangers right rail -->
-  <path d="M188,78 L184,98 L204,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M188,78 L184,98 L204,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="178" y="98" width="32" height="44" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M212,78 L208,98 L228,98 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M212,78 L208,98 L228,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="202" y="98" width="32" height="44" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- SHOE SHELVES (bottom area, both sides) -->
   <!-- left shoe shelf -->
   <rect x="36" y="158" width="100" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- shoes on left shelf -->
-  <ellipse cx="58" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="90" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="122" cy="155" rx="10" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="58" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="90" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="122" cy="155" rx="10" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- right shoe shelf -->
   <rect x="152" y="158" width="102" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- shoes on right shelf -->
-  <ellipse cx="174" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="206" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="236" cy="155" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="174" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="206" cy="155" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="236" cy="155" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

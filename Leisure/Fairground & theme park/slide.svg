@@ -44,7 +44,7 @@
     <polyline points="328,388 323,352 312,289" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="366,349 324,350" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="318,321 352,321 360,321" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="296,247 117,427" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="296,247 117,427" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="296,247 117,427" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polygon points="80,257 129,226 149,294 182,281 156,349 94,329 125,310 80,257" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
   </g>

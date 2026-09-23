@@ -19,11 +19,11 @@
   <!-- fluffy creamed mixture (white pile, sugar+butter) -->
   <path d="M55 170 Q70 152 92 158 Q115 148 135 162 Q145 162 142 180 Q130 195 97 195 Q65 195 55 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
   <!-- sugar crystal dots on top -->
-  <circle cx="80" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
-  <circle cx="100" cy="165" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
-  <circle cx="120" cy="172" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
-  <circle cx="90" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
-  <circle cx="110" cy="183" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="80" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="100" cy="165" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="172" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="90" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="110" cy="183" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sugar bowl on side -->
   <path d="M210 175 L210 215 Q210 220 215 220 L265 220 Q270 220 270 215 L270 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
   <ellipse cx="240" cy="175" rx="30" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>

@@ -23,8 +23,8 @@
 <g transform="translate(256 82) scale(1.450) translate(-256 -82)"><line x1="244" y1="82" x2="235" y2="55" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/></g>
 <g transform="translate(256 82) scale(1.450) translate(-256 -82)"><line x1="268" y1="82" x2="277" y2="55" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/></g>
 <line x1="288" y1="96" x2="311" y2="80" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="256" cy="120" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="256" cy="120" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="204" cy="151" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<circle cx="308" cy="151" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
+<circle cx="256" cy="120" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<circle cx="256" cy="120" r="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<circle cx="204" cy="151" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5" data-lp="skin"/>
+<circle cx="308" cy="151" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5" data-lp="skin"/>
 </g></svg>

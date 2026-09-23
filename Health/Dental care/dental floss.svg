@@ -25,5 +25,5 @@
   <!-- cutting edge (small metal blade at slot) -->
   <path d="M225 122 L240 122 L242 125 L223 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- blade teeth -->
-  <path d="M225 122 L227 119 L229 122 L231 119 L233 122 L235 119 L237 122 L239 119" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linejoin="round"/>
+  <path d="M225 122 L227 119 L229 122 L231 119 L233 122 L235 119 L237 122 L239 119" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linejoin="round"/>
 </g></svg>

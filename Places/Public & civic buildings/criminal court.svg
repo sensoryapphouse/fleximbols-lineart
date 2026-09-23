@@ -22,7 +22,7 @@
   <path d="M30 103 q10 -10 20 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <rect x="30" y="117" width="20" height="32" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- white shirt triangle -->
-  <polygon points="36,117 44,117 40,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <polygon points="36,117 44,117 40,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="30" y1="126" x2="18" y2="142" stroke="#1a1a1a" stroke-width="10.67" stroke-linecap="round"/>
   <line x1="30" y1="126" x2="18" y2="142" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- pointing arm to defendant -->

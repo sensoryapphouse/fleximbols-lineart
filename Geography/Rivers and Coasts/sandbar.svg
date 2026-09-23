@@ -17,7 +17,7 @@
   <!-- sandbar - long thin strip -->
   <path d="M20 150 Q145 138 270 150 Q145 158 20 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- subtle sand texture dots -->
-  <circle cx="80" cy="148" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="140" cy="146" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="200" cy="148" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="80" cy="148" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="146" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="148" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

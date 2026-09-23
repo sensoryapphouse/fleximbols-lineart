@@ -3,9 +3,9 @@
   <path d="M42,220 Q42,234 145,234 Q248,234 248,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <ellipse cx="145" cy="220" rx="103" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bottom muffin texture -->
-  <path d="M80,222 Q86,232 90,228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M145,224 Q151,234 155,230" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M195,222 Q201,232 205,228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M80,222 Q86,232 90,228" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145,224 Q151,234 155,230" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M195,222 Q201,232 205,228" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cheese melting layer -->
   <path d="M52,196 L56,180 L234,180 L238,196 Q205,208 145,204 Q85,208 52,196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M65,200 Q62,212 68,208" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -26,9 +26,9 @@
   <ellipse cx="145" cy="110" rx="103" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <path d="M42,110 Q42,48 145,48 Q248,48 248,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Muffin top texture lines -->
-  <line x1="80" y1="82" x2="86" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="112" y1="66" x2="116" y2="94" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="145" y1="60" x2="145" y2="90" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="178" y1="66" x2="174" y2="94" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="210" y1="82" x2="204" y2="102" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="80" y1="82" x2="86" y2="102" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="112" y1="66" x2="116" y2="94" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="60" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="178" y1="66" x2="174" y2="94" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="210" y1="82" x2="204" y2="102" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

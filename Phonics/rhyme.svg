@@ -2,16 +2,16 @@
 <polygon points="111,189 97,150 140,176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <polygon points="189,189 203,150 160,176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <circle cx="150.0" cy="220.0" r="56.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="128.7" cy="213.3" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="171.3" cy="213.3" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<polygon points="143,232 157,232 150,242" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<line x1="139" y1="231" x2="97" y2="226" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="161" y1="231" x2="203" y2="226" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="139" y1="241" x2="97" y2="236" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="161" y1="241" x2="203" y2="236" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="128.7" cy="213.3" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.58"/>
+<circle cx="171.3" cy="213.3" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.58"/>
+<polygon points="143,232 157,232 150,242" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.58" stroke-linejoin="round"/>
+<line x1="139" y1="231" x2="97" y2="226" stroke="#1a1a1a" stroke-width="4.58" stroke-linecap="round"/>
+<line x1="161" y1="231" x2="203" y2="226" stroke="#1a1a1a" stroke-width="4.58" stroke-linecap="round"/>
+<line x1="139" y1="241" x2="97" y2="236" stroke="#1a1a1a" stroke-width="4.58" stroke-linecap="round"/>
+<line x1="161" y1="241" x2="203" y2="236" stroke="#1a1a1a" stroke-width="4.58" stroke-linecap="round"/>
 <rect x="298.8" y="266.0" width="134.4" height="20.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="333.4" y="166.0" width="65.3" height="104.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="331.4" y="240.0" width="69.1" height="22.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="331.4" y="240.0" width="69.1" height="22.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.58"/>
 <path d="M 206 200 A 10 10 0 0 1 206 220" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 206 189 A 21 21 0 0 1 206 231" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 206 178 A 32 32 0 0 1 206 242" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>

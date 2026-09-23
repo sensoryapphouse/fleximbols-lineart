@@ -20,6 +20,6 @@
 <line x1="338" y1="447" x2="452" y2="447" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="452" y1="447" x2="429" y2="459" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="452" y1="447" x2="429" y2="435" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="338" y1="447" x2="452" y2="447" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
 <line x1="452" y1="447" x2="429" y2="459" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
 <line x1="452" y1="447" x2="429" y2="435" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
-<path d="M 316.0 112.0 q 10 12 0 20 q -10 -8 0 -20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 302.0 94.0 q 10 12 0 20 q -10 -8 0 -20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 316.0 112.0 q 10 12 0 20 q -10 -8 0 -20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.57" stroke-linejoin="round"/>
+<path d="M 302.0 94.0 q 10 12 0 20 q -10 -8 0 -20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.57" stroke-linejoin="round"/>
 </g></svg>

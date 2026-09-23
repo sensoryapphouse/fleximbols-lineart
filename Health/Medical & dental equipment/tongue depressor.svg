@@ -2,7 +2,7 @@
 <!-- flat wooden spatula stick with rounded ends -->
 <rect x="232" y="96" width="48" height="320" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- wood grain lines -->
-<line x1="256" y1="130" x2="256" y2="382" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="244" y1="150" x2="244" y2="360" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="268" y1="150" x2="268" y2="360" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="256" y1="130" x2="256" y2="382" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="244" y1="150" x2="244" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="268" y1="150" x2="268" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </g></svg>

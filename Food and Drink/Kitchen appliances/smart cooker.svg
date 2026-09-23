@@ -6,19 +6,19 @@
   <!-- Control panel band -->
   <rect x="55" y="148" width="180" height="36" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Display -->
-  <rect x="88" y="155" width="48" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="88" y="155" width="48" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Button 1 -->
-  <circle cx="162" cy="166" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="162" cy="166" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Button 2 -->
-  <circle cx="186" cy="166" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="186" cy="166" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Domed lid -->
   <path d="M65,110 Q145,52 225,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lid handle -->
   <rect x="126" y="48" width="38" height="14" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lid vent holes -->
-  <circle cx="135" cy="82" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="74" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="155" cy="82" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="135" cy="82" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="74" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="82" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Left handle -->
   <path d="M55,130 Q30,130 30,150 Q30,170 55,170" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Right handle -->

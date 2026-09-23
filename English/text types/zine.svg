@@ -9,9 +9,9 @@
   <rect x="58" y="120" width="150" height="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="58" y="180" width="150" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- staples on left edge -->
-  <rect x="56" y="60" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="56" y="115" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="56" y="170" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="56" y="60" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="56" y="115" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="56" y="170" width="6" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- hand-drawn big block ZINE title -->
   <!-- Z -->
   <path d="M 82,60 L 110,60 L 110,72 L 92,92 L 110,92 L 110,104 L 82,104 L 82,92 L 100,72 L 82,72 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

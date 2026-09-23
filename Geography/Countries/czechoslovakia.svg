@@ -12,7 +12,7 @@
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
     <polygon points="5,28 4,28 4,217 7,217 144,123 5,28" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="284,28 5,28 144,123 143,124 284,124 284,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="284,28 5,28 144,123 143,124 284,124 284,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
     <polygon points="143,124 7,217 284,217 284,124 143,124" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
     <polygon points="285,216 3,216 3,28 285,28 285,216" fill="none" stroke="#1a1a1a" stroke-width="4.45" fill-rule="evenodd"/>
   </g>

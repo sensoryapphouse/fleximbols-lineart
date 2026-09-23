@@ -12,5 +12,5 @@
   <!-- Hem -->
   <line x1="95" y1="210" x2="195" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Hem rib -->
-  <line x1="95" y1="203" x2="195" y2="203" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="95" y1="203" x2="195" y2="203" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

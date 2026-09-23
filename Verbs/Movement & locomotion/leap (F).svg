@@ -6,5 +6,5 @@
 <line x1="360" y1="372" x2="410" y2="430" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="410" y1="430" x2="393" y2="424" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="410" y1="430" x2="406" y2="412" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="360" y1="372" x2="410" y2="430" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="410" y1="430" x2="393" y2="424" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
 <line x1="410" y1="430" x2="406" y2="412" stroke="#1a1a1a" stroke-width="7.5" stroke-linecap="round"/>
-<circle cx="120" cy="446" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="120" cy="446" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

@@ -14,6 +14,6 @@
   <ellipse cx="145" cy="54" rx="60" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- pistachio nut garnish - small oval with shell -->
   <ellipse cx="232" cy="185" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.15" stroke-linecap="round"/>
-  <path d="M 220,180 Q 232,172 244,180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <ellipse cx="232" cy="183" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 220,180 Q 232,172 244,180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="232" cy="183" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

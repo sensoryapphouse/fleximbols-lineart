@@ -7,8 +7,8 @@
   <ellipse cx="175" cy="55" rx="12" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mask decoration -->
   <path d="M 145 38 L 145 88" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="95" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="195" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="38" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- mask handle stick -->
   <rect x="143" y="88" width="4" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- noisemaker (grogger) - left -->

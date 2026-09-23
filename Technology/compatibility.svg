@@ -15,8 +15,8 @@
   <path d="M255 80 L262 87 L275 73" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- small hearts above meter as match dots -->
-  <path d="M70 180 Q67 177 64 180 Q61 183 70 190 Q79 183 76 180 Q73 177 70 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M110 180 Q107 177 104 180 Q101 183 110 190 Q119 183 116 180 Q113 177 110 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M150 180 Q147 177 144 180 Q141 183 150 190 Q159 183 156 180 Q153 177 150 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M190 180 Q187 177 184 180 Q181 183 190 190 Q199 183 196 180 Q193 177 190 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M70 180 Q67 177 64 180 Q61 183 70 190 Q79 183 76 180 Q73 177 70 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M110 180 Q107 177 104 180 Q101 183 110 190 Q119 183 116 180 Q113 177 110 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M150 180 Q147 177 144 180 Q141 183 150 190 Q159 183 156 180 Q153 177 150 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M190 180 Q187 177 184 180 Q181 183 190 190 Q199 183 196 180 Q193 177 190 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

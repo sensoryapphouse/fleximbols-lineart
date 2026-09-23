@@ -23,9 +23,9 @@
   <polygon points="73,63 82,63 78,58 78,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- No punched holes visible - thermal binding has a clean spine -->
   <!-- Inner glue indicator: thin horizontal lines on spine band -->
-  <line x1="88" y1="75" x2="108" y2="75" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="100" x2="108" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="125" x2="108" y2="125" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="150" x2="108" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
-  <line x1="88" y1="175" x2="108" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,3"/>
+  <line x1="88" y1="75" x2="108" y2="75" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,3"/>
+  <line x1="88" y1="100" x2="108" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,3"/>
+  <line x1="88" y1="125" x2="108" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,3"/>
+  <line x1="88" y1="150" x2="108" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,3"/>
+  <line x1="88" y1="175" x2="108" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,3"/>
 </g></svg>

@@ -2,8 +2,8 @@
   <!-- Big box held aloft -->
   <rect x="80" y="70" width="130" height="115" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Box cross lines -->
-  <line x1="80" y1="127" x2="210" y2="127" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="70" x2="145" y2="185" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="80" y1="127" x2="210" y2="127" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="145" y2="185" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- ARM (right side, single-finger lift) -->
   <!-- Forearm / hand coming from lower-right, one finger poking under box -->
   <!-- Arm -->
@@ -16,7 +16,7 @@
   <circle cx="207" cy="136" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Upward arrow (left side of box) -->
   <line x1="55" y1="160" x2="55" y2="88" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <polygon points="55,78 44,100 66,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="55,78 44,100 66,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Small effort indicator — light sweat/ease arc above the arm -->
-  <path d="M228,195 Q242,188 248,200" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M228,195 Q242,188 248,200" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

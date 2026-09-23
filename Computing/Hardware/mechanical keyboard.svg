@@ -23,13 +23,13 @@
   <rect x="200" y="112" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="226" y="112" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- visible switch stems between rows -->
-  <rect x="52" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="104" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="130" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="156" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="182" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="208" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="78" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="104" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="130" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="156" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="182" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="208" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- row 3 -->
   <rect x="44" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="70" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -40,13 +40,13 @@
   <rect x="200" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="226" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- switch stems row -->
-  <rect x="52" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="104" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="130" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="156" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="182" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="208" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="78" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="104" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="130" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="156" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="182" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="208" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- spacebar -->
   <rect x="80" y="166" width="130" height="18" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- click indication burst -->

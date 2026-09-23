@@ -6,17 +6,17 @@
   <!-- Interior wall — vertical divider (bathroom pocket) -->
   <line x1="172" y1="36" x2="172" y2="136" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Door 1: front door (bottom centre wall gap) -->
-  <rect x="128" y="201" width="5" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
+  <rect x="128" y="201" width="5" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"  data-lp="hair"/>
   <line x1="120" y1="206" x2="160" y2="206" stroke="#1a1a1a" stroke-width="6.66"/>
   <!-- Reopen gap in bottom wall for door -->
-  <rect x="120" y="202" width="40" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
+  <rect x="120" y="202" width="40" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"  data-lp="hair"/>
   <!-- Door swing arc front door -->
   <path d="M120,206 Q140,186 160,206" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6,4" stroke-linecap="round"/>
   <!-- Door leaf front -->
   <line x1="120" y1="206" x2="160" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Door 2: interior bedroom doorway in horizontal wall -->
-  <rect x="58" y="130" width="40" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
+  <rect x="58" y="130" width="40" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"  data-lp="hair"/>
   <!-- Door swing arc interior -->
   <path d="M58,136 Q78,116 98,136" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="6,4" stroke-linecap="round"/>
   <line x1="58" y1="136" x2="98" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -24,32 +24,32 @@
   <!-- LIVING ROOM furniture (top-left) -->
   <!-- Sofa (top-down) -->
   <rect x="42" y="50" width="80" height="34" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="42" y="50" width="16" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="106" y="50" width="16" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="42" y="50" width="16" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38" stroke-linejoin="round"/>
+  <rect x="106" y="50" width="16" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38" stroke-linejoin="round"/>
   <!-- Coffee table -->
   <rect x="58" y="94" width="50" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- BEDROOM furniture (bottom-left) -->
   <!-- Bed top-down -->
   <rect x="42" y="148" width="70" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="42" y="148" width="70" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="48" y="154" width="26" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="80" y="154" width="26" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="42" y="148" width="70" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38" stroke-linejoin="round"/>
+  <rect x="48" y="154" width="26" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
+  <rect x="80" y="154" width="26" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
 
   <!-- BATHROOM pocket (top-right, smaller room) -->
   <!-- Toilet top-down -->
   <rect x="182" y="46" width="24" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="194" cy="72" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="182" y="62" width="24" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="182" y="62" width="24" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
   <!-- Sink top-down -->
   <rect x="222" y="46" width="28" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="236" cy="57" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="236" cy="57" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
 
   <!-- KITCHEN (bottom-right) -->
   <!-- Counter L-shape -->
   <rect x="180" y="148" width="70" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="236" y="148" width="14" height="58" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Stove circles -->
-  <circle cx="196" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="214" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="196" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
+  <circle cx="214" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.38"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -12,6 +12,6 @@
 <line x1="315" y1="154" x2="340" y2="111" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="358" y1="197" x2="384" y2="182" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <polygon points="286,86 168,266 244,266 226,426 360,224 270,224" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<polygon points="150,135 154,145 164,145 156,152 159,162 150,157 141,162 144,152 136,145 146,145" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="372,357 376,367 386,367 378,374 381,384 372,379 363,384 366,374 358,367 368,367" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="150,135 154,145 164,145 156,152 159,162 150,157 141,162 144,152 136,145 146,145" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
+<polygon points="372,357 376,367 386,367 378,374 381,384 372,379 363,384 366,374 358,367 368,367" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
 </g></svg>

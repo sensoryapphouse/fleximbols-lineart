@@ -11,9 +11,9 @@
   <!-- sleeve top-edge perspective -->
   <polygon points="60,110 240,110 245,100 75,100" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- label area on sleeve -->
-  <rect x="115" y="118" width="70" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="115" y="118" width="70" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="125" y1="128" x2="175" y2="128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- clean line marks on paper, sharp -->
   <line x1="50" y1="195" x2="120" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="50" y1="210" x2="100" y2="210" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

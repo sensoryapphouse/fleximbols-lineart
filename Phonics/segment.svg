@@ -6,8 +6,8 @@
 <line x1="155.5" y1="167.0" x2="155.5" y2="333.0" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-dasharray="3 12"/>
 <line x1="256.0" y1="167.0" x2="256.0" y2="333.0" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-dasharray="3 12"/>
 <line x1="356.5" y1="167.0" x2="356.5" y2="333.0" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-dasharray="3 12"/>
-<circle cx="105.2" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="205.8" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="306.2" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="406.8" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="105.2" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14"/>
+<circle cx="205.8" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14"/>
+<circle cx="306.2" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14"/>
+<circle cx="406.8" cy="250.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14"/>
 </g></svg>

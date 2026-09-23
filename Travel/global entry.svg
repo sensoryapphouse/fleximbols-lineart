@@ -6,33 +6,33 @@
   <path d="M90 90 Q105 85 110 95 Q108 105 95 108 Q85 102 90 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M55 95 Q65 90 75 100 Q72 110 60 108 Q50 102 55 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- meridian -->
-  <ellipse cx="80" cy="80" rx="20" ry="42" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="38" y1="80" x2="122" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="80" cy="80" rx="20" ry="42" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="38" y1="80" x2="122" y2="80" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- passport (left bottom) -->
   <rect x="20" y="135" width="80" height="85" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <circle cx="60" cy="170" r="14" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
   <path d="M50 170 Q60 160 70 170 Q60 180 50 170 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="46" y1="170" x2="74" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="60" y1="156" x2="60" y2="184" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="35" y="195" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="35" y="202" width="35" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="46" y1="170" x2="74" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="156" x2="60" y2="184" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="195" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="202" width="35" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- kiosk (right) -->
   <rect x="180" y="100" width="80" height="120" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- kiosk screen -->
   <rect x="190" y="110" width="60" height="50" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- airplane on screen -->
-  <path d="M198 135 L222 135 L222 128 L235 138 L222 148 L222 141 L198 141 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M198 135 L222 135 L222 128 L235 138 L222 148 L222 141 L198 141 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- card slot -->
-  <rect x="195" y="170" width="50" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="195" y="170" width="50" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- scanner pad -->
   <rect x="195" y="185" width="50" height="25" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="220" cy="197" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="220" cy="197" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- global entry card (center) -->
   <rect x="105" y="140" width="70" height="44" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" transform="rotate(-8 140 162)"/>
-  <circle cx="125" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-8 140 162)"/>
+  <circle cx="125" cy="158" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-8 140 162)"/>
   <rect x="138" y="153" width="32" height="3" fill="#ffffff" transform="rotate(-8 140 162)" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="138" y="160" width="28" height="3" fill="#ffffff" transform="rotate(-8 140 162)" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="138" y="167" width="22" height="3" fill="#ffffff" transform="rotate(-8 140 162)" stroke="#1a1a1a" stroke-width="3.42" />

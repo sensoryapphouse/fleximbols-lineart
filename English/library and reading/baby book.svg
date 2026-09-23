@@ -22,7 +22,7 @@
   <!-- sun smile -->
   <circle cx="191" cy="121" r="2" fill="#1a1a1a"/>
   <circle cx="205" cy="121" r="2" fill="#1a1a1a"/>
-  <path d="M190 130 Q198 136 206 130" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M190 130 Q198 136 206 130" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- thickness on bottom showing it's a board book -->
   <rect x="36" y="200" width="218" height="14" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

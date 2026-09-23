@@ -4,10 +4,10 @@
   <!-- simplified USA map outline -->
   <path d="M30 70 Q24 90 30 110 Q26 140 40 170 Q56 200 90 210 L210 210 Q244 200 256 175 Q268 145 260 120 Q266 95 254 78 Q220 64 180 68 Q140 60 100 66 Q60 60 30 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
   <!-- USA map subtle lighter inland tone -->
-  <path d="M50 90 Q60 110 56 140 Q70 180 110 190 L200 190 Q230 180 240 150 Q244 110 234 92 Q200 84 160 88 Q120 82 80 86 Q60 82 50 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23" stroke-linejoin="round"/>
+  <path d="M50 90 Q60 110 56 140 Q70 180 110 190 L200 190 Q230 180 240 150 Q244 110 234 92 Q200 84 160 88 Q120 82 80 86 Q60 82 50 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- winding Mississippi river top-to-bottom -->
   <path d="M150 60 Q170 90 150 120 Q130 150 155 180 Q165 200 150 220" fill="none" stroke="#1a1a1a" stroke-width="22.63" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M150 60 Q170 90 150 120 Q130 150 155 180 Q165 200 150 220" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
+  <path d="M150 60 Q170 90 150 120 Q130 150 155 180 Q165 200 150 220" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- steamboat hull -->
   <path d="M82 158 L142 158 L136 178 L88 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round" data-lp="hair"/>
   <!-- steamboat deck cabin -->
@@ -16,14 +16,14 @@
   <rect x="100" y="118" width="6" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
   <rect x="116" y="118" width="6" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
   <!-- smoke -->
-  <circle cx="103" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
-  <circle cx="119" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="103" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="119" cy="112" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- paddle wheel -->
   <circle cx="80" cy="168" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
-  <path d="M68 168 L92 168 M80 156 L80 180 M71 159 L89 177 M89 159 L71 177" stroke="#1a1a1a" stroke-width="3.23"/>
+  <path d="M68 168 L92 168 M80 156 L80 180 M71 159 L89 177 M89 159 L71 177" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- MISSISSIPPI label at top -->
   <!-- river delta icon (replaces MISSISSIPPI text) -->
   <path d="M104 20 L116 12 L128 20 L128 36 L116 42 L104 36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
-  <line x1="116" y1="12" x2="116" y2="42" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
-  <line x1="104" y1="27" x2="128" y2="27" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
+  <line x1="116" y1="12" x2="116" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="104" y1="27" x2="128" y2="27" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

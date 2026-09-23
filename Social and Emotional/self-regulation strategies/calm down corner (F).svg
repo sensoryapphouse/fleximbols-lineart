@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="36.27 90.88 448.00 448.00"><metadata id="sah">{"v":1,"fig":[["h1","fc"]]}</metadata>
-<rect x="120" y="120" width="16" height="455" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="120" y="439" width="280" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="170" y="386" width="132" height="54" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="120" y="120" width="16" height="455" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="120" y="439" width="280" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="170" y="386" width="132" height="54" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <g transform="translate(0 44)"><g data-part="hair-back"><g transform="translate(175.27 145.08) scale(1.208)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="4.14" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="4.14" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="322" x2="223" y2="324" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="241" y1="322" x2="223" y2="324" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="223" y1="324" x2="223" y2="374" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="223" y1="324" x2="223" y2="374" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="263" y1="322" x2="281" y2="324" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="263" y1="322" x2="281" y2="324" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
@@ -19,5 +19,5 @@
 
 
 </g>
-<path d="M 360 158 C 336 137 336 161 360 174 C 384 161 384 137 360 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 360 158 C 336 137 336 161 360 174 C 384 161 384 137 360 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

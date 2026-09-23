@@ -11,12 +11,12 @@
   <rect x="192" y="150" width="8" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   <!-- Bedroom 1 (left): bed icon -->
   <rect x="42" y="54" width="60" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="46" y="58" width="24" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="42" y1="80" x2="102" y2="80" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <rect x="46" y="58" width="24" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="42" y1="80" x2="102" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Bedroom 2 (right): bed icon -->
   <rect x="206" y="54" width="44" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="210" y="58" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="206" y1="80" x2="250" y2="80" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <rect x="210" y="58" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="206" y1="80" x2="250" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Living zone (middle): sofa -->
   <rect x="126" y="130" width="60" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="126" y="120" width="60" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

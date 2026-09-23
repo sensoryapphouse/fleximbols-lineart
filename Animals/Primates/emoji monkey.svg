@@ -10,14 +10,14 @@
   <!-- Face circle -->
   <ellipse cx="145" cy="148" rx="66" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Eyes -->
-  <circle cx="118" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <circle cx="118" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="118" cy="118" r="7" fill="#1a1a1a"/>
-  <circle cx="172" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <circle cx="172" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="172" cy="118" r="7" fill="#1a1a1a"/>
   <circle cx="121" cy="115" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="175" cy="115" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Snout -->
-  <ellipse cx="145" cy="168" rx="34" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <ellipse cx="145" cy="168" rx="34" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Nostrils -->
   <ellipse cx="134" cy="163" rx="6" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="156" cy="163" rx="6" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -2,13 +2,13 @@
   <!-- evidence bag -->
   <path d="M40 60 L40 220 L200 220 L200 60 L180 40 L60 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- bag seal strip -->
-  <rect x="40" y="56" width="160" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="40" y="56" width="160" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tag attached at top -->
   <path d="M150 40 L150 18 L210 18 L222 30 L210 42 L150 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="160" cy="30" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="160" cy="30" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tag label lines (path-based) -->
-  <path d="M170 26 L208 26" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M170 34 L208 34" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M170 26 L208 26" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M170 34 L208 34" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- fingerprint inside bag -->
   <path d="M120 96 Q90 96 90 132 Q90 168 110 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M120 108 Q102 108 102 134 Q102 156 116 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -18,7 +18,7 @@
   <path d="M120 120 Q126 120 126 136 Q126 152 120 168" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- magnifying glass over print -->
   <circle cx="200" cy="150" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="200" cy="150" r="36" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="150" r="36" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- enlarged print arcs -->
   <path d="M180 142 Q200 130 220 142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M178 154 Q200 142 222 154" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

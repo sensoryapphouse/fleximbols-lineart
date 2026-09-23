@@ -38,7 +38,7 @@
   <rect x="150" y="156" width="50" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="150" y="168" width="50" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- door handles (double cupboard doors implied by centre split + handles) -->
-  <line x1="145" y1="42" x2="145" y2="210" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <line x1="145" y1="42" x2="145" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6,4"/>
   <circle cx="134" cy="128" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="156" cy="128" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

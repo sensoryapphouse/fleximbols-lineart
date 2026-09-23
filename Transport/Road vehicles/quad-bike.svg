@@ -10,7 +10,7 @@
 <!-- handlebars riser + bars -->
 <line x1="204" y1="232" x2="190" y2="150" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <path d="M 190 150 L 152 142 M 190 150 L 224 158" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<circle cx="150" cy="142" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="150" cy="142" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.88"/>
 <!-- headlight -->
 <path d="M 168 248 L 132 240 Q 120 240 120 254 L 120 272 Q 120 284 134 282 L 170 274 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- footrest -->

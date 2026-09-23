@@ -4,7 +4,7 @@
 <path d="M 100 220 L 142 188 L 184 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="118" y1="188" x2="166" y2="188" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <rect x="116" y="276" width="52" height="60" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<path d="M 128 314 L 142 296 L 156 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 128 314 L 142 296 L 156 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- egg -->
 <ellipse cx="268" cy="346" rx="50" ry="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- bottle of oil/milk -->

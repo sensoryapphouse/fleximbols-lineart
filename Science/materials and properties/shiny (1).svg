@@ -7,11 +7,11 @@
   <!-- Smaller secondary highlight -->
   <ellipse cx="107" cy="92" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bold 4-point star sparkle glint - top right -->
-  <polygon points="210,55 214,42 218,55 231,59 218,63 214,76 210,63 197,59" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="210,55 214,42 218,55 231,59 218,63 214,76 210,63 197,59" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Medium star glint - bottom right -->
-  <polygon points="215,155 218,146 221,155 230,158 221,161 218,170 215,161 206,158" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="215,155 218,146 221,155 230,158 221,161 218,170 215,161 206,158" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Small sparkle glint - top -->
-  <polygon points="155,38 157,32 159,38 165,40 159,42 157,48 155,42 149,40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="155,38 157,32 159,38 165,40 159,42 157,48 155,42 149,40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Thin 4-point cross sparkle - left -->
   <line x1="58" y1="100" x2="74" y2="100" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="66" y1="92" x2="66" y2="108" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>

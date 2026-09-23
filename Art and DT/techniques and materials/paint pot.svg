@@ -5,7 +5,7 @@
 <!-- paint surface inside rim -->
 <ellipse cx="244" cy="230" rx="94" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- inner paint pool -->
-<ellipse cx="244" cy="232" rx="70" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="244" cy="232" rx="70" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- handle (bail) -->
 <path d="M 158 232 Q 244 150 330 232" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- drip down side -->

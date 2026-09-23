@@ -2,7 +2,7 @@
   <path d="M50 125 Q50 60 145 60 Q200 60 230 90" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-dasharray="10 8" stroke-linecap="round"/>
   <path d="M240 100 L240 150 Q240 200 145 200 Q90 200 60 170" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-dasharray="10 8" stroke-linecap="round"/>
   <circle cx="140" cy="100" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M132 105 Q140 100 148 105" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M132 105 Q140 100 148 105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="133" cy="95" r="2" fill="#1a1a1a"/>
   <circle cx="147" cy="95" r="2" fill="#1a1a1a"/>
   <path d="M125 120 L125 175 L155 175 L155 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

@@ -16,8 +16,8 @@
   <!-- tragedy mask (right) on medallion -->
   <path d="M155 85 Q152 95 157 110 Q167 118 175 110 Q177 95 172 85 Q162 80 155 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- tragedy eyes/frown -->
-  <path d="M159 91 L163 95 M163 91 L159 95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M167 91 L171 95 M171 91 L167 95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M159 91 L163 95 M163 91 L159 95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M167 91 L171 95 M171 91 L167 95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M159 108 Q165 102 171 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- star at top -->
   <path d="M145 25 L150 38 L164 38 L153 47 L157 60 L145 52 L133 60 L137 47 L126 38 L140 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

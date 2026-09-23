@@ -15,7 +15,7 @@
   <circle cx="80" cy="148" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34"/>
   <circle cx="80" cy="148" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- clothes visible through porthole -->
-  <path d="M66,142 Q80,136 94,142 Q90,154 80,158 Q70,154 66,142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M66,142 Q80,136 94,142 Q90,154 80,158 Q70,154 66,142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- porthole rim detail -->
   <circle cx="80" cy="148" r="24" fill="none" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- dryer body -->
@@ -41,4 +41,4 @@
   <line x1="55" y1="194" x2="115" y2="194" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- clothes in basket (coloured bits peeping out) -->
   <path d="M58,172 Q70,165 85,170 Q100,165 112,172" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

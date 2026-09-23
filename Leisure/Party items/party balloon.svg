@@ -26,7 +26,7 @@
   <ellipse cx="147" cy="228" rx="18" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- Small accent star left -->
-  <path d="M 52 55 L 55 48 L 58 55 L 65 55 L 59 60 L 61 67 L 55 63 L 49 67 L 51 60 L 45 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 52 55 L 55 48 L 58 55 L 65 55 L 59 60 L 61 67 L 55 63 L 49 67 L 51 60 L 45 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Small accent star right -->
-  <path d="M 235 42 L 238 35 L 241 42 L 248 42 L 242 47 L 244 54 L 238 50 L 232 54 L 234 47 L 228 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 235 42 L 238 35 L 241 42 L 248 42 L 242 47 L 244 54 L 238 50 L 232 54 L 234 47 L 228 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

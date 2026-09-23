@@ -5,7 +5,7 @@
   <circle cx="145" cy="115" r="36" fill="none" stroke="#1a1a1a" stroke-width="5.93"></circle>
   <path d="M 115,115 L 175,115 M 145,82 L 145,148" stroke="#1a1a1a" stroke-width="4.45"></path>
   <path d="M 145,82 Q 130,98 130,115 Q 130,132 145,148 Q 160,132 160,115 Q 160,98 145,82 Z" fill="none" stroke="#1a1a1a" stroke-width="4.45"></path>
-  <path d="M 120,100 Q 145,90 170,100 M 120,130 Q 145,140 170,130" fill="none" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 120,100 Q 145,90 170,100 M 120,130 Q 145,140 170,130" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
   <text x="145" y="178" text-anchor="middle" font-family="serif" font-size="9" font-weight="700" fill="#FFFFFF">★ GLOBAL ★</text>
-  <path d="M 105,195 L 185,195" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 105,195 L 185,195" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

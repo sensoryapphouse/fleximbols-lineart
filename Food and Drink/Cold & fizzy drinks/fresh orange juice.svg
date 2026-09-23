@@ -7,12 +7,12 @@
   <ellipse cx="145" cy="60" rx="52" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="60" rx="48" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- pulp specks -->
-  <circle cx="115" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="160" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="130" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="170" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="120" cy="195" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="155" cy="90" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="195" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="90" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- orange slice on rim -->
   <circle cx="210" cy="55" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <circle cx="210" cy="55" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -26,10 +26,10 @@
   <path d="M 210 55 L 224 69" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 210 55 L 196 69" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- segment fills -->
-  <path d="M 210 55 L 215 38 Q 210 37 205 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M 210 55 L 215 72 Q 210 73 205 72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M 210 55 L 227 50 Q 228 55 227 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M 210 55 L 193 50 Q 192 55 193 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 210 55 L 215 38 Q 210 37 205 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M 210 55 L 215 72 Q 210 73 205 72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M 210 55 L 227 50 Q 228 55 227 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M 210 55 L 193 50 Q 192 55 193 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- notch cut on slice (rim notch) -->
   <path d="M 200 30 L 220 30 L 215 50 L 205 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

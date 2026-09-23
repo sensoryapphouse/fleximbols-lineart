@@ -17,7 +17,7 @@
   <rect x="78" y="95" width="104" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- freshness sparkles/mint leaves -->
   <path d="M220 70 Q235 60 245 75 Q235 90 220 80 Q225 75 220 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
-  <path d="M225 72 Q235 78 240 82" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <path d="M225 72 Q235 78 240 82" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- sparkle stars -->
   <path d="M215 120 L218 128 L226 128 L220 133 L223 141 L215 136 L207 141 L210 133 L204 128 L212 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M245 170 L247 175 L252 175 L248 178 L250 183 L245 180 L240 183 L242 178 L238 175 L243 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

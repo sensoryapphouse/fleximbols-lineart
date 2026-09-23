@@ -2,8 +2,8 @@
 <g opacity="0.34">
 <g transform="translate(9.0 131.0) scale(0.660)">
 <polygon points="198,358 256,176 314,358" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<polygon points="256,156 259,164 267,164 261,170 263,178 256,173 249,178 251,170 245,164 253,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<line x1="256" y1="162" x2="256" y2="140" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<polygon points="256,156 259,164 267,164 261,170 263,178 256,173 249,178 251,170 245,164 253,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.79" stroke-linejoin="round"/>
+<line x1="256" y1="162" x2="256" y2="140" stroke="#1a1a1a" stroke-width="5.79" stroke-linecap="round"/>
 </g>
 </g>
 <g transform="translate(165.0 131.0) scale(0.660)">

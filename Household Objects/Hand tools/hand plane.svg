@@ -8,19 +8,19 @@
   <rect x="22" y="90" width="246" height="44" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
 
   <!-- Frog / blade mouth area - opening in sole -->
-  <rect x="120" y="128" width="30" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="120" y="128" width="30" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Blade iron (angled, sticking up through body) -->
   <polygon points="125,95 145,95 152,125 118,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Blade cap iron screw -->
-  <circle cx="135" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="135" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Rear tote handle (pistol-grip style wooden handle at back) -->
   <path d="M 195,92 Q 210,80 220,85 Q 235,90 230,110 Q 225,128 215,130 L 205,130 L 195,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Tote grain lines -->
-  <line x1="198" y1="100" x2="218" y2="96" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="197" y1="112" x2="222" y2="108" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="198" y1="122" x2="218" y2="120" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="198" y1="100" x2="218" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="197" y1="112" x2="222" y2="108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="198" y1="122" x2="218" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Front knob (round mushroom knob at front) -->
   <ellipse cx="62" cy="90" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
@@ -28,7 +28,7 @@
   <ellipse cx="62" cy="110" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Lateral adjustment lever on back of body -->
-  <rect x="165" y="95" width="8" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="165" y="95" width="8" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Depth adjustment knob (brass knob on back) -->
   <circle cx="190" cy="98" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

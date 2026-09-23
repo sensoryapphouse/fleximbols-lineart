@@ -2,7 +2,7 @@
   <!-- book cover (uplifting bright) -->
   <path d="M50 28 L240 28 L240 220 Q235 226 228 226 L55 226 Q50 222 50 218 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- spine -->
-  <line x1="62" y1="28" x2="62" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="62" y1="28" x2="62" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sky panel on cover -->
   <path d="M72 40 L228 40 L228 200 L72 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- sun rising -->

@@ -4,7 +4,7 @@
   <!-- VERY long stretch limo, low slung, stretched mid-section, multiple doors -->
   <path d="M 6 200 L 8 175 L 30 150 L 55 140 L 250 140 L 270 150 L 282 175 L 282 200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- chrome belt line all along -->
-  <rect x="8" y="172" width="276" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" data-lp="hair"/>
+  <rect x="8" y="172" width="276" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- driver windshield -->
   <path d="M 38 150 L 50 162 L 72 162 L 72 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- driver window -->
@@ -23,10 +23,10 @@
   <line x1="206" y1="168" x2="206" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="238" y1="168" x2="238" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- handles -->
-  <rect x="120" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" data-lp="hair"/>
-  <rect x="152" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" data-lp="hair"/>
-  <rect x="184" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" data-lp="hair"/>
-  <rect x="216" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" data-lp="hair"/>
+  <rect x="120" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <rect x="152" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <rect x="184" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <rect x="216" y="182" width="10" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- headlight -->
   <rect x="10" y="180" width="12" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- tail light -->
@@ -38,4 +38,4 @@
   <circle cx="155" cy="205" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" data-lp="hair"/>
   <circle cx="240" cy="205" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <circle cx="240" cy="205" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" data-lp="hair"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

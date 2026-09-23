@@ -25,5 +25,5 @@
   <!-- 5th-taste star marker -->
   <path d="M 55,52 L 60,38 L 65,52 L 78,52 L 68,61 L 72,76 L 60,67 L 48,76 L 52,61 L 42,52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Small "5" numeral as stylized glyph inside star area — replaced with pentagon dot -->
-  <circle cx="60" cy="56" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="60" cy="56" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

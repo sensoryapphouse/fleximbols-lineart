@@ -9,8 +9,8 @@
   <circle cx="15" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="275" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- coloured band hints (resistor stripes) drawn as small rects between zigzag valleys -->
-  <rect x="78" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="118" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="158" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="198" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="78" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="118" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="198" y="115" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

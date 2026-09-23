@@ -11,15 +11,15 @@
   <line x1="58" y1="170" x2="46" y2="164" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="58" y1="170" x2="44" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="58" y1="170" x2="46" y2="178" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-  <line x1="58" y1="170" x2="46" y2="164" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="58" y1="170" x2="44" y2="170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="58" y1="170" x2="46" y2="178" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="46" y2="164" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="44" y2="170" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="58" y1="170" x2="46" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- ball -->
   <circle cx="170" cy="120" r="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- ball seam -->
   <path d="M 110 105 Q 170 130 230 110" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- ball highlight -->
-  <ellipse cx="148" cy="98" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="148" cy="98" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- attachment point of rope to ball -->
   <circle cx="118" cy="142" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

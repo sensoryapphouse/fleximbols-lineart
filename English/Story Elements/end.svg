@@ -11,9 +11,9 @@
 <circle cx="385.4" cy="384.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="422.0" y1="420.0" x2="422.0" y2="286.0" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <rect x="350.0" y="286.0" width="72.0" height="48.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="350.0" y="286.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="398.0" y="286.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="374.0" y="310.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="350.0" y="286.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.75"/>
+<rect x="398.0" y="286.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.75"/>
+<rect x="374.0" y="310.0" width="24.0" height="24.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.75"/>
 <rect x="350.0" y="286.0" width="72.0" height="48.0" rx="0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="422.0" cy="418.0" r="18.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <polyline points="413.0 418.0 419.5 426.0 432.0 409.0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>

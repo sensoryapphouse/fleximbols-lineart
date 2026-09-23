@@ -12,21 +12,21 @@
   <!-- Globe (massive/open scale motif) -->
   <circle cx="218" cy="68" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Globe latitude lines -->
-  <ellipse cx="218" cy="68" rx="42" ry="16" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="176" y1="68" x2="260" y2="68" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <ellipse cx="218" cy="68" rx="42" ry="16" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="176" y1="68" x2="260" y2="68" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Globe longitude lines -->
-  <ellipse cx="218" cy="68" rx="18" ry="42" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="218" cy="68" rx="18" ry="42" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Many student dots around globe (scale = massive) -->
-  <circle cx="176" cy="52" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="260" cy="52" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="176" cy="84" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="260" cy="84" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="218" cy="26" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="218" cy="110" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="193" cy="34" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="243" cy="34" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="193" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="243" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="176" cy="52" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="260" cy="52" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="176" cy="84" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="260" cy="84" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="218" cy="26" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="218" cy="110" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="193" cy="34" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="243" cy="34" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="193" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="243" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Student dots below screen (audience rows) -->
   <circle cx="55" cy="178" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="82" cy="178" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

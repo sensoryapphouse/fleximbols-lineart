@@ -9,9 +9,9 @@
   <path d="M155 144 Q160 100 188 98 Q208 100 202 120 Q198 134 184 130 Q178 142 215 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M210 144 Q215 116 232 114 Q244 116 240 128 Q238 134 230 132 Q226 142 246 144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Whisk lifted to the right with floppy peak curling over -->
-  <rect x="258" y="20" width="12" height="44" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
-  <path d="M257 64 Q250 90 256 110" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <path d="M271 64 Q278 90 272 110" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <rect x="258" y="20" width="12" height="44" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round"/>
+  <path d="M257 64 Q250 90 256 110" fill="none" stroke="#1a1a1a" stroke-width="4.63" stroke-linecap="round"/>
+  <path d="M271 64 Q278 90 272 110" fill="none" stroke="#1a1a1a" stroke-width="4.63" stroke-linecap="round"/>
   <!-- Soft peak curling over to the side -->
-  <path d="M256 110 Q260 84 274 86 Q284 90 278 102 Q274 110 268 106 Q264 116 272 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M256 110 Q260 84 274 86 Q284 90 278 102 Q274 110 268 106 Q264 116 272 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" stroke-linejoin="round" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

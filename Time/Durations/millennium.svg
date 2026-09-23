@@ -22,7 +22,7 @@
   <rect x="214" y="26" width="48" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <rect x="214" y="126" width="48" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Hourglass sand stream -->
-  <line x1="238" y1="78" x2="238" y2="90" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="238" y1="78" x2="238" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Long timeline -->
   <line x1="20" y1="210" x2="270" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="20" y1="204" x2="20" y2="216" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

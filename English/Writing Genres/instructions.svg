@@ -2,16 +2,16 @@
 <path d="M 132 88 L 348 88 L 394 134 L 394 426 Q 394 440 380 440 L 132 440 Q 118 440 118 426 L 118 102 Q 118 88 132 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 348 88 L 348 134 L 394 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="152.0" cy="148.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="152.0" cy="148.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="152.0" cy="148.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
 <line x1="190.0" y1="148.0" x2="366.0" y2="148.0" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <circle cx="152.0" cy="212.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="146.0" cy="212.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="158.0" cy="212.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="146.0" cy="212.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
+<circle cx="158.0" cy="212.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
 <line x1="190.0" y1="212.0" x2="366.0" y2="212.0" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <circle cx="152.0" cy="276.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="140.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="152.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="164.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="140.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
+<circle cx="152.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
+<circle cx="164.0" cy="276.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
 <line x1="190.0" y1="276.0" x2="366.0" y2="276.0" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <rect x="132.0" y="326.0" width="40.0" height="40.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <path d="M 140 346 L 150 358 L 166 330" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>

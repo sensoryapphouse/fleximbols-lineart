@@ -7,27 +7,27 @@
 <rect x="300.0" y="396.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="340.0" y="396.0" width="24.0" height="30.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="226.0" y="430.0" width="60.0" height="42.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="230 120 146 372 178 372 240 120" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<polygon points="282 120 366 372 334 372 272 120" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="223" y1="140" x2="299" y2="170" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="289" y1="140" x2="213" y2="170" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="213" y1="170" x2="309" y2="200" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="299" y1="170" x2="203" y2="200" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="203" y1="200" x2="319" y2="230" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="309" y1="200" x2="193" y2="230" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="193" y1="230" x2="329" y2="260" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="319" y1="230" x2="183" y2="260" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="183" y1="260" x2="339" y2="290" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="329" y1="260" x2="173" y2="290" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="173" y1="290" x2="349" y2="320" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="339" y1="290" x2="163" y2="320" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="163" y1="320" x2="359" y2="350" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="349" y1="320" x2="153" y2="350" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="153" y1="350" x2="369" y2="380" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="359" y1="350" x2="143" y2="380" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<polygon points="230 120 146 372 178 372 240 120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.06" stroke-linejoin="round"/>
+<polygon points="282 120 366 372 334 372 272 120" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.06" stroke-linejoin="round"/>
+<line x1="223" y1="140" x2="299" y2="170" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="289" y1="140" x2="213" y2="170" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="213" y1="170" x2="309" y2="200" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="299" y1="170" x2="203" y2="200" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="203" y1="200" x2="319" y2="230" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="309" y1="200" x2="193" y2="230" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="193" y1="230" x2="329" y2="260" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="319" y1="230" x2="183" y2="260" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="183" y1="260" x2="339" y2="290" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="329" y1="260" x2="173" y2="290" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="173" y1="290" x2="349" y2="320" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="339" y1="290" x2="163" y2="320" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="163" y1="320" x2="359" y2="350" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="349" y1="320" x2="153" y2="350" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="153" y1="350" x2="369" y2="380" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
+<line x1="359" y1="350" x2="143" y2="380" stroke="#1a1a1a" stroke-width="6.06" stroke-linecap="round"/>
 <rect x="198.0" y="250.0" width="116.0" height="14.0" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="236.0" y="90.0" width="40.0" height="32.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<polygon points="226 120 238 90 274 90 286 120" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<polygon points="226 120 238 90 274 90 286 120" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.06" stroke-linejoin="round"/>
 <line x1="256" y1="90" x2="256" y2="36" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <circle cx="256.0" cy="32.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </g></svg>

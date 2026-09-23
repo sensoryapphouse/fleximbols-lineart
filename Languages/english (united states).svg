@@ -6,5 +6,5 @@
     <path fill="#ffffff" d="m14 0 9 27L0 10h28L5 27z" stroke="#1a1a1a" stroke-width="5.00"/>
   </marker>
   <path fill="none" marker-mid="url(#us-a)" d="m0 0 16 11h61 61 61 61 60L47 37h61 61 60 61L16 63h61 61 61 61 60L47 89h61 61 60 61L16 115h61 61 61 61 60L47 141h61 61 60 61L16 166h61 61 61 61 60L47 192h61 61 60 61L16 218h61 61 61 61 60z"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg><rect x="76.0" y="68.0" width="360" height="270" fill="none" stroke="#1a1a1a" stroke-width="5"/></svg>

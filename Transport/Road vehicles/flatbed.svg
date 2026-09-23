@@ -12,11 +12,11 @@
   <!-- FLAT cargo platform - no walls, no roof - just a flat deck -->
   <rect x="105" y="155" width="170" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- platform plank lines (wood grain detail) -->
-  <line x1="135" y1="155" x2="135" y2="173" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="165" y1="155" x2="165" y2="173" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="195" y1="155" x2="195" y2="173" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="225" y1="155" x2="225" y2="173" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="255" y1="155" x2="255" y2="173" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="135" y1="155" x2="135" y2="173" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="165" y1="155" x2="165" y2="173" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="155" x2="195" y2="173" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="225" y1="155" x2="225" y2="173" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="255" y1="155" x2="255" y2="173" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- chassis frame visible under platform -->
   <rect x="105" y="173" width="170" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- visible empty space ABOVE platform showing no walls/no roof -->

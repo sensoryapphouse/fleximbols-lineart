@@ -32,7 +32,7 @@
     <polygon points="270,46 270,46 269,47 268,48 265,49 265,49 261,48 260,47 260,46 260,46 260,44 261,43 265,42 265,42 268,43 269,44 270,46 270,46" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
     <polygon points="270,46 269,46 269,24 270,24 270,46" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
     <polygon points="270,24 270,24 271,26 273,28 275,30 275,30 273,30 271,30 270,29 270,24" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="230,59 230,68 238,62 245,73 255,66 257,79 269,75" fill="none" stroke="#1a1a1a" stroke-width="1.78"/>
-    <polyline points="240,7 233,5 237,12 228,15 233,23 223,22 224,30" fill="none" stroke="#1a1a1a" stroke-width="1.78"/>
+    <polyline points="230,59 230,68 238,62 245,73 255,66 257,79 269,75" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+    <polyline points="240,7 233,5 237,12 228,15 233,23 223,22 224,30" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 </g></svg>

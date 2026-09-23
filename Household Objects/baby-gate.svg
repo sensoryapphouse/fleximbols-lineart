@@ -11,15 +11,15 @@
   <line x1="110" y1="460" x2="402" y2="460" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
   <line x1="256" y1="397" x2="212" y2="435" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
   <line x1="256" y1="397" x2="300" y2="435" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-  <ellipse cx="208" cy="437" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.35"/>
-  <ellipse cx="304" cy="437" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.35"/>
+  <ellipse cx="208" cy="437" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
+  <ellipse cx="304" cy="437" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
   <line x1="238" y1="357" x2="204" y2="391" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
   <line x1="274" y1="357" x2="308" y2="391" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
   <path d="M 226 347 Q 220 405 256 409 Q 292 405 286 347 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
   <circle id="h1" data-fig="ma" cx="256" cy="305" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" class="skin" data-lp="skin"/>
   <path d="M 256 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-  <circle cx="236" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-  <circle cx="276" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-  <circle cx="243" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-  <circle cx="269" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+  <circle cx="236" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
+  <circle cx="276" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
+  <circle cx="243" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.02"/>
+  <circle cx="269" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.02"/>
 </g></svg>

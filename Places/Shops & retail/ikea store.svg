@@ -6,22 +6,22 @@
   <!-- YELLOW bottom band -->
   <rect x="8" y="188" width="274" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Ground -->
-  <rect x="8" y="208" width="274" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="8" y="208" width="274" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Entrance door -->
   <rect x="110" y="160" width="70" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Door centre line -->
-  <line x1="145" y1="160" x2="145" y2="212" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="145" y1="160" x2="145" y2="212" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- FLAT-PACK BOX emblem (left side) -->
   <rect x="28" y="115" width="72" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Box lid -->
   <rect x="24" y="108" width="80" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Box cross-strap -->
-  <line x1="64" y1="108" x2="64" y2="167" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="28" y1="141" x2="100" y2="141" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="64" y1="108" x2="64" y2="167" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="28" y1="141" x2="100" y2="141" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arrow on box (assemble) -->
-  <polyline points="50,152 64,148 78,152" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="50,152 64,148 78,152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- ALLEN KEY / HEX KEY emblem (right side) -->
   <!-- Long arm (vertical) -->

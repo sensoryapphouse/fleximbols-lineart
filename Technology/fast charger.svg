@@ -3,8 +3,8 @@
     <rect x="108" y="204" width="74" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
     <rect x="72" y="38" width="146" height="138" rx="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
     <rect x="90" y="54" width="110" height="50" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-    <polygon points="128,118 112,148 126,148 116,178 148,142 132,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <polygon points="152,118 136,148 150,148 140,178 172,142 156,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+    <polygon points="128,118 112,148 126,148 116,178 148,142 132,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="152,118 136,148 150,148 140,178 172,142 156,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
     <line x1="60" y1="100" x2="78" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="54" y1="115" x2="76" y2="115" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="60" y1="130" x2="78" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

@@ -28,5 +28,5 @@
   <!-- Radar arch -->
   <path d="M125 68 Q145 50 165 68" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Crossbeam fore -->
-  <rect x="28" y="162" width="234" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="28" y="162" width="234" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

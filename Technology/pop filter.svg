@@ -18,10 +18,10 @@
   <circle cx="80" cy="100" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <circle cx="80" cy="100" r="40" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mesh grid lines -->
-  <line x1="80" y1="62" x2="80" y2="138" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="42" y1="100" x2="118" y2="100" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="52" y1="72" x2="108" y2="128" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="108" y1="72" x2="52" y2="128" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="80" cy="100" r="25" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="80" cy="100" r="12" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="80" y1="62" x2="80" y2="138" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="42" y1="100" x2="118" y2="100" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="52" y1="72" x2="108" y2="128" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="108" y1="72" x2="52" y2="128" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="100" r="25" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="100" r="12" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

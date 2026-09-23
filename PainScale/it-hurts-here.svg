@@ -3,11 +3,11 @@
 <path d="M 138 320 Q 138 190 196 182 Q 254 190 254 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" data-lp="skin"/>
 <line x1="150" y1="216" x2="100" y2="298" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
 <line x1="242" y1="216" x2="292" y2="298" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
-<circle cx="184" cy="116" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="208" cy="116" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="184" cy="116" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+<circle cx="208" cy="116" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
 <path d="M 184 138 Q 196 128 208 138" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <polygon points="196,194 203,223 224,202 216,230 244,222 223,243 252,250 223,257 244,278 216,270 224,298 203,277 196,306 189,277 168,298 176,270 148,278 169,257 140,250 169,243 148,222 176,230 168,202 189,223" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="196" cy="250" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="196" cy="250" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
 <line x1="420" y1="250" x2="286" y2="250" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="286" y1="250" x2="309" y2="238" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="286" y1="250" x2="309" y2="262" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>

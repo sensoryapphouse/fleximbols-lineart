@@ -4,8 +4,8 @@
   <!-- Bulb layered ribs -->
   <path d="M115 220 Q110 190 114 165 Q122 148 145 145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <path d="M175 220 Q180 190 176 165 Q168 148 145 145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
-  <path d="M132 220 Q128 190 130 168 Q136 152 145 150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" fill="none"/>
-  <path d="M158 220 Q162 190 160 168 Q154 152 145 150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" fill="none"/>
+  <path d="M132 220 Q128 190 130 168 Q136 152 145 150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
+  <path d="M158 220 Q162 190 160 168 Q154 152 145 150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- Stalks rising from bulb -->
   <path d="M128 148 Q122 120 118 95 Q115 75 118 58" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M145 142 Q145 115 145 88 Q145 68 145 50" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

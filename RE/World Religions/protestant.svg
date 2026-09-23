@@ -4,17 +4,17 @@
   <!-- pitched roof -->
   <path d="M20 132 L70 95 L120 132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- steeple -->
-  <rect x="60" y="55" width="20" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
-  <path d="M58 55 L70 30 L82 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="60" y="55" width="20" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <path d="M58 55 L70 30 L82 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- tiny steeple cross -->
   <line x1="70" y1="14" x2="70" y2="30" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="63" y1="20" x2="77" y2="20" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- church door -->
-  <path d="M55 220 L55 180 Q70 168 85 180 L85 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M55 220 L55 180 Q70 168 85 180 L85 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- plain wooden cross (right, prominent) -->
   <rect x="178" y="80" width="22" height="130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="150" y="110" width="78" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- open Bible at base -->
   <path d="M150 215 Q189 200 230 215 L230 230 Q189 218 150 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="190" y1="208" x2="190" y2="226" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="190" y1="208" x2="190" y2="226" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

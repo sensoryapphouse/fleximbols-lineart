@@ -26,7 +26,7 @@
   <rect x="45" y="68" width="85" height="60" rx="4" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- credit cards in mesh pocket -->
   <rect x="52" y="78" width="40" height="26" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="56" y="90" width="14" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="56" y="90" width="14" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="62" y="92" width="40" height="26" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- elastic strap on left side -->
   <rect x="45" y="145" width="85" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -37,7 +37,7 @@
   <rect x="170" y="85" width="65" height="90" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- passport emblem circle -->
   <circle cx="202" cy="125" r="14" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="202" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="202" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- passport stripe at top -->
   <line x1="178" y1="100" x2="228" y2="100" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="185" y1="158" x2="220" y2="158" stroke="#1a1a1a" stroke-width="4.45"/>

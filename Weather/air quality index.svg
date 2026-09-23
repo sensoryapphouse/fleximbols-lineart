@@ -14,11 +14,11 @@
   <path d="M166 99 A105 105 0 0 1 208 119 L191 154 A45 45 0 0 0 166 154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M208 119 A105 105 0 0 1 250 200 L200 200 A45 45 0 0 0 191 154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- needle pointing mid -->
-  <path d="M145 200 L170 115 L150 200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M145 200 L170 115 L150 200 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="145" cy="200" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- smog cloud puff over city -->
   <path d="M60 145 Q68 132 85 138 Q88 128 100 130 Q115 120 125 130 Q138 122 148 132 Q158 128 162 138 Q172 135 170 148 L60 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- factory smoke stacks -->
-  <rect x="110" y="170" width="10" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="130" y="175" width="10" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="110" y="170" width="10" height="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="130" y="175" width="10" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

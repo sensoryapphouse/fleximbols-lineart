@@ -12,17 +12,17 @@
 
 </g>
 <ellipse cx="206" cy="306" rx="28" ry="24" fill="none" stroke="#1a1a1a" stroke-width="11"/>
-<line x1="206" y1="306" x2="314" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="206" cy="306" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="206" y1="306" x2="314" y2="224" stroke="#1a1a1a" stroke-width="5.82" stroke-linecap="round"/>
+<circle cx="206" cy="306" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.82"/>
 <circle cx="388" cy="150" r="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <clipPath id="cl206_306"><circle cx="388" cy="150" r="117"/></clipPath>
 <g clip-path="url(#cl206_306)"><g transform="translate(219.0 -48.0) scale(0.660)">
-<rect x="194" y="306" width="124" height="116" rx="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<rect x="198" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<rect x="230" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<rect x="262" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<rect x="294" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
-<path d="M 196 346 q -56 -6 -66 -54 q -5 -22 18 -20 q 18 2 48 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
+<rect x="194" y="306" width="124" height="116" rx="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" data-lp="skin"/>
+<rect x="198" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" data-lp="skin"/>
+<rect x="230" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" data-lp="skin"/>
+<rect x="262" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" data-lp="skin"/>
+<rect x="294" y="182" width="26" height="130" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" data-lp="skin"/>
+<path d="M 196 346 q -56 -6 -66 -54 q -5 -22 18 -20 q 18 2 48 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.82" stroke-linejoin="round" data-lp="skin"/>
 <ellipse cx="230" cy="190" rx="30" ry="24" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 </g></g>
 <circle cx="388" cy="150" r="120" fill="none" stroke="#1a1a1a" stroke-width="6"/>

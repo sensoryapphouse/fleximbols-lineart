@@ -15,14 +15,14 @@
   <!-- Bridge -->
   <rect x="154" y="148" width="28" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- 8 strings (4 pairs) from tailpiece up the neck -->
-  <line x1="157" y1="168" x2="138" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="160" y1="168" x2="141" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="163" y1="168" x2="144" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="166" y1="168" x2="147" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="169" y1="168" x2="150" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="172" y1="168" x2="153" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="175" y1="168" x2="156" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="178" y1="168" x2="159" y2="52" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="157" y1="168" x2="138" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="168" x2="141" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="163" y1="168" x2="144" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="166" y1="168" x2="147" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="169" y1="168" x2="150" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="172" y1="168" x2="153" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="175" y1="168" x2="156" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="178" y1="168" x2="159" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Neck - short, fretted -->
   <path d="M118 96 C122 78 130 62 138 48 L162 54 C154 68 148 84 146 102 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Fret lines on neck -->

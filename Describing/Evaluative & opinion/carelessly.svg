@@ -7,9 +7,9 @@
   <!-- spilled liquid blob -->
   <path d="M 240,230 Q 310,218 388,244 Q 432,258 448,296 Q 436,358 392,342 Q 344,326 292,342 Q 264,330 238,318 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.97"/>
   <!-- flying droplets -->
-  <ellipse cx="396" cy="178" rx="14" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" transform="rotate(-20,396,178)"/>
-  <ellipse cx="448" cy="148" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" transform="rotate(-40,448,148)"/>
-  <ellipse cx="354" cy="168" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" transform="rotate(10,354,168)"/>
+  <ellipse cx="396" cy="178" rx="14" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" transform="rotate(-20,396,178)"/>
+  <ellipse cx="448" cy="148" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" transform="rotate(-40,448,148)"/>
+  <ellipse cx="354" cy="168" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" transform="rotate(10,354,168)"/>
   <!-- exclamation to indicate accident -->
   <line x1="114" y1="90" x2="108" y2="148" stroke="#1a1a1a" stroke-width="20.93" stroke-linecap="round"/>
   <circle cx="110" cy="168" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.04" />

@@ -7,7 +7,7 @@
   <path d="M 170,136 Q 178,120 188,130 L 182,146 Q 170,146 170,136 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 128,132 Q 135,118 142,128 Q 138,140 128,132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 155,130 Q 162,116 169,126 Q 165,138 155,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="82" cy="152" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
-  <circle cx="145" cy="158" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
-  <circle cx="205" cy="152" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="82" cy="152" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="145" cy="158" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="205" cy="152" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
 </g></svg>

@@ -19,7 +19,7 @@
   <line x1="259" y1="122" x2="271" y2="158" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cane in right hand -->
   <line x1="271" y1="158" x2="275" y2="215" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
-  <line x1="271" y1="158" x2="275" y2="215" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <line x1="271" y1="158" x2="275" y2="215" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- legs -->
   <line x1="242" y1="175" x2="240" y2="215" stroke="#1a1a1a" stroke-width="12.45" stroke-linecap="round"/>
   <line x1="242" y1="175" x2="240" y2="215" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
@@ -43,9 +43,9 @@
   <circle cx="64" cy="118" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <circle cx="72" cy="124" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <circle cx="80" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="56" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="74" cy="111" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="65" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="56" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="74" cy="111" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="65" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- syringe (middle, angled) -->
   <polygon points="115,165 130,150 215,80 200,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>

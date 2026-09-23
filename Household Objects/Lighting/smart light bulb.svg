@@ -2,20 +2,20 @@
   <!-- WiFi waves top left -->
   <path d="M 30 70 Q 60 40 90 70" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <path d="M 40 80 Q 60 60 80 80" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
-  <circle cx="60" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="60" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- phone control on right -->
   <rect x="210" y="100" width="50" height="90" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <rect x="216" y="110" width="38" height="60" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bulb icon on phone -->
   <circle cx="235" cy="135" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="232" y="143" width="6" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="232" y="143" width="6" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- colour-change dots on phone -->
-  <circle cx="222" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="232" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="242" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="252" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="222" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="232" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="242" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="252" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- home button -->
-  <circle cx="235" cy="180" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="235" cy="180" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- main bulb glass -->
   <path d="M 130 65 C 100 65 80 90 80 120 C 80 140 95 155 105 165 L 105 175 L 155 175 L 155 165 C 165 155 180 140 180 120 C 180 90 160 65 130 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- screw base -->

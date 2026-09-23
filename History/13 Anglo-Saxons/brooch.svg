@@ -3,8 +3,8 @@
 <line x1="256" y1="120" x2="256" y2="64" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <polygon points="256.0,51.7 246.0,75.1 266.0,75.1" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="hair"/>
 <!-- clasp/catch bar across the back at the foot -->
-<rect x="216" y="392" width="80" height="16" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="hair"/>
-<line x1="256" y1="392" x2="256" y2="408" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<rect x="216" y="392" width="80" height="16" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71" data-lp="hair"/>
+<line x1="256" y1="392" x2="256" y2="408" stroke="#1a1a1a" stroke-width="4.71" stroke-linecap="round"/>
 <!-- gold disc body -->
 <circle cx="256.0" cy="256.0" r="150.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="256.0" cy="256.0" r="136.0" fill="none" stroke="#1a1a1a" stroke-width="5"/>

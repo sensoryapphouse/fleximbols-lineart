@@ -39,7 +39,7 @@
 
   <!-- Brain image display (small monitor) -->
   <rect x="200" y="30" width="70" height="62" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="206" y="36" width="58" height="42" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="206" y="36" width="58" height="42" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Brain outline on monitor -->
   <path d="M218 58 Q214 48 224 44 Q232 40 240 46 Q252 42 256 54 Q260 64 252 70 Q244 76 234 72 Q224 76 218 68 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2.96" stroke-linejoin="round"/>
   <!-- Hotspot on brain -->

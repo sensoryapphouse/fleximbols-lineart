@@ -31,8 +31,8 @@
   <!-- Wing -->
   <path d="M 138 122 Q 145 116 158 120 Q 152 132 138 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- Feet -->
-  <path d="M 135 145 L 132 152 L 140 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
-  <path d="M 152 145 L 149 152 L 157 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.20" stroke-linejoin="round"/>
+  <path d="M 135 145 L 132 152 L 140 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 152 145 L 149 152 L 157 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Tiny motifs in surrounding patches: stars and dots -->
   <g stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round">

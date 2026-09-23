@@ -22,13 +22,13 @@
   <!-- Bottle label stripe -->
   <rect x="75" y="175" width="41" height="15" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bottle highlight -->
-  <line x1="82" y1="160" x2="82" y2="195" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="82" y1="160" x2="82" y2="195" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Rainbow-scale gradient bar (right side, green to red, 5 coloured bars) -->
-  <rect x="210" y="30" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="210" y="66" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="210" y="102" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="210" y="138" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="210" y="174" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="210" y="30" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="66" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="102" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="138" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="174" width="28" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arrow pointing at orange band (moderate-high) -->
   <polygon points="202,110 210,106 210,114" fill="#1a1a1a"/>
 </g></svg>

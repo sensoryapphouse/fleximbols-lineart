@@ -16,5 +16,5 @@
   <ellipse cx="145" cy="200" rx="55" ry="22" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   <ellipse cx="145" cy="200" rx="55" ry="22" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- central woody core -->
-  <circle cx="145" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="145" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

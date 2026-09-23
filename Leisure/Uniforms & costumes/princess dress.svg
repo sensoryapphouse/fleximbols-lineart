@@ -5,5 +5,5 @@
 <line x1="210" y1="248" x2="302" y2="248" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 200 300 q 56 28 112 0" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
 <path d="M 184 360 q 72 30 144 0" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
-<circle cx="256" cy="222" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="256" cy="222" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

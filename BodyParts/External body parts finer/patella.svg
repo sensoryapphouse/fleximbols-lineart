@@ -5,8 +5,8 @@
   <ellipse cx="132" cy="104" rx="21" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <ellipse cx="158" cy="104" rx="21" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Joint cartilage strips -->
-  <rect x="110" y="116" width="70" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <rect x="110" y="148" width="70" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="110" y="116" width="70" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="110" y="148" width="70" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tibia plateau -->
   <ellipse cx="145" cy="160" rx="32" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Tibia shaft -->
@@ -14,8 +14,8 @@
   <!-- PATELLA highlighted in red over the joint -->
   <ellipse cx="145" cy="132" rx="27" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Patella inner surface detail -->
-  <ellipse cx="145" cy="132" rx="15" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" data-lp="hair"/>
+  <ellipse cx="145" cy="132" rx="15" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- Pointer line + dot -->
-  <line x1="172" y1="122" x2="215" y2="98" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="172" y1="122" x2="215" y2="98" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="215" cy="98" r="6" fill="#1a1a1a"/>
 </g></svg>

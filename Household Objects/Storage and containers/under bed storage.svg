@@ -15,10 +15,10 @@
   <!-- under-bed flat storage container sliding out to the right -->
   <rect x="170" y="180" width="120" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- lid line -->
-  <line x1="170" y1="187" x2="290" y2="187" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="170" y1="187" x2="290" y2="187" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- handle -->
-  <rect x="270" y="190" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="270" y="190" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- motion lines showing it sliding out -->
-  <line x1="155" y1="190" x2="165" y2="190" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="155" y1="200" x2="165" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="155" y1="190" x2="165" y2="190" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="155" y1="200" x2="165" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

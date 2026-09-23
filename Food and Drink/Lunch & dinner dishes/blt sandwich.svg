@@ -19,8 +19,8 @@
   <!-- L: Lettuce (frilly green leaf, clearly visible) -->
   <path d="M44,157 Q52,144 64,152 Q76,140 88,148 Q100,136 114,145 Q124,134 138,143 Q148,132 162,142 Q174,134 186,143 Q198,136 210,145 Q222,138 234,148 Q244,143 246,155 L246,174 Q244,162 234,165 Q222,157 210,162 Q198,155 186,161 Q174,155 162,160 Q148,153 138,158 Q124,153 114,159 Q100,153 88,159 Q76,155 64,160 Q52,162 44,168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Lettuce vein lines -->
-  <path d="M82,150 Q96,146 110,152" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M148,141 Q162,138 176,143" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M82,150 Q96,146 110,152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M148,141 Q162,138 176,143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- T: Tomato slice (large round RED slice, clearly tomato) -->
   <ellipse cx="145" cy="132" rx="82" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round" stroke-linejoin="round"/>
@@ -30,15 +30,15 @@
   <line x1="108" y1="146" x2="182" y2="118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="63" y1="132" x2="227" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tomato seeds in segments -->
-  <ellipse cx="128" cy="124" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="162" cy="124" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="128" cy="140" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="162" cy="140" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="128" cy="124" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="162" cy="124" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="128" cy="140" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="162" cy="140" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Top toasted bread slice -->
   <rect x="44" y="80" width="202" height="26" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="44" y="80" width="202" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="44" y="98" width="202" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Mayonnaise spread on inner face of top bread -->
-  <rect x="48" y="107" width="194" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="48" y="107" width="194" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

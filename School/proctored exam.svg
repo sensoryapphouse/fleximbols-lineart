@@ -32,6 +32,6 @@
   <!-- Lock shackle -->
   <path d="M182 116 L182 104 Q195 94 208 104 L208 116" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Lock keyhole -->
-  <circle cx="195" cy="129" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="192" y="129" width="6" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <circle cx="195" cy="129" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="192" y="129" width="6" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

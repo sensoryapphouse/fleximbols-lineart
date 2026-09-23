@@ -19,15 +19,15 @@
   <rect x="200" y="106" width="38" height="36" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <rect x="238" y="106" width="38" height="36" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Hinge dots between lids and base -->
-  <circle cx="29" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="67" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="105" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="143" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="181" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="219" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="257" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="29" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="67" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="143" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="181" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="219" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="257" cy="141" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pills visible in a few open compartments -->
-  <ellipse cx="29" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="67" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="105" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="29" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="67" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="105" cy="167" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

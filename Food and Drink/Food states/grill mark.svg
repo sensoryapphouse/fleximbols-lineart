@@ -2,12 +2,12 @@
   <!-- Grill grate behind -->
   <rect x="22" y="32" width="246" height="176" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Grate bars (horizontal) -->
-  <rect x="22" y="50" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="76" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="102" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="128" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="154" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="180" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="22" y="50" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="76" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="102" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="128" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="154" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="180" width="246" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Glowing coals between bars -->
   <rect x="26" y="60" width="238" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="26" y="86" width="238" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -3,7 +3,7 @@
   <!-- Curved band (the strip base, crescent-like) -->
   <path d="M30,120 Q145,80 260,120 Q145,108 30,120 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Top edge highlight of band -->
-  <path d="M40,118 Q145,90 250,118" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M40,118 Q145,90 250,118" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- Individual lashes sweeping down from the band (multiple, varying lengths) -->
   <path d="M40,118 Q42,140 38,170" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
   <path d="M55,114 Q57,142 52,178" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>

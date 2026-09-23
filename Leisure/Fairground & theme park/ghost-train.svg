@@ -21,5 +21,5 @@
 <circle cx="256" cy="186" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <circle cx="248" cy="184" r="4" fill="#1a1a1a"/>
 <circle cx="264" cy="184" r="4" fill="#1a1a1a"/>
-<path d="M 250 198 L 254 192 L 258 198 L 262 192" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 250 198 L 254 192 L 258 198 L 262 192" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

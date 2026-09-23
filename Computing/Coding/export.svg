@@ -10,5 +10,5 @@
   <!-- Arrow shaft going up and to the right out of box -->
   <line x1="145" y1="110" x2="210" y2="48" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Arrowhead pointing up-right -->
-  <polygon points="210,48 183,52 206,75" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="210,48 183,52 206,75" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

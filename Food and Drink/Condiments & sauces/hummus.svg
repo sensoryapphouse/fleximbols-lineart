@@ -22,7 +22,7 @@
   <circle cx="172" cy="179" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="145" cy="170" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Chickpea crease -->
-  <path d="M145 167 Q147 170 145 173" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M145 167 Q147 170 145 173" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pita bread triangle (right) -->
   <polygon points="218,200 245,160 260,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Pita char spots -->

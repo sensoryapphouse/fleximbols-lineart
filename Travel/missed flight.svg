@@ -21,8 +21,8 @@
   <!-- tail fin -->
   <path d="M100 46 L104 30 L116 42 L108 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- motion lines behind plane -->
-  <line x1="82" y1="76" x2="52" y2="82" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="6 5"/>
-  <line x1="78" y1="86" x2="48" y2="96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="82" y1="76" x2="52" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <line x1="78" y1="86" x2="48" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 5"/>
   <!-- running figure (full body) -->
   <!-- shadow -->
   <ellipse cx="92" cy="208" rx="22" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -38,9 +38,9 @@
   <line x1="85" y1="170" x2="100" y2="160" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <!-- bag/suitcase in outstretched hand -->
   <rect x="100" y="150" width="20" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
-  <path d="M106 150 L106 145 a5 5 0 0 1 10 0 L116 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M106 150 L106 145 a5 5 0 0 1 10 0 L116 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- head -->
   <circle cx="85" cy="153" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
   <!-- hair -->
-  <path d="M75 149 a11 11 0 0 1 22 0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M75 149 a11 11 0 0 1 22 0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

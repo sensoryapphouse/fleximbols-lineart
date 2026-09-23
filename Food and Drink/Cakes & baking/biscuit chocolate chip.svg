@@ -10,32 +10,32 @@
   <!-- Chocolate chips - visible dark brown drops scattered across surface -->
   <!-- Chip 1 top-left -->
   <ellipse cx="96" cy="128" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M92,126 Q96,122 100,126" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M92,126 Q96,122 100,126" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 2 top-centre -->
   <ellipse cx="130" cy="120" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M126,118 Q130,114 134,118" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M126,118 Q130,114 134,118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 3 top-right -->
   <ellipse cx="168" cy="122" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M164,120 Q168,116 172,120" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M164,120 Q168,116 172,120" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 4 far right -->
   <ellipse cx="200" cy="135" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M196,133 Q200,129 204,133" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M196,133 Q200,129 204,133" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 5 centre -->
   <ellipse cx="145" cy="140" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M141,138 Q145,134 149,138" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M141,138 Q145,134 149,138" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 6 centre-left -->
   <ellipse cx="108" cy="145" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M104,143 Q108,139 112,143" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M104,143 Q108,139 112,143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 7 centre-right -->
   <ellipse cx="178" cy="148" rx="10" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M174,146 Q178,142 182,146" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M174,146 Q178,142 182,146" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 8 lower-left -->
   <ellipse cx="92" cy="158" rx="9" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M88,156 Q92,152 96,156" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M88,156 Q92,152 96,156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 9 lower-right -->
   <ellipse cx="196" cy="158" rx="9" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M192,156 Q196,152 200,156" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M192,156 Q196,152 200,156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip 10 lower-centre -->
   <ellipse cx="145" cy="162" rx="9" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M141,160 Q145,156 149,160" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M141,160 Q145,156 149,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

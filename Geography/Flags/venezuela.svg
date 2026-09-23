@@ -23,5 +23,5 @@
     <use xlink:href="#ve-e" width="180" height="120" transform="rotate(40)"/>
   </g>
   <use xlink:href="#ve-f" width="180" height="120" transform="rotate(-80 320 336)"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

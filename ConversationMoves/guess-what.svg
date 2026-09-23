@@ -12,6 +12,6 @@
 <path d="M 316 168 q -34 -28 -34 0 q 0 16 34 0 q 34 16 34 0 q 0 -28 -34 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="316.0" cy="168.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- reveal sparkles -->
-<polygon points="338,118 344,134 360,140 344,146 338,162 332,146 316,140 332,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="372,168 377,180 389,185 377,190 372,202 367,190 355,185 367,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="338,118 344,134 360,140 344,146 338,162 332,146 316,140 332,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.85" stroke-linejoin="round"/>
+<polygon points="372,168 377,180 389,185 377,190 372,202 367,190 355,185 367,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.85" stroke-linejoin="round"/>
 </g></svg>

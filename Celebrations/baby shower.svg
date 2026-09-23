@@ -2,14 +2,14 @@
   <!-- cue: wrapped gift box with bow + baby-bottle on top + pink/blue balloons floating -->
   <!-- pink balloon -->
   <ellipse cx="60" cy="56" rx="22" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M56 80 L60 86 L64 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M60 86 Q56 110 64 140 Q56 170 62 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M56 80 L60 86 L64 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M60 86 Q56 110 64 140 Q56 170 62 196" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- highlight -->
   <ellipse cx="52" cy="48" rx="5" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- blue balloon -->
   <ellipse cx="232" cy="48" rx="22" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M228 72 L232 78 L236 72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M232 78 Q236 110 228 140 Q236 170 230 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M228 72 L232 78 L236 72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M232 78 Q236 110 228 140 Q236 170 230 196" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="224" cy="40" rx="5" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- gift box body -->
   <rect x="92" y="130" width="110" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
@@ -29,5 +29,5 @@
   <!-- body -->
   <rect x="174" y="92" width="26" height="38" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- milk -->
-  <rect x="177" y="108" width="20" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="177" y="108" width="20" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -20,7 +20,7 @@
 <line x1="-44" y1="-58" x2="44" y2="-58" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="-44" y1="58"  x2="44" y2="58"  stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M -36 -58 L 36 -58 L 4 0 L 36 58 L -36 58 L -4 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<path d="M -30 -52 L 30 -52 L 2 -6 L -2 -6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M -30 -52 L 30 -52 L 2 -6 L -2 -6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="0" y1="2" x2="0" y2="22" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </g>
 </g>

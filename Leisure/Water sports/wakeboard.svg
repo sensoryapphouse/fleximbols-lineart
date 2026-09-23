@@ -2,10 +2,10 @@
   <path d="M 20,165 Q 75,210 145,205 Q 220,210 270,165" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"></path>
   <path d="M 35,175 Q 85,200 145,195 Q 215,200 260,175" fill="none" stroke="#1a1a1a" stroke-width="4.45"></path>
   <path d="M 45,135 Q 50,108 145,108 Q 240,108 245,135 Q 245,160 145,162 Q 45,160 45,135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 55,135 Q 60,118 145,118 Q 235,118 240,135 Q 245,148 145,150 Q 55,148 55,135 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00"></path>
+  <path d="M 55,135 Q 60,118 145,118 Q 235,118 240,135 Q 245,148 145,150 Q 55,148 55,135 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 80,128 L 80,142 M 105,128 L 105,142 M 130,128 L 130,142 M 160,128 L 160,142 M 185,128 L 185,142 M 210,128 L 210,142" stroke="#1a1a1a" stroke-width="4.45"></path>
-  <rect x="92" y="115" width="36" height="24" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="160" y="115" width="36" height="24" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></rect>
+  <rect x="92" y="115" width="36" height="24" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="160" y="115" width="36" height="24" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></rect>
   <rect x="120" y="148" width="14" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="155" y="148" width="14" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
 </g></svg>

@@ -9,7 +9,7 @@
 <!-- locomotive (left) -->
 <path d="M 44 220 L 150 220 Q 162 220 162 232 L 162 356 L 44 356 Q 36 356 36 348 L 36 232 Q 36 220 44 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <rect x="58" y="240" width="58" height="48" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="142" cy="266" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="142" cy="266" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <!-- container wagon 1 (gold) -->
 <rect x="180" y="250" width="130" height="106" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
 <line x1="223" y1="250" x2="223" y2="356" stroke="#1a1a1a" stroke-width="6"/>
@@ -23,15 +23,15 @@
 <line x1="310" y1="340" x2="330" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- wheels -->
 <circle cx="80" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="80" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="80" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="130" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="130" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="130" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="210" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="210" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="210" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="280" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="280" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="280" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="360" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="360" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="360" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="430" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="430" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="430" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 </g></svg>

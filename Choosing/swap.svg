@@ -3,6 +3,6 @@
 <rect x="324.0" y="196.0" width="120.0" height="120.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <path d="M 168 250 A 100 100 0 0 1 344 218" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <path d="M 344 262 A 100 100 0 0 1 168 294" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
-<polygon points="358,212 322,214 340,238" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="154,300 190,298 172,274" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="358,212 322,214 340,238" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.11" stroke-linejoin="round"/>
+<polygon points="154,300 190,298 172,274" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.11" stroke-linejoin="round"/>
 </g></svg>

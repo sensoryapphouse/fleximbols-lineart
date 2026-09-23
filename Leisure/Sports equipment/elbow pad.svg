@@ -8,13 +8,13 @@
   <path d="M 55 75 C 50 95, 60 130, 90 145 C 130 165, 175 175, 200 170 C 215 145, 200 110, 175 95 C 145 80, 90 70, 55 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- reinforced hard cap (elbow point) -->
   <ellipse cx="130" cy="125" rx="55" ry="42" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="130" cy="125" rx="48" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="130" cy="125" rx="48" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cap ridges -->
-  <path d="M 90 110 C 105 100, 155 100, 170 115" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 85 130 C 100 125, 160 125, 175 135" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 90 148 C 105 152, 155 152, 170 145" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 90 110 C 105 100, 155 100, 170 115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 85 130 C 100 125, 160 125, 175 135" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 90 148 C 105 152, 155 152, 170 145" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- highlight on cap -->
-  <ellipse cx="115" cy="110" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="110" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sleeve edge stitching -->
   <path d="M 60 85 C 60 100, 70 125, 100 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 195 160 C 200 145, 205 120, 195 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

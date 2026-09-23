@@ -11,16 +11,16 @@
   <!-- Screen content (simplified icons being swiped) -->
   <!-- Left page content (going out left) -->
   <rect x="68" y="52" width="60" height="48" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="68" y="108" width="60" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="68" y="126" width="40" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="68" y="108" width="60" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="68" y="126" width="40" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Right page content (coming in from right) -->
   <rect x="152" y="52" width="68" height="48" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="152" y="108" width="68" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="152" y="126" width="45" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="152" y="108" width="68" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="152" y="126" width="45" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Vertical divider line suggesting boundary between pages -->
-  <line x1="145" y1="48" x2="145" y2="192" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="4,4"/>
+  <line x1="145" y1="48" x2="145" y2="192" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="4,4"/>
 
   <!-- Index finger swiping horizontally left-to-right -->
   <!-- Finger (pointing right, curved) -->

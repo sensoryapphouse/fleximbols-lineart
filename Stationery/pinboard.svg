@@ -4,13 +4,13 @@
   <!-- fabric surface (blue-grey, distinct from cork tan) -->
   <rect x="34" y="34" width="222" height="172" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- fabric weave texture lines horizontal -->
-  <line x1="34" y1="56" x2="256" y2="56" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="78" x2="256" y2="78" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="100" x2="256" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="122" x2="256" y2="122" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="144" x2="256" y2="144" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="166" x2="256" y2="166" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="34" y1="188" x2="256" y2="188" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="34" y1="56" x2="256" y2="56" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="78" x2="256" y2="78" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="100" x2="256" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="122" x2="256" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="144" x2="256" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="166" x2="256" y2="166" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="34" y1="188" x2="256" y2="188" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- note 1 (sticky yellow) -->
   <rect x="52" y="72" width="80" height="68" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <line x1="62" y1="92" x2="122" y2="92" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

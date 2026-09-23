@@ -17,7 +17,7 @@
   <line x1="74" y1="72" x2="160" y2="72" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Divider rule -->
-  <line x1="70" y1="80" x2="200" y2="80" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="70" y1="80" x2="200" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Body text lines left column -->
   <line x1="74" y1="90" x2="128" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -31,9 +31,9 @@
   <line x1="144" y1="130" x2="144" y2="94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="144" y1="130" x2="190" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Bar chart bars -->
-  <rect x="148" y="112" width="8" height="18" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="160" y="100" width="8" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="172" y="108" width="8" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="148" y="112" width="8" height="18" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="160" y="100" width="8" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="172" y="108" width="8" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- More body text lines below chart -->
   <line x1="74" y1="148" x2="196" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -42,6 +42,6 @@
   <line x1="74" y1="178" x2="180" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- References section -->
-  <line x1="74" y1="190" x2="196" y2="190" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="74" y1="198" x2="170" y2="198" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="74" y1="190" x2="196" y2="190" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="74" y1="198" x2="170" y2="198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

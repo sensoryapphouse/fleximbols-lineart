@@ -3,10 +3,10 @@
 <line x1="132" y1="256" x2="179" y2="233" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/><line x1="132" y1="256" x2="179" y2="233" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 <line x1="132" y1="256" x2="179" y2="279" stroke="#1a1a1a" stroke-width="34" stroke-linecap="round"/><line x1="132" y1="256" x2="179" y2="279" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 <line x1="492" y1="256" x2="394" y2="256" stroke="#1a1a1a" stroke-width="66" stroke-linecap="round"/><line x1="492" y1="256" x2="394" y2="256" stroke="#ffffff" stroke-width="57.5" stroke-linecap="round"/>
-<ellipse cx="492" cy="256" rx="15" ry="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<ellipse cx="492" cy="256" rx="15" ry="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" data-lp="skin"/>
 <rect x="322.0" y="213.5" width="100.0" height="85.0" rx="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <rect x="229.5" y="206.0" width="97.5" height="37.5" rx="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <rect x="354.5" y="191.0" width="37.5" height="42.5" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
-<line x1="334" y1="248" x2="407" y2="248" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="334" y1="274" x2="407" y2="274" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="334" y1="248" x2="407" y2="248" stroke="#1a1a1a" stroke-width="5.23" stroke-linecap="round"/>
+<line x1="334" y1="274" x2="407" y2="274" stroke="#1a1a1a" stroke-width="5.23" stroke-linecap="round"/>
 </g></svg>

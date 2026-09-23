@@ -9,6 +9,6 @@
 <line x1="314" y1="286" x2="292" y2="282" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
 <clipPath id="bl"><circle cx="380" cy="256" r="70"/></clipPath>
 <circle cx="380.0" cy="256.0" r="70.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<g clip-path="url(#bl)"><rect x="310" y="186" width="70" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" /><rect x="380" y="186" width="70" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" /></g>
+<g clip-path="url(#bl)"><rect x="310" y="186" width="70" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.22" /><rect x="380" y="186" width="70" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.22" /></g>
 <circle cx="380.0" cy="256.0" r="70.0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

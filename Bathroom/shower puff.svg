@@ -11,11 +11,11 @@
   <circle cx="180" cy="180" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="145" cy="140" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mesh texture lines -->
-  <path d="M95 100 Q145 115 200 95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M85 140 Q145 155 210 140" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M95 180 Q145 195 200 180" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M115 80 Q125 145 130 205" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M165 80 Q160 145 165 205" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M95 100 Q145 115 200 95" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M85 140 Q145 155 210 140" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M95 180 Q145 195 200 180" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M115 80 Q125 145 130 205" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M165 80 Q160 145 165 205" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- central tie knot -->
   <circle cx="145" cy="140" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -17,8 +17,8 @@
   <rect x="120" y="150" width="55" height="30" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="182" y="150" width="50" height="30" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- simple mountain/sun scene in top-left thumbnail -->
-  <polygon points="66,84 84,62 102,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <circle cx="96" cy="58" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="66,84 84,62 102,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <circle cx="96" cy="58" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- simple portrait oval in thumbnail 4 -->
-  <ellipse cx="85" cy="118" rx="12" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="85" cy="118" rx="12" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

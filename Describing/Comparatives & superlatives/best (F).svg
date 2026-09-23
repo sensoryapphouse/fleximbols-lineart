@@ -13,6 +13,6 @@
 
 
 
-<rect x="317" y="213" width="34" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<rect x="333" y="189" width="15" height="26" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
+<rect x="317" y="213" width="34" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<rect x="333" y="189" width="15" height="26" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <g transform="translate(360 8) scale(0.2812)"><path d="M 256,44 L 300,178 L 441,178 L 327,262 L 370,396 L 256,313 L 142,396 L 185,262 L 71,178 L 212,178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/><rect x="86" y="412" width="340" height="72" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="26"/></g></svg>

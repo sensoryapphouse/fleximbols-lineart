@@ -6,7 +6,7 @@
   <!-- Egg yolk surface -->
   <ellipse cx="130" cy="140" rx="72" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Small pour into egg bowl -->
-  <ellipse cx="120" cy="138" rx="14" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="120" cy="138" rx="14" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Whisk in bowl -->
   <rect x="155" y="60" width="10" height="40" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M155 100 Q145 130 152 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

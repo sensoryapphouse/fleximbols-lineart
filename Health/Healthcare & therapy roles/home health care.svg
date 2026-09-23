@@ -20,8 +20,8 @@
   <circle cx="95" cy="130" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- nurse cap white with red cross -->
   <path d="M82 124 Q95 112 108 124 L108 120 Q95 110 82 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="92" y="113" width="6" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="89" y="115" width="12" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="92" y="113" width="6" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="89" y="115" width="12" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- eyes -->
   <circle cx="91" cy="131" r="1.7" fill="#1a1a1a"/>
   <circle cx="99" cy="131" r="1.7" fill="#1a1a1a"/>
@@ -30,8 +30,8 @@
   <!-- nurse uniform -->
   <path d="M82 145 L108 145 L114 198 L76 198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- cross on uniform -->
-  <rect x="92" y="158" width="6" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="88" y="162" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="92" y="158" width="6" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="88" y="162" width="14" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nurse arm holding bag -->
   <path d="M108 152 Q124 160 130 178" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- nurse other arm reaching to patient -->
@@ -43,8 +43,8 @@
   <!-- medical bag held by nurse -->
   <rect x="116" y="178" width="32" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <path d="M124 178 Q124 170 132 170 Q140 170 140 178" fill="none" stroke="#1a1a1a" stroke-width="5.33"/>
-  <rect x="128" y="184" width="4" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="124" y="188" width="12" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="128" y="184" width="4" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="124" y="188" width="12" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- elderly patient FULL BODY (right) -->
   <!-- head -->
   <circle cx="200" cy="135" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
@@ -56,7 +56,7 @@
   <!-- gentle smile -->
   <path d="M196 141 Q200 144 204 141" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <!-- wrinkle line -->
-  <path d="M192 138 Q194 140 196 138" fill="none" stroke="#1a1a1a" stroke-width="2.13"/>
+  <path d="M192 138 Q194 140 196 138" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- torso (cardigan) -->
   <path d="M187 150 L213 150 L218 198 L182 198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- cardigan opening -->

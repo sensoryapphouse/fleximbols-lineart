@@ -16,7 +16,7 @@
 	c5.043,0,9.132,4.089,9.132,9.132v50.115c0,3.034,1.316,6.014,3.678,7.918c14.57,11.744,29.548,16.189,44.29,16.185
 	c26.766,0,52.753-14.612,74.066-26.597c13.253-7.45,25.767-14.49,35.549-16.589c3.276-0.703,5.794-3.031,6.752-6.242
 	c2.859-9.586,10.844-21.505,19.299-34.126c15.871-23.69,34.721-51.955,32.225-82.56c-0.364-4.46-3.435-8.256-7.776-9.338
-	L439.26,323.651z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	L439.26,323.651z" stroke="#1a1a1a" stroke-width="7.97" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path style="fill:#ffffff" d="M256.618,424.371c5.043,0,9.132,4.089,9.132,9.132l8.81-30.834
 	c5.31-18.584,24.177-29.815,43.044-25.622l48.594,10.798v-31.711c0-21.958,19.236-38.955,41.028-36.248l30.323,3.766l0.143-0.744
 	c-3.876-1.811-6.159-6.017-5.084-10.322c1.057-4.255,4.954-6.899,9.159-6.747l-31.124-16.551
@@ -26,7 +26,7 @@
 	c2.791,4.201,1.649,9.871-2.55,12.663c-1.556,1.03-3.313,1.525-5.048,1.525c-2.956,0-5.855-1.431-7.616-4.075l12.084,28.732
 	c8.682,20.642-3.085,44.165-24.811,49.596l-31.727,7.932l17.098,36.232c8.32,17.632,1.328,38.69-15.888,47.842l-31.315,16.646
 	c4.887-1.253,9.845,1.752,11.066,6.652c1.221,4.891-1.757,9.85-6.652,11.066l30.323-3.766c21.792-2.706,41.028,14.29,41.028,36.248
-	v31.711l48.594-10.798c18.867-4.193,37.734,7.038,43.044,25.622l8.81,30.834C247.486,428.46,251.575,424.371,256.618,424.371z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	v31.711l48.594-10.798c18.867-4.193,37.734,7.038,43.044,25.622l8.81,30.834C247.486,428.46,251.575,424.371,256.618,424.371z" stroke="#1a1a1a" stroke-width="7.97" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path style="fill:#ffffff" d="M465.924,180.58c-1.967-4.641-7.34-6.813-11.967-4.851L292.109,244.2
 	c-5.629-9.782-15.043-17.051-26.359-19.629v-174.6c0-5.043-4.089-9.132-9.132-9.132s-9.132,4.089-9.132,9.132v174.6
 	c-11.316,2.576-20.732,9.847-26.36,19.631L59.28,175.729c-4.646-1.962-10.001,0.21-11.967,4.851
@@ -35,7 +35,7 @@
 	c2.501,0,4.989-1.022,6.791-3.023L239.49,301.816c5.228,2.41,10.993,3.844,17.128,3.844s11.901-1.435,17.129-3.844l113.061,125.62
 	c1.801,2.002,4.29,3.023,6.791,3.023c2.176,0,4.36-0.776,6.105-2.346c3.75-3.371,4.053-9.145,0.678-12.895L288.195,290.57
 	c5.856-7.101,9.516-16.08,9.516-26.004c0-0.954-0.217-1.849-0.281-2.787l163.643-69.232
-	C465.718,190.581,467.891,185.226,465.924,180.58z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<circle style="fill:#ffffff" cx="256.612" cy="264.564" r="41.093" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-<circle style="fill:#ffffff" cx="256.612" cy="264.564" r="18.263" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-</g></g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+	C465.718,190.581,467.891,185.226,465.924,180.58z" stroke="#1a1a1a" stroke-width="7.97" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<circle style="fill:#ffffff" cx="256.612" cy="264.564" r="41.093" stroke="#1a1a1a" stroke-width="7.97" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<circle style="fill:#ffffff" cx="256.612" cy="264.564" r="18.263" stroke="#1a1a1a" stroke-width="7.97" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+</g></g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

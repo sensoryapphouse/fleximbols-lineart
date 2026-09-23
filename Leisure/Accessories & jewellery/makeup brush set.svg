@@ -10,7 +10,7 @@
   <!-- Handle -->
   <rect x="82" y="76" width="12" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ferrule -->
-  <rect x="80" y="100" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="80" y="100" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fluffy round head -->
   <ellipse cx="88" cy="68" rx="20" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
 
@@ -18,7 +18,7 @@
   <!-- Handle -->
   <rect x="113" y="80" width="10" height="96" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ferrule -->
-  <rect x="111" y="102" width="14" height="9" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="111" y="102" width="14" height="9" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flat wide head -->
   <rect x="104" y="56" width="30" height="48" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 
@@ -26,7 +26,7 @@
   <!-- Handle -->
   <rect x="141" y="82" width="10" height="94" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ferrule -->
-  <rect x="139" y="104" width="14" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="139" y="104" width="14" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fan bristle shape -->
   <path d="M146 112 Q118 95 110 70 Q115 60 120 68 Q130 85 146 96 Q162 85 170 68 Q175 60 180 70 Q172 95 146 112Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
@@ -34,7 +34,7 @@
   <!-- Handle -->
   <rect x="170" y="78" width="10" height="98" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ferrule -->
-  <rect x="168" y="100" width="14" height="9" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="168" y="100" width="14" height="9" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Angled head -->
   <polygon points="162,56 186,56 190,108 160,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Angle cut -->
@@ -44,7 +44,7 @@
   <!-- Handle -->
   <rect x="200" y="80" width="9" height="96" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ferrule -->
-  <rect x="198" y="102" width="13" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="198" y="102" width="13" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tapered pointed head -->
   <ellipse cx="204" cy="88" rx="7" ry="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <polygon points="197,88 211,88 204,58" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

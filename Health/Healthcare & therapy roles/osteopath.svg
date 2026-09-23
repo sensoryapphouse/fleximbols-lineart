@@ -14,7 +14,7 @@
     <path d="M36 134 Q42 122 50 122 Q58 122 64 134 Q58 128 50 128 Q42 128 36 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <circle cx="46" cy="138" r="1.5" fill="#1a1a1a"/>
     <circle cx="54" cy="138" r="1.5" fill="#1a1a1a"/>
-    <path d="M47 144 Q50 146 53 144" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+    <path d="M47 144 Q50 146 53 144" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
     <!-- neck -->
     <rect x="46" y="150" width="8" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <!-- torso (shirt) lying down -->
@@ -64,5 +64,5 @@
 
   <!-- motion arrow showing manipulation direction -->
   <path d="M210 70 Q220 60 230 70" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
-  <polygon points="228,67 233,72 226,74" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <polygon points="228,67 233,72 226,74" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

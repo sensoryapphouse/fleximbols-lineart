@@ -3,15 +3,15 @@
   <line x1="20" y1="225" x2="270" y2="225" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pill bottle cap -->
   <rect x="70" y="50" width="100" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <line x1="80" y1="55" x2="80" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="90" y1="55" x2="90" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="100" y1="55" x2="100" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="110" y1="55" x2="110" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="120" y1="55" x2="120" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="130" y1="55" x2="130" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="55" x2="140" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="150" y1="55" x2="150" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="160" y1="55" x2="160" y2="68" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="80" y1="55" x2="80" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="55" x2="90" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="100" y1="55" x2="100" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="110" y1="55" x2="110" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="120" y1="55" x2="120" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="130" y1="55" x2="130" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="55" x2="140" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="150" y1="55" x2="150" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="55" x2="160" y2="68" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bottle body white -->
   <rect x="60" y="72" width="120" height="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- white label -->
@@ -32,7 +32,7 @@
   <!-- C -->
   <path d="M152 118 Q146 118 146 125 Q146 132 152 132" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <!-- divider on label -->
-  <line x1="74" y1="142" x2="166" y2="142" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="74" y1="142" x2="166" y2="142" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small detail text rows -->
   <line x1="78" y1="152" x2="160" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="78" y1="162" x2="150" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

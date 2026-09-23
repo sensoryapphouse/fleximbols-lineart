@@ -18,7 +18,7 @@
   <ellipse cx="48" cy="120" rx="6" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="62" cy="118" rx="6" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Eye -->
-  <circle cx="50" cy="132" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="50" cy="132" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Sheep legs (4) -->
   <rect x="85" y="160" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="105" y="160" width="8" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

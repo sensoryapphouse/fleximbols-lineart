@@ -19,7 +19,7 @@
     <polygon points="396,324 396,324 390,329 382,335 374,343 364,353 355,366 351,373 347,381 343,389 340,398 340,398 332,427 327,449 325,458 325,464 325,464 328,462 336,456 347,445 360,429 366,420 373,410 379,398 384,386 389,372 393,357 395,341 396,324 396,324" fill="none" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="240,68 261,103 239,102 239,102 239,98 238,89 238,78 238,73 240,68 240,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="318,108 318,108 322,108 327,108 332,108 337,106 342,103 346,98 348,94 350,90 350,90 348,81 344,59 341,46 337,34 331,23 328,18 325,15 325,15 325,27 324,56 322,88 321,100 318,108 318,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="311,121 311,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="311,121 311,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="311,121 311,121" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

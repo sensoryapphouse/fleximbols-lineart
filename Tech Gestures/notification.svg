@@ -4,7 +4,7 @@
 <circle cx="240.0" cy="138.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 214 336 Q 240 370 266 336 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <circle cx="318.0" cy="184.0" r="44.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="302.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="318.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="334.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="302.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.1"/>
+<circle cx="318.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.1"/>
+<circle cx="334.0" cy="184.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.1"/>
 </g></svg>

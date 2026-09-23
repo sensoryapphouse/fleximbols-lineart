@@ -4,7 +4,7 @@
         fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- small leaf curling from stem -->
   <path d="M155 32 C 175 28, 185 40, 178 52 C 170 50, 160 44, 155 32 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- small round sugar pumpkin: smaller than a carving pumpkin, but viewBox-filling at this scale -->
   <!-- centre lobe -->
   <ellipse cx="145" cy="135" rx="50" ry="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -17,6 +17,6 @@
   <!-- far right lobe -->
   <ellipse cx="220" cy="150" rx="25" ry="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- ridge highlights on centre lobe -->
-  <path d="M130 90 C 128 130, 130 170, 138 195" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
-  <path d="M160 90 C 162 130, 160 170, 152 195" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
+  <path d="M130 90 C 128 130, 130 170, 138 195" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M160 90 C 162 130, 160 170, 152 195" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

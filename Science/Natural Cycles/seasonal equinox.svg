@@ -10,7 +10,7 @@
   <!-- Globe outline re-draw on top -->
   <circle cx="145" cy="110" r="78" fill="none" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Equatorial latitude line -->
-  <line x1="67" y1="110" x2="223" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="8,6"/>
+  <line x1="67" y1="110" x2="223" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="8,6"/>
   <!-- Sun top right -->
   <circle cx="244" cy="48" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <line x1="244" y1="18" x2="244" y2="10" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -24,9 +24,9 @@
   <!-- Scale beam horizontal -->
   <line x1="88" y1="200" x2="202" y2="200" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Left pan string + pan -->
-  <line x1="88" y1="200" x2="88" y2="214" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M74,214 Q88,220 102,214" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="88" y1="200" x2="88" y2="214" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M74,214 Q88,220 102,214" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right pan string + pan (same height = equal) -->
-  <line x1="202" y1="200" x2="202" y2="214" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M188,214 Q202,220 216,214" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="202" y1="200" x2="202" y2="214" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M188,214 Q202,220 216,214" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

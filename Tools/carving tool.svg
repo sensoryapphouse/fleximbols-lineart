@@ -3,16 +3,16 @@
   <!-- Wood block being carved -->
   <rect x="30" y="145" width="175" height="72" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Wood grain lines on block -->
-  <line x1="30" y1="160" x2="205" y2="160" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="30" y1="174" x2="205" y2="174" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="30" y1="188" x2="205" y2="188" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="30" y1="202" x2="205" y2="202" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="30" y1="160" x2="205" y2="160" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="30" y1="174" x2="205" y2="174" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="30" y1="188" x2="205" y2="188" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="30" y1="202" x2="205" y2="202" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Carved recess in top of block -->
   <path d="M 55,145 Q 80,128 125,132 Q 155,135 170,145" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Wood curl peeling off - the key visual cue -->
   <path d="M 125,132 Q 148,118 155,100 Q 160,82 145,72 Q 130,65 118,78 Q 108,90 120,105 Q 132,118 125,132" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Inner curl shadow -->
-  <path d="M 125,128 Q 144,116 150,100 Q 154,86 143,78 Q 133,72 124,83" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 125,128 Q 144,116 150,100 Q 154,86 143,78 Q 133,72 124,83" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Gouge / chisel tool -->
   <!-- Handle - wooden, large grip -->
   <rect x="175" y="40" width="36" height="95" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

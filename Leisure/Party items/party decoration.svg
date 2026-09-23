@@ -25,8 +25,8 @@
   <path d="M 145 125 Q 155 140 145 155 Q 135 170 145 185 Q 155 200 145 215" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 190 130 Q 200 145 190 160 Q 180 175 190 190 Q 200 205 190 220" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Confetti -->
-  <rect x="120" y="200" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 123 205)"/>
-  <rect x="165" y="210" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-25 168 215)"/>
-  <rect x="80" y="218" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(15 83 223)"/>
-  <rect x="210" y="220" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15 213 225)"/>
+  <rect x="120" y="200" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 123 205)"/>
+  <rect x="165" y="210" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-25 168 215)"/>
+  <rect x="80" y="218" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 83 223)"/>
+  <rect x="210" y="220" width="6" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 213 225)"/>
 </g></svg>

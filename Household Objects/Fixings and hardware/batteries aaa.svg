@@ -5,23 +5,23 @@
   <!-- Battery 1 positive cap -->
   <rect x="65" y="38" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- + symbol on battery 1 -->
-  <rect x="71" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="73.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="71" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="73.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Label band 1 -->
   <rect x="55" y="130" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Battery 2 body -->
   <rect x="125" y="50" width="40" height="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <rect x="135" y="38" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <rect x="141" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="143.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="141" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="143.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="125" y="130" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Battery 3 body -->
   <rect x="195" y="50" width="40" height="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <rect x="205" y="38" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <rect x="211" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="213.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="211" y="95" width="8" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="213.5" y="90" width="3" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="195" y="130" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- "AAA" letters as paths on the yellow band, middle battery -->

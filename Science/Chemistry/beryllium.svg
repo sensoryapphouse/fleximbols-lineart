@@ -19,7 +19,7 @@
   <line x1="200" y1="118" x2="145" y2="230" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <line x1="145" y1="86" x2="145" y2="230" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <!-- Highlight sparkle on table -->
-  <polygon points="125,68 132,62 138,70 130,76" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="125,68 132,62 138,70 130,76" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Smaller sparkle -->
-  <polygon points="160,76 164,72 168,78 164,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="160,76 164,72 168,78 164,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

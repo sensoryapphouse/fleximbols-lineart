@@ -4,9 +4,9 @@
   <!-- header bar -->
   <rect x="80" y="32" width="130" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- line items -->
-  <rect x="85" y="62" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="85" y="74" width="100" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="85" y="86" width="70" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="85" y="62" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="85" y="74" width="100" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="85" y="86" width="70" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- progress label area -->
   <line x1="80" y1="108" x2="210" y2="108" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- progress bar track -->

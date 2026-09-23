@@ -5,11 +5,11 @@
 <!-- one-piece maillot body: scooped neck top, high-cut legs -->
 <path d="M 188 156 Q 226 150 256 174 Q 286 150 324 156 Q 344 162 344 196 L 344 286 Q 344 332 306 340 Q 290 330 286 300 Q 282 268 256 268 Q 230 268 226 300 Q 222 330 206 340 Q 168 332 168 286 L 168 196 Q 168 162 188 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- polka dots -->
-<circle cx="210" cy="210" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="256" cy="220" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="302" cy="210" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="228" cy="262" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="284" cy="262" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="200" cy="252" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
-<circle cx="312" cy="252" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.77" />
+<circle cx="210" cy="210" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="256" cy="220" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="302" cy="210" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="228" cy="262" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="284" cy="262" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="200" cy="252" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
+<circle cx="312" cy="252" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" />
 </g></svg>

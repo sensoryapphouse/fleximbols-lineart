@@ -8,7 +8,7 @@
   <!-- second colour spiral on top of yellow -->
   <path d="M145 100 m0 -55 a55 55 0 1 1 -0.1 0 a45 45 0 1 0 0.1 0 a35 35 0 1 1 -0.1 0 a25 25 0 1 0 0.1 0 a15 15 0 1 1 -0.1 0" fill="none" stroke="#1a1a1a" stroke-width="7.61" stroke-linecap="round"/>
   <!-- center dot -->
-  <circle cx="145" cy="100" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="145" cy="100" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- highlight on disc -->
-  <ellipse cx="115" cy="65" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="115" cy="65" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

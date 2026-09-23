@@ -47,7 +47,7 @@
   <ellipse cx="145" cy="177" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <ellipse cx="157" cy="175" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Engine flames -->
-  <path d="M126,180 Q133,200 140,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
-  <path d="M138,182 Q145,202 152,182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
-  <path d="M150,180 Q157,200 164,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M126,180 Q133,200 140,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M138,182 Q145,202 152,182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M150,180 Q157,200 164,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

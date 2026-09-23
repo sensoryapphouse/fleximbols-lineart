@@ -11,13 +11,13 @@
   <ellipse cx="145" cy="185" rx="30" ry="23" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- LEFT URETER: thin tube from left kidney down to bladder, highlighted -->
   <path d="M108 119 C107 128 107 140 110 152 C112 162 116 170 120 176 C124 181 130 184 136 184" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M108 119 C107 128 107 140 110 152 C112 162 116 170 120 176 C124 181 130 184 136 184" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 119 C107 128 107 140 110 152 C112 162 116 170 120 176 C124 181 130 184 136 184" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- RIGHT URETER: thin tube from right kidney down to bladder -->
   <path d="M182 119 C183 128 183 140 180 152 C178 162 174 170 170 176 C166 181 160 184 154 184" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M182 119 C183 128 183 140 180 152 C178 162 174 170 170 176 C166 181 160 184 154 184" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M182 119 C183 128 183 140 180 152 C178 162 174 170 170 176 C166 181 160 184 154 184" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Direction arrows on ureters -->
-  <circle cx="110" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="180" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="110" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pointer dot -->
   <circle cx="145" cy="165" r="5" fill="#1a1a1a"/>
 </g></svg>

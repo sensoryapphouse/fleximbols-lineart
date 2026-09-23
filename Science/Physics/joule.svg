@@ -12,5 +12,5 @@
   <path d="M125 50 L145 25 L165 50" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- energy zigzag -->
   <path d="M180 30 L200 55 L188 65 L215 95" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M180 30 L200 55 L188 65 L215 95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M180 30 L200 55 L188 65 L215 95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

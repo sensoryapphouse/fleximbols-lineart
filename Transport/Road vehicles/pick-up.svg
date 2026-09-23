@@ -14,7 +14,7 @@
   <!-- cab door seam -->
   <line x1="95" y1="145" x2="95" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- door handle -->
-  <rect x="105" y="160" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="105" y="160" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tailgate vertical line at rear -->
   <line x1="255" y1="138" x2="255" y2="188" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- headlight -->

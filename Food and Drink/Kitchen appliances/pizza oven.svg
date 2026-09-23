@@ -26,6 +26,6 @@
   <!-- Chimney cap -->
   <rect x="120" y="22" width="40" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Smoke puffs -->
-  <circle cx="140" cy="14" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" data-lp="hair"/>
-  <circle cx="148" cy="8" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="140" cy="14" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <circle cx="148" cy="8" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

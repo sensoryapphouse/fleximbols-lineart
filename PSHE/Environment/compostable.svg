@@ -2,9 +2,9 @@
   <!-- Soil mound -->
   <ellipse cx="145" cy="210" rx="105" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Soil texture lumps -->
-  <ellipse cx="105" cy="205" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="202" rx="18" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <ellipse cx="185" cy="205" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <ellipse cx="105" cy="205" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="202" rx="18" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="185" cy="205" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Compostable cup (paper/plant-based) -->
   <path d="M100,90 L112,178 Q113,190 125,190 L165,190 Q177,190 178,178 L190,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Cup rim -->
@@ -21,9 +21,9 @@
   <!-- Right arc down toward soil -->
   <path d="M190,120 Q222,140 218,178" fill="none" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round"/>
   <!-- Arrow head pointing into soil -->
-  <polygon points="218,178 206,168 228,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="218,178 206,168 228,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Left arc up from soil -->
   <path d="M72,178 Q68,140 100,120" fill="none" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round"/>
   <!-- Arrow head pointing up into cup -->
-  <polygon points="100,120 88,132 112,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="100,120 88,132 112,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -13,5 +13,5 @@
   <!-- Stylus — diagonal, lower-right -->
   <rect x="205" y="110" width="14" height="70" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" transform="rotate(-35 212 145)"/>
   <!-- Stylus tip -->
-  <polygon points="228,164 222,176 216,164" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-35 222 168)"/>
+  <polygon points="228,164 222,176 216,164" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-35 222 168)"/>
 </g></svg>

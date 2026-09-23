@@ -42,5 +42,5 @@
   <path d="M205,195 Q215,195 215,210" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <path d="M205,195 Q215,195 215,210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- shaggy texture on body -->
-  <path d="M115,185 L113,180 M125,182 L123,177 M135,180 L133,175" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+  <path d="M115,185 L113,180 M125,182 L123,177 M135,180 L133,175" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
 </g></svg>

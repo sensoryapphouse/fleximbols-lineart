@@ -2,11 +2,11 @@
   <!-- foundation jar (wide, short, glass) -->
   <!-- lid -->
   <path d="M58 36 L188 36 L188 70 L58 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M58 52 L188 52" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M58 52 L188 52" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- jar body -->
   <path d="M52 70 L194 70 L194 200 Q194 212 182 212 L64 212 Q52 212 52 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- creamy contents (top portion visible through 'glass') -->
-  <path d="M62 78 L184 78 L184 150 Q184 158 176 158 L70 158 Q62 158 62 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M62 78 L184 78 L184 150 Q184 158 176 158 L70 158 Q62 158 62 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- creamy texture swirls -->
   <path d="M78 100 Q100 92 124 102 Q148 112 168 104" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M78 122 Q100 130 124 122 Q148 114 168 124" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -20,7 +20,7 @@
   <!-- scoop end -->
   <path d="M196 180 Q188 200 196 220 Q204 224 212 218 Q220 200 216 184 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- cream dollop on spatula -->
-  <path d="M198 196 Q206 192 214 198 Q210 206 202 204 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M198 196 Q206 192 214 198 Q210 206 202 204 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- cream swirl on spatula (replaces CREAM text) -->
   <path d="M60 50 Q68 38 76 46 Q82 52 76 58 Q68 64 60 58 Q54 52 60 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <path d="M68 44 Q68 36 72 34 Q76 36 74 44" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>

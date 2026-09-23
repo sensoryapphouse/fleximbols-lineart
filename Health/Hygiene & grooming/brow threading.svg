@@ -7,11 +7,11 @@
   <!-- EYEBROW (being shaped - dark, thick, well-defined) -->
   <path d="M80 118 Q120 108 160 112 Q190 116 210 122 Q200 126 175 124 Q145 122 110 126 Q90 128 80 124 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Brow hair flicks -->
-  <path d="M90 120 L88 114 M105 116 L103 110 M120 114 L118 108 M135 114 L133 108 M150 114 L148 108 M165 116 L163 110 M180 118 L178 112 M195 122 L193 116" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M90 120 L88 114 M105 116 L103 110 M120 114 L118 108 M135 114 L133 108 M150 114 L148 108 M165 116 L163 110 M180 118 L178 112 M195 122 L193 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- EYE below brow (closed for threading session) -->
   <path d="M90 150 Q135 145 200 150" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- Eyelashes (closed eye) -->
-  <path d="M100 152 L98 158 M120 152 L120 160 M140 151 L140 160 M160 151 L160 160 M180 152 L180 158" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M100 152 L98 158 M120 152 L120 160 M140 151 L140 160 M160 151 L160 160 M180 152 L180 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- TWISTED THREAD forming X across the brow -->
   <!-- Thread strand 1 - left hand to right (twisted in middle) -->
   <path d="M30 90 L100 110 Q130 118 145 118 Q160 118 190 124 L260 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

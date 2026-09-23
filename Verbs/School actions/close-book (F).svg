@@ -12,5 +12,5 @@
 
 <g transform="translate(322 221) scale(1.400) translate(-322 -221)"><rect x="322" y="181" width="60" height="80" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/></g>
 <g transform="translate(322 221) scale(1.400) translate(-322 -221)"><line x1="378" y1="181" x2="378" y2="261" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/></g>
-<g transform="translate(322 221) scale(1.400) translate(-322 -221)"><rect x="322" y="181" width="10" height="80" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
+<g transform="translate(322 221) scale(1.400) translate(-322 -221)"><rect x="322" y="181" width="10" height="80" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.29"/></g>
 </svg>

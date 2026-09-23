@@ -42,8 +42,8 @@
   <!-- "FAKE" exclamation circle below -->
   <rect x="112" y="146" width="56" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- exclamation mark path -->
-  <path d="M 138 150 L 142 150 L 141 168 L 139 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="140" cy="173" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M 138 150 L 142 150 L 141 168 L 139 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="173" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- catfish jumping OUT of phone -->
   <path d="M 180 130 Q 210 105 245 110 Q 260 120 250 140 Q 260 155 245 170 Q 215 175 195 165 Q 188 155 195 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- fish belly -->

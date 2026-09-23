@@ -4,12 +4,12 @@
   <!-- book front cover offset -->
   <path d="M62 30 L228 30 L228 210 L62 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- spine line -->
-  <path d="M62 30 L62 210" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M62 30 L62 210" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- dark inner panel -->
-  <path d="M78 50 L212 50 L212 195 L78 195 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M78 50 L212 50 L212 195 L78 195 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- magnifying glass lens -->
   <circle cx="135" cy="115" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="135" cy="115" r="34" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="115" r="34" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- magnifier handle -->
   <path d="M159 139 L188 168 L178 178 L149 149 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- magnifier highlight -->
@@ -17,5 +17,5 @@
   <!-- question mark curve -->
   <path d="M125 105 Q125 92 138 92 Q151 92 151 105 Q151 115 141 121 L141 128" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- question mark dot -->
-  <circle cx="141" cy="138" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="141" cy="138" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

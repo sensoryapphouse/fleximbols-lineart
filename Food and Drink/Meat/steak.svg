@@ -4,5 +4,5 @@
 <line x1="210" y1="208" x2="296" y2="350" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="260" y1="190" x2="346" y2="318" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="170" y1="262" x2="232" y2="356" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<ellipse cx="270" cy="270" rx="40" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="270" cy="270" rx="40" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

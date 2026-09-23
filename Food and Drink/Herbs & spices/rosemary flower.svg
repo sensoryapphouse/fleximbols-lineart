@@ -5,27 +5,27 @@
 
   <!-- Side branches - left pairs -->
   <path d="M140,160 Q120,152 100,148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M140,160 Q120,152 100,148" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M140,160 Q120,152 100,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M139,135 Q118,127 98,122" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M139,135 Q118,127 98,122" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M139,135 Q118,127 98,122" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M137,108 Q116,100 97,95" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M137,108 Q116,100 97,95" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M137,108 Q116,100 97,95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M135,80 Q115,72 97,67" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M135,80 Q115,72 97,67" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M135,80 Q115,72 97,67" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M133,55 Q114,48 98,44" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M133,55 Q114,48 98,44" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M133,55 Q114,48 98,44" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Side branches - right pairs -->
   <path d="M140,172 Q160,164 178,160" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M140,172 Q160,164 178,160" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M140,172 Q160,164 178,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M139,147 Q158,139 177,134" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M139,147 Q158,139 177,134" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M139,147 Q158,139 177,134" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M137,120 Q157,112 176,107" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M137,120 Q157,112 176,107" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M137,120 Q157,112 176,107" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M135,93 Q155,85 175,80" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M135,93 Q155,85 175,80" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M135,93 Q155,85 175,80" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M133,67 Q153,60 170,56" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M133,67 Q153,60 170,56" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M133,67 Q153,60 170,56" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Needle leaves along left branches - short thin spikes -->
   <!-- Left branch 1 (lowest) -->
@@ -50,29 +50,29 @@
   <!-- Tiny 2-lipped pale blue-violet flowers along main stem and branches -->
   <!-- On main stem -->
   <ellipse cx="139" cy="100" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M131,100 Q139,93 147,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M131,100 Q139,93 147,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="137" cy="72" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M129,72 Q137,65 145,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M129,72 Q137,65 145,72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="132" cy="48" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M124,48 Q132,41 140,48" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M124,48 Q132,41 140,48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- On left branches -->
   <ellipse cx="116" cy="97" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M109,97 Q116,91 123,97" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M109,97 Q116,91 123,97" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="105" cy="95" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M98,95 Q105,89 112,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M98,95 Q105,89 112,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="115" cy="70" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M108,70 Q115,64 122,70" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M108,70 Q115,64 122,70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="103" cy="68" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M96,68 Q103,62 110,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M96,68 Q103,62 110,68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- On right branches -->
   <ellipse cx="158" cy="109" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M151,109 Q158,103 165,109" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M151,109 Q158,103 165,109" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="170" cy="107" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M163,107 Q170,101 177,107" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M163,107 Q170,101 177,107" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="156" cy="82" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M149,82 Q156,76 163,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M149,82 Q156,76 163,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <ellipse cx="167" cy="59" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M160,59 Q167,53 174,59" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M160,59 Q167,53 174,59" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

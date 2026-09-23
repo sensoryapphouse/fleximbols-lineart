@@ -18,11 +18,11 @@
   <rect x="175" y="125" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="209" y="125" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pinch arrows pointing inward -->
-  <polygon points="195,130 188,126 188,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <polygon points="205,130 212,126 212,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <polygon points="195,130 188,126 188,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="205,130 212,126 212,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- protective shine -->
   <ellipse cx="185" cy="110" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- protective shield indicator -->
   <path d="M250 70 L270 75 L268 95 Q258 105 248 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <path d="M254 82 L259 87 L266 78" fill="none" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

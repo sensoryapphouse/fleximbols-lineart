@@ -13,10 +13,10 @@
   <ellipse cx="145" cy="158" rx="24" ry="4" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="145" cy="178" rx="23" ry="3.5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Small pore dots suggesting foam texture on surface -->
-  <circle cx="128" cy="76" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="162" cy="72" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="120" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="168" cy="96" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="130" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="160" cy="116" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="76" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="162" cy="72" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="168" cy="96" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="120" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="116" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

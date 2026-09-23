@@ -9,7 +9,7 @@
   <!-- Lemon filling - bright yellow layer inside crust -->
   <path d="M 68,188 L 222,188 L 212,136 L 78,136 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Filling gloss -->
-  <path d="M 95,168 Q 145,164 195,168" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 95,168 Q 145,164 195,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- TALL TOASTED MERINGUE PEAKS - THE key feature: white cloud with browned tops -->
   <!-- Meringue base layer -->
   <path d="M 72,136 Q 145,120 218,136" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -24,9 +24,9 @@
   <!-- Peak 5 right -->
   <path d="M 178,130 Q 184,115 190,100 Q 194,86 202,98 Q 210,112 218,136 Q 200,124 178,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- TOASTED BROWN TIPS on meringue peaks - key visual detail -->
-  <path d="M 84,102 Q 88,96 92,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 112,82 Q 116,72 120,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 141,66 Q 145,56 149,66" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 168,82 Q 172,72 176,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 196,102 Q 200,94 204,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 84,102 Q 88,96 92,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 112,82 Q 116,72 120,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 141,66 Q 145,56 149,66" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 168,82 Q 172,72 176,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 196,102 Q 200,94 204,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -2,12 +2,12 @@
 <g transform="translate(25.2,76.1) scale(0.732)"><!-- open doorway welcoming a visit -->
   <g stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
     <!-- frame -->
-    <rect x="50" y="60" width="200" height="380" rx="12" fill="#ffffff"  stroke="#1a1a1a" stroke-width="5.91" />
+    <rect x="50" y="60" width="200" height="380" rx="12" fill="#ffffff"  stroke="#1a1a1a" stroke-width="7.09" />
     <!-- door panel (ajar) -->
     <path d="M74 84 L210 110 L210 414 L74 416 Z" fill="#ffffff" stroke-width="6"  stroke="#1a1a1a" />
-    <rect x="100" y="130" width="84" height="90" rx="5" fill="none" stroke="#1a1a1a" stroke-width="5" />
-    <rect x="100" y="246" width="84" height="120" rx="5" fill="none" stroke="#1a1a1a" stroke-width="5" />
-    <circle cx="120" cy="280" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+    <rect x="100" y="130" width="84" height="90" rx="5" fill="none" stroke="#1a1a1a" stroke-width="7.09" />
+    <rect x="100" y="246" width="84" height="120" rx="5" fill="none" stroke="#1a1a1a" stroke-width="7.09" />
+    <circle cx="120" cy="280" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.09" />
     <!-- threshold -->
     <rect x="40" y="436" width="220" height="20" fill="#1a1a1a" stroke-width="6" />
   </g>

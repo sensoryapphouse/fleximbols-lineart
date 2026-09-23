@@ -64,7 +64,7 @@
   <rect x="258" y="178" width="16" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wheels -->
   <circle cx="200" cy="205" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="200" cy="205" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="200" cy="205" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="260" cy="205" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="260" cy="205" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="260" cy="205" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

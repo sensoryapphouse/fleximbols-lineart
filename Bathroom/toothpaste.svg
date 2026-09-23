@@ -6,8 +6,8 @@
 <line x1="298" y1="392" x2="298" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="326" y1="392" x2="326" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <path d="M 194 360 L 318 360 L 300 200 Q 298 184 282 184 L 230 184 Q 214 184 212 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<rect x="214.0" y="300.0" width="84.0" height="26.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="214.0" y="300.0" width="84.0" height="26.0" rx="0" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="214.0" y="300.0" width="84.0" height="26.0" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+<rect x="214.0" y="300.0" width="84.0" height="26.0" rx="0" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
 <rect x="238.0" y="140.0" width="36.0" height="28.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="236.0" y="118.0" width="40.0" height="24.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 244 118 q 8 -34 -10 -54 q -6 24 -16 30 q 14 6 8 24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>

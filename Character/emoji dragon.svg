@@ -12,12 +12,12 @@
   <ellipse cx="112" cy="115" rx="8" ry="14" fill="#1a1a1a"/>
   <circle cx="115" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Nostril smoke -->
-  <ellipse cx="120" cy="160" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="120" cy="160" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M118 152 Q112 140 118 128 Q124 116 116 106" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <!-- Snout -->
   <ellipse cx="145" cy="175" rx="64" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Teeth -->
-  <path d="M98 175 L98 185 Q105 195 112 185 Q119 195 126 185 Q133 195 140 185 Q147 195 154 185 Q161 195 168 185 Q175 195 182 185 Q189 195 192 185 L192 175" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" stroke-linejoin="round"/>
+  <path d="M98 175 L98 185 Q105 195 112 185 Q119 195 126 185 Q133 195 140 185 Q147 195 154 185 Q161 195 168 185 Q175 195 182 185 Q189 195 192 185 L192 175" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Mouth line -->
   <path d="M95 175 Q145 162 195 175" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Second eye partially covered by snout -->

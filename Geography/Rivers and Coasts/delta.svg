@@ -17,8 +17,8 @@
   <!-- distributary 5 (far right) -->
   <path d="M 158 110 Q 195 145 230 180 L 210 180 Q 175 145 153 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- silt/sediment patches on triangular fan -->
-  <path d="M 95 175 Q 105 170 115 175 Q 110 180 100 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 170 175 Q 185 170 195 178 Q 188 182 175 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 95 175 Q 105 170 115 175 Q 110 180 100 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 170 175 Q 185 170 195 178 Q 188 182 175 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- waves at sea -->
   <path d="M 20 205 Q 35 200 50 205 Q 65 210 80 205" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <path d="M 230 215 Q 245 210 260 215 Q 270 220 275 215" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>

@@ -10,7 +10,7 @@
   <!-- Climbing vines left side -->
   <path d="M73,220 Q60,195 68,170 Q78,145 65,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M68,170 Q55,163 58,150" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-  <path d="M65,145 Q52,137 57,125" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M65,145 Q52,137 57,125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Leaves left -->
   <ellipse cx="57" cy="149" rx="8" ry="5" fill="#ffffff" transform="rotate(-35,57,149)" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="56" cy="124" rx="7" ry="5" fill="#ffffff" transform="rotate(25,56,124)" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -23,8 +23,8 @@
   <ellipse cx="224" cy="110" rx="7" ry="5" fill="#ffffff" transform="rotate(-20,224,110)" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Vines across arch top -->
   <path d="M72,95 Q110,55 145,52 Q180,55 218,95" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M100,68 Q115,52 130,50" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M190,68 Q175,52 160,50" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M100,68 Q115,52 130,50" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M190,68 Q175,52 160,50" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Rose blooms on arch -->
   <circle cx="100" cy="66" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="102" cy="64" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

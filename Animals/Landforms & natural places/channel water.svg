@@ -6,8 +6,8 @@
   <!-- straight wide water channel between -->
   <rect x="110" y="20" width="70" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- sandy beach edges -->
-  <rect x="106" y="20" width="6" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="178" y="20" width="6" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="106" y="20" width="6" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="178" y="20" width="6" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- towns/details on left land -->
   <circle cx="40" cy="55" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="70" cy="85" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

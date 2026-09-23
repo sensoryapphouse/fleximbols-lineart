@@ -22,7 +22,7 @@
   <circle cx="186" cy="128" r="3" fill="#1a1a1a"/>
   <circle cx="186" cy="127" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- nose -->
-  <circle cx="198" cy="134" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="198" cy="134" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- mouth -->
   <path d="M196 138 Q193 142 190 140" stroke="#1a1a1a" stroke-width="3.55" fill="none" stroke-linecap="round"/>
   <!-- cheek tuft / belly -->

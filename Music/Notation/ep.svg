@@ -3,9 +3,9 @@
   <rect x="52" y="77" width="86" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" stroke-linejoin="round"></rect>
   <path d="M 52,148 L 138,148 M 52,160 L 120,160" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"></path>
   <circle cx="205" cy="120" r="55" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89"></circle>
-  <circle cx="205" cy="120" r="46" fill="none" stroke="#1a1a1a" stroke-width="1.78"></circle>
-  <circle cx="205" cy="120" r="36" fill="none" stroke="#1a1a1a" stroke-width="1.78"></circle>
-  <circle cx="205" cy="120" r="26" fill="none" stroke="#1a1a1a" stroke-width="1.78"></circle>
+  <circle cx="205" cy="120" r="46" fill="none" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="205" cy="120" r="36" fill="none" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="205" cy="120" r="26" fill="none" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <circle cx="205" cy="120" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"></circle>
   <circle cx="205" cy="120" r="3" fill="#1a1a1a"></circle>
 </g></svg>

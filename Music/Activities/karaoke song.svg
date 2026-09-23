@@ -15,8 +15,8 @@
   <!-- microphone bottom-right -->
   <rect x="232" y="170" width="14" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="239" cy="170" rx="16" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="239" cy="168" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M232 169 L246 169 M234 165 L244 165 M234 173 L244 173" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="239" cy="168" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M232 169 L246 169 M234 165 L244 165 M234 173 L244 173" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- music notes floating -->
   <path d="M50 190 L50 215 Q44 220 40 215 Q40 208 50 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M50 190 L66 186 L66 195" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>

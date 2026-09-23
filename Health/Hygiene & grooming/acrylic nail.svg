@@ -35,18 +35,18 @@
   <!-- brush handle -->
   <rect x="220" y="40" width="12" height="90" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- ferrule -->
-  <rect x="218" y="130" width="16" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="218" y="130" width="16" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- brush bristles (small, fine - for acrylic application) -->
   <path d="M 220 138 L 218 175 Q 226 180 234 175 L 232 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- liquid bead on brush tip -->
-  <ellipse cx="226" cy="180" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="226" cy="180" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- powder pot (acrylic powder) -->
   <ellipse cx="245" cy="205" rx="30" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 215 205 L 220 230 Q 245 235 270 230 L 275 205" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <ellipse cx="245" cy="205" rx="25" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="245" cy="205" rx="25" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- powder grains -->
-  <circle cx="235" cy="203" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="245" cy="201" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="255" cy="204" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="250" cy="207" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="235" cy="203" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="245" cy="201" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="255" cy="204" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="207" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

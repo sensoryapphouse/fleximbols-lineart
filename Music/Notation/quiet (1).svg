@@ -5,8 +5,8 @@
   <!-- Speaker cone -->
   <path d="M67 100 L67 140 L105 160 L105 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Speaker grille -->
-  <circle cx="44" cy="120" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="44" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="44" cy="120" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="44" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Single small sound wave arc only -->
   <path d="M118 105 Q133 113 133 120 Q133 127 118 135" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- "Shh" face: simple small face with finger to lips, right side -->
@@ -23,5 +23,5 @@
   <ellipse cx="211" cy="118" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Small "shh" dashes / quiet indicator -->
   <path d="M155 165 L172 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M180 170 L192 170" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M180 170 L192 170" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

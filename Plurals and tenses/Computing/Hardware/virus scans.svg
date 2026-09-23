@@ -9,25 +9,25 @@
   <ellipse cx="105" cy="100" rx="38" ry="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Virus spikes -->
   <line x1="105" y1="64" x2="105" y2="52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="105" cy="49" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="105" cy="49" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <line x1="105" y1="136" x2="105" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="105" cy="151" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="105" cy="151" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <line x1="67" y1="100" x2="55" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="52" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="52" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <line x1="143" y1="100" x2="155" y2="100" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="158" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="158" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <line x1="78" y1="73" x2="70" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="67" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="67" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <line x1="132" y1="73" x2="140" y2="65" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="143" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="143" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <!-- Virus eyes -->
-  <circle cx="95" cy="94" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <circle cx="115" cy="94" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="95" cy="94" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
+  <circle cx="115" cy="94" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
   <!-- Magnifier glass (overlapping, handle bottom-right) -->
   <circle cx="168" cy="148" r="52" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="168" cy="148" r="52" fill="#ffffff" stroke="#1a1a1a" opacity="0.18" stroke-width="3.42" />
+  <circle cx="168" cy="148" r="52" fill="#ffffff" stroke="#1a1a1a" opacity="0.18" stroke-width="4.22" />
   <!-- Magnifier handle -->
   <line x1="208" y1="188" x2="238" y2="218" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round"/>
   <!-- Scan line inside magnifier -->
   <line x1="140" y1="148" x2="196" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="6,4"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

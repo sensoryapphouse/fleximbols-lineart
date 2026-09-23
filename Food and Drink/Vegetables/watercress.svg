@@ -2,7 +2,7 @@
   <!-- watercress: small dark green leaves on thin stems, bundled -->
   <!-- bundle tie -->
   <rect x="115" y="170" width="60" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
-  <path d="M118,178 L172,178" stroke="#1a1a1a" stroke-width="3.23"/>
+  <path d="M118,178 L172,178" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stems splaying from bundle -->
   <path d="M125,170 Q105,140 80,90" fill="none" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
   <path d="M135,170 Q120,135 105,75" fill="none" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
@@ -40,6 +40,6 @@
     <ellipse cx="145" cy="130" rx="10" ry="8"/>
   </g>
   <!-- small vein highlights -->
-  <path d="M145,65 L145,73" stroke="#1a1a1a" stroke-width="2.43"/>
-  <path d="M145,130 L145,138" stroke="#1a1a1a" stroke-width="2.43"/>
+  <path d="M145,65 L145,73" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M145,130 L145,138" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

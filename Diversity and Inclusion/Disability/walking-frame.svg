@@ -27,8 +27,8 @@
 <line x1="182.0" y1="385.0" x2="322.0" y2="385.0" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="182.0" y1="449.0" x2="222.0" y2="449.0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="322.0" y1="449.0" x2="282.0" y2="449.0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<circle cx="182.0" cy="451.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="322.0" cy="451.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="208.0" cy="305.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
-<circle cx="296.0" cy="305.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
+<circle cx="182.0" cy="451.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
+<circle cx="322.0" cy="451.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
+<circle cx="208.0" cy="305.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" data-lp="skin"/>
+<circle cx="296.0" cy="305.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" data-lp="skin"/>
 </g></svg>

@@ -8,11 +8,11 @@
   <!-- Gable ridge seam -->
   <path d="M 115,55 L 145,45 L 175,55" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Blue band / label area -->
-  <rect x="88" y="115" width="114" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="88" y="115" width="114" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Milk drop shape on label -->
-  <path d="M 145,125 Q 135,133 135,142 Q 135,152 145,155 Q 155,152 155,142 Q 155,133 145,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 145,125 Q 135,133 135,142 Q 135,152 145,155 Q 155,152 155,142 Q 155,133 145,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Bottom crease lines -->
-  <path d="M 88,195 L 202,195" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M 88,195 L 202,195" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Red no-circle overlay -->
   <circle cx="145" cy="140" r="96" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
   <line x1="77" y1="72" x2="213" y2="208" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>

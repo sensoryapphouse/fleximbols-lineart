@@ -6,7 +6,7 @@
 <path d="M 168 232 Q 168 168 256 168 Q 344 168 344 232 Q 344 296 300 320 L 300 320 L 256 372 L 212 320 Q 168 296 168 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- snout/muzzle lighter -->
 <path d="M 218 308 L 256 360 L 294 308 Q 280 332 256 332 Q 232 332 218 308 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 224 296 Q 256 312 288 296 L 288 314 Q 256 330 224 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 224 296 Q 256 312 288 296 L 288 314 Q 256 330 224 314 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- nose -->
 <path d="M 244 318 L 268 318 L 256 332 Z" fill="#1a1a1a"/>
 <!-- eyes (almond) -->

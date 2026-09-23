@@ -39,5 +39,5 @@
     <line x1="205" y1="180" x2="234" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>
   <!-- home button -->
-  <circle cx="195" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="195" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

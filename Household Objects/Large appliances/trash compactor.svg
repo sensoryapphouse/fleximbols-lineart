@@ -22,7 +22,7 @@
   <!-- Compressed trash mass -->
   <rect x="85" y="96" width="120" height="30" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Trash details: crumpled items -->
-  <path d="M95 100 Q110 92 120 100 Q130 108 145 100 Q160 92 175 100 Q190 108 200 100" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M95 100 Q110 92 120 100 Q130 108 145 100 Q160 92 175 100 Q190 108 200 100" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Door of compactor (lower front, hinged) -->
   <rect x="75" y="130" width="140" height="80" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

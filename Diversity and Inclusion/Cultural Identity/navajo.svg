@@ -11,7 +11,7 @@
   <rect x="120" y="36" width="50" height="34" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Central diamond motif (abstract) -->
   <polygon points="145,88 162,105 145,122 128,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <polygon points="145,96 153,105 145,114 137,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,96 153,105 145,114 137,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="22" y="18" width="246" height="174" rx="28" ry="28" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <path d="M 72 192 L 50 228 L 118 192 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

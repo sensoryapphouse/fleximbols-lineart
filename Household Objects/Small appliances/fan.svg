@@ -5,7 +5,7 @@
 <rect x="246" y="260" width="20" height="170" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- round cage -->
 <circle cx="256" cy="200" r="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="256" cy="200" r="110" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="200" r="110" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- cage rings -->
 <circle cx="256" cy="200" r="74" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="256" cy="200" r="40" fill="none" stroke="#1a1a1a" stroke-width="6"/>

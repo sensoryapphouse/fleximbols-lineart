@@ -6,7 +6,7 @@
   <!-- hair growing in follicle -->
   <path d="M 135 165 L 135 145" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" fill="none"/>
   <!-- hair root inside -->
-  <ellipse cx="135" cy="195" rx="4" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="135" cy="195" rx="4" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- fine probe entering follicle -->
   <path d="M 135 60 L 135 165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <!-- probe handle -->
@@ -27,7 +27,7 @@
   <!-- tweezers tips meeting -->
   <path d="M 195 130 L 210 138 L 225 130" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <!-- tweezers outline -->
-  <path d="M 200 60 L 195 130 M 220 60 L 225 130" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <path d="M 200 60 L 195 130 M 220 60 L 225 130" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- extracted hair held by tweezers -->
-  <path d="M 210 140 L 210 165" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+  <path d="M 210 140 L 210 165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
 </g></svg>

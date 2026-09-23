@@ -27,7 +27,7 @@
   <path d="M220 175 Q210 195 220 210 Q230 195 220 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- orange/citrus slice (replaces VITAMIN label) -->
   <circle cx="145" cy="160" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="145" cy="160" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M145 146 L145 174 M131 160 L159 160 M133 150 L157 170 M157 150 L133 170" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="160" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M145 146 L145 174 M131 160 L159 160 M133 150 L157 170 M157 150 L133 170" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -5,9 +5,9 @@
   <path d="M 145,98 Q 165,98 182,108 L 178,125 Q 162,118 148,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 188,115 Q 205,118 215,132 L 208,148 Q 198,132 185,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 220,138 Q 240,142 248,160 Q 252,178 240,180 Q 228,170 225,158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <path d="M 90,170 Q 100,158 115,158 Q 130,170 145,170 M 158,168 Q 175,175 195,180" stroke="#1a1a1a" stroke-width="2.96" fill="none"></path>
-  <path d="M 60,165 Q 65,155 75,158" stroke="#1a1a1a" stroke-width="2.96" fill="none"></path>
-  <path d="M 230,170 Q 240,170 245,175" stroke="#1a1a1a" stroke-width="2.96" fill="none"></path>
+  <path d="M 90,170 Q 100,158 115,158 Q 130,170 145,170 M 158,168 Q 175,175 195,180" stroke="#1a1a1a" stroke-width="4.1" fill="none"></path>
+  <path d="M 60,165 Q 65,155 75,158" stroke="#1a1a1a" stroke-width="4.1" fill="none"></path>
+  <path d="M 230,170 Q 240,170 245,175" stroke="#1a1a1a" stroke-width="4.1" fill="none"></path>
   <ellipse cx="75" cy="178" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></ellipse>
   <ellipse cx="130" cy="172" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></ellipse>
   <ellipse cx="180" cy="178" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></ellipse>

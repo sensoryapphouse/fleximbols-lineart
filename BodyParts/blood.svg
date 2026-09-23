@@ -12,19 +12,19 @@
 
 </g>
 <ellipse cx="256" cy="236" rx="40" ry="90" fill="none" stroke="#1a1a1a" stroke-width="11"/>
-<line x1="256" y1="236" x2="314" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="256" cy="236" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="256" y1="236" x2="314" y2="224" stroke="#1a1a1a" stroke-width="5.82" stroke-linecap="round"/>
+<circle cx="256" cy="236" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.82"/>
 <circle cx="388" cy="150" r="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <clipPath id="cl256_236"><circle cx="388" cy="150" r="117"/></clipPath>
 <g clip-path="url(#cl256_236)"><g transform="translate(239.5 -2.0) scale(0.580)">
-<path d="M 256 92 C 256 92 150 250 150 322 C 150 388 198 432 256 432 C 314 432 362 388 362 322 C 362 250 256 92 256 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
+<path d="M 256 92 C 256 92 150 250 150 322 C 150 388 198 432 256 432 C 314 432 362 388 362 322 C 362 250 256 92 256 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03" stroke-linejoin="round"/>
 <path d="M 206 300 Q 200 254 236 232" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
-<circle cx="228" cy="348" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="228" cy="348" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="296" cy="344" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="296" cy="344" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="262" cy="392" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="262" cy="392" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="228" cy="348" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<circle cx="228" cy="348" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10.03"/>
+<circle cx="296" cy="344" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<circle cx="296" cy="344" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10.03"/>
+<circle cx="262" cy="392" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<circle cx="262" cy="392" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10.03"/>
 <ellipse cx="256" cy="300" rx="124" ry="150" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 </g></g>
 <circle cx="388" cy="150" r="120" fill="none" stroke="#1a1a1a" stroke-width="6"/>

@@ -4,7 +4,7 @@
   <!-- Flat brim — straight horizontal rectangle -->
   <rect x="38" y="148" width="214" height="22" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Brim underside detail line -->
-  <line x1="42" y1="158" x2="248" y2="158" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="42" y1="158" x2="248" y2="158" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Sweatband / lower crown band -->
   <rect x="72" y="142" width="146" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Crown panel seams (6-panel) -->
@@ -16,6 +16,6 @@
   <!-- Snap closure band at back (shown as rectangle at base centre) -->
   <rect x="116" y="162" width="58" height="14" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Snap holes -->
-  <circle cx="136" cy="169" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="154" cy="169" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="136" cy="169" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="154" cy="169" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

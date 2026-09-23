@@ -41,8 +41,8 @@
   <circle cx="153" cy="47" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
 
   <!-- Sparkles -->
-  <path d="M38 75 L41 66 L44 75 L53 78 L44 81 L41 90 L38 81 L29 78Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M248 68 L250 62 L252 68 L258 70 L252 72 L250 78 L248 72 L242 70Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M228 38 L230 33 L232 38 L237 40 L232 42 L230 47 L228 42 L223 40Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M58 45 L60 40 L62 45 L67 47 L62 49 L60 54 L58 49 L53 47Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M38 75 L41 66 L44 75 L53 78 L44 81 L41 90 L38 81 L29 78Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M248 68 L250 62 L252 68 L258 70 L252 72 L250 78 L248 72 L242 70Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M228 38 L230 33 L232 38 L237 40 L232 42 L230 47 L228 42 L223 40Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M58 45 L60 40 L62 45 L67 47 L62 49 L60 54 L58 49 L53 47Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

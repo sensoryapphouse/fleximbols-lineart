@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="36.27 90.88 448.00 448.00"><metadata id="sah">{"v":1,"fig":[["h1","mc"]]}</metadata>
-<rect x="120" y="120" width="16" height="455" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="120" y="439" width="280" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="170" y="386" width="132" height="54" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="120" y="120" width="16" height="455" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="120" y="439" width="280" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="170" y="386" width="132" height="54" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <g transform="translate(0 44)"><line x1="241" y1="322" x2="223" y2="324" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="241" y1="322" x2="223" y2="324" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="223" y1="324" x2="223" y2="374" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="223" y1="324" x2="223" y2="374" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="263" y1="322" x2="281" y2="324" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="263" y1="322" x2="281" y2="324" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
@@ -18,5 +18,5 @@
 
 
 </g>
-<path d="M 360 158 C 336 137 336 161 360 174 C 384 161 384 137 360 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 360 158 C 336 137 336 161 360 174 C 384 161 384 137 360 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

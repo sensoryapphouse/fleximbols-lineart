@@ -13,37 +13,37 @@
   <ellipse cx="103" cy="80" rx="7" ry="9" fill="#1a1a1a"/>
   <ellipse cx="127" cy="80" rx="7" ry="9" fill="#1a1a1a"/>
   <!-- nose -->
-  <path d="M115 90 L111 100 L119 100 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M115 90 L111 100 L119 100 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- crossbones -->
   <path d="M155 55 L235 135" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round"/>
   <path d="M155 55 L235 135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <circle cx="153" cy="53" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="237" cy="137" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="148" cy="58" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="158" cy="48" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="232" cy="142" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="242" cy="132" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="148" cy="58" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="158" cy="48" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="232" cy="142" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="242" cy="132" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <path d="M235 55 L155 135" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round"/>
   <path d="M235 55 L155 135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <circle cx="237" cy="53" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="153" cy="137" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
-  <circle cx="232" cy="48" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="242" cy="58" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="158" cy="142" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="148" cy="132" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="232" cy="48" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="242" cy="58" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="158" cy="142" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="132" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- warning triangle in corner of screen -->
-  <path d="M215 42 L232 70 L198 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M215 42 L232 70 L198 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <rect x="213" y="52" width="4" height="10" fill="#1a1a1a"/>
   <rect x="213" y="64" width="4" height="3" fill="#1a1a1a"/>
 
   <!-- CRASHED letters below -->
   <!-- cracks on screen -->
-  <path d="M48 32 L80 60" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M242 32 L210 50" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M180 152 L195 130" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M48 32 L80 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M242 32 L210 50" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M180 152 L195 130" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- skull/X eye face on broken screen (replaces CRASH text) -->
   <circle cx="195" cy="80" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="185" y1="72" x2="192" y2="79" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

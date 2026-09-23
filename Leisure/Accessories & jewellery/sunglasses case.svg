@@ -10,9 +10,9 @@
   <!-- Seam -->
   <line x1="35" y1="142" x2="255" y2="142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Hinge right -->
-  <rect x="244" y="132" width="14" height="20" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="244" y="132" width="14" height="20" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Latch left -->
-  <rect x="34" y="135" width="18" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="34" y="135" width="18" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Sunglasses resting on top of closed case -->
   <!-- Left lens (dark, large oval) -->
   <ellipse cx="102" cy="40" rx="38" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

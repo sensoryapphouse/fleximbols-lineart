@@ -4,7 +4,7 @@
   <!-- bottle body -->
   <path d="M100 90 L100 210 Q100 215 105 215 L185 215 Q190 215 190 210 L190 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- amber liquid inside (lower 2/3) -->
-  <path d="M108 130 L108 207 Q108 208 110 208 L180 208 Q182 208 182 207 L182 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M108 130 L108 207 Q108 208 110 208 L180 208 Q182 208 182 207 L182 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- bottle neck -->
   <rect x="125" y="75" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pump collar -->
@@ -12,9 +12,9 @@
   <!-- pump head -->
   <path d="M140 30 L170 30 L170 50 L210 50 L210 65 L140 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- nozzle tip -->
-  <rect x="210" y="55" width="14" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="210" y="55" width="14" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- label panel -->
   <rect x="115" y="150" width="60" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- label lines -->
-  <path d="M122 162 L168 162 M122 172 L168 172 M122 182 L155 182" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M122 162 L168 162 M122 172 L168 172 M122 182 L155 182" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

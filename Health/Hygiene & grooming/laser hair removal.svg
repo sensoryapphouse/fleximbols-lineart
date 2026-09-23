@@ -19,8 +19,8 @@
   <path d="M 125 165 L 117 160" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" fill="none"/>
   <!-- after side (smooth, no hair) - right -->
   <!-- a few sparkle marks for "smooth" -->
-  <path d="M 215 105 L 217 109 L 221 111 L 217 113 L 215 117 L 213 113 L 209 111 L 213 109 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M 240 115 L 242 119 L 246 121 L 242 123 L 240 127 L 238 123 L 234 121 L 238 119 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 215 105 L 217 109 L 221 111 L 217 113 L 215 117 L 213 113 L 209 111 L 213 109 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 240 115 L 242 119 L 246 121 L 242 123 L 240 127 L 238 123 L 234 121 L 238 119 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- handheld laser device -->
   <!-- body -->
   <path d="M 100 30 L 175 30 Q 185 30 185 42 L 185 95 Q 185 105 175 105 L 100 105 Q 90 105 90 95 L 90 42 Q 90 30 100 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>

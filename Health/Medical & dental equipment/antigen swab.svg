@@ -10,7 +10,7 @@
   <ellipse cx="95" cy="135" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Well label S -->
   <!-- (no text allowed — use a small drop icon instead) -->
-  <path d="M95 128 Q100 133 95 140 Q90 133 95 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
+  <path d="M95 128 Q100 133 95 140 Q90 133 95 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Result window (right portion) -->
   <rect x="128" y="100" width="88" height="70" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -40,5 +40,5 @@
   <polygon points="108,121 116,131 105,135" fill="#1a1a1a"/>
 
   <!-- Cassette brand strip at bottom -->
-  <rect x="65" y="170" width="160" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="65" y="170" width="160" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

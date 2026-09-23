@@ -20,7 +20,7 @@
   <line x1="40" y1="76" x2="190" y2="68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="50" y1="90" x2="200" y2="84" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="150" y1="62" x2="264" y2="56" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="160" y1="78" x2="264" y2="73" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="160" y1="78" x2="264" y2="73" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Driving snow flakes (diagonal streaks) -->
   <line x1="50" y1="42" x2="58" y2="52" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="80" y1="35" x2="88" y2="45" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
@@ -34,9 +34,9 @@
   <line x1="220" y1="100" x2="228" y2="110" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="248" y1="92" x2="256" y2="102" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Snow dots -->
-  <circle cx="60" cy="130" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="100" cy="124" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="145" cy="128" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="200" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="240" cy="126" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="60" cy="130" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="100" cy="124" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="128" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="126" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

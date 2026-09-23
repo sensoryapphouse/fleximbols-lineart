@@ -2,12 +2,12 @@
   <!-- Document (left) -->
   <rect x="14" y="26" width="92" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <rect x="14" y="26" width="92" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <line x1="22" y1="62" x2="98" y2="62" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="22" y1="74" x2="92" y2="74" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="22" y1="86" x2="98" y2="86" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="22" y1="98" x2="88" y2="98" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="22" y1="110" x2="98" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="22" y1="122" x2="80" y2="122" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="22" y1="62" x2="98" y2="62" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="74" x2="92" y2="74" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="86" x2="98" y2="86" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="98" x2="88" y2="98" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="110" x2="98" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="122" x2="80" y2="122" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Shield (center) -->
   <path d="M 150,40 L 200,40 Q 210,40 210,52 L 208,110 Q 205,140 175,158 Q 145,140 142,110 L 140,52 Q 140,40 150,40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>

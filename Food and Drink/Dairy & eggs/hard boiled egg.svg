@@ -28,6 +28,6 @@
   <ellipse cx="72" cy="108" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="185" cy="108" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Cut surface line emphasis -->
-  <line x1="120" y1="88" x2="120" y2="185" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="132" y1="88" x2="132" y2="185" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="120" y1="88" x2="120" y2="185" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="132" y1="88" x2="132" y2="185" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

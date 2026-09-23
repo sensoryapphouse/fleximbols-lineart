@@ -20,8 +20,8 @@
   <line x1="145" y1="42" x2="145" y2="86" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="97" y1="76" x2="193" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="115" y1="52" x2="175" y2="52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="97" y1="76" x2="145" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="193" y1="76" x2="145" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="97" y1="76" x2="145" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="193" y1="76" x2="145" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Row of 5 diya lamps -->
   <!-- Diya 1 (far left) -->
   <ellipse cx="42" cy="188" rx="26" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

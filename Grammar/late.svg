@@ -2,7 +2,7 @@
 <circle cx="256" cy="258" r="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="256" y1="258" x2="256" y2="196" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="256" y1="258" x2="314" y2="258" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="256" cy="258" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="258" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.29"/>
 <line x1="330" y1="168" x2="330" y2="200" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/><line x1="330" y1="168" x2="330" y2="200" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>
 <circle cx="330" cy="214" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 </g></svg>

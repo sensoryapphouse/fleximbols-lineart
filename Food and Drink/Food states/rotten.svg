@@ -13,7 +13,7 @@
 <circle cx="318" cy="296" r="13" fill="#1a1a1a"/>
 <circle cx="214" cy="352" r="11" fill="#1a1a1a"/>
 <!-- little fly -->
-<ellipse cx="372" cy="208" rx="15" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="372" cy="208" rx="15" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.55"/>
 <path d="M 366 200 Q 350 184 344 198" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <path d="M 378 200 Q 394 184 400 198" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 </g></svg>

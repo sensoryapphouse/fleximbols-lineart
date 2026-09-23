@@ -11,7 +11,7 @@
 
 <rect x="261" y="75" width="190" height="150" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="243" y1="163" x2="247.8" y2="175.4" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<polygon points="256.4,197.9 235.6,180.1 259.9,170.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="256.4,197.9 235.6,180.1 259.9,170.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
 <g transform="translate(360 150) scale(0.8) translate(-360 -150)"><path d="M 322.5 124.9 q 0.0 -38.0 36.0 -38.0 q 36.0 0.0 36.0 36.0 q 0.0 26.6 -28.5 36.0 L 366.5 178.0" fill="none" stroke="#1a1a1a" stroke-width="29" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(360 150) scale(0.8) translate(-360 -150)"><path d="M 322.5 124.9 q 0.0 -38.0 36.0 -38.0 q 36.0 0.0 36.0 36.0 q 0.0 26.6 -28.5 36.0 L 366.5 178.0" fill="none" stroke="#1a1a1a" stroke-width="20.8" stroke-linecap="round" stroke-linejoin="round"/></g>
-<g transform="translate(360 150) scale(0.8) translate(-360 -150)"><circle cx="366.5" cy="199.0" r="13.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/></g>
+<g transform="translate(360 150) scale(0.8) translate(-360 -150)"><circle cx="366.5" cy="199.0" r="13.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.41"/></g>
 </g></svg>

@@ -9,8 +9,8 @@
   <!-- Crack lines on bread surface -->
   <path d="M95 130 Q110 127 118 135 Q126 142 140 138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M155 145 Q165 140 178 148 Q185 152 195 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M88 160 Q100 157 108 163" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M160 165 Q172 162 180 168 Q185 172 192 168" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M88 160 Q100 157 108 163" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M160 165 Q172 162 180 168 Q185 172 192 168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small motionless flat lines (age / dryness indicator) -->
   <path d="M100 185 L120 185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M130 185 L148 185" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -19,8 +19,8 @@
   <!-- Fly body -->
   <ellipse cx="205" cy="78" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Fly wings -->
-  <ellipse cx="199" cy="73" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 199 73)"/>
-  <ellipse cx="211" cy="73" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 211 73)"/>
+  <ellipse cx="199" cy="73" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 199 73)"/>
+  <ellipse cx="211" cy="73" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 211 73)"/>
   <!-- Fly legs -->
-  <path d="M200 82 L195 87 M205 83 L203 89 M210 82 L215 87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M200 82 L195 87 M205 83 L203 89 M210 82 L215 87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

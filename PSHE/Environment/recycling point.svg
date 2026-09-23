@@ -26,5 +26,5 @@
   <!-- Arrow 3 (top-left arc) -->
   <path d="M128,42 L145,18" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Recycle loop - cleaner single chasing arrows -->
-  <path d="M145,20 Q168,20 175,40 L168,40 L180,58 L192,40 L185,40 Q178,16 145,16 Q112,16 105,40 L98,40 L110,58 L122,40 L115,40 Q122,20 145,20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M145,20 Q168,20 175,40 L168,40 L180,58 L192,40 L185,40 Q178,16 145,16 Q112,16 105,40 L98,40 L110,58 L122,40 L115,40 Q122,20 145,20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

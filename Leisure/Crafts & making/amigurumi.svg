@@ -15,8 +15,8 @@
   <!-- Legs -->
   <ellipse cx="115" cy="215" rx="18" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <ellipse cx="175" cy="215" rx="18" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
-  <ellipse cx="115" cy="215" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="175" cy="215" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="115" cy="215" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="175" cy="215" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Arms -->
   <ellipse cx="80" cy="160" rx="13" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" transform="rotate(-20 80 160)"/>
@@ -51,6 +51,6 @@
   <path d="M 145 94 L 145 100 M 145 100 Q 138 105 134 102 M 145 100 Q 152 105 156 102" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
 
   <!-- Cheek blush -->
-  <circle cx="112" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.13"/>
-  <circle cx="178" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.13"/>
+  <circle cx="112" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="178" cy="92" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

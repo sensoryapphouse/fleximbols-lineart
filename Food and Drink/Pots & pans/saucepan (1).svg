@@ -4,7 +4,7 @@
   <!-- Rim top ellipse -->
   <ellipse cx="142" cy="100" rx="64" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Interior at rim -->
-  <ellipse cx="142" cy="100" rx="54" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="142" cy="100" rx="54" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lid on top -->
   <path d="M80,100 Q80,74 142,70 Q204,74 204,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lid highlight -->
@@ -18,5 +18,5 @@
   <rect x="204" y="115" width="52" height="16" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <ellipse cx="256" cy="123" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Base -->
-  <ellipse cx="142" cy="183" rx="58" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="142" cy="183" rx="58" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

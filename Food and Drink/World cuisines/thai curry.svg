@@ -17,8 +17,8 @@
   <ellipse cx="138" cy="138" rx="5" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 138 138)"/>
   <path d="M136 127 Q138 122 141 126" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Basil leaves -->
-  <ellipse cx="125" cy="148" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 125 148)"/>
-  <ellipse cx="88" cy="162" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(15 88 162)"/>
+  <ellipse cx="125" cy="148" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 125 148)"/>
+  <ellipse cx="88" cy="162" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 88 162)"/>
   <!-- Rice mound -->
   <ellipse cx="230" cy="195" rx="45" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <ellipse cx="230" cy="155" rx="38" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

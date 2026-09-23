@@ -5,7 +5,7 @@
 <rect x="112" y="232" width="288" height="48" rx="8" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="2 16" stroke-linecap="round"/>
 <!-- buckle -->
 <rect x="196" y="196" width="120" height="120" rx="16" fill="none" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="196" y="196" width="120" height="120" rx="16" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="196" y="196" width="120" height="120" rx="16" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="220" y="220" width="72" height="72" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- prong -->
 <line x1="256" y1="226" x2="256" y2="180" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/>

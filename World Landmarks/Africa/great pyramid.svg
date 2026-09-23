@@ -10,9 +10,9 @@
   <!-- shaded side of pyramid -->
   <path d="M145 35 L220 180 L145 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- block lines on pyramid -->
-  <path d="M105 110 L185 110" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M90 140 L200 140" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M80 165 L210 165" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M105 110 L185 110" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M90 140 L200 140" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M80 165 L210 165" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- desert sand -->
   <path d="M10 180 Q80 175 145 180 Q210 178 280 180 L280 230 L10 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- sphinx (foreground left) -->
@@ -21,12 +21,12 @@
   <!-- sphinx head -->
   <path d="M85 195 Q80 175 90 170 Q105 168 108 180 Q108 195 100 198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- sphinx headdress stripes -->
-  <path d="M88 178 L106 178 M88 185 L107 185" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M88 178 L106 178 M88 185 L107 185" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sphinx eye -->
   <circle cx="100" cy="183" r="1.5" fill="#1a1a1a"/>
   <!-- sphinx paws -->
-  <rect x="32" y="210" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="48" y="210" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="32" y="210" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="48" y="210" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- dune curve -->
   <path d="M150 195 Q200 188 260 195" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
 </g></svg>

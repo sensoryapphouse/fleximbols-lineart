@@ -8,15 +8,15 @@
   <!-- Pillar screen/display -->
   <rect x="108" y="96" width="36" height="26" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Lightning bolt on display — key identity emblem -->
-  <polygon points="124,100 117,112 123,112 118,122 131,108 124,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="124,100 117,112 123,112 118,122 131,108 124,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Charging port slot -->
   <rect x="114" y="132" width="24" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Plug/connector emblem below display -->
   <!-- Plug head rectangle -->
   <rect x="116" y="152" width="20" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Plug prongs -->
-  <rect x="121" y="164" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="130" y="164" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="121" y="164" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="130" y="164" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Charging cable from pillar to car -->
   <path d="M 152,148 Q 178,148 178,168 Q 178,178 188,178" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Cable connector at car end -->
@@ -29,11 +29,11 @@
   <path d="M 215,162 Q 219,150 244,150 Q 260,150 264,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Car wheels -->
   <circle cx="212" cy="200" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="212" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="212" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="256" cy="200" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="256" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="256" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lightning bolt on pillar front (large emblem) -->
   <polygon points="130,185 122,200 130,200 122,215 142,196 133,196" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Green stripe on pillar top -->
   <rect x="100" y="80" width="52" height="8" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -4,13 +4,13 @@
   <!-- Notebook front cover -->
   <rect x="100" y="40" width="140" height="175" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Ruled lines on cover -->
-  <line x1="115" y1="80" x2="225" y2="80" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="95" x2="225" y2="95" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="110" x2="225" y2="110" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="125" x2="225" y2="125" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="140" x2="225" y2="140" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="155" x2="225" y2="155" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="115" y1="170" x2="225" y2="170" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="115" y1="80" x2="225" y2="80" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="95" x2="225" y2="95" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="110" x2="225" y2="110" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="125" x2="225" y2="125" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="140" x2="225" y2="140" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="155" x2="225" y2="155" stroke="#1a1a1a" stroke-width="4.38"/>
+  <line x1="115" y1="170" x2="225" y2="170" stroke="#1a1a1a" stroke-width="4.38"/>
   <!-- Continuous spiral wire coil down the spine -->
   <!-- Each arc alternates front-over and behind, creating helix effect -->
   <path d="M95 50 Q72 58 95 66" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -24,5 +24,5 @@
   <path d="M95 178 Q72 186 95 194" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M95 194 Q118 202 95 210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Vertical spine line to anchor the coil -->
-  <line x1="100" y1="40" x2="100" y2="215" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="2,4"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="100" y1="40" x2="100" y2="215" stroke="#1a1a1a" stroke-width="4.38" stroke-dasharray="2,4"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -38,8 +38,8 @@
     <!-- mouth -->
     <path d="M-44 10 Q-40 12 -36 10" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
     <!-- whiskers -->
-    <line x1="-50" y1="2" x2="-58" y2="0" stroke="#1a1a1a" stroke-width="3.33"/>
-    <line x1="-30" y1="2" x2="-22" y2="0" stroke="#1a1a1a" stroke-width="3.33"/>
+    <line x1="-50" y1="2" x2="-58" y2="0" stroke="#1a1a1a" stroke-width="4.1"/>
+    <line x1="-30" y1="2" x2="-22" y2="0" stroke="#1a1a1a" stroke-width="4.1"/>
     <!-- crown above head -->
     <path d="M-54 -34 L-50 -44 L-46 -36 L-40 -48 L-34 -36 L-30 -44 L-26 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
     <circle cx="-50" cy="-44" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

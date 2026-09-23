@@ -15,9 +15,9 @@
   <!-- Towel/cloth body -->
   <rect x="60" y="90" width="150" height="100" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Towel texture stripes -->
-  <line x1="60" y1="118" x2="210" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="60" y1="140" x2="210" y2="140" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="60" y1="162" x2="210" y2="162" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="60" y1="118" x2="210" y2="118" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="140" x2="210" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="162" x2="210" y2="162" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- No-drop crossed-out droplet -->
   <!-- Droplet shape -->
   <path d="M135 108 C135 108 120 128 120 138 C120 147 127 154 135 154 C143 154 150 147 150 138 C150 128 135 108 135 108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

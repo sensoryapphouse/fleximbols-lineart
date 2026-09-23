@@ -5,11 +5,11 @@
   <!-- Inner bright tunnel (the focus zone) -->
   <polygon points="22,80 22,160 210,138 210,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Innermost bright core -->
-  <polygon points="22,108 22,132 210,128 210,112" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="22,108 22,132 210,128 210,112" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Glowing focal point at tip -->
   <circle cx="228" cy="120" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <circle cx="228" cy="120" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="228" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="228" cy="120" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Rays from focal point -->
   <line x1="254" y1="120" x2="264" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="250" y1="100" x2="258" y2="92" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -25,9 +25,9 @@
   <!-- Head leaning toward tunnel -->
   <circle cx="68" cy="132" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Intense focused eyes -->
-  <circle cx="62" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="62" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="64" cy="130" r="3" fill="#1a1a1a"/>
-  <circle cx="74" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="74" cy="130" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="76" cy="130" r="3" fill="#1a1a1a"/>
   <!-- Arms stretched forward toward tunnel -->
   <line x1="58" y1="158" x2="38" y2="142" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

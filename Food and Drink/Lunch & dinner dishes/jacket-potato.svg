@@ -4,7 +4,7 @@
 <path d="M 174 250 Q 256 214 338 250 Q 300 296 256 296 Q 212 296 174 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 196 254 Q 256 240 316 254" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <rect x="226" y="244" width="60" height="34" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="172" cy="318" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="338" cy="316" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256" cy="338" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="172" cy="318" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="338" cy="316" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="338" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

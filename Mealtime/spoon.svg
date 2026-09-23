@@ -2,5 +2,5 @@
 <rect x="234.0" y="250.0" width="44.0" height="180.0" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <ellipse cx="256.0" cy="176.0" rx="80.0" ry="106.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <ellipse cx="256.0" cy="176.0" rx="54.0" ry="78.0" fill="none" stroke="#1a1a1a" stroke-width="5"/>
-<ellipse cx="234.0" cy="150.0" rx="14.0" ry="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-18 234 150)"/>
+<ellipse cx="234.0" cy="150.0" rx="14.0" ry="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" transform="rotate(-18 234 150)"/>
 </g></svg>

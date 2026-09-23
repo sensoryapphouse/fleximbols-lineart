@@ -12,8 +12,8 @@
   <!-- Tilt motion arc (shows cup tilts freely) -->
   <path d="M54 150 Q46 120 64 96" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round" stroke-dasharray="7 5"/>
   <!-- Tilt arc arrowhead -->
-  <polygon points="64,96 52,90 70,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linejoin="round"/>
+  <polygon points="64,96 52,90 70,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Liquid level inside cup -->
   <path d="M113 148 L110 195 Q110 201 116 201 L179 201 Q185 201 185 195 L182 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="112" y1="148" x2="183" y2="148" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

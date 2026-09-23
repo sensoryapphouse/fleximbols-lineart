@@ -21,7 +21,7 @@
   <line x1="192" y1="80" x2="198" y2="80" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round"/>
   <!-- chalk tray with chalk -->
   <rect x="55" y="175" width="180" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="80" y="178" width="35" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="125" y="178" width="25" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="160" y="178" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="80" y="178" width="35" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="125" y="178" width="25" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="160" y="178" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

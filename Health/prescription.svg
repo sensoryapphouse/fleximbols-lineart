@@ -9,8 +9,8 @@
 <line x1="176" y1="314" x2="336" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="176" y1="346" x2="260" y2="346" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <rect x="286" y="372" width="84" height="34" rx="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 303 372 a 17 17 0 0 0 0 34 l 50 0 l 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 303 372 a 17 17 0 0 0 0 34 l 50 0 l 0 -34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.07" stroke-linejoin="round"/>
 <rect x="286" y="372" width="84" height="34" rx="17" fill="none" stroke="#1a1a1a" stroke-width="4"/>
 <circle cx="322" cy="344" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="310" y1="344" x2="334" y2="344" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<line x1="310" y1="344" x2="334" y2="344" stroke="#1a1a1a" stroke-width="4.07" stroke-linecap="round"/>
 </g></svg>

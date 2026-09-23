@@ -2,8 +2,8 @@
   <!-- glass bottle: rounded neck, shoulder, body -->
   <!-- cap -->
   <rect x="118" y="20" width="54" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <path d="M 122 25 L 168 25" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M 122 31 L 168 31" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 122 25 L 168 25" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M 122 31 L 168 31" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- neck -->
   <rect x="125" y="38" width="40" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- shoulder + body -->
@@ -14,10 +14,10 @@
   <rect x="105" y="110" width="80" height="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- label graphic: simple leaf -->
   <path d="M 145 125 Q 130 130 128 145 Q 145 150 155 138 Q 152 128 145 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 130 145 L 150 132" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 130 145 L 150 132" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- label lines for text suggestion -->
-  <rect x="113" y="155" width="64" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="120" y="163" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="113" y="155" width="64" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="120" y="163" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- straw poking out of cap -->
   <path d="M 150 22 L 165 0" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round" fill="none"/>
   <path d="M 152 22 L 167 0" stroke="#ffffff" stroke-width="3.33" fill="none"/>

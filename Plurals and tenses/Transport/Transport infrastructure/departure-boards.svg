@@ -3,8 +3,8 @@
 <line x1="200" y1="300" x2="200" y2="424" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="312" y1="300" x2="312" y2="424" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <rect x="96" y="100" width="320" height="210" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="116" y="118" width="50" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 360 118 l 22 -8 l -6 14 l 14 4 l -22 8 l 6 -14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="116" y="118" width="50" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.83"/>
+<path d="M 360 118 l 22 -8 l -6 14 l 14 4 l -22 8 l 6 -14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.83"/>
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="0">
 <rect x="186" y="120" width="80" height="14" rx="3"/>
 <rect x="288" y="120" width="60" height="14" rx="3"/>
@@ -17,5 +17,5 @@
 <rect x="116" y="252" width="60" height="14" rx="3"/>
 <rect x="196" y="252" width="96" height="14" rx="3"/>
 </g>
-<rect x="300" y="248" width="44" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<rect x="300" y="248" width="44" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.83"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

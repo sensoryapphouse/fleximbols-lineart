@@ -4,7 +4,7 @@
   <path d="M 110,140 L 180,140 M 110,170 L 180,170" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"></path>
   <circle cx="145" cy="80" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 145,55 L 145,80 L 158,82" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="80" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="80" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 145,52 L 145,60" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 145,108 L 145,100" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 117,80 L 125,80" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"></path>

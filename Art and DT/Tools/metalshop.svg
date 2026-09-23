@@ -13,22 +13,22 @@
   <!-- METAL ROD on anvil -->
   <rect x="55" y="112" width="55" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Spark marks from rod -->
-  <line x1="85" y1="108" x2="80" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="90" y1="106" x2="95" y2="98" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="85" y1="108" x2="80" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="90" y1="106" x2="95" y2="98" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="80" y1="106" x2="74" y2="100" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- WELDING TORCH -->
   <rect x="175" y="90" width="12" height="65" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Torch handle grip -->
-  <rect x="172" y="108" width="18" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="172" y="118" width="18" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="172" y="108" width="18" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="172" y="118" width="18" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Torch nozzle -->
   <polygon points="175,90 186,90 184,78 177,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- WELDING FLAME -->
-  <ellipse cx="181" cy="72" rx="9" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="181" cy="72" rx="9" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="181" cy="70" rx="6" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="181" cy="68" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Torch tip glow line to metal -->
-  <line x1="181" y1="78" x2="175" y2="112" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="4 3"/>
+  <line x1="181" y1="78" x2="175" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4 3"/>
   <!-- WELDING SHIELD / MASK (hanging) -->
   <rect x="215" y="100" width="52" height="50" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Mask viewport dark window -->
@@ -40,7 +40,7 @@
   <!-- Shelf under bench -->
   <rect x="38" y="195" width="214" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Metal chips/filings on bench -->
-  <circle cx="140" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="150" cy="153" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="160" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="140" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="153" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

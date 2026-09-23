@@ -2,9 +2,9 @@
   <!-- sand floor -->
   <rect x="10" y="200" width="270" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- sand grains -->
-  <circle cx="40" cy="215" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="260" cy="218" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="80" cy="222" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="40" cy="215" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="260" cy="218" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="222" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bag body (tote) -->
   <path d="M 55 90 L 235 90 L 245 210 L 45 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- bag vertical stripes -->

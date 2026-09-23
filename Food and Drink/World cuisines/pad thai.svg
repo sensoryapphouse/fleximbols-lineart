@@ -6,7 +6,7 @@
   <path d="M 65,148 Q 110,118 145,140 Q 185,118 230,148" fill="none" stroke="#1a1a1a" stroke-width="5.08"></path>
   <path d="M 85,118 Q 110,108 130,118 Q 110,128 90,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"></path>
   <path d="M 170,118 Q 195,108 215,118 Q 195,128 175,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"></path>
-  <ellipse cx="145" cy="120" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"></ellipse>
+  <ellipse cx="145" cy="120" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></ellipse>
   <circle cx="100" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <circle cx="180" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
 </g></svg>

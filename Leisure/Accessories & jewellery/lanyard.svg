@@ -24,7 +24,7 @@
   <rect x="144" y="192" width="24" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="144" y="200" width="28" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Barcode strip at bottom of badge -->
-  <rect x="116" y="213" width="58" height="10" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="116" y="213" width="58" height="10" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="122" y1="213" x2="122" y2="223" stroke="#ffffff" stroke-width="2.96"/>
   <line x1="128" y1="213" x2="128" y2="223" stroke="#ffffff" stroke-width="4.45"/>
   <line x1="133" y1="213" x2="133" y2="223" stroke="#ffffff" stroke-width="2.96"/>

@@ -3,7 +3,7 @@
   <path d="M155,170 L175,170 Q180,170 180,175 L180,215 Q180,222 173,222 L157,222 Q150,222 150,215 L150,175 Q150,170 155,170 Z"
         fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.79" stroke-linejoin="round"/>
   <!-- handle grip stripes -->
-  <path d="M152,185 L178,185 M152,195 L178,195 M152,205 L178,205" fill="none" stroke="#1a1a1a" stroke-width="2.05"/>
+  <path d="M152,185 L178,185 M152,195 L178,195 M152,205 L178,205" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- handle wood band -->
   <path d="M150,168 L180,168 L180,178 L150,178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
   <!-- round paddle blade (wood edge) -->

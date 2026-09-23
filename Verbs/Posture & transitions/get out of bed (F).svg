@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="36.85 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<rect x="70" y="300" width="372" height="70" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="70" y="286" width="372" height="26" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="86" y="270" width="90" height="34" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="70" y="300" width="372" height="70" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="70" y="286" width="372" height="26" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="86" y="270" width="90" height="34" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="70" y1="370" x2="70" y2="452" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="442" y1="370" x2="442" y2="452" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <g data-part="hair-back"><g transform="translate(150.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>

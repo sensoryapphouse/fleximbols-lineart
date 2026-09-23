@@ -9,18 +9,18 @@
   <rect x="75" y="46" width="30" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M60 92 L120 92 L90 124 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- E (under the row) -->
-  <path d="M132 90 L150 90 L150 96 L138 96 L138 102 L148 102 L148 108 L138 108 L138 114 L150 114 L150 120 L132 120 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M132 90 L150 90 L150 96 L138 96 L138 102 L148 102 L148 108 L138 108 L138 114 L150 114 L150 120 L132 120 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- spinning progress -->
   <circle cx="200" cy="132" r="22" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
   <path d="M200 110 A22 22 0 0 1 220 138" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
-  <circle cx="200" cy="132" r="22" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="132" r="22" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- arrow tip on spinner -->
-  <path d="M218 130 L224 138 L214 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M218 130 L224 138 L214 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- progress bar at bottom of screen -->
-  <rect x="56" y="146" width="120" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="58" y="148" width="40" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="56" y="146" width="120" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="58" y="148" width="40" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- hourglass (pending/waiting indicator) -->
   <path d="M152 48 L158 82 L152 96 L158 110 L152 144 L178 144 L172 110 L178 96 L172 82 L178 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

@@ -18,11 +18,11 @@
   <path d="M60 140 Q70 134 78 140 L82 140 M90 134 L90 142 M98 140 L108 140 M115 140 L120 134 L125 140 M132 134 L140 134 M132 134 L132 142 M132 142 L140 142" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- 3 pill icons -->
   <ellipse cx="75" cy="165" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M75 159 L75 171" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M75 159 L75 171" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="105" cy="165" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M105 159 L105 171" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M105 159 L105 171" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="135" cy="165" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M135 159 L135 171" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M135 159 L135 171" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- signature line + signature -->
   <line x1="60" y1="200" x2="200" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M65 195 Q75 186 85 195 Q95 202 108 190 Q120 188 135 200 Q145 200 155 192 Q165 188 175 196" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>

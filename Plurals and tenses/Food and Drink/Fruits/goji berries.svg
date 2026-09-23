@@ -4,9 +4,9 @@
   <path d="M40 165 Q145 195 250 165" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- red Asian context tag/lantern accent: small red circle with knot in corner -->
   <circle cx="245" cy="50" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M245 32 L245 28" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M245 72 L245 78" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M238 50 Q245 45 252 50 Q245 55 238 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M245 32 L245 28" fill="none" stroke="#1a1a1a" stroke-width="4.49" stroke-linecap="round"/>
+  <path d="M245 72 L245 78" fill="none" stroke="#1a1a1a" stroke-width="4.49" stroke-linecap="round"/>
+  <path d="M238 50 Q245 45 252 50 Q245 55 238 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
   <!-- elongated bright red-orange berries piled in dish -->
   <ellipse cx="75" cy="155" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 75 155)"/>
   <ellipse cx="100" cy="148" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 100 148)"/>
@@ -26,4 +26,4 @@
   <ellipse cx="130" cy="85" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-10 130 85)"/>
   <ellipse cx="155" cy="80" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(15 155 80)"/>
   <ellipse cx="180" cy="85" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-15 180 85)"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

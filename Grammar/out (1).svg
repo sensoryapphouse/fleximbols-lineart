@@ -11,10 +11,10 @@
     </mdcr:info>
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
-    <polygon points="1,176 290,176" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="1,176 290,176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.17" fill-rule="evenodd"/>
     <polyline points="1,176 290,176" fill="none" stroke="#1a1a1a" stroke-width="4.52"/>
-    <polygon points="107,121 107,121 91,121 77,119 63,117 52,115 42,111 34,108 30,103 29,101 28,99 28,99 28,205 28,205 29,203 30,201 34,196 41,193 51,189 62,187 75,185 89,183 105,183 105,183 120,183 134,185 147,187 159,189 168,193 175,196 179,201 181,203 181,205 181,104 181,104 177,108 171,111 163,114 154,116 144,118 132,120 120,121 107,121 107,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="28,96 28,96 28,202 28,202 28,204 29,206 34,210 41,214 50,217 61,220 74,222 88,223 104,224 104,224 119,223 134,222 147,220 158,217 167,214 174,210 179,206 180,204 180,202 180,101" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="107,121 107,121 91,121 77,119 63,117 52,115 42,111 34,108 30,103 29,101 28,99 28,99 28,205 28,205 29,203 30,201 34,196 41,193 51,189 62,187 75,185 89,183 105,183 105,183 120,183 134,185 147,187 159,189 168,193 175,196 179,201 181,203 181,205 181,104 181,104 177,108 171,111 163,114 154,116 144,118 132,120 120,121 107,121 107,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.17" fill-rule="evenodd"/>
+    <polygon points="28,96 28,96 28,202 28,202 28,204 29,206 34,210 41,214 50,217 61,220 74,222 88,223 104,224 104,224 119,223 134,222 147,220 158,217 167,214 174,210 179,206 180,204 180,202 180,101" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.17" fill-rule="evenodd"/>
     <polyline points="28,96 28,96 28,202 28,202 28,204 29,206 34,210 41,214 50,217 61,220 74,222 88,223 104,224 104,224 119,223 134,222 147,220 158,217 167,214 174,210 179,206 180,204 180,202 180,101" fill="none" stroke="#1a1a1a" stroke-width="14.48"/>
     <polyline points="180,204 180,202 179,200 174,195 173,195" fill="none" stroke="#1a1a1a" stroke-width="4.52"/>
     <polyline points="166,191 158,188 155,188" fill="none" stroke="#1a1a1a" stroke-width="4.52"/>

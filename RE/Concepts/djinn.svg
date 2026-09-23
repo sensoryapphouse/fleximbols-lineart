@@ -33,8 +33,8 @@
   <!-- feather plume -->
   <path d="M150 28 Q 165 10, 175 5 Q 170 18, 165 25" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- face -->
-  <circle cx="137" cy="50" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="153" cy="50" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="137" cy="50" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="153" cy="50" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="137" cy="50" r="1.2" fill="#1a1a1a"/>
   <circle cx="153" cy="50" r="1.2" fill="#1a1a1a"/>
   <!-- moustache curled -->
@@ -42,6 +42,6 @@
   <!-- smile -->
   <path d="M138 64 Q 145 68, 152 64" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- earring -->
-  <circle cx="123" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="167" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="123" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="167" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

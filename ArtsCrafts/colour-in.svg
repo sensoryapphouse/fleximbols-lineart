@@ -8,9 +8,9 @@
 <line x1="218" y1="250" x2="218" y2="384" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 </g>
 <path d="M 228 250 Q 198 230 174 256 Q 150 288 168 334 Q 184 380 228 392 Q 272 380 288 334 Q 306 288 282 256 Q 258 230 228 250 Z" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 228 250 L 228 392" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="4 6"/>
+<path d="M 228 250 L 228 392" fill="none" stroke="#1a1a1a" stroke-width="3.65" stroke-dasharray="4 6"/>
 <line x1="228" y1="248" x2="228" y2="222" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<path d="M 228 232 Q 254 214 268 234 Q 248 248 228 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 228 232 Q 254 214 268 234 Q 248 248 228 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.65" stroke-linejoin="round"/>
 <polygon points="232,360 250,378 318,300 300,282" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <polygon points="318,300 300,282 332,268" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <line x1="252" y1="320" x2="278" y2="340" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>

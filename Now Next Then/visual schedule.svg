@@ -21,7 +21,7 @@
   <!-- Thumbnail area -->
   <rect x="56" y="112" width="36" height="34" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Shirt in thumbnail -->
-  <path d="M64 118 L68 114 L74 116 L80 114 L84 118 L80 122 L80 140 L68 140 L68 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M64 118 L68 114 L74 116 L80 114 L84 118 L80 122 L80 140 L68 140 L68 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arrow pointing right (NEXT) -->
   <path d="M200 117 L222 129 L200 141 L206 129 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- CARD 3: Later — outdoor play (sun symbol) -->

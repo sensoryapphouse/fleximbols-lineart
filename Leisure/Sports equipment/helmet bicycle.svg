@@ -13,7 +13,7 @@
   <path d="M220 160 Q230 185 205 200" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Buckle -->
   <rect x="130" y="198" width="30" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="145" y1="198" x2="145" y2="212" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="198" x2="145" y2="212" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Aerodynamic tail ridge -->
   <path d="M145 60 Q175 58 200 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

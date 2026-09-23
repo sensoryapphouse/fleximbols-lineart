@@ -11,7 +11,7 @@
   <ellipse cx="88" cy="155" rx="28" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <ellipse cx="88" cy="151" rx="24" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Piped top swirl decoration -->
-  <path d="M70,152 Q76,142 88,140 Q100,142 106,152 Q100,158 88,159 Q76,158 70,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M70,152 Q76,142 88,140 Q100,142 106,152 Q100,158 88,159 Q76,158 70,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Paprika sprinkle dots on left half -->
   <circle cx="82" cy="147" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="94" cy="148" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -25,10 +25,10 @@
   <!-- Piped yolk filling right -->
   <ellipse cx="202" cy="155" rx="28" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <ellipse cx="202" cy="151" rx="24" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M184,152 Q190,142 202,140 Q214,142 220,152 Q214,158 202,159 Q190,158 184,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M184,152 Q190,142 202,140 Q214,142 220,152 Q214,158 202,159 Q190,158 184,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Paprika sprinkle right half -->
   <circle cx="196" cy="147" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="208" cy="148" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="202" cy="144" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="192" cy="151" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -7,7 +7,7 @@
   <path d="M30 85 L130 35 L230 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- door -->
   <rect x="110" y="135" width="40" height="65" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="142" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="142" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- windows -->
   <rect x="55" y="100" width="35" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M72 100 L72 128 M55 114 L90 114" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -53,4 +53,4 @@
   <line x1="251" y1="170" x2="257" y2="184" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <rect x="238" y="188" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="246" y="188" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

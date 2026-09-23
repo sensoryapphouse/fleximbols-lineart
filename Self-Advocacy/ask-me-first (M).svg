@@ -12,10 +12,10 @@
 
 
 
-<path d="M 314.0 81.0 L 378.0 81.0 Q 390.0 81.0 390.0 93.0 L 390.0 143.0 Q 390.0 155.0 378.0 155.0 L 340.0 155.0 L 317.0 185.0 L 314.0 155.0 L 314.0 155.0 Q 302.0 155.0 302.0 143.0 L 302.0 93.0 Q 302.0 81.0 314.0 81.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 314.0 81.0 L 378.0 81.0 Q 390.0 81.0 390.0 93.0 L 390.0 143.0 Q 390.0 155.0 378.0 155.0 L 340.0 155.0 L 317.0 185.0 L 314.0 155.0 L 314.0 155.0 Q 302.0 155.0 302.0 143.0 L 302.0 93.0 Q 302.0 81.0 314.0 81.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.58" stroke-linejoin="round"/>
 <!-- red question mark fully INSIDE the speech bubble (rect x302..390 y81..155) -->
 <path d="M 327 104 Q 327 90 346 90 Q 366 90 366 108 Q 366 122 350 128 Q 344 131 344 140" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="344" cy="150" r="6.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="344" cy="150" r="6.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.58"/>
 <line x1="348" y1="193" x2="286" y2="235" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="294" y1="220" x2="286" y2="235" stroke-linecap="round" stroke="#1a1a1a" stroke-width="34.6" data-part="ink"/><line x1="294" y1="220" x2="286" y2="235" stroke-linecap="round" stroke="#ffffff" stroke-width="26.6" data-part="arm"/><line x1="294" y1="220" x2="291" y2="225" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.8" data-part="ink"/><line x1="294" y1="220" x2="291" y2="225" stroke-linecap="round" stroke="#ffffff" stroke-width="30.8" data-part="sleeve"/><circle cx="286" cy="235" r="14.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/><line x1="286" y1="235" x2="303" y2="233" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="348" y1="193" x2="286" y2="235" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <line x1="286" y1="235" x2="294" y2="220" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <line x1="286" y1="235" x2="303" y2="233" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>

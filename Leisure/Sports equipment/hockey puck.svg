@@ -6,7 +6,7 @@
   <!-- side rim line where top meets edge -->
   <path d="M 50 110 Q 50 140 145 140 Q 240 140 240 110" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlight on top face -->
-  <ellipse cx="110" cy="100" rx="28" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="100" rx="28" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ridges/grip lines on side -->
   <line x1="70" y1="148" x2="70" y2="185" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="95" y1="155" x2="95" y2="192" stroke="#1a1a1a" stroke-width="4.45"/>

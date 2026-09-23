@@ -13,15 +13,15 @@
   <!-- Plastic fork -->
   <rect x="202" y="60" width="8" height="90" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Fork tines -->
-  <rect x="196" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="203" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="210" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="196" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="203" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="210" y="55" width="5" height="28" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fork tine base bar -->
-  <rect x="195" y="80" width="22" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="195" y="80" width="22" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Plastic knife -->
   <rect x="230" y="60" width="8" height="85" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Knife blade serration hint -->
-  <path d="M238,65 Q242,72 238,80 Q242,88 238,96 Q242,104 238,112" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M238,65 Q242,72 238,80 Q242,88 238,96 Q242,104 238,112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Ground shadow -->
-  <ellipse cx="155" cy="208" rx="85" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="155" cy="208" rx="85" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

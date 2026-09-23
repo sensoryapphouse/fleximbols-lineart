@@ -2,9 +2,9 @@
 <path d="M 96 460 Q 96 330 246 322 Q 396 330 396 460 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" data-lp="hair"/>
 <line x1="246.0" y1="322.0" x2="246.0" y2="300.0" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
 <circle cx="246.0" cy="210.0" r="86.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
-<path d="M 160 210 Q 160 112 246 112 Q 332 112 332 210 Q 246 140 160 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" data-lp="hair"/>
-<circle cx="216.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="276.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 160 210 Q 160 112 246 112 Q 332 112 332 210 Q 246 140 160 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69" stroke-linejoin="round" data-lp="hair"/>
+<circle cx="216.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.69"/>
+<circle cx="276.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.69"/>
 <path d="M 220 244 Q 246 262 272 244" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="214.0" cy="204.0" r="26.0" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <circle cx="278.0" cy="204.0" r="26.0" fill="none" stroke="#1a1a1a" stroke-width="7"/>

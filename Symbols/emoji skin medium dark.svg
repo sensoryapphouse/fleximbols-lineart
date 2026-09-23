@@ -15,7 +15,7 @@
   <!-- wrist -->
   <rect x="104" y="194" width="80" height="30" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- knuckle creases on palm top -->
-  <line x1="108" y1="118" x2="108" y2="134" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="138" y1="114" x2="138" y2="130" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="116" x2="168" y2="132" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="108" y1="118" x2="108" y2="134" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="138" y1="114" x2="138" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="116" x2="168" y2="132" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -4,7 +4,7 @@
   <path d="M145 30 C95 30 75 110 75 150 C75 195 110 215 145 215 C180 215 215 195 215 150 C215 110 195 30 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linejoin="round"/>
   <!-- subtle shading on left side -->
   <path d="M105 70 C90 100 85 140 90 180" fill="none" stroke="#1a1a1a" stroke-width="7.62" stroke-linecap="round"/>
-  <path d="M105 70 C90 100 85 140 90 180" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M105 70 C90 100 85 140 90 180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- highlight on upper left -->
-  <ellipse cx="115" cy="75" rx="12" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" data-lp="hair"/>
+  <ellipse cx="115" cy="75" rx="12" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
 </g></svg>

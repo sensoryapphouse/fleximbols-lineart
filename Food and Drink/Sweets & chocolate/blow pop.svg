@@ -8,11 +8,11 @@
   <!-- inner gum core circle (suggestion) -->
   <circle cx="145" cy="100" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlight on candy shell -->
-  <ellipse cx="115" cy="70" rx="14" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="70" rx="14" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bubble being blown -->
   <circle cx="225" cy="55" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="220" cy="48" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="48" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small bubble trail -->
-  <circle cx="205" cy="85" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="195" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="205" cy="85" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

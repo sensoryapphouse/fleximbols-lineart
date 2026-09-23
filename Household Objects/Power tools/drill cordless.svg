@@ -7,11 +7,11 @@
   <!-- Chuck (cylindrical, at front/right) -->
   <rect x="190" y="85" width="45" height="32" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Chuck jaws (3 lines) -->
-  <line x1="210" y1="85" x2="210" y2="117" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="220" y1="85" x2="220" y2="117" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="210" y1="85" x2="210" y2="117" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="220" y1="85" x2="220" y2="117" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Drill bit extending from chuck -->
   <line x1="235" y1="101" x2="270" y2="101" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <polygon points="270,97 282,101 270,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="270,97 282,101 270,105" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Gear selector ring on barrel -->
   <rect x="175" y="80" width="16" height="42" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -25,11 +25,11 @@
   <!-- Chunky battery pack at base of handle -->
   <rect x="52" y="200" width="72" height="30" rx="6" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Battery contacts -->
-  <rect x="60" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="96" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="60" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="78" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="96" y="196" width="10" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Battery indicator stripe -->
-  <rect x="52" y="212" width="72" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="52" y="212" width="72" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Speed selector on top of body -->
   <rect x="90" y="66" width="50" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

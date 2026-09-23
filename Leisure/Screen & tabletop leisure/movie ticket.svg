@@ -9,12 +9,12 @@
   <!-- Star on main ticket -->
   <polygon points="100,100 105,118 124,118 109,129 114,147 100,136 86,147 91,129 76,118 95,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Decorative border dots on ticket -->
-  <circle cx="40" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="60" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="80" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="40" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="60" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="80" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="40" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="60" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="40" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="60" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="80" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ticket number placeholder rectangles (stripes, no text) -->
   <rect x="32" y="162" width="30" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="68" y="162" width="20" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

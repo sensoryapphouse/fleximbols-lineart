@@ -5,11 +5,11 @@
   <!-- Wrapper twist - right -->
   <path d="M 230,120 Q 255,95 270,115 Q 260,135 240,135 Q 260,150 265,170 Q 240,170 220,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wrapper crinkle lines left -->
-  <line x1="35" y1="110" x2="50" y2="125" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="32" y1="150" x2="50" y2="155" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="35" y1="110" x2="50" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="32" y1="150" x2="50" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wrapper crinkle lines right -->
-  <line x1="255" y1="110" x2="240" y2="125" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="258" y1="150" x2="240" y2="155" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="255" y1="110" x2="240" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="258" y1="150" x2="240" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Caramel cube body (3D cube with top and side faces) -->
   <!-- Top face (parallelogram) -->
   <path d="M 80,95 L 145,80 L 210,95 L 145,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>

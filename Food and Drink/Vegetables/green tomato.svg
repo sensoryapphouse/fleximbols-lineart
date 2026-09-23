@@ -5,13 +5,13 @@
   <path d="M85 100 Q72 140 85 180" fill="none" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
   <path d="M95 95 Q85 115 90 135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Subtle vertical ridges -->
-  <path d="M145 72 Q140 140 148 218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M195 90 Q205 140 195 200" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145 72 Q140 140 148 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M195 90 Q205 140 195 200" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Darker green calyx (still attached) -->
   <path d="M115 72 L128 50 L140 70 L148 46 L158 70 L172 50 L182 75 Q148 85 115 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Single leaf to right -->
   <path d="M180 60 Q210 45 225 60 Q210 75 185 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
-  <line x1="185" y1="63" x2="220" y2="60" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="185" y1="63" x2="220" y2="60" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Stem -->
   <line x1="150" y1="52" x2="155" y2="28" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
 </g></svg>

@@ -10,7 +10,7 @@
   <!-- flat snow plateau -->
   <path d="M86 92 L204 92 Q200 102 196 100 Q188 110 180 100 Q170 110 160 100 Q150 110 140 100 Q130 110 120 100 Q110 110 102 100 Q94 102 90 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- mountain shadow side -->
-  <path d="M145 92 L200 92 L260 170 L200 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M145 92 L200 92 L260 170 L200 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- acacia tree trunk -->
   <path d="M50 200 L50 160" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- acacia branches -->
@@ -21,12 +21,12 @@
   <ellipse cx="240" cy="185" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- giraffe neck -->
   <path d="M252 178 L256 150" fill="none" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round"/>
-  <path d="M252 178 L256 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M252 178 L256 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- giraffe head -->
   <ellipse cx="258" cy="146" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- giraffe legs -->
   <path d="M228 196 L226 218 M236 196 L236 218 M246 196 L246 218 M254 196 L256 218" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M228 196 L226 218 M236 196 L236 218 M246 196 L246 218 M254 196 L256 218" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M228 196 L226 218 M236 196 L236 218 M246 196 L246 218 M254 196 L256 218" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- giraffe spots -->
   <circle cx="234" cy="184" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="244" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -36,30 +36,30 @@
   <path d="M132 198 Q140 198 142 206 Q140 212 134 212" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="138" cy="200" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M144 204 L150 218" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M144 204 L150 218" fill="none" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M144 204 L150 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M100 212 L100 222 M114 212 L114 222 M122 212 L122 222" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M100 212 L100 222 M114 212 L114 222 M122 212 L122 222" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <path d="M100 212 L100 222 M114 212 L114 222 M122 212 L122 222" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- KILIMANJARO label small bottom -->
   <!-- K -->
-  <path d="M28 232 L28 222 M28 227 L34 222 M28 227 L34 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 232 L28 222 M28 227 L34 222 M28 227 L34 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- I -->
-  <path d="M40 222 L40 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M40 222 L40 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- L -->
-  <path d="M46 222 L46 232 L52 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46 222 L46 232 L52 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- I -->
-  <path d="M58 222 L58 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M58 222 L58 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- M -->
-  <path d="M64 232 L64 222 L70 228 L76 222 L76 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 232 L64 222 L70 228 L76 222 L76 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- A -->
-  <path d="M82 232 L86 222 L90 232 M83 228 L89 228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 232 L86 222 L90 232 M83 228 L89 228" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- N -->
-  <path d="M96 232 L96 222 L104 232 L104 222" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 232 L96 222 L104 232 L104 222" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- J -->
-  <path d="M114 222 L114 230 Q114 234 110 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M114 222 L114 230 Q114 234 110 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- A -->
-  <path d="M120 232 L124 222 L128 232 M121 228 L127 228" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 232 L124 222 L128 232 M121 228 L127 228" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- R -->
-  <path d="M134 232 L134 222 L140 222 Q144 222 144 226 Q144 230 140 230 L134 230 L144 232" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M134 232 L134 222 L140 222 Q144 222 144 226 Q144 230 140 230 L134 230 L144 232" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- O -->
-  <ellipse cx="154" cy="227" rx="5" ry="5" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="154" cy="227" rx="5" ry="5" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

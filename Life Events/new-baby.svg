@@ -6,14 +6,14 @@
 <path d="M 200 258 Q 256 240 312 258" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <circle id="h1" data-fig="ma" cx="256" cy="196" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <path d="M 256 158 q -12 -16 5 -18 q 14 -1 6 14" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="244" cy="192" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="268" cy="192" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 246 206 Q 256 214 266 206" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<ellipse cx="232.0" cy="202.0" rx="7.0" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="280.0" cy="202.0" rx="7.0" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 256 116 C 232 95 232 119 256 132 C 280 119 280 95 256 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<line x1="142" y1="150" x2="158" y2="150" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="150" y1="142" x2="150" y2="158" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="358" y1="150" x2="374" y2="150" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="366" y1="142" x2="366" y2="158" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<circle cx="244" cy="192" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.39"/>
+<circle cx="268" cy="192" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.39"/>
+<path d="M 246 206 Q 256 214 266 206" fill="none" stroke="#1a1a1a" stroke-width="4.39" stroke-linejoin="round"/>
+<ellipse cx="232.0" cy="202.0" rx="7.0" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
+<ellipse cx="280.0" cy="202.0" rx="7.0" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
+<path d="M 256 116 C 232 95 232 119 256 132 C 280 119 280 95 256 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39" stroke-linejoin="round"/>
+<line x1="142" y1="150" x2="158" y2="150" stroke="#1a1a1a" stroke-width="4.39" stroke-linecap="round"/>
+<line x1="150" y1="142" x2="150" y2="158" stroke="#1a1a1a" stroke-width="4.39" stroke-linecap="round"/>
+<line x1="358" y1="150" x2="374" y2="150" stroke="#1a1a1a" stroke-width="4.39" stroke-linecap="round"/>
+<line x1="366" y1="142" x2="366" y2="158" stroke="#1a1a1a" stroke-width="4.39" stroke-linecap="round"/>
 </g></svg>

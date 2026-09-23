@@ -17,7 +17,7 @@
   <path d="M145 118 Q152 110 160 115 Q165 122 158 127 Q150 132 142 125 Q138 118 145 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M145 118 Q138 109 130 114 Q126 120 133 126" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Coriander leaves -->
-  <path d="M100 118 Q104 110 110 113 Q112 118 107 121 Q102 122 100 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M170 115 Q174 107 180 110 Q182 115 177 118 Q172 119 170 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M135 112 Q138 105 144 107 Q146 112 142 115 Q137 116 135 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M100 118 Q104 110 110 113 Q112 118 107 121 Q102 122 100 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M170 115 Q174 107 180 110 Q182 115 177 118 Q172 119 170 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M135 112 Q138 105 144 107 Q146 112 142 115 Q137 116 135 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

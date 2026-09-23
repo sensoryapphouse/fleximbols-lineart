@@ -19,5 +19,5 @@
 <path d="M 136 384 L 140 402 L 160 402 L 164 384" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- ball -->
 <circle cx="356" cy="392" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<path d="M 356 370 L 356 414 M 334 392 L 378 392" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 356 370 L 356 414 M 334 392 L 378 392" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

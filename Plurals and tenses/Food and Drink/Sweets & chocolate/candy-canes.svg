@@ -7,4 +7,4 @@
 <path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#ffffff" stroke-width="52" stroke-linecap="round"/>
 <!-- red diagonal stripes via dashed thick red stroke -->
 <path d="M 300 410 L 300 200 Q 300 130 230 130 Q 160 130 160 200" fill="none" stroke="#1a1a1a" stroke-width="52" stroke-linecap="butt" stroke-dasharray="26 40"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

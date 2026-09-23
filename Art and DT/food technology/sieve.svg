@@ -15,7 +15,7 @@
 <line x1="124" y1="328" x2="308" y2="328"/>
 </g>
 <path d="M 124 246 a 92 92 0 0 0 184 0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="216" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="184" cy="214" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="246" cy="216" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="216" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="184" cy="214" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="246" cy="216" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

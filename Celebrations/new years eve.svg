@@ -21,12 +21,12 @@
   <path d="M 175 90 L 200 90 L 195 130 Q 187 138 187 150 L 187 195 L 178 195 L 178 150 Q 178 138 170 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <ellipse cx="187" cy="195" rx="14" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bubbles -->
-  <circle cx="183" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="190" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="183" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M 210 90 L 235 90 L 230 130 Q 222 138 222 150 L 222 195 L 213 195 L 213 150 Q 213 138 205 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <ellipse cx="222" cy="195" rx="14" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="219" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="225" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="219" cy="105" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="225" cy="115" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sparkler firework -->
   <line x1="40" y1="220" x2="65" y2="180" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <line x1="40" y1="220" x2="65" y2="180" stroke="#1a1a1a" stroke-width="4.45"/>

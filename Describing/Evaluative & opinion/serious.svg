@@ -4,5 +4,5 @@
 <path d="M 256 138 L 408 400 L 104 400 Z" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- exclamation mark (punctuation, not a letter/numeral) -->
 <path d="M 256 208 L 256 322" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
-<circle cx="256" cy="368" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="368" r="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.88"/>
 </g></svg>

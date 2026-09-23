@@ -8,7 +8,7 @@
   <!-- Flag banner -->
   <polygon points="145,22 215,40 145,58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Star on flag -->
-  <polygon points="180,40 183,49 192,49 185,55 188,64 180,58 172,64 175,55 168,49 177,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="180,40 183,49 192,49 185,55 188,64 180,58 172,64 175,55 168,49 177,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Ground line -->
   <rect x="40" y="208" width="210" height="14" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

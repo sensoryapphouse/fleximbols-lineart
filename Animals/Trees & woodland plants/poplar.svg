@@ -21,7 +21,7 @@
   <!-- Tier 8 -->
   <ellipse cx="145" cy="60" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Top tip -->
-  <ellipse cx="145" cy="48" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="48" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Very tip -->
-  <ellipse cx="145" cy="38" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="145" cy="38" rx="4" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

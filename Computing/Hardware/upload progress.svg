@@ -7,18 +7,18 @@
   <rect x="190" y="96" width="36" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- small upload arrow from cloud (decorative) -->
-  <path d="M90 106 L108 106 L108 96 L84 96 L84 106 L102 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M82 110 L110 110 L96 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M90 106 L108 106 L108 96 L84 96 L84 106 L102 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M82 110 L110 110 L96 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- progress bar -->
   <rect x="30" y="156" width="230" height="32" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="33" y="159" width="110" height="26" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="33" y="159" width="110" height="26" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- 45% as path numerals below bar -->
   <!-- 4 -->
-  <path d="M100 198 L106 198 L106 218 L116 218 L116 198 L122 198 L122 232 L116 232 L116 224 L100 224 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M100 198 L106 198 L106 218 L116 218 L116 198 L122 198 L122 232 L116 232 L116 224 L100 224 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- 5 -->
-  <path d="M128 198 L150 198 L150 204 L134 204 L134 212 L144 212 Q150 212 150 218 L150 226 Q150 232 144 232 L132 232 Q126 232 126 226 L132 226 Q132 226 134 226 L144 226 Q144 226 144 222 L144 220 Q144 218 142 218 L128 218 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M128 198 L150 198 L150 204 L134 204 L134 212 L144 212 Q150 212 150 218 L150 226 Q150 232 144 232 L132 232 Q126 232 126 226 L132 226 Q132 226 134 226 L144 226 Q144 226 144 222 L144 220 Q144 218 142 218 L128 218 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- % -->
   <circle cx="166" cy="206" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="184" cy="226" r="5" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>

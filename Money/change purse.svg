@@ -11,9 +11,9 @@
   <!-- Clasp hinge center top -->
   <circle cx="145" cy="100" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Clasp snap left ball -->
-  <circle cx="118" cy="118" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="118" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Clasp snap right ball -->
-  <circle cx="172" cy="118" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="172" cy="118" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Decorative stitch line on pouch -->
-  <path d="M110 145 Q145 135 180 145" fill="none" stroke="#1a1a1a" stroke-width="1.97" stroke-dasharray="5,4"/>
+  <path d="M110 145 Q145 135 180 145" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="5,4"/>
 </g></svg>

@@ -18,7 +18,7 @@
   <!-- Slice 1 - leftmost detached -->
   <rect x="48" y="132" width="28" height="72" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Slice 1 interior texture -->
-  <rect x="54" y="138" width="16" height="58" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="54" y="138" width="16" height="58" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Meat texture specks -->
   <circle cx="60" cy="148" r="3" fill="#1a1a1a"/>
   <circle cx="64" cy="160" r="2.5" fill="#1a1a1a"/>

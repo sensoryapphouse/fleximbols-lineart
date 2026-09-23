@@ -2,8 +2,8 @@
 <path d="M 201.6 372 Q 198.4 272.8 192.0 186.4 Q 256 164.0 320.0 186.4 Q 313.59999999999997 272.8 310.4 372 Q 256 384.8 201.6 372 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <ellipse cx="256.0" cy="186.4" rx="64.0" ry="14.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
 <path d="M 198.4 183.2 A 64.0 14.4 0 0 1 313.6 183.2" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<rect x="200.6" y="336.8" width="110.8" height="25.6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="200.6" y="336.8" width="110.8" height="6.4" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="200.6" y="336.8" width="110.8" height="25.6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.02"/>
+<rect x="200.6" y="336.8" width="110.8" height="6.4" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.02"/>
 <ellipse cx="256.0" cy="372.0" rx="92.8" ry="20.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
 <path d="M 163.2 372.0 A 92.8 20.8 0 0 0 348.8 372.0" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 </g></svg>

@@ -15,5 +15,5 @@
   <path d="M20,165 Q55,155 90,165 Q125,175 160,165 Q195,155 230,165 Q255,172 270,165" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Up arrow on water line -->
   <line x1="215" y1="200" x2="215" y2="150" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="205,162 215,142 225,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="205,162 215,142 225,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

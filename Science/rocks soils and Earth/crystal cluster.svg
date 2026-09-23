@@ -3,7 +3,7 @@
   <path d="M 95,220 L 135,90 L 175,170 L 165,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 165,220 L 195,128 L 225,168 L 215,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 220,220 L 245,140 L 260,178 L 255,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 80,108 L 95,138" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 135,90 L 152,140" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 195,128 L 210,162" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 80,108 L 95,138" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 135,90 L 152,140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 195,128 L 210,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

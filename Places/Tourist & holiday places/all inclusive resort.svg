@@ -41,9 +41,9 @@
   <!-- cocktail on table -->
   <path d="M170 105 L186 105 L182 122 L174 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="178" y1="92" x2="178" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M172 95 L184 95 L178 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M172 95 L184 95 L178 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- wristband -->
   <ellipse cx="40" cy="200" rx="20" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <ellipse cx="40" cy="200" rx="20" ry="9" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-dasharray="3,2"/>
-  <rect x="34" y="194" width="12" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="34" y="194" width="12" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

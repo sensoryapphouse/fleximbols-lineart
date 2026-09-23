@@ -7,7 +7,7 @@
 <circle cx="372" cy="150" r="72" fill="url(#sph)" stroke="#1a1a1a" stroke-width="5"/>
 <ellipse cx="378" cy="240" rx="58" ry="14" fill="#1a1a1a" fill-opacity="0.12" stroke="none"/>
 <defs><linearGradient id="cyl" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ffffff"/><stop offset="32%" stop-color="#ffffff"/><stop offset="62%" stop-color="#ffffff"/><stop offset="100%" stop-color="#ffffff"/></linearGradient></defs>
-<rect x="196.0" y="320.0" width="120.0" height="126.0" rx="0" fill="url(#cyl)" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="196.0" y="320.0" width="120.0" height="126.0" rx="0" fill="url(#cyl)" stroke="#1a1a1a" stroke-width="5.22"/>
 <line x1="196" y1="320" x2="196" y2="446" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="316" y1="320" x2="316" y2="446" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <ellipse cx="256" cy="446" rx="60" ry="18" fill="url(#cyl)" stroke="#1a1a1a" stroke-width="5"/>

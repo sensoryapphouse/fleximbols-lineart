@@ -12,6 +12,6 @@
   <!-- Banner ribbon at bottom -->
   <path d="M 48 205 L 80 192 L 210 192 L 242 205 L 210 215 L 80 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Banner notches -->
-  <polygon points="48,205 48,215 58,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="242,205 242,215 232,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="48,205 48,215 58,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="242,205 242,215 232,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -4,7 +4,7 @@
 <line x1="428" y1="300" x2="408" y2="291" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="138" y1="286" x2="138" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="256" y1="286" x2="256" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="256" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="256" cy="300" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"/>
 <line x1="228" y1="240" x2="162" y2="240" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="162" y1="240" x2="178" y2="233" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="162" y1="240" x2="178" y2="247" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>

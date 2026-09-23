@@ -17,7 +17,7 @@
   <path d="M44 115 L47 118 L51 112" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="60" y="110" width="60" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Signature line -->
-  <rect x="42" y="140" width="120" height="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="42" y="140" width="120" height="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Signature scribble (path) -->
   <path d="M50 138 Q58 128 66 138 Q74 148 82 134 Q90 142 100 136 Q110 132 120 138 L140 138" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Refund stamp -->

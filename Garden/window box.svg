@@ -14,9 +14,9 @@
   <line x1="110" y1="158" x2="110" y2="206" stroke="#1a1a1a" stroke-width="3.81"/>
   <line x1="170" y1="158" x2="170" y2="206" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Mounting bracket left -->
-  <rect x="58" y="155" width="10" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <rect x="58" y="155" width="10" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mounting bracket right -->
-  <rect x="222" y="155" width="10" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <rect x="222" y="155" width="10" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Soil -->
   <rect x="55" y="158" width="180" height="12" rx="2" fill="#1a1a1a"/>
   <!-- Flowers in box -->
@@ -29,6 +29,6 @@
   <line x1="205" y1="169" x2="205" y2="141" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <circle cx="205" cy="135" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Leaf accents -->
-  <ellipse cx="78" cy="145" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" transform="rotate(-25 78 145)"/>
-  <ellipse cx="152" cy="142" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" transform="rotate(20 152 142)"/>
+  <ellipse cx="78" cy="145" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-25 78 145)"/>
+  <ellipse cx="152" cy="142" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 152 142)"/>
 </g></svg>

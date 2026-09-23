@@ -9,7 +9,7 @@
   <!-- Leaf icon on bag (biodegradable mark) -->
   <path d="M 115,180 Q 110,140 160,125 Q 180,165 145,185 Q 125,188 115,180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Leaf vein -->
-  <path d="M 118,178 Q 140,160 165,128" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 118,178 Q 140,160 165,128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Side veins -->
-  <path d="M 130,170 L 142,162 M 135,160 L 150,150 M 145,150 L 156,140" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 130,170 L 142,162 M 135,160 L 150,150 M 145,150 L 156,140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

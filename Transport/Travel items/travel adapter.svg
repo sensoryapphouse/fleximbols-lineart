@@ -5,7 +5,7 @@
   <rect x="146" y="100" width="6" height="22" fill="#1a1a1a"></rect>
   <circle cx="145" cy="135" r="4" fill="#1a1a1a"></circle>
   <path d="M 60,90 L 35,90 L 25,108 L 35,128 L 60,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <line x1="25" y1="118" x2="30" y2="98" stroke="#1a1a1a" stroke-width="3.33"></line>
+  <line x1="25" y1="118" x2="30" y2="98" stroke="#1a1a1a" stroke-width="4.1"></line>
   <path d="M 230,90 L 250,90 L 250,128 L 230,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <rect x="240" y="98" width="4" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></rect>
   <rect x="240" y="115" width="4" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></rect>

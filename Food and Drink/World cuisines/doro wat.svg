@@ -21,12 +21,12 @@
   <path d="M55 145 Q95 135 125 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M165 148 Q195 135 235 145" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Spice dots / berbere texture in stew -->
-  <circle cx="78" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="95" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="68" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="195" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="212" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="222" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="78" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="95" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="68" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="212" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="222" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Chicken piece hint - dark shape partially submerged -->
   <path d="M70 185 Q82 175 100 180 Q108 185 100 195 Q82 200 70 185Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M190 185 Q202 175 220 180 Q228 185 220 195 Q202 200 190 185Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>

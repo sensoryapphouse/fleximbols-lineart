@@ -15,9 +15,9 @@
   <polygon points="145,122 165,152 125,152" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Skull face inside triangle -->
   <!-- Skull dome -->
-  <ellipse cx="145" cy="134" rx="9" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="134" rx="9" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Skull jaw -->
-  <rect x="138" y="140" width="14" height="7" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="138" y="140" width="14" height="7" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Skull eye sockets -->
   <ellipse cx="141" cy="134" rx="3" ry="3" fill="#1a1a1a"/>
   <ellipse cx="149" cy="134" rx="3" ry="3" fill="#1a1a1a"/>

@@ -15,7 +15,7 @@
   <!-- Zip along top of pouch -->
   <path d="M152 108 L218 108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Zip pull -->
-  <rect x="178" y="103" width="10" height="10" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="178" y="103" width="10" height="10" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Front pocket -->
   <rect x="153" y="122" width="64" height="40" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pocket zip line -->

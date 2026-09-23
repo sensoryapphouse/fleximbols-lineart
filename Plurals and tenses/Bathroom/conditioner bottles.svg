@@ -12,10 +12,10 @@
   <!-- label band -->
   <rect x="78" y="120" width="134" height="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- "CONDITIONER" as letter blocks (paths, not text) -->
-  <rect x="86" y="132" width="120" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="86" y="132" width="120" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="86" y="148" width="84" height="6" fill="#1a1a1a"/>
   <rect x="86" y="160" width="120" height="6" fill="#1a1a1a"/>
   <rect x="86" y="172" width="70" height="6" fill="#1a1a1a"/>
   <!-- droplet accent -->
-  <path d="M 188 152 Q 195 162 195 168 Q 195 176 188 176 Q 181 176 181 168 Q 181 162 188 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 188 152 Q 195 162 195 168 Q 195 176 188 176 Q 181 176 181 168 Q 181 162 188 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

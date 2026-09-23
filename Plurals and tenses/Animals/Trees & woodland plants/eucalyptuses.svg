@@ -3,15 +3,15 @@
   <!-- Trunk base with peeling bark patches -->
   <rect x="136" y="80" width="18" height="140" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bark patches — pale creamy and grey, peeling appearance -->
-  <path d="M136,90 Q144,85 154,90 Q154,105 145,102 Q136,105 136,90Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M136,115 Q140,108 150,112 Q152,128 144,126 Q136,128 136,115Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M141,140 Q150,135 154,142 Q154,158 147,155 Q140,158 141,140Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M136,168 Q141,163 150,167 Q150,180 145,178 Q138,180 136,168Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
-  <path d="M143,195 Q150,190 154,198 Q152,210 147,208 Q142,210 143,195Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M136,90 Q144,85 154,90 Q154,105 145,102 Q136,105 136,90Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M136,115 Q140,108 150,112 Q152,128 144,126 Q136,128 136,115Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M141,140 Q150,135 154,142 Q154,158 147,155 Q140,158 141,140Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M136,168 Q141,163 150,167 Q150,180 145,178 Q138,180 136,168Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <path d="M143,195 Q150,190 154,198 Q152,210 147,208 Q142,210 143,195Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Upper trunk -->
   <rect x="139" y="20" width="12" height="70" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Trunk patch -->
-  <path d="M139,30 Q144,25 151,30 Q151,48 145,46 Q139,48 139,30Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M139,30 Q144,25 151,30 Q151,48 145,46 Q139,48 139,30Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drooping narrow sickle/lance-shaped blue-green leaves in clusters -->
   <!-- Left drooping branches -->
   <line x1="143" y1="50" x2="90" y2="90" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -43,4 +43,4 @@
   <!-- Top small drooping leaves -->
   <path d="M145,25 Q130,38 122,55 Q132,42 145,40 Q145,32 145,25Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M145,25 Q160,38 168,55 Q158,42 145,40 Q145,32 145,25Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

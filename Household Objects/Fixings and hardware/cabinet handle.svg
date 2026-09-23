@@ -9,8 +9,8 @@
   <!-- horizontal bar handle -->
   <rect x="55" y="125" width="180" height="16" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.11" stroke-linejoin="round"/>
   <!-- handle highlight -->
-  <rect x="62" y="129" width="166" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" data-lp="hair"/>
+  <rect x="62" y="129" width="166" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- end caps -->
-  <circle cx="60" cy="133" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="230" cy="133" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="60" cy="133" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="230" cy="133" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

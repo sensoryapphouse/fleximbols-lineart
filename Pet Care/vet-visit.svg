@@ -5,30 +5,30 @@
 <line x1="70" y1="452" x2="442" y2="452" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="221" y1="350" x2="221" y2="372" stroke="#1a1a1a" stroke-width="9.24" stroke-linecap="round"/>
 <line x1="284" y1="350" x2="284" y2="372" stroke="#1a1a1a" stroke-width="9.24" stroke-linecap="round"/>
-<ellipse cx="220.8" cy="372.0" rx="7.3" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="283.9" cy="372.0" rx="7.3" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="220.8" cy="372.0" rx="7.3" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<ellipse cx="283.9" cy="372.0" rx="7.3" ry="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
 <path d="M 200 332 Q 177 340 183 360" fill="none" stroke="#1a1a1a" stroke-width="8.58" stroke-linejoin="round"/>
 <ellipse cx="256.0" cy="328.4" rx="60.7" ry="30.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="218" y1="350" x2="218" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="288" y1="350" x2="288" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<line x1="218" y1="350" x2="218" y2="372" stroke="#1a1a1a" stroke-width="0" stroke-linecap="round"/>
-<ellipse cx="218.4" cy="372.0" rx="7.9" ry="4.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="287.6" cy="372.0" rx="7.9" ry="4.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="218" y1="350" x2="218" y2="372" stroke="#1a1a1a" stroke-width="5.5" stroke-linecap="round"/>
+<ellipse cx="218.4" cy="372.0" rx="7.9" ry="4.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<ellipse cx="287.6" cy="372.0" rx="7.9" ry="4.6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
 <path d="M 286 313 Q 314 298 312 311 L 296 322 Q 299 328 280 325 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <circle cx="311.9" cy="299.4" r="22.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <ellipse cx="329.4" cy="307.0" rx="13.2" ry="9.9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="343.7" cy="306.1" r="5.3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<path d="M 334 313 q 7 5 13 0" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 301 281 Q 285 295 296 315 Q 307 304 310 288 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="318.1" cy="298.3" r="3.3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="343.7" cy="306.1" r="5.3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5" data-lp="hair"/>
+<path d="M 334 313 q 7 5 13 0" fill="none" stroke="#1a1a1a" stroke-width="5.5" stroke-linejoin="round"/>
+<path d="M 301 281 Q 285 295 296 315 Q 307 304 310 288 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5" stroke-linejoin="round"/>
+<circle cx="318.1" cy="298.3" r="3.3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.5"/>
 <circle cx="305.9" cy="334.4" r="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0"/>
-<circle cx="305.9" cy="334.4" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="305.9" cy="334.4" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
 <path d="M 306 320 Q 262 264 276 206" fill="none" stroke="#1a1a1a" stroke-width="7.0" stroke-linejoin="round"/>
 <path d="M 276 206 q -2 -26 -26 -30" fill="none" stroke="#1a1a1a" stroke-width="6.0" stroke-linejoin="round"/>
 <path d="M 276 206 q 2 -26 26 -30" fill="none" stroke="#1a1a1a" stroke-width="6.0" stroke-linejoin="round"/>
-<circle cx="249.9" cy="174.4" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="301.9" cy="174.4" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="249.9" cy="174.4" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<circle cx="301.9" cy="174.4" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
 <circle cx="430.0" cy="110.0" r="46.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="400.0" y="100.0" width="60.0" height="20.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="420.0" y="80.0" width="20.0" height="60.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="400.0" y="100.0" width="60.0" height="20.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
+<rect x="420.0" y="80.0" width="20.0" height="60.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.5"/>
 </g></svg>

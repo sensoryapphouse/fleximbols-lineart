@@ -7,8 +7,8 @@
     <stop offset="100%" stop-color="#ffffff"/>
   </linearGradient>
 </defs>
-<path d="M145 25 L235 195 A90 25 0 0 1 55 195 Z" fill="url(#coneG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<ellipse cx="145" cy="195" rx="90" ry="25" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M55 195 A90 25 0 0 0 235 195" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4" opacity="0.6"/>
+<path d="M145 25 L235 195 A90 25 0 0 1 55 195 Z" fill="url(#coneG)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="145" cy="195" rx="90" ry="25" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M55 195 A90 25 0 0 0 235 195" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="5 4" opacity="0.6"/>
 <path d="M 145 25 L 110 195" stroke="#ffffff" stroke-width="6" opacity="0.4" stroke-linecap="round"/>
 </svg>

@@ -22,15 +22,15 @@
   <line x1="130" y1="168" x2="160" y2="168" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Lightbulb in col 3 (ideas) -->
   <circle cx="227" cy="90" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="219" y="108" width="16" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="223" y1="116" x2="231" y2="116" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <rect x="219" y="108" width="16" height="8" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="223" y1="116" x2="231" y2="116" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="225" y1="120" x2="229" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Lightbulb rays -->
   <line x1="227" y1="64" x2="227" y2="58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <line x1="207" y1="72" x2="203" y2="68" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <line x1="247" y1="72" x2="251" y2="68" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Second idea note in col 3 -->
-  <rect x="206" y="140" width="42" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="214" y1="151" x2="240" y2="151" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="214" y1="160" x2="234" y2="160" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <rect x="206" y="140" width="42" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="214" y1="151" x2="240" y2="151" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="214" y1="160" x2="234" y2="160" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

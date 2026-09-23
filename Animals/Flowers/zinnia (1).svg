@@ -3,10 +3,10 @@
   <path d="M 145 100 Q 148 160 145 225" fill="none" stroke="#1a1a1a" stroke-width="8.08" stroke-linecap="round"/>
   <!-- left leaf -->
   <path d="M 145 160 Q 110 155 95 175 Q 115 185 145 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
-  <line x1="105" y1="170" x2="140" y2="167" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="105" y1="170" x2="140" y2="167" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- right leaf -->
   <path d="M 145 190 Q 180 188 195 205 Q 175 215 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round"/>
-  <line x1="155" y1="197" x2="190" y2="205" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="155" y1="197" x2="190" y2="205" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- zinnia bloom: outer petals (pink) -->
   <g stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round">
     <ellipse cx="145" cy="40" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -14,17 +14,17 @@
 
 
 <!-- irregular splashy puddle on the floor (not a tidy oval) -->
-<path d="M 168 452 Q 150 436 176 432 Q 168 418 196 424 Q 210 410 226 426 Q 256 416 282 426 Q 300 412 314 426 Q 344 420 338 438 Q 366 436 348 456 Q 360 470 332 470 Q 300 480 256 476 Q 206 480 184 470 Q 154 470 168 452 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 168 452 Q 150 436 176 432 Q 168 418 196 424 Q 210 410 226 426 Q 256 416 282 426 Q 300 412 314 426 Q 344 420 338 438 Q 366 436 348 456 Q 360 470 332 470 Q 300 480 256 476 Q 206 480 184 470 Q 154 470 168 452 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
 <!-- splash droplets flying off the puddle -->
-<circle cx="150" cy="430" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="366" cy="430" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="134" cy="452" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="382" cy="450" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="150" cy="430" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
+<circle cx="366" cy="430" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
+<circle cx="134" cy="452" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
+<circle cx="382" cy="450" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
 <!-- strong wet-trouser streaks running down both legs into the puddle -->
 <line x1="240" y1="320" x2="234" y2="438" stroke-linecap="round" stroke="#1a1a1a" stroke-width="40.3" data-part="ink"/><line x1="240" y1="320" x2="234" y2="438" stroke-linecap="round" stroke="#ffffff" stroke-width="32.3" data-part="leg"/><line x1="240" y1="320" x2="234" y2="438" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="256" y1="320" x2="256" y2="440" stroke-linecap="round" stroke="#1a1a1a" stroke-width="40.3" data-part="ink"/><line x1="256" y1="320" x2="256" y2="440" stroke-linecap="round" stroke="#ffffff" stroke-width="32.3" data-part="leg"/><line x1="256" y1="320" x2="256" y2="440" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="272" y1="320" x2="278" y2="438" stroke-linecap="round" stroke="#1a1a1a" stroke-width="40.3" data-part="ink"/><line x1="272" y1="320" x2="278" y2="438" stroke-linecap="round" stroke="#ffffff" stroke-width="32.3" data-part="leg"/><line x1="272" y1="320" x2="278" y2="438" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- red distress exclamation mark, top right -->
 <line x1="372" y1="120" x2="372" y2="172" stroke="#1a1a1a" stroke-width="24" stroke-linecap="round"/><line x1="372" y1="120" x2="372" y2="172" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
-<circle cx="372" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="372" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
 </g></svg>

@@ -3,7 +3,7 @@
   <path d="M20 200 Q70 190 120 200 Q170 210 220 200 Q248 194 270 200 L270 225 L20 225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Wake spray lines -->
   <path d="M240 205 Q255 198 265 210" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M245 212 Q260 205 270 218" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M245 212 Q260 205 270 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M20 208 Q35 202 45 212" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Hull (sharp planing V-hull, low & fast) -->
   <path d="M22 192 L55 168 L255 162 Q270 162 268 178 Q267 192 252 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -18,12 +18,12 @@
   <!-- Cockpit surround -->
   <path d="M95 170 L175 168 L185 162 L200 162 L200 174 L90 176 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Helm console -->
-  <rect x="120" y="162" width="30" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="120" y="162" width="30" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Seats (two bucket seats) -->
   <rect x="155" y="160" width="22" height="12" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="185" y="160" width="22" height="12" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Bow cleat -->
-  <rect x="52" y="172" width="10" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="52" y="172" width="10" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Engine cover at stern -->
   <rect x="220" y="162" width="32" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Outboard/stern drive -->

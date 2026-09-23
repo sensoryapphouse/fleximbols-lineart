@@ -12,7 +12,7 @@
   <!-- Angle arc at bottom-right (theta) -->
   <path d="M128,185 Q110,173 118,162" fill="none" stroke="#1a1a1a" stroke-width="4.85" stroke-linecap="round"/>
   <!-- Theta mark: small angle wedge label drawn as arc -->
-  <path d="M125,185 Q115,178 120,168" fill="none" stroke="#1a1a1a" stroke-width="2.43" stroke-linecap="round"/>
+  <path d="M125,185 Q115,178 120,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Side labels as tick marks indicating "opposite" (vertical) -->
   <!-- Opposite side (left vertical) tick marks -->
@@ -26,9 +26,9 @@
 
   <!-- Small legend icons (drawn as path blocks, no text) -->
   <!-- "opp" indicator: vertical rectangle near left side label -->
-  <rect x="12" y="108" width="10" height="28" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="12" y="108" width="10" height="28" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "adj" indicator: horizontal rectangle near bottom label -->
-  <rect x="77" y="190" width="28" height="10" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="77" y="190" width="28" height="10" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "hyp" indicator: diagonal lines near hyp label -->
   <line x1="78" y1="108" x2="92" y2="120" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round"/>
 
@@ -36,16 +36,16 @@
   <path d="M155,122 Q168,80 181,122 Q194,164 207,122 Q220,80 233,122 Q246,164 259,122"
         fill="none" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Baseline for sine wave -->
-  <line x1="152" y1="122" x2="265" y2="122" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <line x1="152" y1="122" x2="265" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
   <!-- Amplitude arrows -->
-  <line x1="181" y1="80" x2="181" y2="122" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <line x1="181" y1="80" x2="181" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,3"/>
   <polygon points="181,77 177,86 185,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- x-axis ticks for wave -->
-  <line x1="155" y1="118" x2="155" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="181" y1="118" x2="181" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="207" y1="118" x2="207" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="233" y1="118" x2="233" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
-  <line x1="259" y1="118" x2="259" y2="126" stroke="#1a1a1a" stroke-width="3.23"/>
+  <line x1="155" y1="118" x2="155" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="181" y1="118" x2="181" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="207" y1="118" x2="207" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="233" y1="118" x2="233" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="259" y1="118" x2="259" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Vertical axis for wave -->
   <line x1="152" y1="78" x2="152" y2="166" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
   <polygon points="152,76 148,84 156,84" fill="#1a1a1a"/>

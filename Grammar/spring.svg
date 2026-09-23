@@ -2,21 +2,21 @@
 <line x1="80" y1="346" x2="432" y2="346" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="196" y1="260" x2="196" y2="338" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="312" y1="280" x2="312" y2="358" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/><line x1="196" y1="260" x2="196" y2="338" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <path d="M 196 298 q 26 -10 38 8" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="220" cy="242" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="203" cy="265" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="177" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="177" cy="228" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="203" cy="219" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="196" cy="242" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="220" cy="242" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="203" cy="265" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="177" cy="256" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="177" cy="228" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="203" cy="219" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="196" cy="242" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
 <line x1="312" y1="280" x2="312" y2="358" stroke="#1a1a1a" stroke-width="8.5" stroke-linecap="round"/>
 <path d="M 312 318 q 26 -10 38 8" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="336" cy="262" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="319" cy="285" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="293" cy="276" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="293" cy="248" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="319" cy="239" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="312" cy="262" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="372" cy="128" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="336" cy="262" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="319" cy="285" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="293" cy="276" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="293" cy="248" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="319" cy="239" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="312" cy="262" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
+<circle cx="372" cy="128" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77"/>
 <line x1="404" y1="128" x2="416" y2="128" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="395" y1="151" x2="403" y2="159" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="372" y1="160" x2="372" y2="172" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

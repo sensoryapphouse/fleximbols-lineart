@@ -16,19 +16,19 @@
 <!-- drum head (white skin) -->
 <circle cx="256" cy="346" r="64" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- bracket hooks on rim -->
-<circle cx="256" cy="270" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="320" cy="302" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="332" cy="346" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="320" cy="390" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="256" cy="422" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="192" cy="390" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="180" cy="346" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="192" cy="302" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="256" cy="270" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="320" cy="302" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="332" cy="346" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="320" cy="390" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="422" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="192" cy="390" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="180" cy="346" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="192" cy="302" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- bridge -->
 <rect x="232" y="372" width="48" height="14" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- strings -->
-<line x1="249" y1="146" x2="249" y2="372" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="254" y1="146" x2="254" y2="372" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="259" y1="146" x2="259" y2="372" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="263" y1="146" x2="263" y2="372" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="249" y1="146" x2="249" y2="372" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="254" y1="146" x2="254" y2="372" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="259" y1="146" x2="259" y2="372" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="263" y1="146" x2="263" y2="372" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

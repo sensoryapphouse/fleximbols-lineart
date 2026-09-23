@@ -4,7 +4,7 @@
   <polygon points="145,185 118,220 172,220" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tail bars -->
   <line x1="122" y1="213" x2="168" y2="213" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="120" y1="206" x2="170" y2="206" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="120" y1="206" x2="170" y2="206" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Body -->
   <ellipse cx="145" cy="148" rx="28" ry="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Belly pale -->
@@ -23,11 +23,11 @@
   <!-- Right wing coverts -->
   <polygon points="173,142 262,118 240,112" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Wing bars left -->
-  <line x1="50" y1="128" x2="110" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="38" y1="133" x2="60" y2="125" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="50" y1="128" x2="110" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="38" y1="133" x2="60" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wing bars right -->
-  <line x1="240" y1="128" x2="180" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="252" y1="133" x2="230" y2="125" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="240" y1="128" x2="180" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="252" y1="133" x2="230" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Head -->
   <circle cx="145" cy="107" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Malar stripe -->

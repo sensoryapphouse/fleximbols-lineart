@@ -12,9 +12,9 @@
         fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- sandy edges along isthmus -->
   <path d="M115 110 Q130 105 145 108 Q160 105 175 110 L175 114 Q160 109 145 112 Q130 109 115 114 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M115 131 Q130 136 145 133 Q160 136 175 131 L175 135 Q160 140 145 137 Q130 140 115 135 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- trees on left land -->
   <circle cx="40" cy="60" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <circle cx="75" cy="100" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>

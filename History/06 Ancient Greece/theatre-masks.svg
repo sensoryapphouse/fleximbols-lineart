@@ -5,15 +5,15 @@
 <ellipse cx="186.0" cy="232.0" rx="50.0" ry="66.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 152 196 Q 166 184 180 198" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 192 198 Q 206 184 220 196" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<ellipse cx="166.0" cy="222.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="206.0" cy="222.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 162 286 Q 186 258 210 286 Q 186 274 162 286 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<ellipse cx="166.0" cy="222.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57"/>
+<ellipse cx="206.0" cy="222.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57"/>
+<path d="M 162 286 Q 186 258 210 286 Q 186 274 162 286 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57" stroke-linejoin="round"/>
 <!-- COMEDY mask (happy) on its handle -->
 <line x1="322" y1="348" x2="322" y2="412" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <ellipse cx="322.0" cy="272.0" rx="64.0" ry="80.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <ellipse cx="322.0" cy="272.0" rx="50.0" ry="66.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 288 238 Q 322 222 356 238" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<ellipse cx="302.0" cy="262.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="342.0" cy="262.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 296 296 Q 322 342 348 296 Q 322 312 296 296 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<ellipse cx="302.0" cy="262.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57"/>
+<ellipse cx="342.0" cy="262.0" rx="13.0" ry="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57"/>
+<path d="M 296 296 Q 322 342 348 296 Q 322 312 296 296 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.57" stroke-linejoin="round"/>
 </g></svg>

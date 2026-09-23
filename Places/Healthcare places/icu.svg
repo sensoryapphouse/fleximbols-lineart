@@ -38,17 +38,17 @@
   <!-- IV bag -->
   <rect x="212" y="50" width="18" height="26" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- IV tube -->
-  <line x1="221" y1="76" x2="221" y2="100" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="221" y1="76" x2="221" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Heart monitor screen (top right) -->
   <rect x="220" y="60" width="50" height="36" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="224" y="64" width="42" height="28" rx="3" fill="#1a1a1a" stroke="none"/>
   <!-- ECG waveform on screen -->
-  <polyline points="226,78 232,78 235,68 238,88 241,68 244,78 250,78 253,72 256,78 262,78" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="226,78 232,78 235,68 238,88 241,68 244,78 250,78 253,72 256,78 262,78" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Monitor stand -->
   <rect x="240" y="96" width="6" height="18" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <rect x="232" y="112" width="22" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 
   <!-- Patient sensor lines -->
-  <line x1="155" y1="137" x2="220" y2="82" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <line x1="155" y1="137" x2="220" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
 </g></svg>

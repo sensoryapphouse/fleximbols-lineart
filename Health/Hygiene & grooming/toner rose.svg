@@ -6,17 +6,17 @@
   <rect x="87" y="110" width="56" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- rose petal at top of label -->
   <path d="M115 140 Q100 130 105 145 Q98 155 115 160 Q132 155 125 145 Q130 130 115 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M115 145 Q108 142 112 150 Q108 156 115 156 Q122 156 118 150 Q122 142 115 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <circle cx="115" cy="150" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M115 145 Q108 142 112 150 Q108 156 115 156 Q122 156 118 150 Q122 142 115 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <circle cx="115" cy="150" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ROSE as paths -->
   <!-- R -->
-  <path d="M92 175 L100 175 L100 182 L98 182 L101 188 L98 188 L96 184 L95 184 L95 188 L92 188 Z M95 178 L97 178 L97 181 L95 181 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <path d="M92 175 L100 175 L100 182 L98 182 L101 188 L98 188 L96 184 L95 184 L95 188 L92 188 Z M95 178 L97 178 L97 181 L95 181 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" fill-rule="evenodd"/>
   <!-- O -->
-  <path d="M103 175 L111 175 L111 188 L103 188 Z M106 178 L108 178 L108 185 L106 185 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <path d="M103 175 L111 175 L111 188 L103 188 Z M106 178 L108 178 L108 185 L106 185 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" fill-rule="evenodd"/>
   <!-- S -->
-  <path d="M114 175 L122 175 L122 178 L117 178 L117 180 L122 180 L122 188 L114 188 L114 185 L119 185 L119 183 L114 183 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M114 175 L122 175 L122 178 L117 178 L117 180 L122 180 L122 188 L114 188 L114 185 L119 185 L119 183 L114 183 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- E -->
-  <path d="M125 175 L133 175 L133 178 L128 178 L128 180 L132 180 L132 183 L128 183 L128 185 L133 185 L133 188 L125 188 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M125 175 L133 175 L133 178 L128 178 L128 180 L132 180 L132 183 L128 183 L128 185 L133 185 L133 188 L125 188 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- delicate pink swatch dot -->
   <circle cx="115" cy="208" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- delicate pink swatch (drop falling outside bottle) -->

@@ -3,5 +3,5 @@
   <path d="M 145,68 L 145,222" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 90,40 L 200,40 L 215,80 L 75,80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 90,40 Q 145,30 200,40" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 75,90 L 60,108 M 215,90 L 230,108 M 145,82 L 145,108" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 75,90 L 60,108 M 215,90 L 230,108 M 145,82 L 145,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

@@ -9,11 +9,11 @@
   <polygon points="125,158 135,152 145,158 142,169 128,169" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <polygon points="160,188 170,182 180,188 177,199 163,199" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Phosphate (circle) markers -->
-  <circle cx="115" cy="55" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="190" cy="85" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="115" cy="115" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="190" cy="145" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="115" cy="175" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="115" cy="55" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="85" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="115" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="145" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="175" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Uracil bases as curved U shapes branching out -->
   <path d="M 75 45 Q 70 60 85 65" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M 215 75 Q 220 90 205 95" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="49.45 26.41 413.09 413.09"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
 
-<path d="M 198 248 Q 256 474 314 248" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="198" cy="248" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="314" cy="248" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 198 248 Q 256 474 314 248" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="198" cy="248" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="314" cy="248" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <g data-part="hair-back"><g transform="translate(150.17 71.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="277" x2="226" y2="405" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="277" x2="226" y2="405" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="277" x2="286" y2="405" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="277" x2="286" y2="405" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="226" cy="410" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

@@ -14,8 +14,8 @@
   <!-- Photo placeholder box -->
   <rect x="108" y="173" width="34" height="36" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Simple face in photo box -->
-  <circle cx="125" cy="184" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <ellipse cx="125" cy="200" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="125" cy="184" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="125" cy="200" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Text line bars -->
   <rect x="150" y="174" width="34" height="5" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="150" y="184" width="28" height="4" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -28,11 +28,11 @@
   <ellipse cx="145" cy="185" rx="70" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
 
   <!-- Snare wires across bottom head -->
-  <line x1="88" y1="185" x2="202" y2="185" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="88" y1="181" x2="202" y2="181" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="88" y1="189" x2="202" y2="189" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="88" y1="177" x2="202" y2="177" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="88" y1="193" x2="202" y2="193" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="88" y1="185" x2="202" y2="185" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="88" y1="181" x2="202" y2="181" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="88" y1="189" x2="202" y2="189" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="88" y1="177" x2="202" y2="177" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="88" y1="193" x2="202" y2="193" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Snare strainer (side adjuster) -->
   <rect x="200" y="178" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 

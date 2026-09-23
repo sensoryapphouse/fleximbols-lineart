@@ -46,7 +46,7 @@
 
   <!-- a and b limits on integral (drawn as small geometric shapes) -->
   <!-- "a" limit bottom: small triangle -->
-  <polygon points="214,185 208,195 220,195" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <polygon points="214,185 208,195 220,195" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "b" limit top: small rectangle with top nub -->
-  <rect x="233" y="28" width="10" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <rect x="233" y="28" width="10" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -28,9 +28,9 @@
   <ellipse cx="145" cy="205" rx="95" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <ellipse cx="145" cy="200" rx="80" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Salt grains on food -->
-  <ellipse cx="118" cy="198" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="140" cy="195" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="162" cy="200" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="130" cy="204" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="155" cy="194" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="118" cy="198" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="140" cy="195" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="162" cy="200" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="130" cy="204" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="155" cy="194" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

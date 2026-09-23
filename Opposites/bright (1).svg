@@ -10,12 +10,12 @@
   <line x1="145" y1="120" x2="73" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="145" y1="120" x2="217" y2="192" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- ray tips — small triangles / wedges as arrowheads for bold feel -->
-  <polygon points="145,18 140,30 150,30" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <polygon points="145,222 140,210 150,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <polygon points="43,120 55,115 55,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <polygon points="247,120 235,115 235,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <polygon points="145,18 140,30 150,30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="145,222 140,210 150,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="43,120 55,115 55,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="247,120 235,115 235,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sun body -->
   <circle cx="145" cy="120" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- sun inner detail -->
-  <circle cx="145" cy="120" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="145" cy="120" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

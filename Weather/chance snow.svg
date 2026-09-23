@@ -15,17 +15,17 @@
   <line x1="85" y1="138" x2="85" y2="162" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="73" y1="144" x2="97" y2="156" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="73" y1="156" x2="97" y2="144" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-  <circle cx="85" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
+  <circle cx="85" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flake 2 -->
   <line x1="127" y1="138" x2="127" y2="162" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="115" y1="144" x2="139" y2="156" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="115" y1="156" x2="139" y2="144" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-  <circle cx="127" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
+  <circle cx="127" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flake 3 -->
   <line x1="169" y1="138" x2="169" y2="162" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="157" y1="144" x2="181" y2="156" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <line x1="157" y1="156" x2="181" y2="144" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-  <circle cx="169" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
+  <circle cx="169" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "?" drawn as paths -->
   <path d="M238 52 Q238 36 252 36 Q266 36 266 50 Q266 62 252 68 L252 78" fill="none" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="252" cy="88" r="5" fill="#1a1a1a"/>

@@ -9,7 +9,7 @@
   <ellipse cx="160" cy="133" rx="15" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="198" cy="136" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Berry juice bubble visible -->
-  <ellipse cx="140" cy="130" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="140" cy="130" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Streusel crumble topping - loose golden clumps -->
   <ellipse cx="55" cy="126" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="82" cy="118" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

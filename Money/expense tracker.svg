@@ -15,7 +15,7 @@
   <rect x="78" y="106" width="44" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <rect x="148" y="106" width="30" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <!-- Divider -->
-  <line x1="78" y1="120" x2="178" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="78" y1="120" x2="178" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Total row bold -->
   <rect x="78" y="128" width="44" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <rect x="148" y="128" width="30" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>

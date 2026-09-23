@@ -4,7 +4,7 @@
   <!-- Tail broad -->
   <polygon points="145,190 115,218 175,218" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tail band -->
-  <line x1="118" y1="210" x2="172" y2="210" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="118" y1="210" x2="172" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Body large all-brown -->
   <ellipse cx="145" cy="152" rx="48" ry="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Wing left folded -->
@@ -12,11 +12,11 @@
   <!-- Wing right folded -->
   <polygon points="193,145 252,178 248,195 190,172" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Wing feather detail left -->
-  <line x1="50" y1="182" x2="98" y2="165" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="44" y1="190" x2="99" y2="170" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="50" y1="182" x2="98" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="44" y1="190" x2="99" y2="170" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wing feather detail right -->
-  <line x1="240" y1="182" x2="192" y2="165" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="246" y1="190" x2="191" y2="170" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="240" y1="182" x2="192" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="246" y1="190" x2="191" y2="170" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Belly dark -->
   <ellipse cx="145" cy="168" rx="28" ry="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Head brown -->
@@ -28,9 +28,9 @@
   <!-- Beak hook tip -->
   <path d="M136,116 Q133,122 140,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Eyes -->
-  <circle cx="132" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="132" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="132" cy="108" r="3" fill="#1a1a1a"/>
-  <circle cx="158" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="158" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="158" cy="108" r="3" fill="#1a1a1a"/>
   <!-- Brow ridge -->
   <path d="M125,100 Q145,95 165,100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

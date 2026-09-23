@@ -17,6 +17,6 @@
   <path d="M 110 195 Q 160 205 200 195" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <!-- fortune paper sticking out from the crease -->
   <rect x="120" y="115" width="65" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-8 152 126)"/>
-  <line x1="128" y1="122" x2="175" y2="115" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="128" y1="128" x2="172" y2="121" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="128" y1="122" x2="175" y2="115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="128" y1="128" x2="172" y2="121" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

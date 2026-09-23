@@ -25,7 +25,7 @@
   <!-- Coil row 10 -->
   <path d="M185 169 C185 174 182 180 176 182 C168 184 159 181 151 182 C143 183 136 187 128 186 C120 185 113 180 113 174 C113 170 113 166 113 161" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Outline the coiled mass region -->
-  <rect x="110" y="100" width="80" height="90" rx="12" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="110" y="100" width="80" height="90" rx="12" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pointer dot -->
   <circle cx="145" cy="145" r="5" fill="#1a1a1a"/>
 </g></svg>

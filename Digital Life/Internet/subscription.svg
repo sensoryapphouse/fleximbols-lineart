@@ -6,17 +6,17 @@
   <line x1="34" y1="22" x2="34" y2="42" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="82" y1="22" x2="82" y2="42" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Calendar grid -->
-  <line x1="20" y1="60" x2="96" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="20" y1="75" x2="96" y2="75" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="20" y1="90" x2="96" y2="90" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="39" y1="46" x2="39" y2="106" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="58" y1="46" x2="58" y2="106" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="77" y1="46" x2="77" y2="106" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="20" y1="60" x2="96" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="20" y1="75" x2="96" y2="75" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="20" y1="90" x2="96" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="39" y1="46" x2="39" y2="106" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="58" y1="46" x2="58" y2="106" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="77" y1="46" x2="77" y2="106" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Repeating circled dates on calendar showing monthly pattern -->
-  <circle cx="30" cy="53" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="68" cy="68" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="49" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="87" cy="98" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="30" cy="53" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="68" cy="68" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="49" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="87" cy="98" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Subscription box -->
   <path d="M 140 110 L 200 92 L 260 110 L 260 180 L 200 198 L 140 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Box top crease -->
@@ -42,7 +42,7 @@
   <line x1="265" y1="200" x2="265" y2="230" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Delivery arrow from box to package -->
   <path d="M 240 195 L 252 205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M 245 200 L 252 205 L 245 209" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 245 200 L 252 205 L 245 209" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Floor line -->
-  <line x1="0" y1="232" x2="245" y2="232" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="0" y1="232" x2="245" y2="232" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

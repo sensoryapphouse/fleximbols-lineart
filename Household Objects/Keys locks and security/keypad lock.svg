@@ -8,10 +8,10 @@
   <!-- display strip -->
   <rect x="86" y="54" width="118" height="22" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- display dots (entered code) -->
-  <circle cx="108" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="124" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="140" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="156" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="108" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="124" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="156" cy="65" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- key buttons row 1: 1 2 3 -->
   <rect x="86" y="84" width="32" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="129" y="84" width="32" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

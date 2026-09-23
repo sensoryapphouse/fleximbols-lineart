@@ -26,9 +26,9 @@
   <!-- Cone -->
   <polygon points="222,72 248,50 236,76" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Stars/confetti -->
-  <circle cx="220" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="235" cy="44" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="245" cy="52" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="220" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="235" cy="44" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="245" cy="52" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Streamers -->
   <path d="M222,46 Q216,38 220,34" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M232,42 Q230,34 236,30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

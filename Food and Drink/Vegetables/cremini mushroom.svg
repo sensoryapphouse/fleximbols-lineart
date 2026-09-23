@@ -7,5 +7,5 @@
   <!-- small rounded brown cap -->
   <path d="M 75 130 Q 75 70 145 60 Q 215 70 215 130 Q 200 138 145 138 Q 90 138 75 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- highlight -->
-  <path d="M 100 90 Q 115 75 135 78 Q 130 92 115 100 Q 102 100 100 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 100 90 Q 115 75 135 78 Q 130 92 115 100 Q 102 100 100 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

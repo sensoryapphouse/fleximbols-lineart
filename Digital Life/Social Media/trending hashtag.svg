@@ -8,7 +8,7 @@
   <line x1="50" y1="145" x2="133" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Upward trend arrow to the right -->
   <!-- Trend line -->
-  <polyline points="162,192 196,148 222,162 262,98" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="162,192 196,148 222,162 262,98" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Arrowhead -->
-  <polygon points="262,98 242,100 252,116" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.95" stroke-linejoin="round"/>
+  <polygon points="262,98 242,100 252,116" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

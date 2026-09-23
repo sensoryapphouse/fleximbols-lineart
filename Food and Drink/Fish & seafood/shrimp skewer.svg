@@ -2,7 +2,7 @@
   <!-- Skewer stick -->
   <line x1="145" y1="20" x2="145" y2="225" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Skewer tip -->
-  <polygon points="145,15 140,28 150,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="145,15 140,28 150,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Shrimp 1 (top) -->
   <path d="M145,55 C120,48 105,62 112,78 C118,92 138,95 145,88 C152,95 172,92 178,78 C185,62 170,48 145,55Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -19,9 +19,9 @@
   <path d="M152,181 Q157,191 165,195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Antennae shrimp 1 -->
-  <line x1="135" y1="55" x2="115" y2="35" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="155" y1="55" x2="175" y2="35" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="135" y1="55" x2="115" y2="35" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="155" y1="55" x2="175" y2="35" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Antennae shrimp 2 -->
-  <line x1="135" y1="128" x2="115" y2="115" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="155" y1="128" x2="175" y2="115" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="135" y1="128" x2="115" y2="115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="155" y1="128" x2="175" y2="115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

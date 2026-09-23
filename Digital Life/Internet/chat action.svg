@@ -8,7 +8,7 @@
   <!-- Right speech bubble (person B) — overlapping, facing other direction -->
   <path d="M272 98 Q272 86 260 86 L118 86 Q106 86 106 98 L106 172 Q106 184 118 184 L200 184 L218 206 L222 184 L260 184 Q272 184 272 172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dots in right bubble -->
-  <circle cx="152" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="181" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="210" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="152" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="181" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="210" cy="135" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -6,7 +6,7 @@
   <circle cx="195" cy="155" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
   <circle cx="120" cy="195" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
   <circle cx="175" cy="200" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <path d="M 95,150 L 95,165" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 145,170 L 145,185" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 195,150 L 195,165" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 95,150 L 95,165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 145,170 L 145,185" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 195,150 L 195,165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

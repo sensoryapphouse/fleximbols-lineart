@@ -29,11 +29,11 @@
   <!-- Wave 3 — below, slightly different angle -->
   <path d="M236 136 L248 128 L254 138 L260 126 L266 136 L272 126 L278 136" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Chaos star burst / collision mark between sources -->
-  <path d="M150 150 L153 138 L156 150 L168 153 L156 156 L153 168 L150 156 L138 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M150 150 L153 138 L156 150 L168 153 L156 156 L153 168 L150 156 L138 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Extra random short lines suggesting chaos -->
   <path d="M105 75 L112 68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M115 68 L108 60" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M95 68 L100 58" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 68 L108 60" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M95 68 L100 58" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Musical notes near bell -->
   <path d="M50 72 L50 58 L60 56 L60 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="48" cy="72" rx="5" ry="4" fill="#1a1a1a"/>

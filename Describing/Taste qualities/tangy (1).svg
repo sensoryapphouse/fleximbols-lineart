@@ -27,6 +27,6 @@
   <path d="M 226,40 Q 231,36 236,40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 240,40 Q 245,36 250,40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Cheek squint marks -->
-  <path d="M 218,56 Q 222,58 220,62" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 258,56 Q 254,58 256,62" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 218,56 Q 222,58 220,62" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 258,56 Q 254,58 256,62" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

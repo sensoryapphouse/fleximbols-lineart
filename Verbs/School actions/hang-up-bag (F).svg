@@ -12,7 +12,7 @@
 
 <line x1="300" y1="150" x2="360" y2="150" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 330 150 q 0 14 14 14 q 14 0 14 -10" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<rect x="336" y="168" width="44" height="52" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="336" y="168" width="44" height="52" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 344 168 q 14 -22 28 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<rect x="340" y="184" width="36" height="16" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="340" y="184" width="36" height="16" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

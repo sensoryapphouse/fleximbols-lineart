@@ -2,7 +2,7 @@
   <!-- ionised glow cloud (outer) -->
   <path d="M 55 130 Q 40 90 80 75 Q 110 50 150 60 Q 200 50 230 80 Q 260 110 240 145 Q 250 185 210 195 Q 175 215 135 200 Q 90 210 65 180 Q 35 165 55 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- inner glow -->
-  <path d="M 75 135 Q 70 100 105 95 Q 135 80 165 90 Q 205 85 220 115 Q 230 145 205 165 Q 180 185 145 180 Q 110 185 90 165 Q 65 155 75 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M 75 135 Q 70 100 105 95 Q 135 80 165 90 Q 205 85 220 115 Q 230 145 205 165 Q 180 185 145 180 Q 110 185 90 165 Q 65 155 75 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- lightning bolt -->
   <path d="M 160 50 L 120 130 L 150 130 L 110 210 L 175 110 L 145 110 L 175 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- positive charge symbol (plus) top-left -->

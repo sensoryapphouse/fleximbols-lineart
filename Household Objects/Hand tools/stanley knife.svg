@@ -6,9 +6,9 @@
 <line x1="150" y1="266" x2="300" y2="266" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- thumb slide -->
 <rect x="180" y="238" width="48" height="56" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<line x1="192" y1="250" x2="192" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="204" y1="250" x2="204" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="216" y1="250" x2="216" y2="282" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="192" y1="250" x2="192" y2="282" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="204" y1="250" x2="204" y2="282" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="216" y1="250" x2="216" y2="282" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- crisp angled triangular blade sticking out of the nose -->
 <path d="M 360 250 L 452 250 L 360 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- bevel line on the blade edge -->

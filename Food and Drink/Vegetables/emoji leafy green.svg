@@ -3,7 +3,7 @@
   <path d="M 145,55 Q 110,55 90,90 Q 75,125 95,160 Q 120,185 145,185 Q 170,185 195,160 Q 215,125 200,90 Q 180,55 145,55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 145,75 Q 120,80 110,115 Q 110,150 135,175 Q 145,180 155,175 Q 180,150 180,115 Q 170,80 145,75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 145,60 L 145,195" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"></path>
-  <path d="M 90,90 Q 110,110 130,130 M 200,90 Q 180,110 160,130 M 75,140 Q 105,150 135,160 M 215,140 Q 185,150 155,160" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"></path>
+  <path d="M 90,90 Q 110,110 130,130 M 200,90 Q 180,110 160,130 M 75,140 Q 105,150 135,160 M 215,140 Q 185,150 155,160" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"></path>
   <path d="M 110,75 Q 95,68 88,75 Q 92,82 105,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 180,75 Q 195,68 202,75 Q 198,82 185,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
 </g></svg>

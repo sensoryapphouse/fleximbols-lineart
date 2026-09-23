@@ -14,12 +14,12 @@
   <circle cx="62" cy="85" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="59" cy="84" r="1.5" fill="#1a1a1a"/>
   <circle cx="65" cy="84" r="1.5" fill="#1a1a1a"/>
-  <path d="M58 89 Q62 92 66 89" fill="none" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <path d="M58 89 Q62 92 66 89" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- right head (dark side) -->
   <circle cx="108" cy="115" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="105" cy="114" r="1.5" fill="#1a1a1a"/>
   <circle cx="111" cy="114" r="1.5" fill="#1a1a1a"/>
-  <path d="M104 119 Q108 122 112 119" fill="none" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <path d="M104 119 Q108 122 112 119" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- balance scale on the right -->
   <!-- post -->
   <rect x="208" y="65" width="6" height="125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -41,5 +41,5 @@
   <path d="M175 92 C170 86 162 88 165 96 C168 102 175 105 175 105 C175 105 182 102 185 96 C188 88 180 86 175 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- brain/gear on right pan -->
   <circle cx="247" cy="95" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M242 92 Q244 88 247 90 Q250 88 252 92 Q254 95 252 98 Q250 102 247 100 Q244 102 242 98 Q240 95 242 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M242 92 Q244 88 247 90 Q250 88 252 92 Q254 95 252 98 Q250 102 247 100 Q244 102 242 98 Q240 95 242 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -5,8 +5,8 @@
 <!-- right long blade -->
 <polygon points="264,256 280,86 298,86 282,256" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- cutting edge highlights -->
-<line x1="226" y1="100" x2="240" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="286" y1="100" x2="272" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="226" y1="100" x2="240" y2="240" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="286" y1="100" x2="272" y2="240" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- pivot bolt -->
 <circle cx="256" cy="258" r="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- left long handle -->

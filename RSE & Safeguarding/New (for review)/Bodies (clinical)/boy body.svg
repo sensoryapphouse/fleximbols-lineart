@@ -12,9 +12,9 @@
 <!-- head -->
 <circle id="h1" data-fig="ma" cx="256" cy="124" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="skin"/>
 <!-- short hair (simple cap) -->
-<path d="M 214 122 Q 212 80 256 80 Q 300 80 298 122 Q 256 98 214 122 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 214 122 Q 212 80 256 80 Q 300 80 298 122 Q 256 98 214 122 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- simple face -->
 <circle cx="242" cy="122" r="4" fill="#1a1a1a"/>
 <circle cx="270" cy="122" r="4" fill="#1a1a1a"/>
-<path d="M 244 142 Q 256 148 268 142" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 244 142 Q 256 148 268 142" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

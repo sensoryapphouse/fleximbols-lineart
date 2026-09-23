@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.0831) translate(-243.00 -251.50)">
-<rect x="168.0" y="300.0" width="176.0" height="118.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="150.0" y="344.0" width="212.0" height="30.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="150.0" y="360.0" width="24.0" height="70.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
-<rect x="338.0" y="360.0" width="24.0" height="70.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
+<rect x="168.0" y="300.0" width="176.0" height="118.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54"/>
+<rect x="150.0" y="344.0" width="212.0" height="30.0" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54"/>
+<rect x="150.0" y="360.0" width="24.0" height="70.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54" data-lp="hair"/>
+<rect x="338.0" y="360.0" width="24.0" height="70.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54" data-lp="hair"/>
 <g data-part="hair-back"><g transform="translate(150.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="343" x2="216" y2="345" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="343" x2="216" y2="345" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="216" y1="345" x2="216" y2="415" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="216" y1="345" x2="216" y2="415" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="343" x2="296" y2="345" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="343" x2="296" y2="345" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
@@ -20,7 +20,7 @@
 
 
 <path d="M 308.0 217.0 L 316.0 455" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<circle cx="96" cy="108" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="96" cy="108" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54"/>
 <line x1="136" y1="108" x2="154" y2="108" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="124" y1="136" x2="137" y2="149" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="96" y1="148" x2="96" y2="166" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
@@ -43,6 +43,6 @@
 <line x1="384" y1="95" x2="381" y2="93" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="395" y1="84" x2="393" y2="81" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
 <line x1="410" y1="110" x2="410" y2="88" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<line x1="410" y1="110" x2="428" y2="114" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="410" cy="110" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="410" y1="110" x2="428" y2="114" stroke="#1a1a1a" stroke-width="5.54" stroke-linecap="round"/>
+<circle cx="410" cy="110" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54"/>
 </g></svg>

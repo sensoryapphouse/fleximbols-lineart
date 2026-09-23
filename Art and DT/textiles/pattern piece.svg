@@ -17,7 +17,7 @@
          Q 318 372 256 372
          Q 192 372 170 322
          Z"
-      fill="none" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="10 9"/>
+      fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="10 9"/>
 <!-- grainline double-headed arrow -->
 <line x1="256" y1="200" x2="256" y2="320" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <polyline points="240 218 256 198 272 218" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>

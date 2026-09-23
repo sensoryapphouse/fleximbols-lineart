@@ -2,13 +2,13 @@
   <!-- growing dollar stacks left-to-right -->
   <rect x="20" y="180" width="28" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="34" cy="180" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M34 172 L34 188 M30 175 Q26 175 26 178 Q26 181 34 181 Q42 181 42 184 Q42 187 34 187 Q27 187 27 184" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M34 172 L34 188 M30 175 Q26 175 26 178 Q26 181 34 181 Q42 181 42 184 Q42 187 34 187 Q27 187 27 184" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="60" y="150" width="32" height="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="76" cy="150" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M76 140 L76 160 M71 144 Q66 144 66 148 Q66 152 76 152 Q86 152 86 156 Q86 160 76 160 Q67 160 67 156" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M76 140 L76 160 M71 144 Q66 144 66 148 Q66 152 76 152 Q86 152 86 156 Q86 160 76 160 Q67 160 67 156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="105" y="110" width="38" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="124" cy="110" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M124 98 L124 122 M118 102 Q112 102 112 106 Q112 111 124 111 Q136 111 136 115 Q136 120 124 120 Q114 120 114 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M124 98 L124 122 M118 102 Q112 102 112 106 Q112 111 124 111 Q136 111 136 115 Q136 120 124 120 Q114 120 114 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="158" y="60" width="46" height="160" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="181" cy="60" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M181 46 L181 74 M174 50 Q167 50 167 55 Q167 60 181 60 Q195 60 195 65 Q195 70 181 70 Q170 70 170 65" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

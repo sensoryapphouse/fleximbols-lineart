@@ -6,7 +6,7 @@
 <ellipse cx="262" cy="124" rx="44" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- cross strap 1 -->
 <line x1="206" y1="250" x2="320" y2="330" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
-<line x1="206" y1="250" x2="320" y2="330" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0"/>
+<line x1="206" y1="250" x2="320" y2="330" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0"/>
 <!-- cross strap 2 -->
 <line x1="300" y1="250" x2="210" y2="330" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
 <!-- strap outlines -->

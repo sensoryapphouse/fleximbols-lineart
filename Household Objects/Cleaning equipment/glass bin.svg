@@ -27,5 +27,5 @@
   <!-- Jar highlight -->
   <line x1="155" y1="162" x2="155" y2="196" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Jar label band -->
-  <rect x="151" y="172" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="151" y="172" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

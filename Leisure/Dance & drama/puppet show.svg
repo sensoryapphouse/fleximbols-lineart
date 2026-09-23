@@ -15,14 +15,14 @@
   <path d="M99 104 Q101 90 115 88 Q129 90 131 104 Q125 98 115 98 Q105 98 99 104 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="110" cy="110" r="2" fill="#1a1a1a"/>
   <circle cx="120" cy="110" r="2" fill="#1a1a1a"/>
-  <path d="M110 116 Q115 120 120 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M110 116 Q115 120 120 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M104 126 Q100 140 102 152 L128 152 Q130 140 126 126 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- puppet 2 on stage (right) -->
   <circle cx="175" cy="110" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M159 104 Q161 90 175 88 Q189 90 191 104 Q185 98 175 98 Q165 98 159 104 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="170" cy="110" r="2" fill="#1a1a1a"/>
   <circle cx="180" cy="110" r="2" fill="#1a1a1a"/>
-  <path d="M170 116 Q175 120 180 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M170 116 Q175 120 180 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M164 126 Q160 140 162 152 L188 152 Q190 140 186 126 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- audience silhouettes (heads) in front of stage -->
   <circle cx="60" cy="210" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

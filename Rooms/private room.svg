@@ -36,8 +36,8 @@
   <line x1="83" y1="68" x2="83" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="88" y1="68" x2="88" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- bathroom label icon: small person silhouette -->
-  <circle cx="80" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="75" y="96" width="10" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="80" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="75" y="96" width="10" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- privacy curtain across window on left wall -->
   <rect x="125" y="30" width="80" height="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- curtain rod -->

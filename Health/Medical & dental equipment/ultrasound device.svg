@@ -7,15 +7,15 @@
   <!-- Screen display (blue-ish ultrasound image suggestion) -->
   <rect x="75" y="93" width="80" height="58" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Ultrasound wave arcs on screen -->
-  <path d="M 95 150 Q 115 120 135 150" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 90 155 Q 115 115 140 155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 95 150 Q 115 120 135 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 90 155 Q 115 115 140 155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Keyboard/control panel on cart -->
   <rect x="70" y="162" width="90" height="28" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Buttons on panel -->
-  <rect x="76" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="94" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="112" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="130" y="168" width="22" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="76" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="94" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="112" y="168" width="12" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="130" y="168" width="22" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cart column/stem -->
   <rect x="106" y="200" width="18" height="15" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Cart base -->
@@ -30,7 +30,7 @@
   <!-- Probe head (emitter face) -->
   <rect x="216" y="92" width="22" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Probe grip ridges -->
-  <line x1="220" y1="62" x2="234" y2="62" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="220" y1="70" x2="234" y2="70" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="220" y1="78" x2="234" y2="78" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="220" y1="62" x2="234" y2="62" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="220" y1="70" x2="234" y2="70" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="220" y1="78" x2="234" y2="78" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

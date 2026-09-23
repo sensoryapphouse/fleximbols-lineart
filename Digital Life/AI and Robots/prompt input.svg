@@ -17,6 +17,6 @@
   <path d="M 38,112 L 50,120 L 38,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Sparkle hints top right -->
   <path d="M 220,48 L 220,36 M 214,42 L 226,42" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 248,68 L 248,60 M 244,64 L 252,64" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 248,68 L 248,60 M 244,64 L 252,64" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
   <circle cx="220" cy="42" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
 </g></svg>

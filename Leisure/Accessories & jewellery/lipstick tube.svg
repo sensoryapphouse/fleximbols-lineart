@@ -2,7 +2,7 @@
   <!-- Lipstick outer case bottom -->
   <rect x="95" y="140" width="100" height="75" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Case shine line -->
-  <line x1="105" y1="152" x2="105" y2="205" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="105" y1="152" x2="105" y2="205" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Lipstick sleeve (middle ring) -->
   <rect x="98" y="130" width="94" height="22" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Lipstick cylinder (inner tube above sleeve) -->
@@ -12,5 +12,5 @@
   <!-- Slanted bullet tip -->
   <polygon points="112,45 178,45 168,25 112,38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Highlight on bullet -->
-  <line x1="118" y1="50" x2="118" y2="75" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="118" y1="50" x2="118" y2="75" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

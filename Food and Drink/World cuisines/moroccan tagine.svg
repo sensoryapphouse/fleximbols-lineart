@@ -16,7 +16,7 @@
   <ellipse cx="145" cy="178" rx="90" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Knob at top of lid -->
   <circle cx="145" cy="62" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="145" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="62" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Steam wisps from lid seam -->
   <path d="M120 165 Q116 152 120 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M145 163 Q141 149 145 136" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

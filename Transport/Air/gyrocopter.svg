@@ -8,9 +8,9 @@
   <!-- Rotor mast -->
   <line x1="145" y1="103" x2="145" y2="130" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Rotor mast brace forward -->
-  <line x1="145" y1="118" x2="125" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="118" x2="125" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Rotor mast brace rear -->
-  <line x1="145" y1="118" x2="162" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="118" x2="162" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small open pod / cockpit -->
   <ellipse cx="130" cy="148" rx="38" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Pod nose -->
@@ -29,7 +29,7 @@
   <!-- Rear pusher propeller -->
   <ellipse cx="260" cy="140" rx="6" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Prop hub -->
-  <circle cx="260" cy="145" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="260" cy="145" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Engine block at rear -->
   <rect x="248" y="138" width="14" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Front wheel -->

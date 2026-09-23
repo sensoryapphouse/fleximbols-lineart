@@ -2,8 +2,8 @@
   <path d="M 60,115 Q 30,80 60,40 Q 110,20 145,55 Q 180,20 230,40 Q 260,80 230,115" fill="none" stroke="#1a1a1a" stroke-width="10.36" stroke-linejoin="round" stroke-linecap="round"></path>
   <rect x="40" y="115" width="36" height="80" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"></rect>
   <line x1="58" y1="125" x2="58" y2="185" stroke="#1a1a1a" stroke-width="4.45"></line>
-  <rect x="48" y="118" width="20" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></rect>
+  <rect x="48" y="118" width="20" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></rect>
   <rect x="214" y="115" width="36" height="80" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"></rect>
   <line x1="232" y1="125" x2="232" y2="185" stroke="#1a1a1a" stroke-width="4.45"></line>
-  <rect x="222" y="118" width="20" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></rect>
+  <rect x="222" y="118" width="20" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></rect>
 </g></svg>

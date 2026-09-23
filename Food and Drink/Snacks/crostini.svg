@@ -22,8 +22,8 @@
   <!-- Single garnish: a small herb leaf (basil leaf, centered) -->
   <path d="M145 148 Q158 135 165 148 Q158 158 145 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round"/>
   <!-- Leaf vein -->
-  <line x1="145" y1="148" x2="163" y2="148" stroke="#1a1a1a" stroke-width="2.43" stroke-linecap="round"/>
-  <line x1="152" y1="140" x2="158" y2="148" stroke="#1a1a1a" stroke-width="2.43" stroke-linecap="round"/>
+  <line x1="145" y1="148" x2="163" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="152" y1="140" x2="158" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="156" y1="138" x2="160" y2="144" stroke="#1a1a1a" stroke-width="1.61" stroke-linecap="round"/>
 
   <!-- Small dot of color on spread (a drizzle hint) -->

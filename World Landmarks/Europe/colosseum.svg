@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.8800) translate(-256.00 -312.50)">
 <!-- ground -->
-<rect x="0" y="470" width="512" height="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="256" cy="470" rx="232" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<rect x="0" y="470" width="512" height="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82"/>
+<ellipse cx="256" cy="470" rx="232" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82"/>
 
 <!-- ===== Main curved facade body (wide ellipse band, side perspective) =====
      Top cornice bows up in the middle; base bows the same way (parallel curve).
@@ -15,7 +15,7 @@
 
 <!-- attic / top storey band (solid, above the arch tiers) -->
 <path d="M 44 250 A 260 130 0 0 1 468 250 L 468 286 A 260 118 0 0 0 44 286 Z"
-      fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+      fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 
 <!-- ===================== TIER 1 (upper arches) ===================== -->
 <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
@@ -72,10 +72,10 @@
 <path d="M 414 250 L 420 270 L 432 258 L 440 274 L 446 286 L 446 348 L 420 348 L 420 406"
       fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- partial broken arch on the upper ruin step -->
-<path d="M 451 348 L 451 326 A 6 9 0 0 1 463 326 L 463 348 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 451 348 L 451 326 A 6 9 0 0 1 463 326 L 463 348 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 <!-- partial broken arch on the lower ruin step -->
-<path d="M 426 406 L 426 384 A 6 9 0 0 1 438 384 L 438 406 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 426 406 L 426 384 A 6 9 0 0 1 438 384 L 438 406 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 
 <!-- broken notches on the left top edge for ruined texture -->
-<path d="M 150 287 L 150 303 L 168 301 L 168 289 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 150 287 L 150 303 L 168 301 L 168 289 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.82" stroke-linejoin="round"/>
 </g></svg>

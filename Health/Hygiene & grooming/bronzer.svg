@@ -19,9 +19,9 @@
   <!-- Lighter powder centre -->
   <circle cx="210" cy="170" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Matte powder surface lines (no shine) -->
-  <line x1="184" y1="166" x2="236" y2="166" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="180" y1="172" x2="240" y2="172" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="184" y1="178" x2="236" y2="178" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="184" y1="166" x2="236" y2="166" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="180" y1="172" x2="240" y2="172" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="184" y1="178" x2="236" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Large fluffy brush (top right, angled) -->
   <g transform="rotate(20 170 80)">
@@ -39,6 +39,6 @@
     <line x1="146" y1="58" x2="150" y2="48" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   </g>
   <!-- Powder dust between brush and compact -->
-  <circle cx="170" cy="146" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="178" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="146" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="178" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

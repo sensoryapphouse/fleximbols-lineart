@@ -10,7 +10,7 @@
   <!-- Bubble tail pointing bottom-left -->
   <polygon points="72,192 56,228 100,192" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Cover the tail-join interior line -->
-  <polygon points="72,192 100,192 86,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="72,192 100,192 86,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.24" />
   <!-- Large yellow star (main) — offset left of centre to leave room for 4 small -->
   <use href="#bigstar" transform="translate(128,118)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Four small yellow stars arranged in arc around the large one -->
@@ -22,4 +22,4 @@
   <use href="#smstar" transform="translate(183,143)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Lower -->
   <use href="#smstar" transform="translate(162,162)" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

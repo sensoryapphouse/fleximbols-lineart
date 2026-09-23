@@ -7,18 +7,18 @@
   <path d="M86 40 L86 95" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <rect x="58" y="90" width="32" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="62" y="108" width="24" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M68 120 L68 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M80 120 L80 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <path d="M68 120 L68 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
+  <path d="M80 120 L80 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
   <!-- knife (middle) -->
   <path d="M132 40 L150 40 L155 110 L130 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="128" y="108" width="28" height="100" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M135 120 L135 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M148 120 L148 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <path d="M135 120 L135 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
+  <path d="M148 120 L148 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
   <!-- spoon (right) -->
   <ellipse cx="215" cy="65" rx="22" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="201" y="92" width="28" height="116" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M208 105 L208 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M222 105 L222 195" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <path d="M208 105 L208 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
+  <path d="M222 105 L222 195" stroke="#1a1a1a" stroke-width="4.26" fill="none"/>
   <!-- bamboo node rings -->
   <path d="M58 145 L90 145" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <path d="M58 175 L90 175" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
@@ -26,4 +26,4 @@
   <path d="M128 175 L156 175" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <path d="M201 145 L229 145" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <path d="M201 175 L229 175" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

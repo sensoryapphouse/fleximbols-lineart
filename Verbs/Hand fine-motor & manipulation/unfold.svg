@@ -10,13 +10,13 @@
   <!-- Cloth / fabric being unfolded - now fully open flat -->
   <path d="M55 72 L55 175 Q55 185 145 185 Q235 185 235 175 L235 72 Q190 82 145 80 Q100 82 55 72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Fold crease lines on fabric (horizontal) -->
-  <line x1="65" y1="115" x2="225" y2="115" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="10,6"/>
+  <line x1="65" y1="115" x2="225" y2="115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="10,6"/>
   <!-- Vertical centre crease -->
-  <line x1="145" y1="75" x2="145" y2="182" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="10,6"/>
+  <line x1="145" y1="75" x2="145" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="10,6"/>
   <!-- Pattern on cloth: small diamond -->
-  <rect x="118" y="130" width="20" height="20" rx="2" fill="none" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(45 128 140)"/>
-  <rect x="78" y="130" width="14" height="14" rx="2" fill="none" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(45 85 137)"/>
-  <rect x="168" y="130" width="14" height="14" rx="2" fill="none" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(45 175 137)"/>
+  <rect x="118" y="130" width="20" height="20" rx="2" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(45 128 140)"/>
+  <rect x="78" y="130" width="14" height="14" rx="2" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(45 85 137)"/>
+  <rect x="168" y="130" width="14" height="14" rx="2" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(45 175 137)"/>
   <!-- Outward arrows showing opening/spreading motion -->
   <!-- Left arrow going left -->
   <line x1="95" y1="95" x2="65" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -25,9 +25,9 @@
   <line x1="195" y1="95" x2="225" y2="95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="225,95 214,89 214,101" fill="#1a1a1a"/>
   <!-- Bottom opening arrow down-left and down-right -->
-  <line x1="95" y1="160" x2="70" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="95" y1="160" x2="70" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <polygon points="70,175 79,163 83,175" fill="#1a1a1a"/>
-  <line x1="195" y1="160" x2="220" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="195" y1="160" x2="220" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <polygon points="220,175 207,163 217,163" fill="#1a1a1a"/>
   <!-- Cloth edge subtle shadow -->
   <line x1="55" y1="185" x2="235" y2="185" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

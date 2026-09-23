@@ -8,22 +8,22 @@
   <!-- Door -->
   <rect x="120" y="150" width="50" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Door handle -->
-  <rect x="156" y="163" width="10" height="4" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="156" y="163" width="10" height="4" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ground line -->
   <rect x="10" y="208" width="270" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- TV in window -->
   <rect x="50" y="100" width="68" height="46" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <rect x="56" y="105" width="56" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="56" y="105" width="56" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- TV stand -->
-  <rect x="78" y="146" width="8" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="70" y="152" width="24" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="78" y="146" width="8" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="70" y="152" width="24" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Phone in window -->
   <rect x="132" y="102" width="30" height="50" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <rect x="136" y="108" width="22" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="136" y="108" width="22" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Home button -->
-  <circle cx="147" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="147" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Headphones in window -->
   <path d="M178 110 Q197 98 216 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
@@ -35,7 +35,7 @@
   <!-- Store sign bar -->
   <rect x="35" y="72" width="220" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wifi/signal decorative dots -->
-  <circle cx="58" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="72" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="86" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="58" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="72" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="86" cy="81" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

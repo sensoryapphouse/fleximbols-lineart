@@ -5,8 +5,8 @@
 <rect x="166" y="244" width="180" height="150" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- peanut emblem on label -->
 <path d="M 230 296 Q 210 300 210 322 Q 210 342 232 344 Q 240 360 262 360 Q 290 360 296 336 Q 312 330 312 310 Q 312 290 292 288 Q 282 274 260 276 Q 240 278 230 296 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<line x1="236" y1="312" x2="288" y2="324" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="240" y1="328" x2="284" y2="338" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="236" y1="312" x2="288" y2="324" stroke="#1a1a1a" stroke-width="5.36" stroke-linecap="round"/>
+<line x1="240" y1="328" x2="284" y2="338" stroke="#1a1a1a" stroke-width="5.36" stroke-linecap="round"/>
 <!-- lid -->
 <rect x="156" y="128" width="200" height="56" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 </g></svg>

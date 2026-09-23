@@ -12,10 +12,10 @@
   <path d="M40 88 L130 30 Q140 24 150 30 L150 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M250 88 L160 30 Q150 24 140 30 L140 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pillow corner tassels/seams -->
-  <path d="M30 100 L36 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M64 100 L70 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M224 100 L230 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M258 100 L264 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M30 100 L36 96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M64 100 L70 96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M224 100 L230 96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M258 100 L264 96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- floor cushion (where child sits) -->
   <ellipse cx="145" cy="208" rx="68" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- child inside, full body -->
@@ -32,5 +32,5 @@
   <path d="M127 106 Q128 90 145 88 Q162 90 163 106 Q158 98 145 98 Q132 98 127 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="139" cy="113" r="2" fill="#1a1a1a"/>
   <circle cx="151" cy="113" r="2" fill="#1a1a1a"/>
-  <path d="M139 120 Q145 124 151 120" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M139 120 Q145 124 151 120" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

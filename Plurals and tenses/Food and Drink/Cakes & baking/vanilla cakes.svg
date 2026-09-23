@@ -25,7 +25,7 @@
   <circle cx="153" cy="69" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="160" cy="71" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Pale yellow interior texture tones -->
-  <path d="M 80,115 L 210,115" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
-  <path d="M 72,155 L 218,155" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
-  <path d="M 68,193 L 222,193" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 80,115 L 210,115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <path d="M 72,155 L 218,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <path d="M 68,193 L 222,193" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

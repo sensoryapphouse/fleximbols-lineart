@@ -21,16 +21,16 @@
   <circle cx="124" cy="80" r="3" fill="#1a1a1a"/>
   <circle cx="136" cy="80" r="3" fill="#1a1a1a"/>
   <!-- body segmentation hair lines -->
-  <path d="M110 115 L120 115 M140 115 L150 115 M125 100 L125 90 M130 130 L130 138" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M110 115 L120 115 M140 115 L150 115 M125 100 L125 90 M130 130 L130 138" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- magnifier handle -->
   <path d="M188 168 L240 220" fill="none" stroke="#1a1a1a" stroke-width="20.73" stroke-linecap="round"/>
   <path d="M188 168 L240 220" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- dust specks around -->
-  <circle cx="40" cy="40" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="55" cy="55" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="225" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="240" cy="40" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="30" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="40" cy="40" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="55" cy="55" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="225" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="240" cy="40" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="30" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- DUST MITE letters (split: DUST then MITE) -->
   <!-- D -->
   <path d="M30 220 L30 235 L37 235 Q44 235 44 227 Q44 220 37 220 Z" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>

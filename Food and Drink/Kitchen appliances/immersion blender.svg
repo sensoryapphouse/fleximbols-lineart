@@ -7,8 +7,8 @@
   <!-- Liquid in beaker -->
   <path d="M75 175 Q128 168 182 175 L182 215 Q182 222 175 222 L82 222 Q75 222 75 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Beaker measurement lines -->
-  <line x1="78" y1="185" x2="88" y2="185" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="78" y1="200" x2="88" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="185" x2="88" y2="185" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="78" y1="200" x2="88" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Blender shaft (single thin pole) -->
   <rect x="123" y="58" width="16" height="150" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Bell guard at bottom of shaft -->
@@ -21,7 +21,7 @@
   <!-- Power button on motor -->
   <circle cx="131" cy="46" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M131 38 L131 42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M124 41 Q119 46 121 52 Q124 58 131 58 Q138 58 141 52 Q143 46 138 41" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M124 41 Q119 46 121 52 Q124 58 131 58 Q138 58 141 52 Q143 46 138 41" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Speed strip on shaft -->
-  <rect x="127" y="70" width="8" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="127" y="70" width="8" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -15,8 +15,8 @@
   <!-- pale apple slice -->
   <path d="M 162 125 Q 175 122 178 132 Q 173 140 162 138 Q 156 132 162 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- mint sprig (small) -->
-  <ellipse cx="158" cy="78" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-30 158 78)"/>
-  <ellipse cx="165" cy="73" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(20 165 73)"/>
+  <ellipse cx="158" cy="78" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-30 158 78)"/>
+  <ellipse cx="165" cy="73" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 165 73)"/>
   <!-- stem -->
   <rect x="141" y="162" width="8" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- foot -->

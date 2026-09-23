@@ -4,8 +4,8 @@
 
 <!-- ===== HORSE in profile, facing right ===== -->
 <!-- caparison/barding drape under body (heraldic red) -->
-<path d="M 150 300 L 300 300 L 286 392 L 168 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 168 392 q 16 12 32 0 q 16 12 32 0 q 16 12 32 0 q 12 8 22 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 150 300 L 300 300 L 286 392 L 168 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
+<path d="M 168 392 q 16 12 32 0 q 16 12 32 0 q 16 12 32 0 q 12 8 22 0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
 <!-- body -->
 <ellipse cx="222" cy="276" rx="86" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- hind legs -->
@@ -21,13 +21,13 @@
 <!-- muzzle -->
 <path d="M 358 194 L 392 192 L 390 214 L 372 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <!-- ear -->
-<polygon points="346 200 350 180 360 202" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="346 200 350 180 360 202" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
 <!-- eye -->
 <circle cx="362" cy="206" r="3" fill="#1a1a1a"/>
 <!-- mane -->
-<path d="M 300 250 Q 320 226 344 206 Q 330 234 320 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 300 250 Q 320 226 344 206 Q 330 234 320 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round" data-lp="hair"/>
 <!-- tail -->
-<path d="M 138 268 Q 104 286 110 340 Q 126 300 146 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 138 268 Q 104 286 110 340 Q 126 300 146 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round" data-lp="hair"/>
 
 <!-- ===== KNIGHT astride, in profile ===== -->
 <!-- torso (blue surcoat) -->
@@ -38,7 +38,7 @@
 <circle cx="222" cy="158" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <rect x="206" y="152" width="34" height="6" rx="2" fill="#1a1a1a"/>
 <!-- helm plume -->
-<path d="M 222 132 Q 200 108 214 100 Q 216 120 222 132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 222 132 Q 200 108 214 100 Q 216 120 222 132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
 
 <!-- ===== LANCE: one big, prominent, couched and pointing forward over the barrier ===== -->
 <!-- couched arm grip -->
@@ -46,9 +46,9 @@
 <!-- the lance shaft, bold and levelled forward toward the opponent (clears the horse's head) -->
 <line x1="172" y1="248" x2="452" y2="196" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <!-- vamplate (hand guard disc) -->
-<circle cx="236" cy="241" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="236" cy="241" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
 <!-- steel lance tip -->
-<polygon points="452 196 424 192 428 210" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="452 196 424 192 428 210" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" stroke-linejoin="round"/>
 
 <!-- ===== TILT BARRIER in front ===== -->
 <rect x="96" y="356" width="320" height="26" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>

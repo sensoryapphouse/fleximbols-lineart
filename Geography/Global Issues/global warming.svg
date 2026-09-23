@@ -6,9 +6,9 @@
   <ellipse cx="112" cy="160" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <ellipse cx="78" cy="162" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Globe latitude lines -->
-  <path d="M30 145 Q67 132 105 145 Q143 158 180 145" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M40 118 Q72 108 105 118 Q138 128 170 118" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M40 172 Q72 182 105 172 Q138 162 170 172" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M30 145 Q67 132 105 145 Q143 158 180 145" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M40 118 Q72 108 105 118 Q138 128 170 118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M40 172 Q72 182 105 172 Q138 162 170 172" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Globe outline -->
   <circle cx="105" cy="145" r="75" fill="none" stroke="#1a1a1a" stroke-width="6.34"/>
   <!-- Heat shimmer arcs over globe -->

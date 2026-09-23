@@ -11,9 +11,9 @@
 <path d="M 270 360 Q 340 330 392 332" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <path d="M 256 334 Q 288 270 360 254" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- confetti bits -->
-<g transform="rotate(20 300 200)"><rect x="291" y="194" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
-<g transform="rotate(-28 372 230)"><rect x="363" y="224" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
-<g transform="rotate(40 400 296)"><rect x="391" y="290" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
-<g transform="rotate(10 330 150)"><rect x="321" y="144" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
-<g transform="rotate(-18 410 180)"><rect x="401" y="174" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/></g>
+<g transform="rotate(20 300 200)"><rect x="291" y="194" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-28 372 230)"><rect x="363" y="224" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(40 400 296)"><rect x="391" y="290" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(10 330 150)"><rect x="321" y="144" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
+<g transform="rotate(-18 410 180)"><rect x="401" y="174" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
 </svg>

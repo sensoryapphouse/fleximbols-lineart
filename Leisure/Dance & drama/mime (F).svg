@@ -15,8 +15,8 @@
 <line x1="226" y1="237" x2="286" y2="237" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="226" y1="259" x2="286" y2="259" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="226" y1="281" x2="286" y2="281" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<path d="M 214.0 114.0 Q 256 74.0 298.0 114.0 Q 256 126.0 214.0 114.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="256" cy="76" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 214.0 114.0 Q 256 74.0 298.0 114.0 Q 256 126.0 214.0 114.0 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="256" cy="76" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="348" y1="150" x2="348" y2="168" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="348" y1="180" x2="348" y2="198" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="348" y1="210" x2="348" y2="228" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
@@ -27,6 +27,6 @@
 <line x1="348" y1="360" x2="348" y2="378" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="348" y1="390" x2="348" y2="408" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="348" y1="420" x2="348" y2="438" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="194" cy="251" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="318" cy="251" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="194" cy="251" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="318" cy="251" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

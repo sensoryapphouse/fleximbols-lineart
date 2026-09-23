@@ -24,8 +24,8 @@
   <rect x="258" y="130" width="8" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="270" y="130" width="8" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Boots -->
-  <ellipse cx="262" cy="173" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="274" cy="173" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="262" cy="173" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="274" cy="173" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Harness gangline running forward -->
   <line x1="205" y1="170" x2="20" y2="170" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
@@ -37,8 +37,8 @@
   <path d="M156 156 L158 148 L162 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="150" cy="163" r="1.5" fill="#1a1a1a"/>
   <circle cx="156" cy="164" r="1" fill="#1a1a1a"/>
-  <rect x="155" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="180" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="155" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="180" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M190 165 Q197 158 195 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Dog 2 -->
@@ -48,8 +48,8 @@
   <path d="M111 156 L113 148 L117 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="105" cy="163" r="1.5" fill="#1a1a1a"/>
   <circle cx="111" cy="164" r="1" fill="#1a1a1a"/>
-  <rect x="110" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="135" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="110" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="135" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M145 165 Q152 158 150 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Dog 3 -->
@@ -59,8 +59,8 @@
   <path d="M66 156 L68 148 L72 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="60" cy="163" r="1.5" fill="#1a1a1a"/>
   <circle cx="66" cy="164" r="1" fill="#1a1a1a"/>
-  <rect x="65" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="90" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="65" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="90" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M100 165 Q107 158 105 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Dog 4 (lead dog) -->
@@ -70,7 +70,7 @@
   <path d="M23 156 L25 148 L29 156 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="17" cy="163" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="23" cy="164" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="23" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="45" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="23" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="45" y="180" width="3" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M53 165 Q60 158 58 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

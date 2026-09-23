@@ -8,5 +8,5 @@
 <line x1="126" y1="354" x2="386" y2="354" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <path d="M 126 282 q 14 -8 28 0 q 14 8 28 0 q 14 -8 28 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="256.0" cy="246.0" r="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<polygon points="256.0,229.0 260.7,239.5 272.2,240.7 263.6,248.5 266.0,259.8 256.0,254.0 246.0,259.8 248.4,248.5 239.8,240.7 251.3,239.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="256.0,229.0 260.7,239.5 272.2,240.7 263.6,248.5 266.0,259.8 256.0,254.0 246.0,259.8 248.4,248.5 239.8,240.7 251.3,239.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
 </g></svg>

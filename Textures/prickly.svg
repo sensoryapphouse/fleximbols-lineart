@@ -18,9 +18,9 @@
 <polygon points="329.5 200.3 339.1 214.0 406.7 175.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <polygon points="346.2 229.2 350.5 245.3 427.4 231.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="256.0" cy="262.0" r="96.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="226.0" cy="242.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="284.0" cy="254.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="260.0" cy="296.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="236.0" cy="298.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="290.0" cy="294.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="226.0" cy="242.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
+<circle cx="284.0" cy="254.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
+<circle cx="260.0" cy="296.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
+<circle cx="236.0" cy="298.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
+<circle cx="290.0" cy="294.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
 </g></svg>

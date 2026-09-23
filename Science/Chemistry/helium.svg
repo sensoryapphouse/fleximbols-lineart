@@ -10,6 +10,6 @@
   <!-- right balloon highlight -->
   <path d="M170 75 C170 60 182 52 195 52" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
   <!-- strings curving down -->
-  <path d="M95 162 C100 185 85 200 100 225" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M195 172 C200 195 185 210 200 230" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M95 162 C100 185 85 200 100 225" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M195 172 C200 195 185 210 200 230" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

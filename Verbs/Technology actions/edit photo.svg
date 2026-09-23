@@ -2,7 +2,7 @@
   <!-- phone body -->
   <rect x="40" y="20" width="170" height="200" rx="20" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="52" y="38" width="146" height="124" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="105" y="28" width="40" height="5" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="105" y="28" width="40" height="5" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="125" cy="201" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- photo on screen: mountain + sun -->
   <path d="M55 152 L90 105 L120 138 L150 90 L195 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

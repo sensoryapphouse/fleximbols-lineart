@@ -20,6 +20,6 @@
 <line x1="394" y1="271" x2="408" y2="347" stroke="#1a1a1a" stroke-dasharray="6 5" stroke-width="9.36" stroke-linecap="round"/>
 <line x1="372" y1="269" x2="372" y2="246" stroke="#1a1a1a" stroke-dasharray="6 5" stroke-width="9.36" stroke-linecap="round"/>
 <circle id="h2" data-fig="mc" class="skin" cx="372" cy="221" r="29" fill="none" stroke="#1a1a1a" stroke-dasharray="6 5" stroke-width="6"/>
-<path d="M 343.2 221.0 Q 343.2 182.2 372 182.2 Q 400.8 182.2 400.8 221.0 Q 372 205.2 343.2 221.0 Z" fill="none" stroke="#1a1a1a" stroke-dasharray="6 5" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 343.2 221.0 Q 343.2 182.2 372 182.2 Q 400.8 182.2 400.8 221.0 Q 372 205.2 343.2 221.0 Z" fill="none" stroke="#1a1a1a" stroke-dasharray="6 5" stroke-width="4.22" stroke-linejoin="round"/>
 <line x1="330" y1="150" x2="414" y2="330" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 </g></svg>

@@ -4,12 +4,12 @@
   <line x1="62" y1="80" x2="184" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="62" y1="96" x2="184" y2="96" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="62" y1="112" x2="150" y2="112" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="62" y1="148" x2="184" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="62" y1="148" x2="184" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M62 142 Q80 132 100 144 Q118 154 138 138 Q158 124 180 136" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <rect x="88" y="128" width="174" height="108" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <rect x="104" y="146" width="28" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <line x1="118" y1="146" x2="118" y2="168" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="104" y1="157" x2="132" y2="157" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="118" y1="146" x2="118" y2="168" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="104" y1="157" x2="132" y2="157" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="108" cy="186" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="120" cy="186" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="132" cy="186" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>

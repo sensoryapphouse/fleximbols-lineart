@@ -17,15 +17,15 @@
   <path d="M200 138 Q207 118 200 98 Q193 78 200 58" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Small flies -->
   <!-- Fly 1 -->
-  <ellipse cx="78" cy="82" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="73" cy="79" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="83" cy="79" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="78" cy="82" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="73" cy="79" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="83" cy="79" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fly 2 -->
-  <ellipse cx="220" cy="68" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="215" cy="65" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="225" cy="65" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="220" cy="68" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="215" cy="65" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="225" cy="65" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fly 3 -->
-  <ellipse cx="160" cy="52" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="155" cy="49" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="165" cy="49" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="160" cy="52" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="155" cy="49" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="165" cy="49" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

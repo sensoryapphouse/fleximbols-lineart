@@ -38,14 +38,14 @@
   <!-- Cow head -->
   <ellipse cx="277" cy="140" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Cow snout -->
-  <ellipse cx="280" cy="144" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="280" cy="144" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cow nostrils -->
   <circle cx="278" cy="144" r="1" fill="#1a1a1a"/>
   <circle cx="282" cy="144" r="1" fill="#1a1a1a"/>
   <!-- Cow eye -->
   <circle cx="275" cy="138" r="2" fill="#1a1a1a"/>
   <!-- Cow ear -->
-  <ellipse cx="269" cy="133" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-15,269,133)"/>
+  <ellipse cx="269" cy="133" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15,269,133)"/>
   <!-- Cow horns -->
   <path d="M268,133 Q265,127 268,124" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Cow legs -->

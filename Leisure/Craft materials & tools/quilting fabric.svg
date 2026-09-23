@@ -19,11 +19,11 @@
   <rect x="131" y="112" width="34" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="169" y="112" width="34" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="207" y="112" width="28" height="32" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="72" y1="118" x2="72" y2="138" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="62" y1="128" x2="82" y2="128" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="110" y1="118" x2="110" y2="138" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="100" y1="128" x2="120" y2="128" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="148" y1="118" x2="148" y2="138" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="138" y1="128" x2="158" y2="128" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="72" y1="118" x2="72" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="62" y1="128" x2="82" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="110" y1="118" x2="110" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="100" y1="128" x2="120" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="148" y1="118" x2="148" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="138" y1="128" x2="158" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <polygon points="48,105 82,105 48,139" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
 </g></svg>

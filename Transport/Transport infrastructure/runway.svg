@@ -3,8 +3,8 @@
 <line x1="256" y1="270" x2="256" y2="300" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
 <line x1="256" y1="324" x2="256" y2="360" stroke="#ffffff" stroke-width="9" stroke-linecap="round"/>
 <line x1="256" y1="384" x2="256" y2="420" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
-<rect x="206" y="258" width="14" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="292" y="258" width="14" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="206" y="258" width="14" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="292" y="258" width="14" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- climbing aeroplane (side profile, nose up-right) -->
 <g transform="translate(256 150) rotate(-24) scale(0.62)">
 <!-- fuselage -->
@@ -16,8 +16,8 @@
 <!-- wing -->
 <path d="M -10 8 L 40 72 L 88 72 L 40 8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <!-- windows -->
-<circle cx="-10" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.06" />
-<circle cx="28" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.06" />
-<circle cx="66" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.06" />
+<circle cx="-10" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.68" />
+<circle cx="28" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.68" />
+<circle cx="66" cy="0" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="9.68" />
 </g>
 </g></svg>

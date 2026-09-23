@@ -2,8 +2,8 @@
 <line x1="196.0" y1="112.0" x2="196.0" y2="400.0" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <polygon points="196.0,96.0 168.0,140.0 224.0,140.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <polygon points="196.0,416.0 168.0,372.0 224.0,372.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<ellipse cx="300.0" cy="168.0" rx="34.6" ry="25.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 300.0 168.0)"/>
+<ellipse cx="300.0" cy="168.0" rx="34.6" ry="25.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77" transform="rotate(-22 300.0 168.0)"/>
 <line x1="329.8" y1="161.7" x2="329.8" y2="65.1" stroke="#1a1a1a" stroke-width="12.600000000000001" stroke-linecap="round"/>
-<ellipse cx="300.0" cy="360.0" rx="44.6" ry="32.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(-22 300.0 360.0)"/>
+<ellipse cx="300.0" cy="360.0" rx="44.6" ry="32.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.77" transform="rotate(-22 300.0 360.0)"/>
 <line x1="338.3" y1="351.9" x2="338.3" y2="189.9" stroke="#1a1a1a" stroke-width="16.200000000000003" stroke-linecap="round"/>
 </g></svg>

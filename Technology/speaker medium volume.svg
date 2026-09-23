@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)">
 <g>
-	<path style="fill:none;stroke:#1a1a1a;stroke-miterlimit:10" d="M91.2,37.8" />
+	<path style="fill:none;stroke:#1a1a1a;stroke-miterlimit:10" d="M91.2,37.8"  stroke-width="1.81"/>
 	<path style="fill:none;stroke:#1a1a1a;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10" d="M92.47,59.64   c2.11-6.45,0.76-13.82-4.17-19.14c-4.94-5.32-12.19-7.22-18.78-5.59" />
 </g>
 <g>

@@ -17,8 +17,8 @@
   <path d="M 92 143 L 84 180" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
   <path d="M 108 150 L 102 178" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
   <!-- Steak fat marbling -->
-  <path d="M 48 158 Q 60 152 72 155 Q 84 153 96 158" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
-  <path d="M 46 168 Q 58 162 72 165 Q 86 163 98 168" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M 48 158 Q 60 152 72 155 Q 84 153 96 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 46 168 Q 58 162 72 165 Q 86 163 98 168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- RIGHT SIDE: LOBSTER TAIL -->
   <!-- Lobster tail shell - red curved shape -->
   <path d="M 175 185 Q 172 160 186 142 Q 202 124 228 120 Q 252 122 264 140 Q 272 155 268 180 Q 260 194 225 198 Q 185 196 175 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
@@ -29,8 +29,8 @@
   <!-- White meat exposed interior -->
   <path d="M 192 188 Q 190 168 202 152 Q 216 138 228 136 Q 244 140 252 155 Q 260 168 256 185 Q 248 194 225 196 Q 196 194 192 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" data-lp="hair"/>
   <!-- Meat center vein -->
-  <path d="M 228 136 Q 226 165 228 196" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
-  <path d="M 196 178 Q 215 170 228 168 Q 242 170 256 178" fill="none" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
+  <path d="M 228 136 Q 226 165 228 196" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 196 178 Q 215 170 228 168 Q 242 170 256 178" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Shell tail fan -->
   <path d="M 188 122 Q 182 108 176 100 Q 172 110 180 120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M 202 118 Q 200 103 203 96 Q 210 100 210 116" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -43,5 +43,5 @@
   <circle cx="144" cy="178" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Lemon wedge garnish -->
   <path d="M 128 160 Q 122 145 132 138 Q 144 133 152 143 Q 157 153 148 162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <path d="M 128 160 Q 140 150 152 143" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M 128 160 Q 140 150 152 143" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

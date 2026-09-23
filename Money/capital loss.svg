@@ -2,21 +2,21 @@
   <!-- chart frame -->
   <rect x="25" y="25" width="240" height="190" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- grid -->
-  <line x1="25" y1="75" x2="265" y2="75" stroke="#1a1a1a" stroke-width="1.98"/>
-  <line x1="25" y1="125" x2="265" y2="125" stroke="#1a1a1a" stroke-width="1.98"/>
-  <line x1="25" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="1.98"/>
+  <line x1="25" y1="75" x2="265" y2="75" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="25" y1="125" x2="265" y2="125" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="25" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- axes -->
   <line x1="40" y1="35" x2="40" y2="200" stroke="#1a1a1a" stroke-width="4.94"/>
   <line x1="40" y1="200" x2="260" y2="200" stroke="#1a1a1a" stroke-width="4.94"/>
   <!-- falling line chart -->
   <polyline points="45,55 75,75 105,95 135,115 165,140 195,160 225,185" fill="none" stroke="#1a1a1a" stroke-width="7.90" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- data dots -->
-  <circle cx="45" cy="55" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="75" cy="75" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="105" cy="95" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="135" cy="115" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="165" cy="140" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="195" cy="160" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="45" cy="55" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="75" cy="75" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="95" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="115" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="140" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="160" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- big red arrow down -->
   <polygon points="225,185 245,170 235,170 235,150 215,150 215,170 205,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- "LOSS" as path letters at top -->

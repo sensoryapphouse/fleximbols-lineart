@@ -22,18 +22,18 @@
   <circle cx="120" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Phone in hands -->
   <rect x="84" y="124" width="44" height="64" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <rect x="88" y="130" width="36" height="52" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="88" y="130" width="36" height="52" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dark news bubbles on phone -->
-  <rect x="92" y="134" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="92" y="146" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="92" y="158" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="92" y="170" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="92" y="134" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="92" y="146" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="92" y="158" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="92" y="170" width="28" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Legs (sitting) -->
   <path d="M76,168 L66,212 L92,212 L96,168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M124,168 L130,168 L152,212 L128,212 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Shoes -->
-  <ellipse cx="78" cy="216" rx="14" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="140" cy="216" rx="14" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="78" cy="216" rx="14" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="140" cy="216" rx="14" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Downward scroll arrow (big, right side) -->
   <path d="M210,40 L210,180" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round"/>
   <polygon points="194,170 226,170 210,196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>

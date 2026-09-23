@@ -4,11 +4,11 @@
 	<polyline style="fill:#ffffff" points="384.24,212.49 355.742,212.49 359.241,233.49 387.74,233.49 384.24,212.49  " stroke="#1a1a1a" stroke-width="5.13"/>
 	<polyline style="fill:#ffffff" points="425.98,309.99 400.48,309.99 387.74,233.49 374.99,156.99 400.48,156.99 425.98,309.99     " stroke="#1a1a1a" stroke-width="5.13"/>
 	<polyline style="fill:#ffffff" points="60,156.99 34.5,309.99 9,309.99 34.5,156.99 60,156.99  " stroke="#1a1a1a" stroke-width="5.13"/>
-	<path style="fill:#ffffff" d="M60,156.99l-4,23.999h0L60,156.99 M60,156.99H34.5l-4,23.999l4-23.999H60" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M60,156.99l-4,23.999h0L60,156.99 M60,156.99H34.5l-4,23.999l4-23.999H60" stroke="#1a1a1a" stroke-width="6.16" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 	<polyline style="fill:#ffffff" points="60,156.99 34.5,156.99 30.501,180.989 56,180.989 60,156.99  " stroke="#1a1a1a" stroke-width="5.13"/>
-	<path style="fill:#ffffff" d="M374.99,156.99l4,23.999L374.99,156.99 M400.48,156.99h-25.49H400.48l4,23.999h0.001L400.48,156.99" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M374.99,156.99l4,23.999L374.99,156.99 M400.48,156.99h-25.49H400.48l4,23.999h0.001L400.48,156.99" stroke="#1a1a1a" stroke-width="6.16" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 	<polyline style="fill:#ffffff" points="400.48,156.99 374.99,156.99 378.99,180.989 404.48,180.989 400.48,156.99  " stroke="#1a1a1a" stroke-width="5.13"/>
-	<path style="fill:#ffffff" d="M434.98,139.303v21.687h-34.5h-25.49H60H34.5H0v-21.687c0-7.905,6.408-14.313,14.313-14.313h406.354   C428.572,124.99,434.98,131.398,434.98,139.303z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<path style="fill:#ffffff" d="M434.98,139.303v21.687h-34.5h-25.49H60H34.5H0v-21.687c0-7.905,6.408-14.313,14.313-14.313h406.354   C428.572,124.99,434.98,131.398,434.98,139.303z" stroke="#1a1a1a" stroke-width="6.16" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 
 

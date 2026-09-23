@@ -9,7 +9,7 @@
   <!-- fold crease line -->
   <path d="M 78,128 Q 145,140 212,128" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- nose bridge -->
-  <rect x="115" y="84" width="60" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="115" y="84" width="60" height="9" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- centre vertical seam -->
-  <line x1="145" y1="64" x2="145" y2="183" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="145" y1="64" x2="145" y2="183" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

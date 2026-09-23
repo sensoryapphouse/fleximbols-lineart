@@ -3,7 +3,7 @@
   <!-- main vertical stroke of f with curl at top -->
   <path d="M 130 40 C 145 28 175 28 188 42 C 195 52 188 62 178 56 C 172 52 168 50 162 52 C 154 55 148 65 142 95 L 130 175 C 124 200 110 215 90 215 C 75 215 65 205 70 192 C 74 184 84 184 90 190 C 96 196 102 196 106 188 C 110 178 114 158 120 130 L 138 50 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- crossbar of f -->
-  <path d="M 95 100 L 165 100 L 165 112 L 95 112 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 95 100 L 165 100 L 165 112 L 95 112 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- LOUD volume indicator: big sound waves radiating to the right -->
   <path d="M 200 75 Q 225 120 200 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 220 55 Q 260 120 220 185" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

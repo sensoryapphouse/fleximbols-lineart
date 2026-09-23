@@ -9,22 +9,22 @@
   <path d="M 110 120 L 78 100 M 78 100 L 70 92 M 78 100 L 72 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 180 120 L 212 100 M 212 100 L 220 92 M 212 100 L 218 110" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Buttons on bottom -->
-  <circle cx="145" cy="160" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="180" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="200" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="160" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="180" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="200" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Scarf around neck -->
   <path d="M 118 100 Q 145 110 172 100 L 172 112 Q 145 122 118 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Scarf tail -->
   <path d="M 168 110 L 188 138 L 178 142 L 162 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Hat brim -->
-  <rect x="118" y="50" width="54" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="118" y="50" width="54" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Hat top -->
   <rect x="126" y="22" width="38" height="30" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Eyes -->
   <circle cx="135" cy="72" r="3" fill="#1a1a1a"/>
   <circle cx="155" cy="72" r="3" fill="#1a1a1a"/>
   <!-- Carrot nose -->
-  <path d="M 145 78 L 175 86 L 145 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 145 78 L 175 86 L 145 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Smile (coal dots) -->
   <circle cx="138" cy="88" r="1.5" fill="#1a1a1a"/>
   <circle cx="144" cy="90" r="1.5" fill="#1a1a1a"/>

@@ -21,8 +21,8 @@
   <!-- emblem -->
   <circle cx="175" cy="148" r="20" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M165 140 L175 132 L185 140 L181 152 L169 152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
-  <rect x="135" y="180" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="135" y="194" width="64" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="135" y="180" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="135" y="194" width="64" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- flash burst -->
   <path d="M195 110 L205 100 M188 122 L178 122 M195 134 L205 144" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
 </g></svg>

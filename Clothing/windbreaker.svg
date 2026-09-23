@@ -21,8 +21,8 @@
   <!-- centre zip -->
   <line x1="145" y1="62" x2="145" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- zip pull -->
-  <rect x="138" y="108" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="138" y="108" width="14" height="7" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- hood drawcord -->
-  <line x1="122" y1="68" x2="112" y2="76" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="168" y1="68" x2="178" y2="76" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="122" y1="68" x2="112" y2="76" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="68" x2="178" y2="76" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

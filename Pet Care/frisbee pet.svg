@@ -19,5 +19,5 @@
   <path d="M 120 145 Q 125 153 130 145" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 160 145 Q 165 153 170 145" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlight on top -->
-  <ellipse cx="110" cy="100" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="110" cy="100" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

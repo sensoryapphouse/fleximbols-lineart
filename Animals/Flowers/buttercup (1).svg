@@ -16,7 +16,7 @@
   <ellipse cx="115" cy="108" rx="28" ry="36" transform="rotate(288 115 108)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- centre -->
   <circle cx="145" cy="122" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="145" cy="122" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="145" cy="122" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- gloss highlight suggestion (small white oval) -->
-  <ellipse cx="138" cy="116" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <ellipse cx="138" cy="116" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

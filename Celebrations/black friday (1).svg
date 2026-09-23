@@ -9,15 +9,15 @@
   <!-- Percent sign in starburst -->
   <circle cx="138" cy="132" r="4" fill="#1a1a1a"/>
   <circle cx="152" cy="143" r="4" fill="#1a1a1a"/>
-  <line x1="140" y1="144" x2="150" y2="131" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="140" y1="144" x2="150" y2="131" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- SALE stripe on bag -->
   <rect x="72" y="175" width="130" height="28" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="72" y="175" width="130" height="28" rx="0" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Discount tag hanging -->
   <rect x="168" y="42" width="48" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="175" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="175" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="175" y1="42" x2="170" y2="30" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Stars for sale frenzy feel -->
-  <polygon points="55,55 58,65 68,65 60,71 63,81 55,75 47,81 50,71 42,65 52,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="235,80 237,87 244,87 238,91 240,98 235,94 230,98 232,91 226,87 233,87" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="55,55 58,65 68,65 60,71 63,81 55,75 47,81 50,71 42,65 52,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="235,80 237,87 244,87 238,91 240,98 235,94 230,98 232,91 226,87 233,87" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

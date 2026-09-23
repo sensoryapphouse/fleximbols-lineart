@@ -6,8 +6,8 @@
 <path d="M 362 196 q 24 -24 0 -48 q -24 -24 0 -48"/>
 </g>
 <!-- sparkles -->
-<polygon points="146,150 151,164 165,169 151,174 146,188 141,174 127,169 141,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="366,150 371,164 385,169 371,174 366,188 361,174 347,169 361,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="146,150 151,164 165,169 151,174 146,188 141,174 127,169 141,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="366,150 371,164 385,169 371,174 366,188 361,174 347,169 361,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- stem -->
 <path d="M 256 300 L 256 430" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- leaf -->

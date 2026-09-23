@@ -4,7 +4,7 @@
   
   <circle cx="145" cy="120" r="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04"/>
   
-  <circle cx="145" cy="120" r="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="145" cy="120" r="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <path d="M172 100 Q145 72 118 100 Q104 120 118 140 Q145 168 172 140" fill="none" stroke="#1a1a1a" stroke-width="9.69" stroke-linecap="round" stroke-linejoin="round"/>
   

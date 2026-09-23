@@ -9,8 +9,8 @@
   <!-- LEFT headstone (rounded top) -->
   <path d="M30 175 L30 110 Q30 90 55 90 Q80 90 80 110 L80 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- engraved cross on left headstone -->
-  <rect x="52" y="110" width="6" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="44" y="118" width="22" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="52" y="110" width="6" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="44" y="118" width="22" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- CENTER large cross headstone -->
   <rect x="130" y="115" width="14" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <rect x="143" y="115" width="14" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>

@@ -6,7 +6,7 @@
   <!-- Blade top collar/socket -->
   <rect x="120" y="140" width="50" height="22" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Blade center ridge -->
-  <line x1="145" y1="155" x2="145" y2="228" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="155" x2="145" y2="228" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Long shaft -->
   <rect x="139" y="35" width="12" height="110" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- D-grip handle -->
@@ -16,5 +16,5 @@
   <path d="M 151,15 Q 185,35 151,55" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <path d="M 151,15 Q 185,35 151,55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Collar between shaft and blade -->
-  <rect x="132" y="138" width="26" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="132" y="138" width="26" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

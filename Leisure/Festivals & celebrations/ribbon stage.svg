@@ -17,9 +17,9 @@
   <!-- Ribbon of batter trailing from whisk back down into bowl, forming a curling ribbon shape -->
   <path d="M188 118 Q170 130 175 150 Q182 168 160 175 Q138 180 145 160 Q152 145 135 140" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Outline of ribbon for definition -->
-  <path d="M188 118 Q170 130 175 150 Q182 168 160 175 Q138 180 145 160 Q152 145 135 140" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M188 118 Q170 130 175 150 Q182 168 160 175 Q138 180 145 160 Q152 145 135 140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- 'Ribbon' folding hump in centre showing the trail -->
-  <path d="M155 145 Q165 152 170 158" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M155 145 Q165 152 170 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Arrow indicating ribbon falling -->
   <path d="M75 80 Q80 110 100 135" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M94 130 L100 138 L108 134" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

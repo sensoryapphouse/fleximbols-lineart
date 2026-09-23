@@ -10,8 +10,8 @@
   <rect x="166" y="42" width="8" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="150" y="62" width="10" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- small star sparkles in cloud -->
-  <path d="M184 56 L186 62 L192 62 L188 66 L190 72 L184 68 L178 72 L180 66 L176 62 L182 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M122 64 L124 70 L130 70 L126 74 L128 80 L122 76 L116 80 L118 74 L114 70 L120 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M184 56 L186 62 L192 62 L188 66 L190 72 L184 68 L178 72 L180 66 L176 62 L182 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M122 64 L124 70 L130 70 L126 74 L128 80 L122 76 L116 80 L118 74 L114 70 L120 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- cloud tail dots -->
   <circle cx="102" cy="106" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="92" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -45,7 +45,7 @@
   <!-- toy sword -->
   <line x1="156" y1="160" x2="200" y2="118" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <line x1="148" y1="166" x2="166" y2="166" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
-  <line x1="156" y1="160" x2="200" y2="118" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="156" y1="160" x2="200" y2="118" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- legs -->
   <rect x="68" y="178" width="20" height="36" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
   <rect x="94" y="178" width="20" height="36" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>

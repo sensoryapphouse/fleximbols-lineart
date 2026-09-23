@@ -26,13 +26,13 @@
   <path d="M40,195 C80,178 120,202 145,192 C170,182 210,202 250,188" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <path d="M40,195 C80,178 120,202 145,192 C170,182 210,202 250,188" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-dasharray="12,8"/>
   <!-- Individual bead dots for clarity -->
-  <circle cx="40" cy="155" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="35" cy="175" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="255" cy="168" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="40" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="188" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="40" cy="155" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="35" cy="175" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="255" cy="168" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="40" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="188" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stars/confetti -->
-  <polygon points="58,130 62,122 66,130 74,130 68,136 70,144 62,139 54,144 56,136 50,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <polygon points="232,130 236,122 240,130 248,130 242,136 244,144 236,139 228,144 230,136 224,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="58,130 62,122 66,130 74,130 68,136 70,144 62,139 54,144 56,136 50,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="232,130 236,122 240,130 248,130 242,136 244,144 236,139 228,144 230,136 224,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

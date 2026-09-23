@@ -21,7 +21,7 @@
   <!-- Needle tip (sharp triangle) -->
   <polygon points="124,120 133,110 142,122" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Needle tail (vane) -->
-  <polygon points="145,40 155,50 138,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,40 155,50 138,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Red warning triangle -->
   <polygon points="218,50 248,100 188,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

@@ -3,18 +3,18 @@
 <ellipse cx="386.0" cy="350.0" rx="108.0" ry="28.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 48 270 Q 34 230 82 226 Q 136 216 184 236 Q 222 252 210 294 Q 196 346 134 350 Q 74 352 48 306 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 48 270 Q 34 230 82 226 Q 136 216 184 236" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="56.0" cy="318.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="56.0" cy="318.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.42"/>
 <path d="M 308 270 Q 294 230 342 226 Q 396 216 444 236 Q 482 252 470 294 Q 456 346 394 350 Q 334 352 308 306 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 308 270 Q 294 230 342 226 Q 396 216 444 236" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="316.0" cy="318.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="316.0" cy="318.0" r="14.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.42"/>
 <line x1="316" y1="252" x2="396" y2="332" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="346" y1="252" x2="426" y2="332" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="376" y1="252" x2="456" y2="332" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 369 212 q -20 -16 0 -29 q 20 -13 0 -29" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 403 212 q -20 -16 0 -29 q 20 -13 0 -29" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="214" y1="276" x2="300" y2="276" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
-<polygon points="300,256 300,296 330,276" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<circle cx="444.0" cy="234.0" r="32.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="444.0" cy="234.0" r="26.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<polygon points="300,256 300,296 330,276" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.42" stroke-linejoin="round"/>
+<circle cx="444.0" cy="234.0" r="32.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.42"/>
+<circle cx="444.0" cy="234.0" r="26.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.42"/>
 <path d="M 423 234 L 438 252 L 468 213" fill="none" stroke="#ffffff" stroke-width="11.2" stroke-linejoin="round"/>
 </g></svg>

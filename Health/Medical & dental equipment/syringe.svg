@@ -2,12 +2,12 @@
 <!-- barrel -->
 <rect x="150" y="226" width="180" height="60" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- liquid inside -->
-<rect x="158" y="234" width="120" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="158" y="234" width="120" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- graduation marks -->
-<line x1="190" y1="234" x2="190" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="218" y1="234" x2="218" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="246" y1="234" x2="246" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="274" y1="234" x2="274" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="190" y1="234" x2="190" y2="250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="218" y1="234" x2="218" y2="250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="246" y1="234" x2="246" y2="250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="274" y1="234" x2="274" y2="250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- plunger flange -->
 <rect x="120" y="214" width="22" height="84" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- plunger rod -->

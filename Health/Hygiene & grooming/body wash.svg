@@ -11,10 +11,10 @@
   <!-- label -->
   <rect x="102" y="118" width="66" height="56" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- BODY WASH text bars -->
-  <rect x="110" y="128" width="50" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="110" y="142" width="50" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="110" y="155" width="36" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="110" y="164" width="44" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="110" y="128" width="50" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="110" y="142" width="50" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="110" y="155" width="36" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="110" y="164" width="44" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bubbles -->
   <circle cx="210" cy="80" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="232" cy="100" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

@@ -12,10 +12,10 @@
 
 
 
-<line x1="244" y1="148" x2="268" y2="148" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 238 257.0 L 240 223.0 Q 256 193.0 272 223.0 L 274 257.0 Q 256 267.0 238 257.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" data-lp="skin"/>
-<line x1="256" y1="197" x2="256" y2="257" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<g transform="translate(0 -52)"><ellipse cx="256" cy="372" rx="56" ry="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<ellipse cx="256" cy="369" rx="45" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="256" cy="367" r="21" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/></g>
+<line x1="244" y1="148" x2="268" y2="148" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 238 257.0 L 240 223.0 Q 256 193.0 272 223.0 L 274 257.0 Q 256 267.0 238 257.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
+<line x1="256" y1="197" x2="256" y2="257" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<g transform="translate(0 -52)"><ellipse cx="256" cy="372" rx="56" ry="19" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="256" cy="369" rx="45" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="367" r="21" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/></g>
 </svg>

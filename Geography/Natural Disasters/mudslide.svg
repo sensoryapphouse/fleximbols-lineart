@@ -15,13 +15,13 @@
   <!-- Roof -->
   <polygon points="149,170 209,170 179,148" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Door -->
-  <rect x="172" y="189" width="14" height="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="172" y="189" width="14" height="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mud splashing around house -->
-  <ellipse cx="144" cy="200" rx="14" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="213" cy="196" rx="12" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="144" cy="200" rx="14" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="213" cy="196" rx="12" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Water droplet splashes -->
-  <ellipse cx="40" cy="195" rx="7" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="25" cy="210" rx="5" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="40" cy="195" rx="7" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="25" cy="210" rx="5" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ground line -->
   <line x1="10" y1="230" x2="280" y2="230" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 </g></svg>

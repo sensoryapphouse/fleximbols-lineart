@@ -24,7 +24,7 @@
   <!-- Mirror at base -->
   <ellipse cx="177" cy="198" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Light beam rays -->
-  <line x1="177" y1="188" x2="177" y2="144" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="170" y1="190" x2="173" y2="144" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
-  <line x1="184" y1="190" x2="181" y2="144" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <line x1="177" y1="188" x2="177" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="170" y1="190" x2="173" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="184" y1="190" x2="181" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -14,8 +14,8 @@
   <!-- alert / warning triangle bottom right -->
   <path d="M210 140 L270 220 L150 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- exclamation in triangle -->
-  <rect x="206" y="165" width="8" height="30" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="210" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="206" y="165" width="8" height="30" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="210" cy="205" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- small heart with X (relationship reference) bottom-left -->
   <path d="M95 165 Q88 158 81 165 Q74 172 95 192 Q116 172 109 165 Q102 158 95 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

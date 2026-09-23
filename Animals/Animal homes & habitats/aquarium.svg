@@ -11,6 +11,6 @@
 <circle cx="16" cy="-2" r="5" fill="#1a1a1a"/>
 </g>
 <circle cx="170" cy="220" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="196" cy="252" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="320" cy="200" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="196" cy="252" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="320" cy="200" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

@@ -6,9 +6,9 @@
   <ellipse cx="80" cy="120" rx="55" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Cymbal bell center left -->
   <ellipse cx="80" cy="118" rx="16" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="80" cy="116" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="80" cy="116" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Edge ring detail left -->
-  <ellipse cx="80" cy="120" rx="50" ry="17" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="80" cy="120" rx="50" ry="17" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Left hand strap/handle -->
   <path d="M60 136 Q68 155 72 170 Q76 182 80 185 Q88 190 96 182 Q100 170 96 152 Q92 138 90 136" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -19,9 +19,9 @@
   <ellipse cx="210" cy="120" rx="55" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Cymbal bell center right -->
   <ellipse cx="210" cy="118" rx="16" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="210" cy="116" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="210" cy="116" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Edge ring detail right -->
-  <ellipse cx="210" cy="120" rx="50" ry="17" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="210" cy="120" rx="50" ry="17" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Right hand strap/handle -->
   <path d="M200 136 Q196 155 196 170 Q196 182 204 185 Q212 190 218 182 Q222 170 222 152 Q220 138 218 136" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -29,7 +29,7 @@
   <ellipse cx="210" cy="185" rx="18" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Motion lines showing about-to-clash -->
-  <line x1="130" y1="112" x2="160" y2="112" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="128" y1="120" x2="162" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="130" y1="128" x2="160" y2="128" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="130" y1="112" x2="160" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="128" y1="120" x2="162" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="130" y1="128" x2="160" y2="128" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

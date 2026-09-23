@@ -10,12 +10,12 @@
   <rect x="62" y="107" width="166" height="64" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- mountain -->
   <polygon points="90,110 145,52 200,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
-  <polygon points="120,110 145,78 170,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round"/>
+  <polygon points="120,110 145,78 170,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- sun -->
   <circle cx="205" cy="58" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- grass foreground -->
-  <ellipse cx="100" cy="168" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <ellipse cx="185" cy="166" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="100" cy="168" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="185" cy="166" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- frame bottom bar / stand base -->
   <rect x="110" y="186" width="70" height="10" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- stand leg -->

@@ -8,16 +8,16 @@
   <rect x="40" y="175" width="200" height="55" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
   <!-- handwheel -->
   <circle cx="232" cy="205" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
-  <circle cx="232" cy="205" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="232" cy="205" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
   <!-- needle head -->
   <rect x="58" y="230" width="34" height="40" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
   <!-- needle -->
   <line x1="75" y1="270" x2="75" y2="320" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
   <!-- presser foot -->
-  <rect x="60" y="322" width="30" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="60" y="322" width="30" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
   <!-- thread spool -->
-  <rect x="120" y="150" width="14" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
-  <rect x="112" y="146" width="30" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="120" y="150" width="14" height="34" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
+  <rect x="112" y="146" width="30" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
   <!-- fabric on the bed -->
   <rect x="110" y="350" width="130" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" /></g>
 <g data-part="hair-back"><g transform="translate(262.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>

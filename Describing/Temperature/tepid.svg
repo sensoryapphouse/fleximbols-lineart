@@ -29,7 +29,7 @@
   <line x1="36" y1="96" x2="70" y2="96" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="36" y1="108" x2="70" y2="108" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Tiny bubble in glass (barely warm) -->
-  <circle cx="130" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="155" cy="185" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="175" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="130" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="185" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="168" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -29,8 +29,8 @@
   <!-- EXTENDED letters as path blocks at bottom -->
   <!-- calendar + checkmark (replaces EXTENDED text) -->
   <rect x="30" y="190" width="220" height="40" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
-  <rect x="40" y="194" width="32" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <rect x="40" y="194" width="32" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <rect x="40" y="194" width="32" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="40" y="194" width="32" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M44 214 L51 221 L65 207" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- plus sign -->
   <path d="M110 200 L110 224 M98 212 L122 212" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>

@@ -7,7 +7,7 @@
   <rect x="85" y="60" width="120" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="85" y="118" width="120" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlight -->
-  <rect x="95" y="38" width="14" height="135" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="95" y="38" width="14" height="135" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- drip -->
   <path d="M205 100 Q220 115 215 135 Q210 150 200 145 Q195 130 205 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- drip drop falling -->

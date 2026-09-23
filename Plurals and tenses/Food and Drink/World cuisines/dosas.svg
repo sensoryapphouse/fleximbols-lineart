@@ -7,9 +7,9 @@
   <!-- Darker golden-brown overlay for crispy texture -->
   <path d="M70 185 Q78 130 115 92 Q128 80 135 82 Q143 80 148 92 Q168 125 185 180Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Crispy texture lines along dosa -->
-  <path d="M85 175 Q92 130 120 98" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M110 182 Q116 145 136 110" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M155 180 Q152 148 148 118" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M85 175 Q92 130 120 98" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M110 182 Q116 145 136 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M155 180 Q152 148 148 118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Dosa outline on top -->
   <path d="M55 185 Q65 120 110 80 Q125 68 135 72 Q148 68 155 80 Q185 110 205 180" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Rolled end visible at top -->
@@ -21,5 +21,5 @@
   <ellipse cx="232" cy="178" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Green chutney blob -->
   <ellipse cx="60" cy="195" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M38 195 Q60 210 82 195" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M38 195 Q60 210 82 195" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

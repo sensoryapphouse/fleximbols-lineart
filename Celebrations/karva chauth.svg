@@ -8,13 +8,13 @@
   <!-- Moon (top right, partially visible) -->
   <circle cx="220" cy="55" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Moon crater details -->
-  <circle cx="210" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="228" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="218" cy="68" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="228" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="218" cy="68" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Sieve held in front of moon (round flat sieve) -->
   <circle cx="220" cy="55" r="35" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- Sieve mesh pattern -->
-  <path d="M188 45 L252 45 M188 55 L252 55 M188 65 L252 65 M195 25 L195 85 M205 23 L205 87 M215 22 L215 88 M225 22 L225 88 M235 23 L235 87 M245 25 L245 85" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M188 45 L252 45 M188 55 L252 55 M188 65 L252 65 M195 25 L195 85 M205 23 L205 87 M215 22 L215 88 M225 22 L225 88 M235 23 L235 87 M245 25 L245 85" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Sieve outer rim -->
   <circle cx="220" cy="55" r="35" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
   <circle cx="220" cy="55" r="38" fill="none" stroke="#1a1a1a" stroke-width="6.67"/>
@@ -24,15 +24,15 @@
   <!-- Hair (long dark hair) -->
   <path d="M77 60 Q77 42 95 38 Q113 42 113 60 Q108 50 95 50 Q82 50 77 60 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bindi (red dot on forehead) -->
-  <circle cx="95" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="95" cy="55" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Eyes -->
   <circle cx="89" cy="64" r="2" fill="#1a1a1a"/>
   <circle cx="101" cy="64" r="2" fill="#1a1a1a"/>
   <!-- Smile -->
-  <path d="M88 72 Q95 76 102 72" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M88 72 Q95 76 102 72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Earrings -->
-  <circle cx="77" cy="70" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="113" cy="70" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="77" cy="70" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="113" cy="70" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Sari draped (red+gold) over body -->
   <path d="M75 85 L115 85 L125 165 L65 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Sari pallu drape over shoulder -->
@@ -49,16 +49,16 @@
   <!-- Henna hand (decorated palm) -->
   <ellipse cx="170" cy="92" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Henna patterns on hand -->
-  <circle cx="170" cy="92" r="4" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="170" cy="92" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="170" cy="92" r="2" fill="#1a1a1a"/>
-  <path d="M163 89 L160 86 M177 89 L180 86 M163 95 L160 98 M177 95 L180 98" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M163 89 L160 86 M177 89 L180 86 M163 95 L160 98 M177 95 L180 98" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Fingers -->
-  <ellipse cx="184" cy="92" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="184" cy="92" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Left hand -->
   <circle cx="66" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bangles on left wrist -->
-  <ellipse cx="66" cy="143" rx="7" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="66" cy="146" rx="7" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="66" cy="143" rx="7" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="66" cy="146" rx="7" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Legs (covered by long sari, just feet visible) -->
   <path d="M75 165 L115 165 L120 210 L70 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Feet -->

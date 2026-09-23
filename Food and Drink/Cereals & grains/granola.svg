@@ -8,6 +8,6 @@
 <path d="M 326 290 q 12 -8 24 0 q 4 10 -8 14 q -14 2 -18 -8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" data-lp="hair"/>
 <path d="M 184 308 q 14 -8 26 2 q 4 10 -8 14 q -16 2 -20 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" data-lp="hair"/>
 <path d="M 250 304 q 14 -8 26 2 q 4 10 -8 14 q -16 2 -20 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="230" cy="300" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="306" cy="282" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="230" cy="300" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="306" cy="282" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

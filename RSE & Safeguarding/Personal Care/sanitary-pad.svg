@@ -2,9 +2,9 @@
 <path d="M 256 106 Q 320 106 318 186 Q 314 256 318 326 Q 320 406 256 406 Q 192 406 194 326 Q 198 256 194 186 Q 192 106 256 106 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 198 238 q -46 -6 -46 22 q 0 24 46 14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 314 238 q 46 -6 46 22 q 0 24 -46 14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 256 138 Q 290 138 288 256 Q 290 374 256 374 Q 222 374 224 256 Q 222 138 256 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<line x1="232" y1="184" x2="280" y2="184" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="232" y1="232" x2="280" y2="232" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="232" y1="280" x2="280" y2="280" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="232" y1="328" x2="280" y2="328" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<path d="M 256 138 Q 290 138 288 256 Q 290 374 256 374 Q 222 374 224 256 Q 222 138 256 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.07" stroke-linejoin="round"/>
+<line x1="232" y1="184" x2="280" y2="184" stroke="#1a1a1a" stroke-width="4.07" stroke-linecap="round"/>
+<line x1="232" y1="232" x2="280" y2="232" stroke="#1a1a1a" stroke-width="4.07" stroke-linecap="round"/>
+<line x1="232" y1="280" x2="280" y2="280" stroke="#1a1a1a" stroke-width="4.07" stroke-linecap="round"/>
+<line x1="232" y1="328" x2="280" y2="328" stroke="#1a1a1a" stroke-width="4.07" stroke-linecap="round"/>
 </g></svg>

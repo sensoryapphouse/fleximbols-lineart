@@ -2,7 +2,7 @@
   <!-- Projector screen / whiteboard on back wall -->
   <rect x="55" y="22" width="180" height="100" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Screen border inner line -->
-  <rect x="63" y="30" width="164" height="84" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="63" y="30" width="164" height="84" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Screen mount legs -->
   <line x1="100" y1="122" x2="100" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="190" y1="122" x2="190" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -15,7 +15,7 @@
   <!-- Presenter arm pointing at screen -->
   <line x1="46" y1="126" x2="60" y2="112" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Pointer stick -->
-  <line x1="60" y1="112" x2="68" y2="106" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="112" x2="68" y2="106" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Audience row 1 (3 people seated) -->
   <circle cx="120" cy="160" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="109" y="172" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
@@ -24,12 +24,12 @@
   <circle cx="200" cy="160" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="189" y="172" width="22" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Audience row 2 (3 people, smaller/further) -->
-  <circle cx="110" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="101" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="155" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="146" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="200" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="191" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="101" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="155" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="146" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="200" cy="196" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="191" y="206" width="18" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Floor line -->
   <line x1="22" y1="216" x2="268" y2="216" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

@@ -13,13 +13,13 @@
   <!-- IC chip (large) -->
   <rect x="105" y="90" width="60" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- IC pins left -->
-  <rect x="93" y="97" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="93" y="109" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="93" y="121" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="93" y="97" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <rect x="93" y="109" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <rect x="93" y="121" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- IC pins right -->
-  <rect x="165" y="97" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="165" y="109" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="165" y="121" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="165" y="97" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <rect x="165" y="109" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <rect x="165" y="121" width="12" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- IC notch -->
   <path d="M125,90 Q135,83 145,90" fill="#1a1a1a" stroke="none"/>
   <!-- Resistor -->
@@ -30,13 +30,13 @@
   <rect x="185" y="145" width="14" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="192" y1="165" x2="192" y2="178" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Solder pads (via dots) -->
-  <circle cx="60" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="200" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="200" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="60" cy="185" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="60" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="200" cy="80" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="200" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="60" cy="185" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.47"/>
   <!-- Mounting holes -->
-  <circle cx="50" cy="50" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="240" cy="50" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="50" cy="195" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="240" cy="195" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="50" cy="50" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="240" cy="50" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="50" cy="195" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+  <circle cx="240" cy="195" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.47"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

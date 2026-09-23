@@ -21,10 +21,10 @@
   <rect x="130" y="145" width="30" height="16" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="172" y="150" width="26" height="14" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Scallion bits (green) -->
-  <rect x="95" y="132" width="14" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="162" y="136" width="14" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="135" y="155" width="12" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="95" y="132" width="14" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="162" y="136" width="14" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="135" y="155" width="12" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Red sauce gloss dots -->
-  <ellipse cx="108" cy="142" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="175" cy="145" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="108" cy="142" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="175" cy="145" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

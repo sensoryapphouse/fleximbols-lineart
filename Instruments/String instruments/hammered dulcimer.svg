@@ -3,10 +3,10 @@
   <!-- Trapezoid body - wider at top, narrower at bottom -->
   <polygon points="32,60 258,60 228,190 62,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Wood grain lines -->
-  <line x1="50" y1="90" x2="244" y2="90" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="52" y1="100" x2="242" y2="100" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="54" y1="110" x2="240" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="56" y1="120" x2="238" y2="120" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="50" y1="90" x2="244" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="52" y1="100" x2="242" y2="100" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="54" y1="110" x2="240" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="56" y1="120" x2="238" y2="120" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bridge bars - two vertical bridges dividing the strings -->
   <!-- Left bridge -->
   <line x1="102" y1="64" x2="94" y2="186" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>

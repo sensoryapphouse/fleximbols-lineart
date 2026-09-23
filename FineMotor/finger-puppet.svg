@@ -2,8 +2,8 @@
 <line x1="248" y1="432" x2="292" y2="302" stroke="#ffffff" stroke-width="42" stroke-linecap="round"/>
 <ellipse cx="300" cy="272" rx="54" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 252 290 Q 300 314 350 290 Q 300 304 252 282 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="286" cy="256" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="286" cy="256" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="316" cy="254" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="316" cy="254" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="286" cy="256" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="286" cy="256" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="316" cy="254" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="316" cy="254" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
 </g></svg>

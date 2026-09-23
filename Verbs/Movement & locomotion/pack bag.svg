@@ -9,16 +9,16 @@
   <!-- Backpack front pocket -->
   <rect x="110" y="162" width="80" height="45" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pocket zipper line -->
-  <path d="M115 175 Q150 171 185 175" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 175 Q150 171 185 175" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pocket zipper pull -->
-  <circle cx="150" cy="173" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="150" cy="173" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Backpack straps on back -->
   <path d="M112 118 Q96 148 100 185" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <path d="M188 118 Q204 148 200 185" fill="none" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>
   <!-- Book being placed in (tilted, half in bag) -->
   <rect x="118" y="72" width="32" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(10 134 98)"/>
   <!-- Book spine line -->
-  <line x1="120" y1="74" x2="118" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="120" y1="74" x2="118" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Book pages lines -->
   <line x1="126" y1="75" x2="138" y2="76" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
   <line x1="126" y1="82" x2="139" y2="83" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
@@ -29,7 +29,7 @@
   <!-- Water bottle to the right, leaning in -->
   <rect x="162" y="70" width="22" height="54" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bottle cap -->
-  <rect x="166" y="62" width="14" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="166" y="62" width="14" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Right hand on bottle -->
   <ellipse cx="185" cy="88" rx="13" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Right arm -->

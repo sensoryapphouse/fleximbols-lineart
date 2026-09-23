@@ -26,9 +26,9 @@
   <rect x="215" y="145" width="30" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 230 175)"/>
   <!-- wand tip (hydration head) -->
   <circle cx="248" cy="200" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="248" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="248" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- water droplets near tip -->
-  <path d="M 265 180 Q 268 184 270 188 Q 272 184 270 180 Q 268 176 265 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 235 220 Q 238 224 240 228 Q 242 224 240 220 Q 238 216 235 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 270 215 Q 273 219 275 223 Q 277 219 275 215 Q 273 211 270 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 265 180 Q 268 184 270 188 Q 272 184 270 180 Q 268 176 265 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 235 220 Q 238 224 240 228 Q 242 224 240 220 Q 238 216 235 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 270 215 Q 273 219 275 223 Q 277 219 275 215 Q 273 211 270 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

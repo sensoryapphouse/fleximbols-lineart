@@ -17,6 +17,6 @@
   <!-- CD hub hole -->
   <circle cx="178" cy="108" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Case cover art on tray visible area -->
-  <rect x="76" y="84" width="58" height="58" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
-  <circle cx="105" cy="113" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <rect x="76" y="84" width="58" height="58" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <circle cx="105" cy="113" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

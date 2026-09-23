@@ -13,10 +13,10 @@
   <!-- cabin -->
   <rect x="138" y="105" width="20" height="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" data-lp="hair"/>
   <!-- mast/funnel -->
-  <rect x="146" y="92" width="4" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="146" y="92" width="4" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small windows -->
-  <rect x="142" y="109" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
-  <rect x="150" y="109" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <rect x="142" y="109" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="150" y="109" width="4" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- wake/ripples -->
   <path d="M30 130 Q60 125 90 130" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <path d="M200 130 Q230 125 260 130" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>

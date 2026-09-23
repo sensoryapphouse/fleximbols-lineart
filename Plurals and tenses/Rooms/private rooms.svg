@@ -36,8 +36,8 @@
   <line x1="83" y1="68" x2="83" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="88" y1="68" x2="88" y2="80" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- bathroom label icon: small person silhouette -->
-  <circle cx="80" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="75" y="96" width="10" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="80" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <rect x="75" y="96" width="10" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- privacy curtain across window on left wall -->
   <rect x="125" y="30" width="80" height="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- curtain rod -->
@@ -48,4 +48,4 @@
   <path d="M145,30 v65" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M165,30 v65" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M185,30 v65" stroke="#1a1a1a" stroke-width="4.45"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

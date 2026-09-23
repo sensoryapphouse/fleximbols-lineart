@@ -16,9 +16,9 @@
   <!-- ( -->
   <path d="M 160 42 Q 156 52 160 62" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- numbers/range as colored blocks -->
-  <rect x="166" y="44" width="14" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="166" y="44" width="14" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M 184 52 L 192 52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <rect x="196" y="44" width="14" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="196" y="44" width="14" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ) -->
   <path d="M 216 42 Q 220 52 216 62" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cell below with result -->
@@ -31,7 +31,7 @@
   <path d="M 138 92 L 145 100 L 152 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- spreadsheet hint grid below -->
   <rect x="20" y="170" width="250" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="20" y1="195" x2="270" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="103" y1="170" x2="103" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="186" y1="170" x2="186" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="20" y1="195" x2="270" y2="195" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="103" y1="170" x2="103" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="186" y1="170" x2="186" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

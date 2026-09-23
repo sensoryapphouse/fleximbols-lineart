@@ -23,5 +23,5 @@
   <!-- Ground line / lawn -->
   <line x1="30" y1="186" x2="260" y2="186" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Lawn fill hint -->
-  <line x1="30" y1="192" x2="260" y2="192" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="30" y1="192" x2="260" y2="192" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

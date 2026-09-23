@@ -14,7 +14,7 @@
   <path d="M130 175 L160 175" stroke="#1a1a1a" stroke-width="7.90" stroke-linecap="round"/>
   <!-- mic head -->
   <ellipse cx="145" cy="90" rx="9" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <path d="M138 84 L152 84 M138 90 L152 90 M138 96 L152 96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M138 84 L152 84 M138 90 L152 90 M138 96 L152 96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- poet full body (intense, hand gesturing) -->
   <!-- head -->
   <circle cx="105" cy="100" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
@@ -25,7 +25,7 @@
   <!-- eyes (closed - intense) -->
   <path d="M99 99 L103 99 M107 99 L111 99" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- mouth open speaking -->
-  <ellipse cx="105" cy="107" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="105" cy="107" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- torso (black turtleneck) -->
   <path d="M92 114 L118 114 L121 170 L89 170 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- right arm forward to mic, gesturing -->
@@ -39,8 +39,8 @@
   <path d="M97 170 L94 200" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
   <path d="M113 170 L116 200" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
   <!-- shoes -->
-  <ellipse cx="92" cy="203" rx="9" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="118" cy="203" rx="9" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="92" cy="203" rx="9" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="118" cy="203" rx="9" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- audience snapping fingers -->
   <circle cx="220" cy="160" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <path d="M209 175 L231 175 L233 200 L207 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
@@ -51,7 +51,7 @@
   <path d="M231 175 Q245 168 250 158" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- snap stars -->
   <path d="M256 150 L259 153 M256 158 L259 155 M252 154 L264 154" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-  <circle cx="258" cy="154" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.98"/>
+  <circle cx="258" cy="154" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- second audience member -->
   <circle cx="255" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <path d="M246 199 L264 199 L266 215 L244 215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>

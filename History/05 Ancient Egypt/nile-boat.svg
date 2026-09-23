@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(256 256) scale(0.9466) translate(-254.00 -303.00)">
 <!-- ===== Egyptian reed boat on the Nile ===== -->
 <!-- water band -->
-<rect x="20" y="372" width="472" height="118" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.28" />
-<path d="M 30 396 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 30 428 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 30 460 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<rect x="20" y="372" width="472" height="118" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" />
+<path d="M 30 396 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+<path d="M 30 428 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
+<path d="M 30 460 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0 q 24 -12 48 0 q 24 12 48 0" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
 
 <!-- shoreline papyrus reeds at the LEFT, to specify the Nile -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
@@ -28,10 +28,10 @@
 <!-- ===== reed hull: a low crescent that sweeps up into very high papyrus-bundle ends ===== -->
 <path d="M 96 388
          Q 80 350 128 344 L 384 344 Q 432 350 416 388
-         Q 256 420 96 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+         Q 256 420 96 388 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
 <!-- horizontal reed-bundle binding lines along the hull -->
-<path d="M 110 366 Q 256 392 402 366" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 120 352 Q 256 374 392 352" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 110 366 Q 256 392 402 366" fill="none" stroke="#1a1a1a" stroke-width="6.34"/>
+<path d="M 120 352 Q 256 374 392 352" fill="none" stroke="#1a1a1a" stroke-width="6.34"/>
 <!-- vertical lashings -->
 <g stroke="#1a1a1a" stroke-width="3" stroke-linecap="round">
 <line x1="150" y1="348" x2="150" y2="384"/>
@@ -43,7 +43,7 @@
 
 <!-- HIGH upturned papyrus-bundle PROW (left): thick reed bundle curling inward with an umbel tip -->
 <path d="M 96 388 Q 60 340 72 250 Q 78 226 96 210" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
-<path d="M 96 388 Q 64 342 76 252" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<path d="M 96 388 Q 64 342 76 252" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
 <!-- prow umbel (spray of fronds curling back) -->
 <g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none">
 <path d="M 96 210 Q 84 192 70 188"/>
@@ -54,7 +54,7 @@
 
 <!-- HIGH upturned papyrus-bundle STERN (right): thick reed bundle curling inward with an umbel tip -->
 <path d="M 416 388 Q 452 340 440 250 Q 434 226 416 210" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round"/>
-<path d="M 416 388 Q 448 342 436 252" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<path d="M 416 388 Q 448 342 436 252" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
 <g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none">
 <path d="M 416 210 Q 428 192 442 188"/>
 <path d="M 416 210 Q 420 188 426 174"/>
@@ -66,15 +66,15 @@
 <line x1="232" y1="348" x2="256" y2="120" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="280" y1="348" x2="256" y2="120" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- tall narrow square sail on a yard + boom -->
-<rect x="206" y="132" width="100" height="170" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="206" y="132" width="100" height="170" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34"/>
 <line x1="198" y1="132" x2="314" y2="132" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="198" y1="302" x2="314" y2="302" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- vertical sail seams -->
-<line x1="232" y1="136" x2="232" y2="298" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="256" y1="136" x2="256" y2="298" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="280" y1="136" x2="280" y2="298" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="232" y1="136" x2="232" y2="298" stroke="#1a1a1a" stroke-width="6.34"/>
+<line x1="256" y1="136" x2="256" y2="298" stroke="#1a1a1a" stroke-width="6.34"/>
+<line x1="280" y1="136" x2="280" y2="298" stroke="#1a1a1a" stroke-width="6.34"/>
 
 <!-- large steering OAR at the stern -->
 <line x1="372" y1="356" x2="430" y2="430" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<path d="M 430 430 Q 446 440 442 458 Q 424 456 418 440 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 430 430 Q 446 440 442 458 Q 424 456 418 440 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
 </g></svg>

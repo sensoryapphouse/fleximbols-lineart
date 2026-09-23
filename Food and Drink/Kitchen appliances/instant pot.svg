@@ -4,9 +4,9 @@
   <circle cx="145" cy="56" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 90,118 Q 90,108 100,108 L 190,108 Q 200,108 200,118 L 200,148 Q 200,158 190,158 L 100,158 Q 90,158 90,148 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 108,128 L 118,128 M 124,128 L 134,128 M 148,128 L 158,128 M 164,128 L 174,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="110" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="145" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="180" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="110" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="180" cy="185" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 50,140 Q 32,138 32,158 Q 32,178 50,180" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 240,140 Q 258,138 258,158 Q 258,178 240,180" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

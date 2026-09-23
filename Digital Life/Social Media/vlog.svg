@@ -4,8 +4,8 @@
   <!-- Lens barrel -->
   <circle cx="120" cy="125" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <circle cx="120" cy="125" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="120" cy="125" r="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="120" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="120" cy="125" r="15" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Viewfinder hump -->
   <rect x="70" y="52" width="60" height="24" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Record button -->
@@ -15,6 +15,6 @@
   <!-- Flip screen panel -->
   <rect x="200" y="80" width="56" height="70" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tiny person silhouette on flip screen -->
-  <circle cx="228" cy="100" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M215,130 Q228,112 241,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="228" cy="100" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M215,130 Q228,112 241,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

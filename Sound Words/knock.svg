@@ -7,9 +7,9 @@
 <path d="M 292 163.6 Q 310 200 292 236.4" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 310 151.0 Q 328 200 310 249.0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 414 142 Q 330 134 306 170 Q 296 200 306 230 Q 330 266 414 258 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
-<line x1="310" y1="170" x2="342" y2="170" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="310" y1="192" x2="342" y2="192" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="310" y1="214" x2="342" y2="214" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="310" y1="236" x2="342" y2="236" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="310" y1="170" x2="342" y2="170" stroke="#1a1a1a" stroke-width="5.14" stroke-linecap="round"/>
+<line x1="310" y1="192" x2="342" y2="192" stroke="#1a1a1a" stroke-width="5.14" stroke-linecap="round"/>
+<line x1="310" y1="214" x2="342" y2="214" stroke="#1a1a1a" stroke-width="5.14" stroke-linecap="round"/>
+<line x1="310" y1="236" x2="342" y2="236" stroke="#1a1a1a" stroke-width="5.14" stroke-linecap="round"/>
 <rect x="406.0" y="156.0" width="70.0" height="88.0" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 </g></svg>

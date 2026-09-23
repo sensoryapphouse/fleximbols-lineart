@@ -7,12 +7,12 @@
       <polygon points="112,178 140,88 268,108 268,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
     <line x1="112" y1="178" x2="140" y2="88" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
     <ellipse cx="132" cy="178" rx="28" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
-  <circle cx="122" cy="174" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
-  <circle cx="138" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
-  <circle cx="150" cy="175" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97"/>
+  <circle cx="122" cy="174" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="138" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="175" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <line x1="188" y1="178" x2="168" y2="128" stroke="#1a1a1a" stroke-width="6.92" stroke-linecap="round"/>
     <circle cx="68" cy="200" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="68" cy="200" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="200" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <circle cx="210" cy="200" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="210" cy="200" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="210" cy="200" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

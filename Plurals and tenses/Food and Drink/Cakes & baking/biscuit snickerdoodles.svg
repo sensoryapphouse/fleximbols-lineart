@@ -2,7 +2,7 @@
   <!-- pale snickerdoodle base -->
   <circle cx="145" cy="120" r="88" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- crinkled top surface - slightly uneven ring to suggest cracks -->
-  <path d="M 70,90 Q 85,78 100,85 Q 115,72 132,80 Q 145,68 160,78 Q 175,70 190,82 Q 205,75 218,88 Q 230,98 228,112 Q 232,125 225,140 Q 220,158 210,165 Q 195,178 178,182 Q 162,190 145,190 Q 128,190 112,182 Q 96,175 83,162 Q 68,148 65,130 Q 60,112 70,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 70,90 Q 85,78 100,85 Q 115,72 132,80 Q 145,68 160,78 Q 175,70 190,82 Q 205,75 218,88 Q 230,98 228,112 Q 232,125 225,140 Q 220,158 210,165 Q 195,178 178,182 Q 162,190 145,190 Q 128,190 112,182 Q 96,175 83,162 Q 68,148 65,130 Q 60,112 70,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- cinnamon-sugar speckle dusting - brown dots all over -->
   <circle cx="100" cy="95" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="120" cy="88" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -26,4 +26,4 @@
   <circle cx="180" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- outer edge -->
   <circle cx="145" cy="120" r="88" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

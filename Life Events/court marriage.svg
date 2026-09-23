@@ -5,16 +5,16 @@
   <!-- title bar -->
   <rect x="55" y="95" width="130" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- text lines -->
-  <rect x="55" y="115" width="130" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="55" y="125" width="130" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="55" y="135" width="100" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="55" y="115" width="130" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="55" y="125" width="130" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="55" y="135" width="100" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- interlocking wedding rings -->
   <circle cx="100" cy="180" r="22" fill="none" stroke="#1a1a1a" stroke-width="13.34"/>
   <circle cx="100" cy="180" r="22" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="100" cy="180" r="18" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="180" r="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="140" cy="180" r="22" fill="none" stroke="#1a1a1a" stroke-width="13.34"/>
   <circle cx="140" cy="180" r="22" fill="none" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="140" cy="180" r="18" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="140" cy="180" r="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- diamond on right ring -->
   <path d="M140,153 L135,160 L140,165 L145,160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- gavel head (top right) -->

@@ -2,13 +2,13 @@
 <line x1="286" y1="150" x2="226" y2="446" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
 <line x1="286" y1="150" x2="226" y2="446" stroke="none" stroke-width="18" stroke-linecap="round"/>
 <line x1="286" y1="150" x2="226" y2="446" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="259.0" cy="283.2" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="244.0" cy="357.2" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="226.0" cy="446.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="259.0" cy="283.2" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55"/>
+<circle cx="244.0" cy="357.2" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55"/>
+<circle cx="226.0" cy="446.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55"/>
 <rect x="270.0" y="154.0" width="36.0" height="52.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <path d="M 274 150 L 166 122 Q 134 180 166 238 L 274 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 180 130 Q 150 180 180 230" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<polygon points="294,154 314,136 306,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="288.0" cy="168.0" r="3.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="288.0" cy="192.0" r="3.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<polygon points="294,154 314,136 306,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55" stroke-linejoin="round"/>
+<circle cx="288.0" cy="168.0" r="3.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55"/>
+<circle cx="288.0" cy="192.0" r="3.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.55"/>
 </g></svg>

@@ -3,17 +3,17 @@
 <polygon points="90,248 256,168 422,248" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <rect x="228.0" y="110.0" width="56.0" height="64.0" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <polygon points="214,110 256,72 298,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<circle cx="256.0" cy="140.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256.0" cy="140.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.45"/>
 <line x1="256" y1="72" x2="256" y2="46" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<polygon points="256,48 296,58 256,74" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="256,48 296,58 256,74" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.45" stroke-linejoin="round"/>
 <rect x="214.0" y="344.0" width="84.0" height="104.0" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7"/>
 <line x1="256" y1="344" x2="256" y2="448" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<circle cx="244.0" cy="396.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="268.0" cy="396.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="244.0" cy="396.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.45"/>
+<circle cx="268.0" cy="396.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.45"/>
 <rect x="108.0" y="300.0" width="60.0" height="60.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="138" y1="300" x2="138" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="108" y1="330" x2="168" y2="330" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="138" y1="300" x2="138" y2="360" stroke="#1a1a1a" stroke-width="5.45" stroke-linecap="round"/>
+<line x1="108" y1="330" x2="168" y2="330" stroke="#1a1a1a" stroke-width="5.45" stroke-linecap="round"/>
 <rect x="344.0" y="300.0" width="60.0" height="60.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<line x1="374" y1="300" x2="374" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="344" y1="330" x2="404" y2="330" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="374" y1="300" x2="374" y2="360" stroke="#1a1a1a" stroke-width="5.45" stroke-linecap="round"/>
+<line x1="344" y1="330" x2="404" y2="330" stroke="#1a1a1a" stroke-width="5.45" stroke-linecap="round"/>
 </g></svg>

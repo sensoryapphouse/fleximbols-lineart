@@ -13,7 +13,7 @@
   <path d="M75 72 L215 72 L205 196 L85 196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- papers inside -->
   <path d="M88 80 L202 80 L196 188 L94 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
-  <line x1="100" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="102" y1="118" x2="188" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="104" y1="136" x2="186" y2="136" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="190" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="102" y1="118" x2="188" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="104" y1="136" x2="186" y2="136" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

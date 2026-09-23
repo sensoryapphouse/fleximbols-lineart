@@ -19,5 +19,5 @@
   
   <ellipse cx="102" cy="88" rx="16" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   
-  <ellipse cx="145" cy="134" rx="46" ry="28" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="145" cy="134" rx="46" ry="28" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

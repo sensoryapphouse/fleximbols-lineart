@@ -11,5 +11,5 @@
     <circle cx="200" cy="416.5" r="10"/>
     <path d="M200 334a29.5 29.5 0 0 1 0 59 23.5 23.5 0 0 0 0 47v6a29.5 29.5 0 0 1 0-59 23.5 23.5 0 0 0 0-47z"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg><rect x="76.0" y="68.0" width="360" height="270" fill="none" stroke="#1a1a1a" stroke-width="5"/></svg>

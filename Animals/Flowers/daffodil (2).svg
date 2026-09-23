@@ -23,5 +23,5 @@
   <!-- Trumpet inner -->
   <circle cx="145" cy="96" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Trumpet throat -->
-  <circle cx="145" cy="96" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="145" cy="96" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

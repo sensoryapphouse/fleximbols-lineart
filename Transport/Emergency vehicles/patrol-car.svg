@@ -8,12 +8,12 @@
 <path d="M 192 240 L 218 188 Q 224 178 236 178 L 304 178 Q 314 178 320 188 L 344 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="262" y1="178" x2="262" y2="240" stroke="#1a1a1a" stroke-width="7"/>
 <!-- blue battenburg band along doors -->
-<rect x="86" y="270" width="380" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="86" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="170" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="254" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="338" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="422" y="270" width="44" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="86" y="270" width="380" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="86" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="170" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="254" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="338" y="270" width="42" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
+<rect x="422" y="270" width="44" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
 <line x1="78" y1="270" x2="466" y2="270" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="86" y1="300" x2="462" y2="300" stroke="#1a1a1a" stroke-width="6"/>
 <!-- wheels -->

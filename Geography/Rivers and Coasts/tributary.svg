@@ -16,11 +16,11 @@
   <!-- arrow indicating tributary joins main: small arrow at junction -->
   <path d="M 140 120 L 160 120 L 156 116 M 160 120 L 156 124" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- small rocks at junction -->
-  <ellipse cx="155" cy="135" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="180" cy="150" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="155" cy="135" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="180" cy="150" rx="11" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bank grass tufts -->
-  <path d="M 40 60 L 42 50 L 44 60 M 46 60 L 48 52 L 50 60" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 240 80 L 242 70 L 244 80 M 246 80 L 248 72 L 250 80" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 240 180 L 242 170 L 244 180 M 246 180 L 248 172 L 250 180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 50 200 L 52 190 L 54 200 M 56 200 L 58 192 L 60 200" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 40 60 L 42 50 L 44 60 M 46 60 L 48 52 L 50 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 240 80 L 242 70 L 244 80 M 246 80 L 248 72 L 250 80" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 240 180 L 242 170 L 244 180 M 246 180 L 248 172 L 250 180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 50 200 L 52 190 L 54 200 M 56 200 L 58 192 L 60 200" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -12,11 +12,11 @@
 
 <line x1="360" y1="150" x2="360" y2="196" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 360 150 q 18 0 18 16" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<line x1="322" y1="214" x2="360" y2="196" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="398" y1="214" x2="360" y2="196" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 360 196 q 0 -12 -10 -12" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 322 214 Q 300 240 306 320 L 414 320 Q 420 240 398 214 Q 380 230 360 230 Q 340 230 322 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" data-lp="hair"/>
-<line x1="360" y1="232" x2="360" y2="320" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<circle cx="360" cy="256" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="360" cy="282" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="322" y1="214" x2="360" y2="196" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="398" y1="214" x2="360" y2="196" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 360 196 q 0 -12 -10 -12" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 322 214 Q 300 240 306 320 L 414 320 Q 420 240 398 214 Q 380 230 360 230 Q 340 230 322 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="hair"/>
+<line x1="360" y1="232" x2="360" y2="320" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="360" cy="256" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="360" cy="282" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

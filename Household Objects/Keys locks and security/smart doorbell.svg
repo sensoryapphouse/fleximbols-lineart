@@ -32,10 +32,10 @@
   <rect x="184" y="118" width="72" height="70" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Visitor in phone preview - FULL BODY (smaller within frame) -->
   <circle cx="220" cy="138" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 211,135 Q 211,128 220,128 Q 229,128 229,135" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 211,135 Q 211,128 220,128 Q 229,128 229,135" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="217" cy="138" r="1.2" fill="#1a1a1a"/>
   <circle cx="223" cy="138" r="1.2" fill="#1a1a1a"/>
-  <path d="M 217,142 Q 220,144 223,142" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 217,142 Q 220,144 223,142" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- torso -->
   <path d="M 213,147 L 227,147 L 230,172 L 210,172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- arms -->

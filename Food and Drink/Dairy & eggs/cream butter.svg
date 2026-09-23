@@ -21,7 +21,7 @@
   <path d="M70 165 Q75 150 95 152 Q115 145 135 155 Q148 155 145 170 Q140 185 107 188 Q75 185 70 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- butter stick on counter to identify -->
   <rect x="210" y="195" width="55" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="225" y1="195" x2="225" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="240" y1="195" x2="240" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="255" y1="195" x2="255" y2="215" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="225" y1="195" x2="225" y2="215" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="240" y1="195" x2="240" y2="215" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="255" y1="195" x2="255" y2="215" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

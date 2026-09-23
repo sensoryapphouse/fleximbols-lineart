@@ -12,11 +12,11 @@
 
 
 
-<line x1="220" y1="148" x2="244" y2="148" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="220" y1="148" x2="244" y2="148" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="354" y1="150" x2="367" y2="166" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="367" y1="166" x2="394" y2="132" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="354" y1="150" x2="367" y2="166" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="367" y1="166" x2="394" y2="132" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
-<line x1="365" y1="96" x2="379" y2="96" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="372" y1="89" x2="372" y2="103" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="333" y1="120" x2="347" y2="120" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="340" y1="113" x2="340" y2="127" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="365" y1="96" x2="379" y2="96" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="372" y1="89" x2="372" y2="103" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="333" y1="120" x2="347" y2="120" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="340" y1="113" x2="340" y2="127" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

@@ -18,7 +18,7 @@
   <!-- flame -->
   <path d="M145 30 Q138 40 145 48 Q152 40 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- decorative dots on cake -->
-  <circle cx="110" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="105" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="180" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="110" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="105" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

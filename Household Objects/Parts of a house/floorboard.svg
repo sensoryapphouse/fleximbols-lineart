@@ -10,8 +10,8 @@
 <line x1="186" y1="256" x2="186" y2="309" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="296" y1="309" x2="296" y2="362" stroke="#1a1a1a" stroke-width="6"/>
 <!-- wood grain hints -->
-<path d="M 130 176 q 40 -6 80 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 250 229 q 50 -6 110 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 120 282 q 30 -5 60 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 320 335 q 30 -5 70 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 130 176 q 40 -6 80 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 250 229 q 50 -6 110 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 120 282 q 30 -5 60 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<path d="M 320 335 q 30 -5 70 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

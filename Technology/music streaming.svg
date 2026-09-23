@@ -9,9 +9,9 @@
   <!-- Wifi/stream arcs on screen -->
   <path d="M115,120 A32,32 0 0,1 175,120" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M105,108 A42,42 0 0,1 185,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M95,96 A52,52 0 0,1 195,96" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M95,96 A52,52 0 0,1 195,96" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wifi dot -->
-  <circle cx="145" cy="126" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="126" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Music note on screen -->
   <rect x="130" y="50" width="9" height="26" rx="2" fill="#1a1a1a"/>
   <ellipse cx="127" cy="76" rx="8" ry="6" fill="#1a1a1a"/>
@@ -23,5 +23,5 @@
   <rect x="196" y="62" width="52" height="14" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="196" y1="76" x2="248" y2="76" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Stream line from cloud to phone -->
-  <line x1="208" y1="76" x2="185" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <line x1="208" y1="76" x2="185" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6,4"/>
 </g></svg>

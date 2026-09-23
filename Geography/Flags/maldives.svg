@@ -3,5 +3,5 @@
   <path fill="#ffffff" d="M120 120h400v240H120z" stroke="#1a1a1a" stroke-width="5.00"/>
   <circle cx="350" cy="240" r="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"/>
   <circle cx="380" cy="240" r="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

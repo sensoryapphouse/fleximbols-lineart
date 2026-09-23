@@ -3,7 +3,7 @@
   <path d="M85 60 Q145 40 205 60 L200 80 L90 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- spout -->
   <path d="M125 40 Q145 20 165 40 L160 60 L130 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="32" rx="10" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="32" rx="10" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cup body -->
   <path d="M90 80 L200 80 L190 200 Q145 215 100 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- left handle -->
@@ -12,5 +12,5 @@
   <!-- right handle -->
   <path d="M200 100 Q235 110 235 140 Q235 165 200 170 L200 175 Q220 170 220 140 Q220 110 200 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- water line -->
-  <path d="M105 140 Q145 148 185 140" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M105 140 Q145 148 185 140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

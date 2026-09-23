@@ -19,19 +19,19 @@
   <rect x="245" y="215" width="10" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- control panel beside bed -->
   <rect x="195" y="80" width="60" height="42" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <rect x="200" y="86" width="50" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="200" y="86" width="50" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sleep mode icon (moon) on display -->
-  <path d="M212 93 Q207 96 210 102 Q215 104 218 99 Q213 99 212 93 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M212 93 Q207 96 210 102 Q215 104 218 99 Q213 99 212 93 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- bars showing levels -->
-  <rect x="232" y="95" width="2" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <rect x="236" y="92" width="2" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <rect x="240" y="89" width="2" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <rect x="232" y="95" width="2" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="236" y="92" width="2" height="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="240" y="89" width="2" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- control buttons -->
-  <circle cx="208" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M205 117 L208 113 L211 117 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <circle cx="225" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M222 113 L225 117 L228 113 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <circle cx="242" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="208" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M205 117 L208 113 L211 117 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="225" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M222 113 L225 117 L228 113 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="242" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- adjustable arrow indicator on raised section -->
   <path d="M150 110 Q155 100 165 95" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <path d="M161 92 L166 94 L165 99" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>

@@ -20,38 +20,38 @@
   <!-- A -->
   <path d="M244 42 l5 -20 l5 20 M246 35 h6" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- text lines -->
-  <line x1="115" y1="60" x2="245" y2="60" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="70" x2="245" y2="70" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="80" x2="225" y2="80" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="90" x2="245" y2="90" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="100" x2="240" y2="100" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="110" x2="220" y2="110" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="115" y1="130" x2="200" y2="130" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="115" y1="60" x2="245" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="70" x2="245" y2="70" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="80" x2="225" y2="80" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="90" x2="245" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="100" x2="240" y2="100" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="110" x2="220" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="115" y1="130" x2="200" y2="130" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- official seal -->
   <circle cx="220" cy="160" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="220" cy="160" r="11" fill="none" stroke="#ffffff" stroke-width="2.96"/>
-  <polygon points="220,152 222,158 228,158 223,162 225,168 220,164 215,168 217,162 212,158 218,158" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="220,152 222,158 228,158 223,162 225,168 220,164 215,168 217,162 212,158 218,158" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- signature swoop -->
   <path d="M115 160 q10 -6 18 0 q5 5 10 -2 q5 6 10 0" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-  <line x1="115" y1="170" x2="180" y2="170" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="115" y1="170" x2="180" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- figure FULL BODY receiving document (left, reaching for it) -->
   <circle cx="50" cy="80" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M36 78 q14 -12 28 0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M36 78 q14 -12 28 0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="38" y="94" width="24" height="40" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- one arm reaching out (to document) -->
   <line x1="62" y1="104" x2="100" y2="110" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <line x1="62" y1="104" x2="100" y2="110" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="103" cy="110" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="103" cy="110" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- other arm down -->
   <line x1="38" y1="106" x2="28" y2="130" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <line x1="38" y1="106" x2="28" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="26" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="26" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- legs -->
   <rect x="38" y="134" width="11" height="32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="51" y="134" width="11" height="32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="43" cy="170" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="56" cy="170" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="43" cy="170" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="56" cy="170" rx="7" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- exclamation badge (urgency) -->
   <polygon points="80,200 100,200 90,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="90" y1="186" x2="90" y2="194" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>

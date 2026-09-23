@@ -5,11 +5,11 @@
 <path d="M 218 288 q 20 -16 42 -2" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 
 <line x1="262" y1="316" x2="300" y2="302" stroke-linecap="round" stroke="#1a1a1a" stroke-width="30.8" data-part="ink"/><line x1="262" y1="316" x2="300" y2="302" stroke-linecap="round" stroke="#ffffff" stroke-width="22.8" data-part="arm"/><circle cx="300" cy="302" r="12.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="hand" data-lp="skin"/>
-<circle cx="318" cy="308" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="338" cy="314" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="208" cy="312" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<ellipse cx="362" cy="304" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="370" cy="298" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<polygon points="376,296 388,298 376,302" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
-<circle cx="372" cy="296" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="318" cy="308" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54"/>
+<circle cx="338" cy="314" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54"/>
+<circle cx="208" cy="312" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54"/>
+<ellipse cx="362" cy="304" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54"/>
+<circle cx="370" cy="298" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54"/>
+<polygon points="376,296 388,298 376,302" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.54" stroke-linejoin="round"/>
+<circle cx="372" cy="296" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.54"/>
 </g></svg>

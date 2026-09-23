@@ -22,5 +22,5 @@
   <ellipse cx="156" cy="140" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.95"/>
   <ellipse cx="166" cy="148" rx="5" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Bottle highlight -->
-  <rect x="112" y="98" width="6" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="112" y="98" width="6" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

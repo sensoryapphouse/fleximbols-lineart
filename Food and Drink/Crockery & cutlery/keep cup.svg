@@ -5,7 +5,7 @@
   <!-- silicone band (the signature KeepCup feature) -->
   <path d="M 102 115 L 188 115 L 184 145 L 106 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- band ridges -->
-  <path d="M 108 122 L 184 122 M 108 130 L 184 130 M 108 138 L 184 138" stroke="#1a1a1a" stroke-width="1.98"/>
+  <path d="M 108 122 L 184 122 M 108 130 L 184 130 M 108 138 L 184 138" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sip lid -->
   <path d="M 90 50 L 200 50 L 196 70 L 94 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.90" stroke-linejoin="round"/>
   <!-- sip hole -->

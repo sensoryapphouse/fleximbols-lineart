@@ -11,12 +11,12 @@
   <!-- Burned-in captions (DIRECTLY on the image, no black box - the key visual differentiator) -->
   <!-- White text with strong black outline = burned in -->
   <!-- Big yellow text bars overlaying scene -->
-  <rect x="45" y="125" width="62" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="115" y="125" width="42" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="165" y="125" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="45" y="140" width="92" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="145" y="140" width="58" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="211" y="140" width="34" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="45" y="125" width="62" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="115" y="125" width="42" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="165" y="125" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="45" y="140" width="92" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="145" y="140" width="58" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="211" y="140" width="34" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- OC badge top-left -->
   <rect x="42" y="46" width="50" height="34" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- O -->

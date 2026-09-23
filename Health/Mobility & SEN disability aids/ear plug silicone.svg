@@ -10,8 +10,8 @@
   <!-- Smooth gloss highlight (small ellipse near top) -->
   <ellipse cx="128" cy="72" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Flange ring 1 (smooth moulded ring near stem top) -->
-  <ellipse cx="145" cy="148" rx="26" ry="7" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="148" rx="26" ry="7" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flange ring 2 -->
-  <ellipse cx="145" cy="162" rx="22" ry="5.5" fill="none" stroke="#1a1a1a" stroke-width="2.78"/>
+  <ellipse cx="145" cy="162" rx="22" ry="5.5" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Smooth surface - no pore texture, just clean shape -->
 </g></svg>

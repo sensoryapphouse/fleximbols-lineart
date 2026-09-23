@@ -14,12 +14,12 @@
   <rect x="35" y="155" width="55" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- damper cylinder -->
   <rect x="42" y="143" width="32" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="46" y="146" width="24" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="46" y="146" width="24" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- piston rod -->
-  <rect x="74" y="148" width="18" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="74" y="148" width="18" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- slow motion arrow (closing direction) -->
   <path d="M180 200 L130 200" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <path d="M140 192 L128 200 L140 208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M140 192 L128 200 L140 208 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- small motion lines suggesting slow -->
   <line x1="195" y1="195" x2="205" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="195" y1="205" x2="205" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

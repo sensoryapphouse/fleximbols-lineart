@@ -11,14 +11,14 @@
   <!-- Sear marks - different spacing from Impossible -->
   <path d="M72,172 Q110,168 140,172" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M154,170 Q190,166 214,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M92,180 L112,170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M162,178 L182,168" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M92,180 L112,170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M162,178 L182,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- DIFFERENT 3-lobed leaf shape (broader, rounder, 3 lobes) - top right of bun -->
   <path d="M222,76 Q232,58 248,66 Q258,54 267,70 Q260,92 238,90 Q226,88 222,76 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- 3-lobe veins -->
-  <path d="M224,76 Q245,70 266,70" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M234,76 Q244,63 257,66" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M222,76 L218,86" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" fill="none"/>
+  <path d="M224,76 Q245,70 266,70" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M234,76 Q244,63 257,66" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M222,76 L218,86" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
   <!-- Top bun - plain (no sesame seeds, differentiating from Impossible) -->
   <path d="M50,154 Q50,92 145,92 Q240,92 240,154 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <ellipse cx="145" cy="154" rx="95" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

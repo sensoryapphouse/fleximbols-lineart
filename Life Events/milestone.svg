@@ -9,5 +9,5 @@
   <polygon points="145,62 218,82 145,102" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- star/burst on flag -->
   <polygon points="181,82 184,74 187,82 195,82 189,87 191,95 181,90 171,95 174,87 168,82"
-           fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" stroke-linejoin="round"/>
+           fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

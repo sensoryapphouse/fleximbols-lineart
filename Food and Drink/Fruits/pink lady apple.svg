@@ -5,7 +5,7 @@
   <!-- pink-red dominant region (covers most of apple, leaving yellow blush at bottom) -->
   <path d="M145 60 Q90 60 70 110 Q60 155 75 180 Q105 165 145 168 Q185 165 215 180 Q230 155 220 110 Q200 60 145 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- transition edge (soft red-pink) -->
-  <path d="M75 180 Q105 165 145 168 Q185 165 215 180" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M75 180 Q105 165 145 168 Q185 165 215 180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- pink-red darker streaks -->
   <path d="M105 75 Q108 130 105 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M135 62 Q138 130 138 165" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -16,6 +16,6 @@
   <!-- stem -->
   <path d="M145 62 Q142 50 138 35" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- leaf -->
-  <path d="M138 40 Q170 25 185 45 Q165 55 145 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M145 48 Q165 42 180 45" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M138 40 Q170 25 185 45 Q165 55 145 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M145 48 Q165 42 180 45" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

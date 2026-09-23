@@ -25,10 +25,10 @@
   <path d="M57,106 Q145,112 233,106" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Cream swirl top surface -->
   <ellipse cx="145" cy="80" rx="87" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
-  <path d="M105,78 Q115,68 125,76 Q135,64 145,72 Q155,64 165,76 Q175,68 185,78" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M105,78 Q115,68 125,76 Q135,64 145,72 Q155,64 165,76 Q175,68 185,78" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Glass rim -->
   <path d="M55,80 Q145,68 235,80" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <!-- Strawberry on top -->
   <path d="M140,68 Q145,50 150,68 Q158,62 154,72 Q150,76 145,74 Q140,76 136,72 Q132,62 140,68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
-  <path d="M145,52 Q143,46 145,44 Q147,46 145,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145,52 Q143,46 145,44 Q147,46 145,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

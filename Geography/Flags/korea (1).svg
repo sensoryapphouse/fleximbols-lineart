@@ -5,7 +5,7 @@
     </clipPath>
   </defs>
   <g fill-rule="evenodd" clip-path="url(#kr-a)" transform="translate(89.8 .4)scale(.9375)">
-    <path fill="#ffffff" d="M-95.8-.4H587v512H-95.8Z" stroke="#1a1a1a" stroke-width="5.33"/>
+    <path fill="#ffffff" d="M-95.8-.4H587v512H-95.8Z" stroke="#1a1a1a" stroke-width="6.4"/>
     <g transform="rotate(-56.3 361.6 -101.3)scale(10.66667)">
       <g id="kr-c">
         <path id="kr-b" fill="#1a1a1a" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z"/>
@@ -21,5 +21,5 @@
       <path stroke="#ffffff" d="M0-23.5v3M0 17v3.5m0 3v3"/>
     </g>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

@@ -18,12 +18,12 @@
     <polygon points="148,396 36,396 36,176 148,176 148,396 148,396" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
     <polygon points="416,396 304,396 304,258 416,258 416,396 416,396" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
     <polygon points="431,203 21,203 21,172 431,172 431,203 431,203" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
-    <polygon points="31,263 139,263 31,263" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="31,263 139,263 31,263" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.22" fill-rule="evenodd"/>
     <polyline points="35,263 143,263" fill="none" stroke="#1a1a1a" stroke-width="8.91"/>
-    <polygon points="304,254 414,254 304,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="304,254 414,254 304,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.22" fill-rule="evenodd"/>
     <polyline points="304,254 414,254" fill="none" stroke="#1a1a1a" stroke-width="8.91"/>
     <polygon points="399,368 323,368 323,275 399,275 399,368 399,368" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
-    <polygon points="403,334 312,334 312,311 403,311 403,334 403,334" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="403,334 312,334 312,311 403,311 403,334 403,334" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.22" fill-rule="evenodd"/>
     <polygon points="99,231 99,231 97,237 95,239 91,239 91,239 89,239 86,237 84,231 84,231 86,225 89,222 91,222 91,222 95,222 97,225 99,231 99,231 99,231" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
     <polygon points="372,227 372,227 369,233 367,235 363,235 363,235 361,235 359,233 357,227 357,227 359,220 361,218 363,218 363,218 367,218 369,220 372,227 372,227 372,227" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>
     <polygon points="133,328 133,328 131,334 129,337 127,337 127,337 124,337 122,334 120,328 120,328 122,322 124,320 127,320 127,320 129,320 131,322 133,328 133,328 133,328" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.91" fill-rule="evenodd"/>

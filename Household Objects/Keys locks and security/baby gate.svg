@@ -13,12 +13,12 @@
   <!-- Gate bottom rail -->
   <rect x="52" y="182" width="186" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Vertical bars (7 bars) -->
-  <rect x="72"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="99"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="126" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="153" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="180" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="207" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="72"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="99"  y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="126" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="153" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="180" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="207" y="84" width="10" height="98" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Latch on right side -->
   <rect x="222" y="120" width="22" height="38" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <rect x="227" y="130" width="12" height="8" rx="3" fill="#1a1a1a"/>

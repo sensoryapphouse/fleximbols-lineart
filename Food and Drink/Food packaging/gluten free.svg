@@ -17,9 +17,9 @@
   <!-- Top wheat tip -->
   <ellipse cx="145" cy="68" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Awns (bristles) on top -->
-  <path d="M 145,55 L 145,30" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 138,62 L 128,38" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 152,62 L 162,38" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 145,55 L 145,30" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 138,62 L 128,38" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 152,62 L 162,38" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Red no-circle -->
   <circle cx="145" cy="120" r="92" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <line x1="79" y1="54" x2="211" y2="186" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round"/>

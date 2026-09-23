@@ -12,5 +12,5 @@
   <!-- Base -->
   <rect x="100" y="148" width="90" height="22" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Small call triangle icon below button -->
-  <polygon points="145,162 136,175 154,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <polygon points="145,162 136,175 154,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

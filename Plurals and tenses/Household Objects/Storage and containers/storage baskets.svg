@@ -27,16 +27,16 @@
   <line x1="205" y1="95" x2="207" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Weave cross-hatch accent (short diagonals between bands) -->
-  <line x1="90" y1="118" x2="83" y2="141" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="116" y1="118" x2="111" y2="141" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="142" y1="118" x2="139" y2="141" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="118" x2="167" y2="141" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="194" y1="118" x2="195" y2="141" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="92" y1="141" x2="86" y2="164" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="118" y1="141" x2="114" y2="164" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="144" y1="141" x2="141" y2="164" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="170" y1="141" x2="169" y2="164" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="196" y1="141" x2="197" y2="164" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="90" y1="118" x2="83" y2="141" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="116" y1="118" x2="111" y2="141" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="142" y1="118" x2="139" y2="141" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="168" y1="118" x2="167" y2="141" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="194" y1="118" x2="195" y2="141" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="92" y1="141" x2="86" y2="164" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="118" y1="141" x2="114" y2="164" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="144" y1="141" x2="141" y2="164" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="170" y1="141" x2="169" y2="164" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="196" y1="141" x2="197" y2="164" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
 
   <!-- Basket rim at top -->
   <path d="M55 95 Q145 85 235 95" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
@@ -44,4 +44,4 @@
 
   <!-- Base -->
   <rect x="70" y="200" width="150" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -7,8 +7,8 @@
   <line x1="108" y1="135" x2="105" y2="200" stroke="#1a1a1a" stroke-width="3.81" stroke-dasharray="8,10"/>
   <line x1="145" y1="110" x2="145" y2="200" stroke="#1a1a1a" stroke-width="3.81" stroke-dasharray="8,10"/>
   <line x1="182" y1="135" x2="185" y2="200" stroke="#1a1a1a" stroke-width="3.81" stroke-dasharray="8,10"/>
-  <line x1="132" y1="38" x2="132" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-dasharray="6,8"/>
-  <line x1="158" y1="38" x2="158" y2="100" stroke="#1a1a1a" stroke-width="2.54" stroke-dasharray="6,8"/>
+  <line x1="132" y1="38" x2="132" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,8"/>
+  <line x1="158" y1="38" x2="158" y2="100" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,8"/>
   <!-- Ground flare - massive buttressed base -->
   <ellipse cx="145" cy="232" rx="65" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Dense towering crown - wider than redwood -->

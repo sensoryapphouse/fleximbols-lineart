@@ -24,10 +24,10 @@
   <path d="M220 62 L210 50" stroke="#ffffff" stroke-width="4.45"/>
   <path d="M228 68 L218 56" stroke="#ffffff" stroke-width="4.45"/>
   <!-- bristle outlines black -->
-  <path d="M180 30 L168 18" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M196 36 L188 24" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M212 48 L204 36" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M228 60 L220 48" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M196 44 L186 32" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M212 56 L202 44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M180 30 L168 18" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M196 36 L188 24" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M212 48 L204 36" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M228 60 L220 48" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M196 44 L186 32" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M212 56 L202 44" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

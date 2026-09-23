@@ -15,15 +15,15 @@
   <!-- spine crease -->
   <path d="M145 95 L145 180" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- ruled lines left -->
-  <path d="M62 115 L138 117" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M62 130 L138 132" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M62 145 L138 147" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M62 160 L138 162" stroke="#1a1a1a" stroke-width="3.20"/>
+  <path d="M62 115 L138 117" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M62 130 L138 132" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M62 145 L138 147" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M62 160 L138 162" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ruled lines right -->
-  <path d="M152 117 L228 115" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M152 132 L228 130" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M152 147 L228 145" stroke="#1a1a1a" stroke-width="3.20"/>
-  <path d="M152 162 L228 160" stroke="#1a1a1a" stroke-width="3.20"/>
+  <path d="M152 117 L228 115" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M152 132 L228 130" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M152 147 L228 145" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M152 162 L228 160" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- two wedding rings on top of book -->
   <ellipse cx="100" cy="108" rx="22" ry="9" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   <ellipse cx="100" cy="108" rx="22" ry="9" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>

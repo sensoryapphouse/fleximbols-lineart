@@ -16,8 +16,8 @@
   <!-- main window -->
   <path d="M55 118 Q58 104 75 98 L108 98 L110 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- red cross on fuselage -->
-  <rect x="140" y="112" width="36" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="152" y="100" width="12" height="36" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="140" y="112" width="36" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="152" y="100" width="12" height="36" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="143" y="115" width="30" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="155" y="103" width="6" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- main rotor mast -->
@@ -28,7 +28,7 @@
   <!-- rotor hub -->
   <circle cx="140" cy="78" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- winch/hoist cable -->
-  <line x1="105" y1="162" x2="105" y2="195" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3"/>
+  <line x1="105" y1="162" x2="105" y2="195" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3"/>
   <!-- winch hook -->
   <path d="M100 195 L110 195 L110 202 Q110 208 105 208 Q100 208 100 202 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- winch mechanism on belly -->

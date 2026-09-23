@@ -9,7 +9,7 @@
 
   <!-- Foil inside wrapper (silver showing where bar is broken) -->
   <path d="M186,40 L266,40 L266,210 L186,210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M186,40 L266,40" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M186,40 L266,40" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Chocolate bar body (3 rows x 2 columns of squares visible, modern flat) -->
   <!-- Outer bar shape -->

@@ -6,5 +6,5 @@
 <path d="M 300 260 L 350 260 L 350 320 Q 350 344 326 344" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="316" y="200" width="40" height="68" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <rect x="306" y="290" width="30" height="54" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 290 290 L 320 290 L 320 320 L 306 320 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 290 290 L 320 290 L 320 320 L 306 320 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

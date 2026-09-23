@@ -2,7 +2,7 @@
   <!-- Stemmed glass bowl -->
   <path d="M82 38 L100 145 Q102 158 145 158 Q188 158 190 145 L208 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Cloudy ferment layer (lighter top) -->
-  <path d="M88 38 L100 110 Q115 118 145 118 Q175 118 190 110 L202 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <path d="M88 38 L100 110 Q115 118 145 118 Q175 118 190 110 L202 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.17" />
   <!-- Rim line -->
   <line x1="82" y1="38" x2="208" y2="38" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Bubbles in glass -->
@@ -18,6 +18,6 @@
   <ellipse cx="200" cy="38" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <ellipse cx="200" cy="38" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- SCOBY texture lines -->
-  <line x1="188" y1="35" x2="212" y2="41" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="186" y1="40" x2="214" y2="36" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="188" y1="35" x2="212" y2="41" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+  <line x1="186" y1="40" x2="214" y2="36" stroke="#1a1a1a" stroke-width="4.17" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -4,10 +4,10 @@
   <!-- tree-structure line: vertical from parent down, then right into child folder -->
   <path d="M 60,90 L 60,160 L 95,160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"></path>
   <!-- arrowhead at end of tree line -->
-  <path d="M 95,160 L 88,156 L 88,164 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"></path>
+  <path d="M 95,160 L 88,156 L 88,164 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"></path>
   <!-- inner (sub) folder -->
   <path d="M 100,130 Q 100,124 108,124 L 140,124 Q 144,124 145,126 L 150,132 Q 152,134 156,134 L 230,134 Q 238,134 238,142 L 238,200 Q 238,208 230,208 L 108,208 Q 100,208 100,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 100,144 L 238,144" fill="none" stroke="#1a1a1a" stroke-width="2.78"></path>
+  <path d="M 100,144 L 238,144" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
   <!-- small dot at top of tree to mark parent root -->
   <circle cx="60" cy="85" r="5" fill="#1a1a1a"></circle>
 </g></svg>

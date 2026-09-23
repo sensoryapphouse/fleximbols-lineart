@@ -13,9 +13,9 @@
   <rect x="92" y="44" width="116" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Atom on lid -->
   <circle cx="80" cy="50" r="6" fill="none" stroke="#1a1a1a" stroke-width="3.70"/>
-  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(60 80 50)"/>
-  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(120 80 50)"/>
+  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(60 80 50)"/>
+  <ellipse cx="80" cy="50" rx="10" ry="3" fill="none" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(120 80 50)"/>
 
   <!-- TEST TUBES (left, in rack) -->
   <!-- Rack -->
@@ -30,7 +30,7 @@
   <path d="M84 128 L84 168 Q84 172 88 172 Q92 172 92 168 L92 128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="80" y="96" width="16" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Bubble -->
-  <circle cx="88" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="88" cy="142" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Test tube 3 (yellow liquid) -->
   <path d="M106 96 L106 168 Q106 174 112 174 Q118 174 118 168 L118 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M108 140 L108 168 Q108 172 112 172 Q116 172 116 168 L116 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -55,17 +55,17 @@
 
   <!-- 'SCIENCE' block letters on lid label -->
   <!-- S -->
-  <path d="M104 46 L104 48 L112 48 L112 50 L104 50 L104 56 L114 56 L114 54 L106 54 L106 52 L114 52 L114 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M104 46 L104 48 L112 48 L112 50 L104 50 L104 56 L114 56 L114 54 L106 54 L106 52 L114 52 L114 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- C -->
-  <path d="M118 46 L118 56 L128 56 L128 54 L122 54 L122 48 L128 48 L128 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M118 46 L118 56 L128 56 L128 54 L122 54 L122 48 L128 48 L128 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- I -->
-  <rect x="132" y="46" width="3" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <rect x="132" y="46" width="3" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- E -->
-  <path d="M140 46 L140 56 L150 56 L150 54 L142 54 L142 52 L148 52 L148 50 L142 50 L142 48 L150 48 L150 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M140 46 L140 56 L150 56 L150 54 L142 54 L142 52 L148 52 L148 50 L142 50 L142 48 L150 48 L150 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- N -->
-  <path d="M154 46 L154 56 L156 56 L156 49 L162 56 L164 56 L164 46 L162 46 L162 53 L156 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M154 46 L154 56 L156 56 L156 49 L162 56 L164 56 L164 46 L162 46 L162 53 L156 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- C -->
-  <path d="M168 46 L168 56 L178 56 L178 54 L172 54 L172 48 L178 48 L178 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M168 46 L168 56 L178 56 L178 54 L172 54 L172 48 L178 48 L178 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- E -->
-  <path d="M182 46 L182 56 L192 56 L192 54 L184 54 L184 52 L190 52 L190 50 L184 50 L184 48 L192 48 L192 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.18"/>
+  <path d="M182 46 L182 56 L192 56 L192 54 L184 54 L184 52 L190 52 L190 50 L184 50 L184 48 L192 48 L192 46 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

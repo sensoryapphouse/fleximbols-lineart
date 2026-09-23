@@ -10,8 +10,8 @@
   <circle cx="145" cy="125" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Cross-section cut line (horizontal) - flat earth cross-section look -->
-  <line x1="40" y1="125" x2="250" y2="125" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="6,4" stroke-linecap="round"/>
-  <line x1="145" y1="20" x2="145" y2="230" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="6,4" stroke-linecap="round"/>
+  <line x1="40" y1="125" x2="250" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,4" stroke-linecap="round"/>
+  <line x1="145" y1="20" x2="145" y2="230" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,4" stroke-linecap="round"/>
 
   <!-- Crust detail: small mountain bumps on top surface -->
   <path d="M80,22 L95,10 L110,22 L125,15 L145,20" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
@@ -33,7 +33,7 @@
   <polygon points="38,121 38,129 46,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- Small bracket lines to show crust thickness at left -->
-  <line x1="33" y1="22" x2="33" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="29" y1="22" x2="37" y2="22" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="29" y1="42" x2="37" y2="42" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="33" y1="22" x2="33" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="29" y1="22" x2="37" y2="22" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="29" y1="42" x2="37" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -28,7 +28,7 @@
   <!-- speaker on phone top -->
   <rect x="135" y="22" width="20" height="4" rx="2" ry="2" fill="#1a1a1a"/>
   <!-- home indicator -->
-  <rect x="130" y="205" width="30" height="4" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="130" y="205" width="30" height="4" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small heart sparkle top left -->
   <path d="M40 60 Q37 54 31 54 Q24 54 24 60 Q24 68 40 80 Q56 68 56 60 Q56 54 49 54 Q43 54 40 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M40 30 L40 42" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>

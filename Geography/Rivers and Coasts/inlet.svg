@@ -8,7 +8,7 @@
         fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- sandy banks of inlet -->
   <path d="M55 125 Q55 119 80 117 L120 114 L170 112 L220 109 L265 107 L265 110 L220 113 L170 116 L120 118 L80 121 Q60 123 60 125 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- trees on land above inlet -->
   <circle cx="50" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="100" cy="55" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

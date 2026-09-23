@@ -8,11 +8,11 @@
   <!-- Handle top cap (metal) -->
   <rect x="63" y="55" width="49" height="14" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Handle wood grain -->
-  <line x1="66" y1="80" x2="108" y2="80" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="64" y1="95" x2="110" y2="95" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="64" y1="110" x2="110" y2="110" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="64" y1="125" x2="110" y2="125" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="64" y1="140" x2="110" y2="140" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="66" y1="80" x2="108" y2="80" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="64" y1="95" x2="110" y2="95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="64" y1="110" x2="110" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="64" y1="125" x2="110" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="64" y1="140" x2="110" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Flat steel blade - narrows to bevelled tip -->
   <polygon points="70,176 104,176 108,230 66,230" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bevel face at cutting edge (angled flat, lighter tone) -->
@@ -23,9 +23,9 @@
   <!-- Mallet head -->
   <rect x="160" y="52" width="90" height="46" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Mallet head wood grain -->
-  <line x1="168" y1="62" x2="242" y2="62" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="72" x2="242" y2="72" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="82" x2="242" y2="82" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="168" y1="62" x2="242" y2="62" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="72" x2="242" y2="72" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="82" x2="242" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Mallet head end caps (darker end grain) -->
   <rect x="160" y="52" width="16" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <rect x="234" y="52" width="16" height="46" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
@@ -34,4 +34,4 @@
   <!-- Handle grip bands -->
   <rect x="193" y="155" width="26" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="193" y="185" width="26" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -30,6 +30,6 @@
   <path d="M26,180 Q145,165 264,180 L264,202 L26,202 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <path d="M26,180 Q145,165 264,180" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Ice shelf / snow on curved horizon -->
-  <ellipse cx="90" cy="186" rx="38" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="200" cy="188" rx="34" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="90" cy="186" rx="38" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="200" cy="188" rx="34" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

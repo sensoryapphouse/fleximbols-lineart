@@ -4,13 +4,13 @@
   <rect x="20" y="50" width="100" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="20" y="50" width="100" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Form lines -->
-  <rect x="30" y="80" width="60" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="30" y="92" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="30" y="104" width="70" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="30" y="116" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M34 54 L52 54 L52 58 L46 58 L46 66 L40 66 L40 58 L34 58 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M56 66 L60 54 L66 54 L70 66 L66 66 L65 63 L61 63 L60 66 Z M62 59 L64 59 L63 56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M74 54 L78 54 L80 58 L82 54 L86 54 L82 60 L86 66 L82 66 L80 62 L78 66 L74 66 L78 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="30" y="80" width="60" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="92" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="104" width="70" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="116" width="80" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M34 54 L52 54 L52 58 L46 58 L46 66 L40 66 L40 58 L34 58 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M56 66 L60 54 L66 54 L70 66 L66 66 L65 63 L61 63 L60 66 Z M62 59 L64 59 L63 56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M74 54 L78 54 L80 58 L82 54 L86 54 L82 60 L86 66 L82 66 L80 62 L78 66 L74 66 L78 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dollar on form -->
   <circle cx="60" cy="160" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M60 150 L60 170 M55 155 Q49 155 49 160 Q49 163 60 163 Q71 163 71 167 Q71 170 66 170 L55 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

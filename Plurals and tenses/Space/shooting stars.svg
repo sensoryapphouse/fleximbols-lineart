@@ -18,8 +18,8 @@
   <!-- Bright star head (5-point star) -->
   <polygon points="148,62 155,84 178,84 160,98 167,120 148,106 129,120 136,98 118,84 141,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Star inner bright centre -->
-  <polygon points="148,74 152,84 163,84 155,91 158,101 148,95 138,101 141,91 133,84 144,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="148,74 152,84 163,84 155,91 158,101 148,95 138,101 141,91 133,84 144,84" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.67" />
   <!-- Small sparkle dots along tail -->
   <circle cx="100" cy="160" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="78" cy="175" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

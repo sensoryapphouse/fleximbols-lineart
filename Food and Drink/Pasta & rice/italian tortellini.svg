@@ -5,27 +5,27 @@
   <path d="M52 140 Q46 200 145 214 Q244 200 238 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <ellipse cx="145" cy="140" rx="93" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Broth/cream in bowl - pale cream -->
-  <ellipse cx="145" cy="158" rx="76" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="158" rx="76" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Tortellini 1 - navel/ring shape, top left -->
   <!-- Outer ring -->
   <ellipse cx="100" cy="152" rx="26" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Inner hole (navel indent) -->
-  <ellipse cx="100" cy="152" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="100" cy="152" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Folded edge (the pinched fold line) -->
   <path d="M76 152 Q100 140 124 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tortellini 2 - top right -->
   <ellipse cx="190" cy="148" rx="26" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <ellipse cx="190" cy="148" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="190" cy="148" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M166 148 Q190 136 214 148" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tortellini 3 - bottom center -->
   <ellipse cx="145" cy="178" rx="26" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="178" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="178" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M121 178 Q145 166 169 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Tortellini 4 - middle between 1 and 2 -->
   <ellipse cx="145" cy="148" rx="22" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="148" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78"/>
-  <path d="M124 148 Q145 138 166 148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <ellipse cx="145" cy="148" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M124 148 Q145 138 166 148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Parsley sprig -->
-  <ellipse cx="108" cy="128" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-20 108 128)"/>
-  <ellipse cx="122" cy="126" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(15 122 126)"/>
+  <ellipse cx="108" cy="128" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 108 128)"/>
+  <ellipse cx="122" cy="126" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 122 126)"/>
 </g></svg>

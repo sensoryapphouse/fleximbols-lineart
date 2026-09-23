@@ -18,7 +18,7 @@
   <line x1="60" y1="175" x2="110" y2="175" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pipe across -->
   <rect x="130" y="115" width="130" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <circle cx="200" cy="122" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="200" cy="122" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- side walls -->
   <line x1="20" y1="90" x2="20" y2="200" stroke="#1a1a1a" stroke-width="8.89"/>
   <line x1="270" y1="90" x2="270" y2="200" stroke="#1a1a1a" stroke-width="8.89"/>

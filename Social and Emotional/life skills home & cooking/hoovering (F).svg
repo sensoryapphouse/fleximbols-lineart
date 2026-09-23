@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="73.70 51.51 449.94 449.94"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<rect x="266" y="438" width="78" height="16" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="330" y="382" width="56" height="72" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<rect x="266" y="438" width="78" height="16" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="330" y="382" width="56" height="72" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="344" cy="454" r="16" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="344" cy="454" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="344" y1="454" x2="344" y2="444" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="344" y1="454" x2="336" y2="459" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="344" y1="454" x2="352" y2="459" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="344" cy="454" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="344" y1="454" x2="344" y2="444" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="344" y1="454" x2="336" y2="459" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="344" y1="454" x2="352" y2="459" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <circle cx="378" cy="454" r="16" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="378" cy="454" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="378" y1="454" x2="378" y2="444" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="378" y1="454" x2="370" y2="459" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="378" y1="454" x2="386" y2="459" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<rect x="344" y="392" width="28" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="378" cy="454" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="378" y1="454" x2="378" y2="444" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="378" y1="454" x2="370" y2="459" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="378" y1="454" x2="386" y2="459" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<rect x="344" y="392" width="28" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 340 386 Q 270 302 294 256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <line x1="294" y1="256" x2="294" y2="202" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="256" cy="446" r="4" fill="none" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="248" cy="434" r="3" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="256" cy="446" r="4" fill="none" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="248" cy="434" r="3" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <g data-part="hair-back"><g transform="translate(159.34 97.88) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="303" x2="214" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="303" x2="214" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="303" x2="258" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="303" x2="258" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="214" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

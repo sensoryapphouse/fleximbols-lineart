@@ -11,10 +11,10 @@
   <path d="M110 160 Q110 112 150 112 L150 112 Q190 112 190 160" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
   <!-- clasp -->
   <rect x="118" y="222" width="64" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-  <circle cx="150" cy="233" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="150" cy="233" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.54"/>
   <!-- side latches -->
-  <circle cx="60" cy="224" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-  <circle cx="240" cy="224" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/></g>
+  <circle cx="60" cy="224" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.54"/>
+  <circle cx="240" cy="224" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.54"/></g>
 <line x1="357" y1="345" x2="351" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="357" y1="345" x2="351" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="379" y1="345" x2="385" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="379" y1="345" x2="385" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <ellipse cx="351" cy="460" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

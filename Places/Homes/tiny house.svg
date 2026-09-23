@@ -6,9 +6,9 @@
   <circle cx="36" cy="185" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wheels (2 small) -->
   <circle cx="110" cy="195" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="110" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="110" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="195" cy="195" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="195" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="195" cy="195" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- House body (small, sits on trailer) -->
   <rect x="80" y="115" width="135" height="58" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Pitched roof -->
@@ -18,9 +18,9 @@
   <!-- Loft window in gable -->
   <rect x="128" y="78" width="34" height="26" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Window cross -->
-  <line x1="145" y1="78" x2="145" y2="104" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="128" y1="91" x2="162" y2="91" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="145" y1="78" x2="145" y2="104" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="128" y1="91" x2="162" y2="91" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Side window -->
   <rect x="92" y="125" width="24" height="20" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="104" y1="125" x2="104" y2="145" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="104" y1="125" x2="104" y2="145" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

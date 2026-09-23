@@ -12,9 +12,9 @@
   <!-- top grain -->
   <ellipse cx="145" cy="88" rx="10" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- awns (bristles) top -->
-  <line x1="145" y1="70" x2="138" y2="56" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="70" x2="145" y2="54" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="145" y1="70" x2="152" y2="56" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="138" y2="56" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="145" y2="54" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="70" x2="152" y2="56" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- no-circle: outer ring -->
   <circle cx="145" cy="145" r="72" fill="none" stroke="#1a1a1a" stroke-width="8.88"/>
   <!-- no-circle: diagonal bar (top-right to bottom-left) -->

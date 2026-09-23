@@ -5,11 +5,11 @@
   <!-- Left leaf -->
   <path d="M 145 195 C 125 188 108 175 105 160 C 118 162 132 172 145 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Left leaf vein -->
-  <path d="M 145 195 C 130 180 115 168 105 160" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 145 195 C 130 180 115 168 105 160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right leaf -->
   <path d="M 145 195 C 165 188 182 175 185 160 C 172 162 158 172 145 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Right leaf vein -->
-  <path d="M 145 195 C 160 180 175 168 185 160" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 145 195 C 160 180 175 168 185 160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Outer petals row 1 (longest) -->
   <ellipse cx="145" cy="78" rx="13" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="78" rx="13" ry="30" transform="rotate(30 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
@@ -24,14 +24,14 @@
   <ellipse cx="145" cy="78" rx="13" ry="30" transform="rotate(300 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="78" rx="13" ry="30" transform="rotate(330 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Inner petals row 2 (shorter, darker orange) -->
-  <ellipse cx="145" cy="88" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(45 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(90 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(135 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(180 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(225 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(270 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(315 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(45 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(90 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(135 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(180 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(225 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(270 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="88" rx="10" ry="22" transform="rotate(315 145 120)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Flower centre -->
   <circle cx="145" cy="120" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Centre texture dots -->

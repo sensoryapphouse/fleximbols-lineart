@@ -6,6 +6,6 @@
 <path d="M 200 326 Q 200 314 216 314 L 296 314 Q 312 314 312 326 L 304 360 Q 302 370 288 370 L 224 370 Q 210 370 208 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
 <line x1="218" y1="332" x2="234" y2="305" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="294" y1="332" x2="278" y2="305" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="240" cy="342" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="272" cy="342" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="240" cy="342" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="272" cy="342" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

@@ -3,7 +3,7 @@
 <!-- long low hull -->
 <path d="M 44 304 L 466 304 L 430 384 L 100 384 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- waterline stripe -->
-<path d="M 60 346 L 452 346 L 444 360 L 68 360 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 60 346 L 452 346 L 444 360 L 68 360 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- main deck plate -->
 <rect x="60" y="276" width="392" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- domed storage tanks (cylindrical) -->
@@ -14,5 +14,5 @@
 <line x1="138" y1="270" x2="366" y2="270" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- aft bridge (right, fully on deck) -->
 <rect x="402" y="226" width="40" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<rect x="412" y="238" width="20" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="412" y="238" width="20" height="16" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

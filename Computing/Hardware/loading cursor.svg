@@ -7,7 +7,7 @@
   <!-- Remaining arc (lighter) -->
   <path d="M 161,124 A 44,44 0 0 1 205,80" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"></path>
   <!-- Spinner dot at leading tip -->
-  <circle cx="205" cy="80" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="205" cy="80" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <!-- Centre of spinner -->
-  <circle cx="183" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"></circle>
+  <circle cx="183" cy="102" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"></circle>
 </g></svg>

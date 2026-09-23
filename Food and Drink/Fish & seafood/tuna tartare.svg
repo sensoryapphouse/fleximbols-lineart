@@ -22,10 +22,10 @@
   <rect x="150" y="128" width="14" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="168" y="132" width="12" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Sesame seeds scattered on top -->
-  <ellipse cx="108" cy="143" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(15 108 143)"/>
-  <ellipse cx="125" cy="140" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-20 125 140)"/>
-  <ellipse cx="165" cy="140" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(10 165 140)"/>
-  <ellipse cx="185" cy="143" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" transform="rotate(-15 185 143)"/>
+  <ellipse cx="108" cy="143" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 108 143)"/>
+  <ellipse cx="125" cy="140" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 125 140)"/>
+  <ellipse cx="165" cy="140" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(10 165 140)"/>
+  <ellipse cx="185" cy="143" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 185 143)"/>
   <!-- Capers (small dark-green rounds) -->
   <circle cx="120" cy="137" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="158" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

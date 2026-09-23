@@ -5,8 +5,8 @@
     <stop offset="100%" stop-color="#ffffff"/>
   </radialGradient>
 </defs>
-<path d="M255 120 A110 48 0 0 1 35 120 A110 48 0 0 1 255 120 Z M188 120 A43 17 0 0 0 102 120 A43 17 0 0 0 188 120 Z" fill="url(#torG)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" fill-rule="evenodd"/>
-<path d="M102 120 A43 17 0 0 1 188 120" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M255 120 A110 48 0 0 1 35 120 A110 48 0 0 1 255 120 Z M188 120 A43 17 0 0 0 102 120 A43 17 0 0 0 188 120 Z" fill="url(#torG)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" fill-rule="evenodd"/>
+<path d="M102 120 A43 17 0 0 1 188 120" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M55 110 Q90 88 130 92" fill="none" stroke="#ffffff" stroke-width="6" opacity="0.45" stroke-linecap="round"/>
-<path d="M155 145 Q190 152 230 138" fill="none" stroke="#1a1a1a" stroke-width="2" opacity="0.3" stroke-linecap="round"/>
+<path d="M155 145 Q190 152 230 138" fill="none" stroke="#1a1a1a" stroke-width="6" opacity="0.3" stroke-linecap="round"/>
 </svg>

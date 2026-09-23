@@ -10,7 +10,7 @@
 <path d="M 44 200 L 150 200 Q 162 200 162 212 L 162 356 L 44 356 Q 36 356 36 348 L 36 212 Q 36 200 44 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <rect x="56" y="222" width="60" height="46" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="36" y1="300" x2="162" y2="300" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="142" cy="282" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="142" cy="282" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <!-- flat-bed goods wagon with crates -->
 <rect x="180" y="304" width="130" height="52" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
 <rect x="196" y="252" width="46" height="54" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
@@ -23,15 +23,15 @@
 <line x1="310" y1="340" x2="330" y2="340" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <!-- wheels -->
 <circle cx="80" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="80" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="80" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="130" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="130" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="130" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="210" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="210" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="210" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="280" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="280" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="280" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="360" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="360" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="360" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
 <circle cx="430" cy="372" r="24" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="430" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<circle cx="430" cy="372" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.19"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -23,13 +23,13 @@
   <rect x="200" y="112" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="226" y="112" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- visible switch stems between rows -->
-  <rect x="52" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="104" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="130" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="156" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="182" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="208" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="78" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="104" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="130" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="156" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="182" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="208" y="108" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
   <!-- row 3 -->
   <rect x="44" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="70" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -40,17 +40,17 @@
   <rect x="200" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="226" y="138" width="22" height="22" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- switch stems row -->
-  <rect x="52" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="78" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="104" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="130" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="156" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="182" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="208" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="78" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="104" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="130" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="156" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="182" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
+  <rect x="208" y="134" width="6" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
   <!-- spacebar -->
   <rect x="80" y="166" width="130" height="18" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- click indication burst -->
   <line x1="240" y1="40" x2="245" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="252" y1="34" x2="252" y2="52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="265" y1="40" x2="258" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

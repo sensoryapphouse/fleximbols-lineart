@@ -13,9 +13,9 @@
   <!-- Inner warm glow -->
   <ellipse cx="145" cy="120" rx="50" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Glowing bulb in centre -->
-  <path d="M 130,115 Q 130,98 145,98 Q 160,98 160,115 L 160,130 L 130,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 130,115 Q 130,98 145,98 Q 160,98 160,115 L 160,130 L 130,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Bulb base -->
-  <rect x="135" y="130" width="20" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="135" y="130" width="20" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Light filament shine -->
   <ellipse cx="145" cy="115" rx="6" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Lower collar -->
@@ -23,6 +23,6 @@
   <!-- Base (fuel reservoir) -->
   <path d="M 80,174 L 210,174 L 200,210 L 90,210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Knob -->
-  <circle cx="200" cy="192" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="200" y1="186" x2="200" y2="198" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="200" cy="192" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="200" y1="186" x2="200" y2="198" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

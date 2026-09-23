@@ -19,6 +19,6 @@
 
 <path d="M 330 230 q 18 -10 0 -24 q -18 -10 0 -24" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 356 236 q 14 -8 0 -20" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="330" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="356" cy="134" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="330" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
+<circle cx="356" cy="134" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
 </g></svg>

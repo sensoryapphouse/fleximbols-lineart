@@ -12,7 +12,7 @@
 <!-- cockpit canopy near nose -->
 <path d="M 372 252 Q 400 240 426 254 L 420 268 L 372 268 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- windows -->
-<circle cx="300" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="266" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="232" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="300" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="266" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="232" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

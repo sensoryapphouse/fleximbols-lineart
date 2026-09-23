@@ -16,33 +16,33 @@
 
   <!-- slot 1: forks -->
   <g>
-    <rect x="72" y="108" width="5" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="72" y="108" width="5" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <path d="M67 95 L67 110 L72 110 L72 95 M77 95 L77 110 L82 110 L82 95 M72 95 L77 95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-    <rect x="86" y="108" width="5" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="86" y="108" width="5" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <path d="M81 95 L81 110 L86 110 L86 95 M91 95 L91 110 L96 110 L96 95 M86 95 L91 95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   </g>
 
   <!-- slot 2: spoons -->
   <g>
     <ellipse cx="118" cy="105" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <rect x="115" y="115" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="115" y="115" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <ellipse cx="135" cy="105" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <rect x="132" y="115" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="132" y="115" width="6" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 
   <!-- slot 3: knives -->
   <g>
     <path d="M158 95 L158 130 L168 130 L165 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-    <rect x="160" y="130" width="6" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="160" y="130" width="6" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
     <path d="M175 95 L175 130 L185 130 L182 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-    <rect x="177" y="130" width="6" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="177" y="130" width="6" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 
   <!-- slot 4: teaspoons -->
   <g>
     <ellipse cx="210" cy="108" rx="7" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <rect x="207" y="115" width="5" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="207" y="115" width="5" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <ellipse cx="225" cy="108" rx="7" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <rect x="222" y="115" width="5" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <rect x="222" y="115" width="5" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

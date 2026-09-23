@@ -4,19 +4,19 @@
   <rect x="85" y="80" width="120" height="135" rx="20" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
   <!-- Top opening well -->
   <ellipse cx="145" cy="82" rx="48" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <ellipse cx="145" cy="80" rx="42" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="80" rx="42" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Digital display panel -->
   <rect x="105" y="155" width="80" height="30" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Digital readout segments -->
-  <rect x="115" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="133" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="153" cy="166" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <circle cx="153" cy="174" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <rect x="158" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="115" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="133" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="153" cy="166" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="153" cy="174" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="162" width="14" height="16" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Touch buttons row -->
-  <circle cx="115" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="175" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="115" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Baby bottle inside (showing above rim) -->
   <rect x="128" y="30" width="34" height="50" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Bottle neck -->
@@ -24,7 +24,7 @@
   <!-- Bottle nipple -->
   <path d="M138 10 Q145 4 152 10 L152 20 L138 20 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Liquid level -->
-  <line x1="132" y1="60" x2="158" y2="60" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="132" y1="60" x2="158" y2="60" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Heat waves rising around bottle -->
   <path d="M108 60 Q102 50 108 40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M115 65 Q109 55 115 45" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

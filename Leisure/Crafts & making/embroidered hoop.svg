@@ -23,10 +23,10 @@
   <ellipse cx="100" cy="170" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-30 100 170)"/>
   <ellipse cx="190" cy="170" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(30 190 170)"/>
   <!-- visible stitches (dashed) -->
-  <path d="M85 80 L100 65" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,2" fill="none"/>
-  <path d="M205 80 L190 65" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,2" fill="none"/>
-  <path d="M80 170 L72 188" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,2" fill="none"/>
-  <path d="M210 170 L218 188" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3,2" fill="none"/>
+  <path d="M85 80 L100 65" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,2" fill="none"/>
+  <path d="M205 80 L190 65" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,2" fill="none"/>
+  <path d="M80 170 L72 188" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,2" fill="none"/>
+  <path d="M210 170 L218 188" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3,2" fill="none"/>
   <!-- stem stitch lines on flower -->
   <path d="M145 130 L145 165" stroke="#1a1a1a" stroke-width="5.56" stroke-dasharray="3,2" fill="none"/>
   <!-- needle and thread -->

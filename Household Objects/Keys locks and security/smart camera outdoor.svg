@@ -25,10 +25,10 @@
   <circle cx="60" cy="121" r="6" fill="#1a1a1a"/>
   <circle cx="56" cy="117" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- IR LED dots on face (night vision, outdoor) -->
-  <circle cx="86" cy="108" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="86" cy="134" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="86" cy="108" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="86" cy="134" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- status LED -->
-  <circle cx="160" cy="121" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="160" cy="121" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- WiFi arcs up-left -->
   <path d="M 110 80 q 10 -10 22 -10" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
   <path d="M 100 66 q 18 -18 38 -18" fill="none" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>

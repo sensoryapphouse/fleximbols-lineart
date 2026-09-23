@@ -9,19 +9,19 @@
   <!-- Layer: granola (golden) -->
   <path d="M101 155 L189 155 L189 180 L101 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Granola crumb texture -->
-  <circle cx="115" cy="167" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="135" cy="172" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="155" cy="165" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="175" cy="172" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="115" cy="167" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="172" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="165" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="172" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Layer: yogurt -->
   <path d="M101 125 L189 125 L189 155 L101 155 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Layer: berries (red) -->
   <path d="M101 95 L189 95 L189 125 L101 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Berry shapes -->
-  <circle cx="118" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="140" cy="115" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="162" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="180" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="140" cy="115" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="162" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="116" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Top yogurt swirl peeking above glass rim -->
   <path d="M105 60 Q120 35 145 45 Q170 35 188 60 Q175 70 145 65 Q120 70 105 60 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Berry on top -->

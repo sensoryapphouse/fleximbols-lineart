@@ -3,26 +3,26 @@
 <path d="M 396 258 A 32 32 0 0 1 396 322" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 396 232 A 58 58 0 0 1 396 348" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 396 206 A 84 84 0 0 1 396 374" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="446.0" cy="250.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="446.0" cy="290.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="446.0" cy="330.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="446.0" cy="250.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="446.0" cy="290.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="446.0" cy="330.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
 <path d="M 60 360 L 84 300 Q 92 282 114 282 L 150 282 L 180 226 Q 190 210 214 210 L 300 210 Q 322 210 332 228 L 360 282 L 416 282 Q 442 284 446 312 L 450 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 174 282 L 200 232 Q 206 224 218 224 L 296 224 Q 306 224 312 234 L 336 282 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
 <line x1="255.0" y1="224.0" x2="255.0" y2="282.0" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <rect x="221.0" y="188.0" width="68.0" height="22.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="255.0" cy="188.0" rx="30.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="255.0" cy="186.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="110.0" cy="318.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="255.0" cy="188.0" rx="30.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="255.0" cy="186.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="110.0" cy="318.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
 <circle cx="150.0" cy="360.0" r="50.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
-<circle cx="150.0" cy="360.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="150.0" cy="360.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="150.0" cy="360.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="150.0" cy="360.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.39"/>
 <circle cx="372.0" cy="360.0" r="50.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="10"/>
-<circle cx="372.0" cy="360.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="372.0" cy="360.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="372.0" cy="360.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
+<circle cx="372.0" cy="360.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.39"/>
 <circle cx="214.0" cy="318.0" r="30.0" fill="none" stroke="#ffffff" stroke-width="8"/>
-<circle cx="214.0" cy="318.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="214.0" cy="318.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39"/>
 <line x1="214.0" y1="318.0" x2="214.0" y2="342.0" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <line x1="214.0" y1="318.0" x2="193.2" y2="306.0" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <line x1="214.0" y1="318.0" x2="234.8" y2="306.0" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
-<polygon points="254,274 258.76,283.24 268,288 258.76,292.76 254,302 249.24,292.76 240,288 249.24,283.24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="254,274 258.76,283.24 268,288 258.76,292.76 254,302 249.24,292.76 240,288 249.24,283.24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.39" stroke-linejoin="round"/>
 </g></svg>

@@ -10,9 +10,9 @@
   <ellipse cx="100" cy="105" rx="32" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <rect x="85" y="135" width="30" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Skull jaw teeth lines -->
-  <line x1="93" y1="135" x2="93" y2="149" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="100" y1="135" x2="100" y2="149" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="107" y1="135" x2="107" y2="149" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="93" y1="135" x2="93" y2="149" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="100" y1="135" x2="100" y2="149" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="107" y1="135" x2="107" y2="149" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Skull eyes -->
   <ellipse cx="90" cy="100" rx="7" ry="9" fill="#1a1a1a"/>
   <ellipse cx="110" cy="100" rx="7" ry="9" fill="#1a1a1a"/>

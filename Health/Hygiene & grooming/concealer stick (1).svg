@@ -26,5 +26,5 @@
   <!-- Stick top slightly domed / angled from use -->
   <ellipse cx="145" cy="44" rx="37" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Angled swipe mark on top -->
-  <path d="M116 38 Q145 30 174 38" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M116 38 Q145 30 174 38" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

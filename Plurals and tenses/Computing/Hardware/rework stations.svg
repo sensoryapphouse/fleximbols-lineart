@@ -36,11 +36,11 @@
   <!-- Circuit board being reworked -->
   <rect x="160" y="155" width="105" height="65" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- PCB grid lines -->
-  <line x1="185" y1="155" x2="185" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="210" y1="155" x2="210" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="235" y1="155" x2="235" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="160" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="160" y1="195" x2="265" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="185" y1="155" x2="185" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="210" y1="155" x2="210" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="235" y1="155" x2="235" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="195" x2="265" y2="195" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- IC chip being reworked (target component) -->
   <rect x="192" y="178" width="36" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- IC pins -->
@@ -52,4 +52,4 @@
   <line x1="203" y1="206" x2="203" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="210" y1="206" x2="210" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="217" y1="206" x2="217" y2="212" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

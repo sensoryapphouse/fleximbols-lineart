@@ -20,7 +20,7 @@
   <!-- Brew button -->
   <circle cx="140" cy="162" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Button icon dot -->
-  <circle cx="140" cy="162" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="140" cy="162" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Water level indicator line -->
   <line x1="108" y1="115" x2="108" y2="135" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <line x1="104" y1="115" x2="112" y2="115" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>

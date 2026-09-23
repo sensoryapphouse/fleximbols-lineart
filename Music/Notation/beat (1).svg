@@ -8,9 +8,9 @@
   <!-- Batter splash right -->
   <ellipse cx="205" cy="115" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Splatter dots -->
-  <circle cx="95" cy="95" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="195" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="160" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="95" cy="95" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="88" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Whisk handle -->
   <rect x="135" y="22" width="12" height="55" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Whisk wires -->

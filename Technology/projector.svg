@@ -7,6 +7,6 @@
   <circle cx="175" cy="125" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <rect x="135" y="140" width="50" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="135" y="155" width="30" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
-  <path d="M 110,148 L 270,68 L 270,228 L 110,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"></path>
+  <path d="M 110,148 L 270,68 L 270,228 L 110,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 112,148 L 270,68 M 112,148 L 270,228" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"></path>
 </g></svg>

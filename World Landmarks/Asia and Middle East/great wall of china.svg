@@ -7,7 +7,7 @@
   <path d="M10 165 L50 130 L90 160 L130 125 L175 155 L220 120 L260 150 L280 145 L280 230 L10 230 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- winding wall along ridge -->
   <path d="M10 175 L50 145 L95 170 L130 140 L175 165 L220 132 L260 160 L280 158" fill="none" stroke="#1a1a1a" stroke-width="20.73" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M10 175 L50 145 L95 170 L130 140 L175 165 L220 132 L260 160 L280 158" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10 175 L50 145 L95 170 L130 140 L175 165 L220 132 L260 160 L280 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- crenellations along the wall (top edge teeth) -->
   <g fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22">
     <rect x="38" y="138" width="5" height="6"/>

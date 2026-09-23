@@ -18,7 +18,7 @@
   <path d="M97 114 Q100 117 103 114" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
   <path d="M108 114 Q111 117 114 114" fill="none" stroke="#1a1a1a" stroke-width="4.00" stroke-linecap="round"/>
   <!-- infant mouth -->
-  <path d="M100 124 Q105 127 110 124" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M100 124 Q105 127 110 124" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- single tear droplet on cheek -->
   <path d="M118 118 Q114 125 118 130 Q122 125 118 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.00" stroke-linejoin="round"/>
   <!-- ceremonial cup (kiddush) beside -->
@@ -30,5 +30,5 @@
   <!-- wine in cup -->
   <ellipse cx="235" cy="55" rx="22" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- cup decorative band -->
-  <path d="M218 72 L252 72" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M218 72 L252 72" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

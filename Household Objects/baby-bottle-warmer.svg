@@ -2,11 +2,11 @@
 <g transform="translate(40.6,166.2) scale(0.679)"><!-- baby bottle warmer: bottle sitting in a heated appliance -->
   <g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <!-- warmer base unit -->
-    <path d="M30 280 h220 l-14 150 a18 18 0 0 1-18 16 H62 a18 18 0 0 1-18-16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.16"/>
-    <rect x="20" y="262" width="240" height="34" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.16"/>
+    <path d="M30 280 h220 l-14 150 a18 18 0 0 1-18 16 H62 a18 18 0 0 1-18-16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.39"/>
+    <rect x="20" y="262" width="240" height="34" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.39"/>
     <!-- control light -->
-    <circle cx="210" cy="345" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.16"/>
-    <circle cx="210" cy="345" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.16"/>
+    <circle cx="210" cy="345" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.39"/>
+    <circle cx="210" cy="345" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.39"/>
     <!-- heat waves rising -->
     <path d="M150 252 q-10 -14 0 -28" fill="none" stroke-width="6"/>
     <path d="M190 252 q-10 -14 0 -28" fill="none" stroke-width="6"/>
@@ -21,15 +21,15 @@
   </g></g>
 <line x1="354" y1="397" x2="324" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <line x1="382" y1="397" x2="412" y2="435" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
-<ellipse cx="320" cy="437" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18"/>
-<ellipse cx="416" cy="437" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18"/>
+<ellipse cx="320" cy="437" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.02"/>
+<ellipse cx="416" cy="437" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.02"/>
 <line x1="346" y1="357" x2="316" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <line x1="390" y1="357" x2="420" y2="391" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <path d="M 338 347 Q 332 405 368 409 Q 404 405 398 347 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle id="h1" data-fig="ma" cx="368" cy="305" r="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" class="skin" data-lp="skin"/>
-<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="348" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="388" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 368 266 q -11 -15 5 -17 q 13 -1 6 13" fill="none" stroke="#1a1a1a" stroke-width="5.02" stroke-linejoin="round"/>
+<circle cx="348" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.02"/>
+<circle cx="388" cy="315" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.02"/>
+<circle cx="355" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.02"/>
+<circle cx="381" cy="301" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.02"/>
 </g></svg>

@@ -8,9 +8,9 @@
   <!-- Bedroom zone (left) label: bed icon -->
   <rect x="56" y="60" width="76" height="52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pillow -->
-  <rect x="61" y="65" width="28" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="61" y="65" width="28" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Blanket line -->
-  <line x1="56" y1="90" x2="132" y2="90" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="56" y1="90" x2="132" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Living zone (right): sofa icon -->
   <rect x="162" y="130" width="74" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sofa back -->

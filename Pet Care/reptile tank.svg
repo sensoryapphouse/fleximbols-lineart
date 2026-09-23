@@ -8,16 +8,16 @@
   <line x1="60" y1="70" x2="60" y2="120" stroke="#ffffff" stroke-width="4.45"/>
   <!-- screen mesh lid -->
   <rect x="25" y="40" width="240" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <line x1="35" y1="46" x2="255" y2="46" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="35" y1="52" x2="255" y2="52" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="35" y1="58" x2="255" y2="58" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="50" y1="42" x2="50" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="80" y1="42" x2="80" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="110" y1="42" x2="110" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="140" y1="42" x2="140" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="170" y1="42" x2="170" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="200" y1="42" x2="200" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="230" y1="42" x2="230" y2="60" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="35" y1="46" x2="255" y2="46" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="35" y1="52" x2="255" y2="52" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="35" y1="58" x2="255" y2="58" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="50" y1="42" x2="50" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="80" y1="42" x2="80" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="110" y1="42" x2="110" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="42" x2="140" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="170" y1="42" x2="170" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="200" y1="42" x2="200" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="230" y1="42" x2="230" y2="60" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- base stand -->
   <rect x="25" y="200" width="240" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- hot rock -->

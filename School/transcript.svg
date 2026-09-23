@@ -26,5 +26,5 @@
   <circle cx="218" cy="175" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <circle cx="218" cy="175" r="20" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="5,4"/>
   <!-- Seal star -->
-  <polygon points="218,158 222,170 235,170 225,178 229,190 218,183 207,190 211,178 201,170 214,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="218,158 222,170 235,170 225,178 229,190 218,183 207,190 211,178 201,170 214,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -14,9 +14,9 @@
   <path d="M 112,170 Q 95,165 88,172 Q 84,182 92,186 Q 100,188 108,182" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 178,170 Q 195,165 202,172 Q 206,182 198,186 Q 190,188 182,182" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Paw claws left -->
-  <path d="M 88,186 L 84,192 M 92,188 L 90,194 M 96,188 L 95,194" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 88,186 L 84,192 M 92,188 L 90,194 M 96,188 L 95,194" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Paw claws right -->
-  <path d="M 198,188 L 202,194 M 202,186 L 206,192 M 194,188 L 195,194" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 198,188 L 202,194 M 202,186 L 206,192 M 194,188 L 195,194" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Head -->
   <ellipse cx="145" cy="105" rx="38" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Ears -->
@@ -34,8 +34,8 @@
   <!-- Mouth -->
   <path d="M 139,124 Q 145,129 151,124" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Whiskers -->
-  <line x1="137" y1="117" x2="118" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="137" y1="120" x2="116" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="153" y1="117" x2="172" y2="112" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="153" y1="120" x2="174" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="137" y1="117" x2="118" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="137" y1="120" x2="116" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="153" y1="117" x2="172" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="153" y1="120" x2="174" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

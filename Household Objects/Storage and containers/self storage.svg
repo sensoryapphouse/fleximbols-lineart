@@ -13,14 +13,14 @@
   <!-- the orange roll-up door (closed) -->
   <rect x="65" y="75" width="160" height="135" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- horizontal slat lines -->
-  <line x1="65" y1="90" x2="225" y2="90" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="105" x2="225" y2="105" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="120" x2="225" y2="120" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="135" x2="225" y2="135" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="150" x2="225" y2="150" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="165" x2="225" y2="165" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="180" x2="225" y2="180" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="65" y1="195" x2="225" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="65" y1="90" x2="225" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="105" x2="225" y2="105" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="120" x2="225" y2="120" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="135" x2="225" y2="135" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="150" x2="225" y2="150" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="165" x2="225" y2="165" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="180" x2="225" y2="180" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="65" y1="195" x2="225" y2="195" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- door handle at bottom centre -->
   <rect x="135" y="198" width="20" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- padlock hasp on door -->

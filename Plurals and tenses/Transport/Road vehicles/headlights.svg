@@ -12,11 +12,11 @@
   </metadata>
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
     <path d="M501,246L486,246L486,246L484,235L482,225L478,218L474,208L463,195L448,183L431,174L413,166L393,163L372,159L351,157L332,155L296,155L261,159L261,159L242,161L227,164L214,168L202,172L193,178L185,183L180,189L176,195L170,204L168,214L170,223L218,227L200,229L204,235L142,261L149,343L320,339L316,328L387,326L385,336L526,334L533,286L501,246L501,246Z M345,183L345,183L362,185L375,189L387,195L394,201L402,208L406,216L412,229L412,229L370,225L330,223L330,223L305,223L282,223L261,225L261,225L261,206L259,193L261,187L261,187L280,185L309,183L345,183L345,183L345,183Z M197,187L197,187L204,183L216,183L229,183L242,187L242,235L242,235L233,227L223,223L214,221L204,220L191,220L183,220L183,220L183,218L183,208L185,204L187,199L191,193L197,187L197,187L197,187Z M387,324L387,324L387,318L387,307L391,294L393,286L398,279L387,324L387,324Z M431,250L438,250L410,265L410,265L419,258L431,250L431,250L431,250Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="269,212 269,212 269,212" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="269,212 269,212" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="269,212 269,212 269,212" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
+    <polygon points="269,212 269,212" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="269,212 269,212" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="400,218 400,218 400,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="400,218 400,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="400,218 400,218 400,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
+    <polygon points="400,218 400,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="400,218 400,218" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polygon points="552,273 552,273 552,280 550,286 549,290 543,294 543,294 537,294 533,292 528,286 526,280 526,280 524,273 526,267 529,263 533,260 533,260 539,260 545,261 549,267 552,273 552,273 552,273" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="383,322 383,322 383,307 385,292 391,277 398,263 408,252 423,242 440,237 461,235 461,235 482,237 501,242 518,252 531,263 541,277 549,294 554,311 554,332 554,332 552,334 549,336 535,336 520,334 520,334 522,320 520,307 516,294 510,280 503,271 491,261 476,256 459,256 459,256 450,256 442,258 434,260 427,263 417,273 410,284 404,298 402,311 400,324 400,336 271,341 280,326 383,322 383,322" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
@@ -34,4 +34,4 @@
     <polygon points="102,277 102,277 100,284 94,290 88,292 83,292 83,292 77,290 73,284 71,279 71,271 71,271 75,263 79,260 84,256 90,256 90,256 96,258 100,263 102,269 102,277 102,277 102,277" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="29,134 61,122 76,183 103,177 88,243 19,203 50,190 29,134" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
   </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="36.85 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<circle cx="291" cy="418" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="280" y1="406" x2="302" y2="414" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="280" y1="414" x2="302" y2="422" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="280" y1="420" x2="302" y2="428" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<circle cx="291" cy="418" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="280" y1="406" x2="302" y2="414" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="280" y1="414" x2="302" y2="422" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="280" y1="420" x2="302" y2="428" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="316" y1="281" x2="316" y2="291" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="316" y1="291" x2="324" y2="452" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<line x1="150" y1="360" x2="184" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="380" x2="178" y2="380" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="150" y1="360" x2="184" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="380" x2="178" y2="380" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <g data-part="hair-back"><g transform="translate(150.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="303" x2="286" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="303" x2="286" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="303" x2="230" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="303" x2="230" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="286" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

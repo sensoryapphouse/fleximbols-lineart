@@ -11,6 +11,6 @@
 
   <!-- vanilla pod accent (white chocolate flavour indicator) -->
   <path d="M240 30 Q260 50 258 80 Q256 90 250 92 Q244 90 240 80 Q238 50 240 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
-  <line x1="244" y1="40" x2="252" y2="75" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="248" y1="38" x2="249" y2="72" stroke="#1a1a1a" stroke-width="1.48" stroke-linecap="round"/>
+  <line x1="244" y1="40" x2="252" y2="75" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="248" y1="38" x2="249" y2="72" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

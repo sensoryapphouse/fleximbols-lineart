@@ -4,10 +4,10 @@
   <!-- Document fold corner -->
   <polyline points="140,30 180,30 180,205 40,205 40,30 140,30 140,65 180,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Document lines -->
-  <line x1="60" y1="90" x2="145" y2="90" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="60" y1="110" x2="145" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="60" y1="130" x2="130" y2="130" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="60" y1="150" x2="140" y2="150" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="60" y1="90" x2="145" y2="90" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="60" y1="110" x2="145" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="60" y1="130" x2="130" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="60" y1="150" x2="140" y2="150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Focus/highlight band over middle of document (scanning) -->
   <rect x="40" y="100" width="140" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Magnifying glass (bold, over document) -->

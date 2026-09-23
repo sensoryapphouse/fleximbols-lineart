@@ -12,13 +12,13 @@
 
 <ellipse cx="282" cy="225" rx="21" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <line x1="269" y1="215" x2="269" y2="187" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
-<circle cx="269" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<circle cx="269" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="278" y1="215" x2="278" y2="187" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
-<circle cx="278" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<circle cx="278" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="287" y1="215" x2="287" y2="187" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
-<circle cx="287" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<circle cx="287" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="296" y1="215" x2="296" y2="187" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
-<circle cx="296" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<circle cx="296" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="263" y1="223" x2="255" y2="238" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
 <line x1="470" y1="300" x2="344" y2="300" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <ellipse cx="334" cy="300" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>

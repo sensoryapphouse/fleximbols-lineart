@@ -15,17 +15,17 @@
 <!-- deep round mixing bowl held in the arm -->
 <path d="M 138 352 A 70 70 0 0 0 270 352 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <ellipse cx="204" cy="352" rx="66" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="204" cy="352" rx="50" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="204" cy="352" rx="50" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
 <!-- whisk being stirred inside the bowl -->
 <line x1="186" y1="352" x2="236" y2="252" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<path d="M 186 354 Q 174 376 188 392" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 196 356 Q 188 378 200 396" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 206 356 Q 204 378 212 396" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 216 354 Q 220 376 222 392" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="186" y1="392" x2="222" y2="392" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 364.6 400 L 451.4 400 L 444.022 443.4 L 371.978 443.4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<ellipse cx="408" cy="400" rx="43" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<path d="M 364.6 400 q 9.92 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 8.68 7.4399999999999995 16.12 1.24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 186 354 Q 174 376 188 392" fill="none" stroke="#1a1a1a" stroke-width="4.82"/>
+<path d="M 196 356 Q 188 378 200 396" fill="none" stroke="#1a1a1a" stroke-width="4.82"/>
+<path d="M 206 356 Q 204 378 212 396" fill="none" stroke="#1a1a1a" stroke-width="4.82"/>
+<path d="M 216 354 Q 220 376 222 392" fill="none" stroke="#1a1a1a" stroke-width="4.82"/>
+<line x1="186" y1="392" x2="222" y2="392" stroke="#1a1a1a" stroke-width="4.82" stroke-linecap="round"/>
+<path d="M 364.6 400 L 451.4 400 L 444.022 443.4 L 371.978 443.4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82" stroke-linejoin="round"/>
+<ellipse cx="408" cy="400" rx="43" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
+<path d="M 364.6 400 q 9.92 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 11.16 9.92 21.7 0 q 8.68 7.4399999999999995 16.12 1.24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82" stroke-linejoin="round"/>
 <!-- cherry on top instead of a birthday candle -->
-<circle cx="408" cy="389" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="408" cy="389" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.82"/>
 </g></svg>

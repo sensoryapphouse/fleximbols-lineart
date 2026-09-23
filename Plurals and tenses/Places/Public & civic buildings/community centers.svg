@@ -8,12 +8,12 @@
 <!-- sign board with three people (community) -->
 <rect x="186" y="262" width="140" height="74" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- left person -->
-<circle cx="216" cy="288" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<path d="M 200 326 Q 200 302 216 302 Q 232 302 232 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="216" cy="288" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2"/>
+<path d="M 200 326 Q 200 302 216 302 Q 232 302 232 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2" stroke-linejoin="round"/>
 <!-- middle person -->
-<circle cx="256" cy="284" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<path d="M 238 326 Q 238 300 256 300 Q 274 300 274 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="256" cy="284" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2"/>
+<path d="M 238 326 Q 238 300 256 300 Q 274 300 274 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2" stroke-linejoin="round"/>
 <!-- right person -->
-<circle cx="296" cy="288" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<path d="M 280 326 Q 280 302 296 302 Q 312 302 312 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-</g><g transform="translate(62.06,99.61) scale(0.7576) translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<circle cx="296" cy="288" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2"/>
+<path d="M 280 326 Q 280 302 296 302 Q 312 302 312 326 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.2" stroke-linejoin="round"/>
+</g><g transform="translate(62.06,99.61) scale(0.7576) translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="28.16" stroke-linejoin="round"/></g></svg>

@@ -28,21 +28,21 @@
   <!-- giraffe ossicones -->
   <path d="M228,70 L226,60 L230,62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M236,70 L238,60 L234,62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="226" cy="58" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="238" cy="58" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="226" cy="58" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="238" cy="58" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- giraffe ears -->
   <ellipse cx="223" cy="74" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="241" cy="74" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- giraffe eye -->
   <circle cx="231" cy="78" r="1.5" fill="#1a1a1a"/>
   <!-- giraffe spots (body) -->
-  <ellipse cx="208" cy="167" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="220" cy="173" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="226" cy="165" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="208" cy="167" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="220" cy="173" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="226" cy="165" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- giraffe spots (neck) -->
-  <ellipse cx="228" cy="110" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="232" cy="130" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="228" cy="145" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="228" cy="110" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="232" cy="130" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="228" cy="145" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- giraffe legs -->
   <rect x="200" y="180" width="5" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="210" y="180" width="5" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

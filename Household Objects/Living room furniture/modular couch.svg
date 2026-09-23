@@ -13,8 +13,8 @@
   <rect x="196" y="96" width="72" height="26" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="262" y="104" width="14" height="52" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Gap indicators (dashed) between modules -->
-  <line x1="95" y1="139" x2="107" y2="139" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="4,3"/>
-  <line x1="183" y1="139" x2="195" y2="139" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <line x1="95" y1="139" x2="107" y2="139" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <line x1="183" y1="139" x2="195" y2="139" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,3"/>
   <!-- Reconfigure arrows above modules -->
   <!-- Arrow left pointing right -->
   <path d="M96,60 L108,60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -26,10 +26,10 @@
   <path d="M100,44 Q145,22 188,44" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="188,36 196,48 180,48" fill="#1a1a1a"/>
   <!-- Legs -->
-  <rect x="22" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="84" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="110" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="172" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="198" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="258" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="22" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="84" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="110" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="172" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="198" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="258" y="160" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -14,5 +14,5 @@
 <line x1="246" y1="250" x2="298" y2="250" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="298" y1="250" x2="280" y2="236" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="298" y1="250" x2="280" y2="264" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="246" y1="250" x2="298" y2="250" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="298" y1="250" x2="280" y2="236" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="298" y1="250" x2="280" y2="264" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
-<polygon points="372,184 375,192 383,192 377,198 379,206 372,201 365,206 367,198 361,192 369,192" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="372,184 375,192 383,192 377,198 379,206 372,201 365,206 367,198 361,192 369,192" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.57" stroke-linejoin="round"/>
 </g></svg>

@@ -18,10 +18,10 @@
   <rect x="38" y="186" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M45 188 L45 198 M40 193 L50 193" stroke="#ffffff" stroke-width="5.56"/>
   <!-- bill lines -->
-  <rect x="58" y="188" width="56" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="58" y="195" width="40" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="38" y="206" width="76" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="38" y="213" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="58" y="188" width="56" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="58" y="195" width="40" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="38" y="206" width="76" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="38" y="213" width="50" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- DEDUCTIBLE banner top -->
   <rect x="14" y="14" width="262" height="34" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- letters as paths inside banner. Layout x positions roughly: -->

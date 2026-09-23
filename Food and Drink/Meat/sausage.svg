@@ -3,5 +3,5 @@
 <path d="M 196 196 Q 280 224 312 308" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <path d="M 176 156 Q 168 148 162 138" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 326 392 Q 334 402 344 406" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<ellipse cx="220" cy="200" rx="20" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" transform="rotate(28 220 200)" data-lp="skin"/>
+<ellipse cx="220" cy="200" rx="20" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" transform="rotate(28 220 200)" data-lp="skin"/>
 </g></svg>

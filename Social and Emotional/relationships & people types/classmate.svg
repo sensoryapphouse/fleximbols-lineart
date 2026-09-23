@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="63.03 99.72 385.94 385.94"><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","fc"]]}</metadata>
 <line x1="96" y1="455" x2="416" y2="455" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<rect x="212" y="125" width="88" height="84" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="226" y1="147" x2="282" y2="147" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="226" y1="165" x2="282" y2="165" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="226" y1="183" x2="282" y2="183" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="218" y1="209" x2="218" y2="305" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="294" y1="209" x2="294" y2="305" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<rect x="212" y="125" width="88" height="84" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="226" y1="147" x2="282" y2="147" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="226" y1="165" x2="282" y2="165" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="226" y1="183" x2="282" y2="183" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="218" y1="209" x2="218" y2="305" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="294" y1="209" x2="294" y2="305" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="169" y1="345" x2="163" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="169" y1="345" x2="163" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="191" y1="345" x2="197" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="191" y1="345" x2="197" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <ellipse cx="163" cy="460" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

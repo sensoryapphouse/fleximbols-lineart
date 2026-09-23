@@ -7,8 +7,8 @@
   <!-- face shadow -->
   <ellipse cx="75" cy="72" rx="28" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- glowing eyes -->
-  <ellipse cx="64" cy="72" rx="5" ry="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="86" cy="72" rx="5" ry="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="64" cy="72" rx="5" ry="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="86" cy="72" rx="5" ry="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- smirk -->
   <path d="M66 90 Q75 86 84 90" stroke="#1a1a1a" stroke-width="3.56" fill="none" stroke-linecap="round"/>
 
@@ -30,7 +30,7 @@
   <!-- laptop -->
   <!-- screen -->
   <rect x="34" y="120" width="88" height="46" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
-  <rect x="40" y="124" width="76" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="40" y="124" width="76" height="38" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- green code lines on screen -->
   <rect x="44" y="128" width="32" height="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="44" y="134" width="44" height="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -50,7 +50,7 @@
     <!-- nose -->
     <path d="M30 42 L26 50 L34 50 Z" fill="#1a1a1a"/>
     <!-- teeth -->
-    <path d="M22 58 L22 64 M26 58 L26 64 M30 58 L30 64 M34 58 L34 64 M38 58 L38 64" stroke="#1a1a1a" stroke-width="2.67"/>
+    <path d="M22 58 L22 64 M26 58 L26 64 M30 58 L30 64 M34 58 L34 64 M38 58 L38 64" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 
   <!-- warning triangle (right side, below skull) -->

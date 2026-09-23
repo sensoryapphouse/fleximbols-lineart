@@ -3,10 +3,10 @@
   <rect x="25" y="30" width="240" height="150" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" data-lp="hair"/>
   <!-- title bar -->
   <rect x="25" y="30" width="240" height="22" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="25" y="46" width="240" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
-  <circle cx="38" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="50" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="62" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="25" y="46" width="240" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="38" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="50" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="62" cy="41" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- crashing app icon with big X -->
   <rect x="45" y="65" width="60" height="60" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -25,8 +25,8 @@
   <circle cx="218" cy="96" r="6" fill="none" stroke="#ffffff" stroke-width="2.96"/>
   <path d="M222 100 L226 104" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>
   <!-- ! -->
-  <rect x="232" y="88" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="232" y="100" width="3" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="232" y="88" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="232" y="100" width="3" height="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- FORCE QUIT block letters at bottom of dialog -->
   <!-- warning triangle below -->

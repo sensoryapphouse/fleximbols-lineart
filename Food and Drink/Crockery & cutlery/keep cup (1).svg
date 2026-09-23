@@ -13,7 +13,7 @@
   <!-- Lid top surface ellipse -->
   <ellipse cx="145" cy="80" rx="55" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Drink hole on lid -->
-  <ellipse cx="165" cy="80" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="165" cy="80" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Small tab on lid -->
   <rect x="85" y="77" width="12" height="8" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 </g></svg>

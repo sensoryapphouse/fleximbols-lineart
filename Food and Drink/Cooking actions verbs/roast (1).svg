@@ -24,9 +24,9 @@
   <path d="M105 140 Q95 152 88 158 Q82 162 84 168 Q90 172 96 168 Q100 158 110 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M185 140 Q195 152 202 158 Q208 162 206 168 Q200 172 194 168 Q190 158 180 148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Drippings on tray -->
-  <ellipse cx="115" cy="148" rx="12" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="172" cy="150" rx="10" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="151" rx="8" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="148" rx="12" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="172" cy="150" rx="10" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="151" rx="8" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Heat element top (red glow) -->
   <path d="M62 78 Q80 75 98 78 Q116 81 134 78 Q152 75 170 78 Q188 81 206 78 Q220 75 228 78" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Steam -->

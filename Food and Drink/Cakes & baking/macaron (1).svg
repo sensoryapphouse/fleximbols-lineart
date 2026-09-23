@@ -2,9 +2,9 @@
   <path d="M 30,150 Q 30,128 78,120 Q 145,108 210,120 Q 258,128 258,150 Q 250,170 220,178 L 70,178 Q 38,170 30,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 50,148 Q 50,138 80,134 Q 145,128 210,134 Q 238,138 238,148 Q 230,158 210,160 L 78,160 Q 56,158 50,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 30,135 Q 30,90 80,82 Q 145,72 210,82 Q 258,90 258,135 Q 250,142 220,143 L 70,143 Q 38,142 30,135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="60" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="80" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="210" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="228" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <ellipse cx="110" cy="100" rx="18" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></ellipse>
+  <circle cx="60" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="80" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="210" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="228" cy="138" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <ellipse cx="110" cy="100" rx="18" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></ellipse>
 </g></svg>

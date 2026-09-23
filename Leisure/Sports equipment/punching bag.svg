@@ -17,5 +17,5 @@
   <path d="M95,145 C95,141 120,138 145,138 C170,138 195,141 195,145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M95,175 C95,171 120,168 145,168 C170,168 195,171 195,175" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Seam line -->
-  <line x1="145" y1="60" x2="145" y2="218" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="8,6"/>
+  <line x1="145" y1="60" x2="145" y2="218" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="8,6"/>
 </g></svg>

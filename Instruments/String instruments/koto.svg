@@ -3,7 +3,7 @@
   <!-- Long flat board body (horizontal) -->
   <rect x="18" y="110" width="254" height="60" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Top surface (slightly lighter) -->
-  <rect x="18" y="110" width="254" height="38" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
+  <rect x="18" y="110" width="254" height="38" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Re-outline -->
   <rect x="18" y="110" width="254" height="60" rx="10" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- End caps / decorative ends -->
@@ -19,7 +19,7 @@
   <line x1="40" y1="138" x2="250" y2="138" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="40" y1="142" x2="250" y2="142" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="40" y1="146" x2="250" y2="146" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="40" y1="150" x2="250" y2="150" stroke="#1a1a1a" stroke-width="0.00"/>
+  <line x1="40" y1="150" x2="250" y2="150" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- String count label area — movable bridges (small triangular pegs under each string) -->
   <!-- Bridges: placed at varying positions (ji) -->
   <polygon points="56,148 60,138 64,148" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

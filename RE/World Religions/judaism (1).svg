@@ -32,11 +32,11 @@
   <path d="M165 180 Q180 165 180 158" stroke="#1a1a1a" stroke-width="11.11" fill="none" stroke-linecap="round"/>
   <path d="M175 180 Q195 160 195 155" stroke="#1a1a1a" stroke-width="11.11" fill="none" stroke-linecap="round"/>
   <!-- flames -->
-  <ellipse cx="95" cy="148" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="110" cy="150" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="125" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="145" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="165" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="180" cy="150" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="195" cy="148" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="95" cy="148" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="110" cy="150" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="125" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="165" cy="153" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="180" cy="150" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="195" cy="148" rx="3" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

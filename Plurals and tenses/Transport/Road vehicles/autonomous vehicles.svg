@@ -6,26 +6,26 @@
   <!-- Windscreen -->
   <path d="M85 145 Q97 108 118 100 L172 100 Q193 108 205 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Windows -->
-  <path d="M88 140 Q98 112 118 104 L172 104 Q192 112 202 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M88 140 Q98 112 118 104 L172 104 Q192 112 202 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- LIDAR sensor on roof -->
   <rect x="125" y="78" width="40" height="16" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="133" y="68" width="24" height="14" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="145" cy="72" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="72" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Signal waves from LIDAR (arc lines) -->
-  <path d="M125 60 Q145 45 165 60" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M115 50 Q145 30 175 50" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M105 40 Q145 15 185 40" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M125 60 Q145 45 165 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M115 50 Q145 30 175 50" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M105 40 Q145 15 185 40" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Door line -->
   <line x1="145" y1="148" x2="145" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Door handle -->
-  <rect x="152" y="172" width="18" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="152" y="172" width="18" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Wheels -->
   <circle cx="72" cy="210" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="72" cy="210" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="72" cy="210" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="218" cy="210" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="218" cy="210" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="218" cy="210" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Headlight -->
   <rect x="28" y="158" width="22" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Tail light -->
   <rect x="240" y="158" width="22" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

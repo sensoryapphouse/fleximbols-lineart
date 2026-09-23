@@ -10,8 +10,8 @@
   <!-- highlight on white film -->
   <path d="M80 90 Q70 110 75 130" fill="none" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
   <!-- small bubble highlights -->
-  <circle cx="100" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="195" cy="125" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="115" cy="160" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="180" cy="155" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="125" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="160" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="155" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

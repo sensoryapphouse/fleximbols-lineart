@@ -20,11 +20,11 @@
   <!-- GIFT text tag on lower-left -->
   <rect x="55" y="222" width="60" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- G -->
-  <path d="M 60 225 L 74 225 L 74 228 L 64 228 L 64 234 L 70 234 L 70 232 L 67 232 L 67 230 L 74 230 L 74 236 L 60 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" fill-rule="evenodd"/>
+  <path d="M 60 225 L 74 225 L 74 228 L 64 228 L 64 234 L 70 234 L 70 232 L 67 232 L 67 230 L 74 230 L 74 236 L 60 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" fill-rule="evenodd"/>
   <!-- I -->
-  <path d="M 77 225 L 82 225 L 82 236 L 77 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 77 225 L 82 225 L 82 236 L 77 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- F -->
-  <path d="M 85 225 L 99 225 L 99 228 L 90 228 L 90 230 L 97 230 L 97 232 L 90 232 L 90 236 L 85 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 85 225 L 99 225 L 99 228 L 90 228 L 90 230 L 97 230 L 97 232 L 90 232 L 90 236 L 85 236 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- T -->
-  <path d="M 101 225 L 114 225 L 114 228 L 110 228 L 110 236 L 105 236 L 105 228 L 101 228 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 101 225 L 114 225 L 114 228 L 110 228 L 110 236 L 105 236 L 105 228 L 101 228 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

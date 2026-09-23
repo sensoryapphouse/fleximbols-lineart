@@ -2,12 +2,12 @@
   <!-- temple silhouette: main body -->
   <rect x="55" y="150" width="180" height="75" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- temple steps -->
-  <rect x="45" y="220" width="200" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="45" y="220" width="200" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- columns / window slots -->
-  <rect x="70" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="92" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="186" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="208" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="70" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="92" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="186" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="208" y="165" width="12" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- central door -->
   <path d="M130 220 L130 180 Q145 168 160 180 L160 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- left side spire -->
@@ -22,8 +22,8 @@
   <!-- spire flagpole -->
   <line x1="145" y1="40" x2="145" y2="22" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- angel Moroni atop spire -->
-  <circle cx="145" cy="16" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M140 22 L140 10 Q145 6 150 10 L150 22 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="145" cy="16" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M140 22 L140 10 Q145 6 150 10 L150 22 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- trumpet -->
-  <path d="M150 13 L168 10 L171 14 L168 18 L150 18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M150 13 L168 10 L171 14 L168 18 L150 18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

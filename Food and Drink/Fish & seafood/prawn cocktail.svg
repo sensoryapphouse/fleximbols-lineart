@@ -13,14 +13,14 @@
   <path d="M75,55 C58,45 48,58 55,72 C62,84 78,82 82,70 C86,58 78,48 70,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M82,70 Q88,80 86,90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Prawn 1 tail -->
-  <path d="M86,90 Q80,98 74,102" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M86,90 Q90,100 88,106" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M86,90 Q80,98 74,102" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M86,90 Q90,100 88,106" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Prawn 2 hooked on right rim -->
   <path d="M215,55 C232,45 242,58 235,72 C228,84 212,82 208,70 C204,58 212,48 220,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M208,70 Q202,80 204,90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Prawn 2 tail -->
-  <path d="M204,90 Q210,98 216,102" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M204,90 Q200,100 202,106" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M204,90 Q210,98 216,102" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M204,90 Q200,100 202,106" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Prawn 3 inside centre top -->
   <path d="M130,60 C118,50 108,62 114,74 C120,86 138,86 144,76 C150,66 144,52 134,56" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

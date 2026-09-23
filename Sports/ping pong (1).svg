@@ -6,11 +6,11 @@
   <!-- Net post right -->
   <rect x="145" y="120" width="5" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Net mesh lines -->
-  <line x1="142" y1="122" x2="142" y2="155" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="148" y1="122" x2="148" y2="155" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="135" y1="130" x2="155" y2="130" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="135" y1="138" x2="155" y2="138" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="135" y1="146" x2="155" y2="146" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="142" y1="122" x2="142" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="148" y1="122" x2="148" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="135" y1="130" x2="155" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="135" y1="138" x2="155" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="135" y1="146" x2="155" y2="146" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Net top bar -->
   <line x1="130" y1="122" x2="160" y2="122" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <!-- Paddle handle -->
@@ -22,8 +22,8 @@
   <!-- Ball -->
   <circle cx="90" cy="95" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34"/>
   <!-- Ball seam -->
-  <path d="M76,95 Q90,82 104,95" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M76,95 Q90,108 104,95" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M76,95 Q90,82 104,95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M76,95 Q90,108 104,95" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Table left half -->
   <rect x="20" y="142" width="120" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Table right half -->

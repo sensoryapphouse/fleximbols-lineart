@@ -4,16 +4,16 @@
   <!-- mug body -->
   <path d="M70 80 Q70 70 80 70 L210 70 Q220 70 220 80 L218 210 Q216 224 200 224 L90 224 Q74 224 72 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- deep red wine -->
-  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M78 90 Q145 108 212 90" fill="none" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- orange slice floating -->
   <ellipse cx="105" cy="100" rx="20" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <ellipse cx="105" cy="100" rx="14" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="105" cy="100" rx="14" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="95" y1="100" x2="115" y2="100" stroke="#ffffff" stroke-width="3.33"/>
   <!-- cloves (small dark dots) -->
-  <circle cx="145" cy="105" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="160" cy="115" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="135" cy="118" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="105" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="115" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="118" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- star anise on top -->
   <path d="M175 95 L180 102 L188 102 L182 108 L184 115 L175 112 L166 115 L168 108 L162 102 L170 102 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- cinnamon stick -->

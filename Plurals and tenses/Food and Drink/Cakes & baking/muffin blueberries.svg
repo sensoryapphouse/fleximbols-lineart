@@ -2,13 +2,13 @@
   <!-- Paper liner - corrugated cup -->
   <path d="M 88,200 L 78,140 L 212,140 L 202,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Liner vertical folds / pleats -->
-  <line x1="97" y1="140" x2="92" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="112" y1="140" x2="106" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="127" y1="140" x2="121" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="145" y1="140" x2="145" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="163" y1="140" x2="169" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="178" y1="140" x2="184" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="193" y1="140" x2="199" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="97" y1="140" x2="92" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="112" y1="140" x2="106" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="127" y1="140" x2="121" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="140" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="163" y1="140" x2="169" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="178" y1="140" x2="184" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="193" y1="140" x2="199" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Muffin top dome - golden-tan baked -->
   <path d="M 68,148 Q 60,100 145,72 Q 230,100 222,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Muffin top surface - slightly darker golden -->
@@ -28,4 +28,4 @@
   <circle cx="156" cy="121" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="108" cy="128" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="180" cy="126" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

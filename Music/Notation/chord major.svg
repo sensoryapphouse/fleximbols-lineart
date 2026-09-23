@@ -47,5 +47,5 @@
 
   <!-- Upward arrow showing wider major interval -->
   <line x1="218" y1="185" x2="218" y2="170" stroke="#1a1a1a" stroke-width="5.18" stroke-linecap="round"/>
-  <polygon points="218,170 212,178 224,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="218,170 212,178 224,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -25,5 +25,5 @@
   <!-- tail fan -->
   <path d="M 232,80 Q 226,70 232,66 M 230,82 Q 222,75 225,68" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- beak -->
-  <path d="M 257,75 L 263,74 L 257,77" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 257,75 L 263,74 L 257,77" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

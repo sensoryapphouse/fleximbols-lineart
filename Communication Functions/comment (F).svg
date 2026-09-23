@@ -12,7 +12,7 @@
 
 <rect x="249" y="78" width="214" height="144" rx="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="206" y1="155" x2="218.6" y2="168.2" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<polygon points="239.3,189.9 207.8,178.6 229.4,157.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="239.3,189.9 207.8,178.6 229.4,157.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.38" stroke-linejoin="round"/>
 <line x1="278" y1="120" x2="434" y2="120" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="278" y1="120" x2="434" y2="120" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="278" y1="150" x2="434" y2="150" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="278" y1="150" x2="434" y2="150" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="278" y1="180" x2="396" y2="180" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="278" y1="180" x2="396" y2="180" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>

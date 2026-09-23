@@ -22,8 +22,8 @@
   <ellipse cx="225" cy="60" rx="11" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="260" cy="55" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- fallen leaves (maple-ish) -->
-  <path d="M30,215 L25,210 L20,213 L25,217 L20,222 L28,220 L30,225 L34,220 L40,222 L35,217 L40,213 L33,212 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M100,225 L96,221 L92,223 L96,227 L92,232 L99,230 L101,234 L104,230 L110,232 L106,227 L110,223 L103,222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M175,228 L171,224 L167,226 L171,230 L168,235 L175,233 L177,236 L180,233 L186,235 L182,230 L186,226 L179,225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M260,218 L256,214 L252,216 L256,220 L252,225 L259,223 L261,227 L264,223 L270,225 L266,220 L270,216 L263,215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M30,215 L25,210 L20,213 L25,217 L20,222 L28,220 L30,225 L34,220 L40,222 L35,217 L40,213 L33,212 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M100,225 L96,221 L92,223 L96,227 L92,232 L99,230 L101,234 L104,230 L110,232 L106,227 L110,223 L103,222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M175,228 L171,224 L167,226 L171,230 L168,235 L175,233 L177,236 L180,233 L186,235 L182,230 L186,226 L179,225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M260,218 L256,214 L252,216 L256,220 L252,225 L259,223 L261,227 L264,223 L270,225 L266,220 L270,216 L263,215 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -4,23 +4,23 @@
   <rect x="40" y="90" width="130" height="80" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <rect x="40" y="80" width="130" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Roll door lines -->
-  <line x1="56" y1="108" x2="156" y2="108" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="56" y1="124" x2="156" y2="124" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="56" y1="140" x2="156" y2="140" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="56" y1="156" x2="156" y2="156" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="56" y1="108" x2="156" y2="108" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="56" y1="124" x2="156" y2="124" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="56" y1="140" x2="156" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="56" y1="156" x2="156" y2="156" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cab -->
   <path d="M 170 110 L 195 110 L 220 130 L 220 170 L 170 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Windshield -->
   <path d="M 175 116 L 195 116 L 212 132 L 175 132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Wheels -->
   <circle cx="80" cy="178" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="80" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="80" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="195" cy="178" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="195" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="195" cy="178" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Package on truck side -->
   <rect x="75" y="115" width="40" height="36" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="75" y1="133" x2="115" y2="133" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="95" y1="115" x2="95" y2="151" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="75" y1="133" x2="115" y2="133" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="95" y1="115" x2="95" y2="151" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Crossed-out dollar (FREE indicator) -->
   <circle cx="244" cy="50" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 250 38 Q 240 38 238 44 Q 238 50 246 52 Q 254 54 254 60 Q 252 66 242 66 M 246 32 L 246 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -29,6 +29,6 @@
   <!-- FREE letters (left of truck top) -->
   <!-- SHIPPING letters bottom -->
   <!-- green checkmark badge (replaces FREE SHIPPING letters) -->
-  <circle cx="244" cy="130" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="244" cy="130" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M232 130 L241 139 L258 118" fill="none" stroke="#ffffff" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

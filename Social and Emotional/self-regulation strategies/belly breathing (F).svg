@@ -13,8 +13,8 @@
 
 
 
-<circle cx="236" cy="321" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 261 301 Q 268 315 261 329" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 269 285 Q 284 315 269 345" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 277 269 Q 300 315 277 361" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="236" cy="321" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 261 301 Q 268 315 261 329" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 269 285 Q 284 315 269 345" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 277 269 Q 300 315 277 361" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

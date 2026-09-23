@@ -11,8 +11,8 @@
   <!-- Middle compost layer -->
   <rect x="65" y="148" width="160" height="34" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Layer divider lines -->
-  <line x1="65" y1="180" x2="225" y2="180" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="65" y1="148" x2="225" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="65" y1="180" x2="225" y2="180" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="65" y1="148" x2="225" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Food scraps top layer hint -->
   <ellipse cx="100" cy="128" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <ellipse cx="145" cy="124" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -23,8 +23,8 @@
   <!-- Worm in middle layer -->
   <path d="M90 162 Q105 156 118 162 Q130 168 145 162" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Ventilation holes on side -->
-  <circle cx="44" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="44" cy="160" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="44" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="44" cy="160" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ground -->
   <line x1="30" y1="228" x2="260" y2="228" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

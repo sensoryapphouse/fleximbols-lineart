@@ -3,7 +3,7 @@
   <circle cx="145" cy="135" r="65" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40"></circle>
   <circle cx="145" cy="135" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="145" cy="135" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
-  <circle cx="145" cy="135" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
-  <circle cx="145" cy="50" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="145" cy="135" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="145" cy="50" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <rect x="90" y="200" width="110" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
 </g></svg>

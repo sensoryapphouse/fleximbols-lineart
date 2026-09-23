@@ -3,9 +3,9 @@
 <ellipse cx="240.0" cy="310.0" rx="116.0" ry="37.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <path d="M 168 308 q 72 26 144 0" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.75"/>
 <path d="M 188 290 q 52 18 104 0" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
-<circle cx="206.0" cy="312.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.28" />
-<circle cx="262.0" cy="320.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.28" />
-<circle cx="240.0" cy="300.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.28" />
+<circle cx="206.0" cy="312.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14" />
+<circle cx="262.0" cy="320.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14" />
+<circle cx="240.0" cy="300.0" r="4.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.14" />
 <line x1="296" y1="120" x2="346" y2="172" stroke="#1a1a1a" stroke-width="37.0" stroke-linecap="round"/><line x1="346" y1="172" x2="420" y2="78" stroke="#1a1a1a" stroke-width="37.0" stroke-linecap="round"/><line x1="296" y1="120" x2="346" y2="172" stroke="#1a1a1a" stroke-width="31.5" stroke-linecap="round"/>
 <line x1="346" y1="172" x2="420" y2="78" stroke="#1a1a1a" stroke-width="31.5" stroke-linecap="round"/>
 </g></svg>

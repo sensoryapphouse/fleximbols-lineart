@@ -21,13 +21,13 @@
   <path d="M172 128 Q188 122 205 130" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Radish slices garnish -->
   <circle cx="90" cy="110" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="90" cy="110" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="110" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="118" cy="104" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="118" cy="104" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="104" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Shredded cabbage garnish -->
   <path d="M145 98 Q160 90 178 96 Q175 108 158 108 Q145 108 145 98Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
-  <path d="M148 100 Q160 95 174 100" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M150 104 Q162 100 172 104" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M148 100 Q160 95 174 100" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M150 104 Q162 100 172 104" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Bowl base shadow line -->
   <path d="M65 190 Q145 208 225 190" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

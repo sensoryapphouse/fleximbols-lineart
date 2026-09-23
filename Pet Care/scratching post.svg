@@ -18,5 +18,5 @@
   <!-- Dangling toy ball -->
   <circle cx="145" cy="20" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Toy highlight detail -->
-  <circle cx="141" cy="17" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="141" cy="17" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

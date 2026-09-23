@@ -9,15 +9,15 @@
 <line x1="338" y1="174" x2="326" y2="194"/>
 <line x1="406" y1="174" x2="418" y2="194"/>
 </g>
-<circle cx="372" cy="140" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.75" />
-<circle cx="372" cy="140" r="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.75" />
+<circle cx="372" cy="140" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" />
+<circle cx="372" cy="140" r="29" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" />
 <!-- warm/hot person in house style: standard engine figure, short sleeves, wiping brow -->
 <g transform="translate(-58 34)">
 <!-- legs (engine splay) -->
 <line x1="241" y1="303" x2="286" y2="455" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/>
 <line x1="271" y1="303" x2="230" y2="455" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/>
-<ellipse cx="286" cy="457" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.75" />
-<ellipse cx="230" cy="457" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.75" />
+<ellipse cx="286" cy="457" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" />
+<ellipse cx="230" cy="457" rx="13" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" />
 <!-- left arm relaxed down (short sleeve + bare skin forearm) -->
 <line x1="226" y1="199" x2="210" y2="250" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/>
 <line x1="210" y1="250" x2="204" y2="300" stroke="#1a1a1a" stroke-width="14.0" stroke-linecap="round"/>
@@ -31,12 +31,12 @@
 <!-- head -->
 <circle cx="256" cy="130" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <!-- hair -->
-<path d="M 216.0 130.0 Q 216.0 80.0 256 80.0 Q 296.0 80.0 296.0 130.0 Q 256 103.0 216.0 130.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" data-lp="hair"/>
+<path d="M 216.0 130.0 Q 216.0 80.0 256 80.0 Q 296.0 80.0 296.0 130.0 Q 256 103.0 216.0 130.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round" data-lp="hair"/>
 <!-- warm face: eyes + gentle smile -->
 <circle cx="242" cy="132" r="4.5" fill="#1a1a1a"/>
 <circle cx="270" cy="132" r="4.5" fill="#1a1a1a"/>
 <path d="M 240 146 Q 256 160 272 146" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- sweat drop (heat cue) -->
-<path d="M 300 108 q -7 11 0 17 q 7 -6 0 -17 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 300 108 q -7 11 0 17 q 7 -6 0 -17 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.5" stroke-linejoin="round"/>
 </g>
 </g></svg>

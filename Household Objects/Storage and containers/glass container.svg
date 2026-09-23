@@ -2,7 +2,7 @@
   <!-- Container body (clear glass look - light fill) -->
   <rect x="70" y="100" width="150" height="110" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Glass highlight stripe -->
-  <rect x="84" y="110" width="16" height="86" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="84" y="110" width="16" height="86" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Coloured snap lid -->
   <rect x="58" y="76" width="174" height="30" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Snap clip left -->

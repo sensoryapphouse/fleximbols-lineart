@@ -30,8 +30,8 @@
   <rect x="216" y="47" width="14" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="236" y="34" width="14" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Paths from small homes toward centre (dashed) -->
-  <line x1="80" y1="153" x2="108" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
-  <line x1="210" y1="153" x2="182" y2="153" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
-  <line x1="70" y1="69" x2="115" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
-  <line x1="220" y1="69" x2="175" y2="110" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="80" y1="153" x2="108" y2="153" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="210" y1="153" x2="182" y2="153" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="70" y1="69" x2="115" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6 4" stroke-linecap="round"/>
+  <line x1="220" y1="69" x2="175" y2="110" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6 4" stroke-linecap="round"/>
 </g></svg>

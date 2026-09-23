@@ -11,11 +11,11 @@
   <ellipse cx="145" cy="68" rx="13" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="163" cy="80" rx="14" ry="28" transform="rotate(20 163 80)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- inner 3 white short petals with green mark -->
-  <ellipse cx="131" cy="93" rx="9" ry="18" transform="rotate(-15 131 93)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="145" cy="88" rx="9" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="159" cy="93" rx="9" ry="18" transform="rotate(15 159 93)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="131" cy="93" rx="9" ry="18" transform="rotate(-15 131 93)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="88" rx="9" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="159" cy="93" rx="9" ry="18" transform="rotate(15 159 93)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- green notch mark on inner petals -->
-  <path d="M136 103 Q131 108 126 103" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M150 101 Q145 106 140 101" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M164 103 Q159 108 154 103" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M136 103 Q131 108 126 103" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M150 101 Q145 106 140 101" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M164 103 Q159 108 154 103" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

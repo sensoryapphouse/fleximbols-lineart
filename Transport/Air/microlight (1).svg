@@ -2,17 +2,17 @@
   <!-- Delta wing - large triangular fabric wing -->
   <polygon points="145,88 18,175 272,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Delta wing inner surface texture line -->
-  <line x1="145" y1="88" x2="145" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="88" x2="145" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wing leading edge highlight (lighter shade on top surface) -->
-  <polygon points="145,88 18,175 80,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="145,88 18,175 80,175" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Control bar / A-frame hang -->
   <line x1="145" y1="130" x2="108" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="145" y1="130" x2="182" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="108" y1="168" x2="182" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Hang wire left -->
-  <line x1="145" y1="100" x2="108" y2="168" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="100" x2="108" y2="168" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Hang wire right -->
-  <line x1="145" y1="100" x2="182" y2="168" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="145" y1="100" x2="182" y2="168" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Trike pod body -->
   <ellipse cx="145" cy="188" rx="38" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Trike pod nose -->
@@ -20,7 +20,7 @@
   <!-- Pusher prop at rear of trike -->
   <ellipse cx="184" cy="185" rx="5" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Prop hub -->
-  <circle cx="184" cy="188" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="184" cy="188" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Engine on rear of trike -->
   <rect x="172" y="180" width="12" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Front wheel (nosewheel) -->
@@ -32,5 +32,5 @@
   <!-- Right rear wheel -->
   <circle cx="175" cy="206" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pilot in trike pod -->
-  <circle cx="140" cy="182" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="140" cy="182" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

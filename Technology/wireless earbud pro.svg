@@ -10,7 +10,7 @@
   <ellipse cx="85" cy="145" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="145" cy="145" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- charging LED on front of case -->
-  <circle cx="115" cy="180" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="115" cy="180" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- LEFT earbud (premium pro style with stem) sitting outside case to the left/above -->
   <g>
     <!-- main bud body -->
@@ -21,9 +21,9 @@
     <!-- stem (pro indicator) -->
     <rect x="208" y="98" width="14" height="55" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
     <!-- mic dot at stem bottom -->
-    <circle cx="215" cy="148" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+    <circle cx="215" cy="148" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <!-- touch sensor band on stem -->
-    <line x1="208" y1="120" x2="222" y2="120" stroke="#1a1a1a" stroke-width="2.67"/>
+    <line x1="208" y1="120" x2="222" y2="120" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- RIGHT earbud (pro, with stem) -->
   <g>
@@ -31,8 +31,8 @@
     <ellipse cx="240" cy="160" rx="9" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
     <ellipse cx="237" cy="160" rx="4" ry="6" fill="#1a1a1a"/>
     <rect x="248" y="183" width="14" height="40" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
-    <circle cx="255" cy="218" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-    <line x1="248" y1="203" x2="262" y2="203" stroke="#1a1a1a" stroke-width="2.67"/>
+    <circle cx="255" cy="218" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+    <line x1="248" y1="203" x2="262" y2="203" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- small wireless wave indicator near top right corner of case -->
   <path d="M 180 95 Q 195 95 205 85" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

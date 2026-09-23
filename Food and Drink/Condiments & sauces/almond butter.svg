@@ -11,7 +11,7 @@
   <!-- Almond inner crease -->
   <line x1="210" y1="125" x2="210" y2="183" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Almond skin texture lines -->
-  <path d="M205,135 Q210,132 215,135" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M203,150 Q210,147 217,150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M204,165 Q210,162 216,165" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M205,135 Q210,132 215,135" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M203,150 Q210,147 217,150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M204,165 Q210,162 216,165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

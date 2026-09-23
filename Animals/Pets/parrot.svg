@@ -11,7 +11,7 @@
 <!-- head (red, upright) -->
 <circle cx="232" cy="170" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- eye -->
-<circle cx="216" cy="158" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="216" cy="158" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="214" cy="158" r="6" fill="#1a1a1a"/>
 <!-- hooked beak pointing left -->
 <path d="M 184 168 C 150 162 134 178 144 200 C 154 214 176 210 188 196 C 178 192 176 178 184 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>

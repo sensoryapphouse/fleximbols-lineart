@@ -2,7 +2,7 @@
   <!-- ceiling band at top -->
   <rect x="0" y="0" width="290" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- ceiling texture lines -->
-  <path d="M 30 20 L 60 20 M 90 20 L 130 20 M 160 20 L 200 20 M 230 20 L 260 20" stroke="#1a1a1a" stroke-width="3.56" fill="none" stroke-linecap="round"/>
+  <path d="M 30 20 L 60 20 M 90 20 L 130 20 M 160 20 L 200 20 M 230 20 L 260 20" stroke="#1a1a1a" stroke-width="4.97" fill="none" stroke-linecap="round"/>
   <!-- ceiling mount cylinder -->
   <rect x="115" y="40" width="60" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" data-lp="hair"/>
   <!-- main detector disc (round, viewed from below/side) -->
@@ -11,22 +11,22 @@
   <path d="M 50 125 Q 50 165 145 165 Q 240 165 240 125 L 240 145 Q 240 185 145 185 Q 50 185 50 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" data-lp="hair"/>
   <!-- center test button -->
   <circle cx="145" cy="125" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
-  <circle cx="145" cy="125" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="145" cy="125" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
   <!-- alert LED (red, flashing alert indicator) -->
-  <circle cx="100" cy="110" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
+  <circle cx="100" cy="110" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
   <!-- alert ray bursts around LED -->
   <path d="M 100 95 L 100 88 M 85 110 L 78 110 M 100 125 L 100 132 M 115 110 L 122 110 M 89 99 L 84 94 M 111 99 L 116 94" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <!-- vent holes around the disc -->
-  <circle cx="180" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="195" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="190" cy="145" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="115" cy="145" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="95" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="180" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+  <circle cx="195" cy="125" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+  <circle cx="190" cy="145" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+  <circle cx="115" cy="145" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
+  <circle cx="95" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
   <!-- WiFi waves above to the right -->
   <path d="M 215 50 Q 240 30 265 50" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <path d="M 223 60 Q 240 45 257 60" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
-  <circle cx="240" cy="70" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="240" cy="70" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
   <!-- smoke wisps under detector -->
   <path d="M 110 200 Q 115 210 120 200 Q 125 210 130 200" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M 155 210 Q 160 220 165 210 Q 170 220 175 210" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

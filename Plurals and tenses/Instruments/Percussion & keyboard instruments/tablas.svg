@@ -4,7 +4,7 @@
   <!-- Bowl body -->
   <path d="M35,148 Q35,208 105,215 Q175,208 175,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Metal sheen highlight -->
-  <path d="M50,148 Q50,200 105,205 Q160,200 160,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" data-lp="hair"/>
+  <path d="M50,148 Q50,200 105,205 Q160,200 160,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <path d="M35,148 Q35,208 105,215 Q175,208 175,148 Z" fill="none" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Bayan drumhead (flat top ellipse) -->
   <ellipse cx="105" cy="148" rx="70" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" data-lp="hair"/>
@@ -21,9 +21,9 @@
   <!-- Drum body (cylinder, tapering slightly) -->
   <path d="M185,115 L185,210 Q185,218 210,220 Q235,218 235,210 L235,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Wood grain lines -->
-  <line x1="195" y1="115" x2="195" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="207" y1="115" x2="207" y2="221" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="220" y1="115" x2="220" y2="221" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="195" y1="115" x2="195" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="207" y1="115" x2="207" y2="221" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="220" y1="115" x2="220" y2="221" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dayan drumhead (top ellipse) -->
   <ellipse cx="210" cy="115" rx="25" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" data-lp="hair"/>
   <!-- Black tuning circle on dayan head -->
@@ -34,4 +34,4 @@
   <line x1="210" y1="124" x2="210" y2="220" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="223" y1="124" x2="224" y2="219" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="233" y1="122" x2="236" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

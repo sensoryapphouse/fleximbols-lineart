@@ -10,16 +10,16 @@
   <rect x="148" y="85" width="8" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="159" y="85" width="8" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   
-  <ellipse cx="132" cy="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="158" cy="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="132" cy="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="158" cy="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <path d="M141 68 L145 63 L149 68 Q145 72 141 68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   
-  <rect x="139" y="100" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="139" y="112" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="139" y="124" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="139" y="136" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="139" y="148" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="139" y="100" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="139" y="112" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="139" y="124" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="139" y="136" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="139" y="148" width="12" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <path d="M145 103 Q118 108 115 122 Q118 132 130 128 Q138 124 141 118" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M145 112 Q115 118 113 130 Q116 140 128 136 Q138 132 141 126" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

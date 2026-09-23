@@ -10,8 +10,8 @@
   <line x1="56"  y1="280" x2="4"   y2="464" stroke="#1a1a1a" stroke-width="7.85"/>
   <line x1="456" y1="280" x2="508" y2="464" stroke="#1a1a1a" stroke-width="7.85"/>
   <!-- floor board lines (lateral) -->
-  <line x1="56"  y1="340" x2="456" y2="340" stroke="#1a1a1a" stroke-width="5.23"/>
-  <line x1="30"  y1="406" x2="482" y2="406" stroke="#1a1a1a" stroke-width="5.23"/>
+  <line x1="56"  y1="340" x2="456" y2="340" stroke="#1a1a1a" stroke-width="7.25"/>
+  <line x1="30"  y1="406" x2="482" y2="406" stroke="#1a1a1a" stroke-width="7.25"/>
   <!-- arrow pointing to floor -->
   <line x1="256" y1="130" x2="256" y2="262" stroke="#1a1a1a" stroke-width="26.16" stroke-linecap="round"/>
   <polygon points="256,280 236,254 276,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85"/>

@@ -7,11 +7,11 @@
   <!-- mesh swirl petals -->
   <path d="M145 70 Q100 90 90 130 Q86 170 120 200 Q150 214 188 196 Q220 170 218 132 Q210 90 170 74 Q156 70 145 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- mesh ruffle lines -->
-  <path d="M82 130 Q145 110 210 130" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M86 150 Q145 134 206 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M92 170 Q145 156 200 170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M110 96 Q145 86 182 96" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M110 188 Q145 200 182 188" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M82 130 Q145 110 210 130" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M86 150 Q145 134 206 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M92 170 Q145 156 200 170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M110 96 Q145 86 182 96" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M110 188 Q145 200 182 188" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- swirl center -->
   <circle cx="145" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- airy bubbles -->

@@ -12,16 +12,16 @@
   <!-- body -->
   <path d="M40 175 L50 130 L235 130 L250 155 L250 185 L40 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- accent stripe -->
-  <rect x="50" y="155" width="200" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="50" y="155" width="200" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bench seat -->
-  <rect x="155" y="105" width="75" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="155" y="100" width="75" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="155" y="105" width="75" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="155" y="100" width="75" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- steering wheel -->
   <circle cx="95" cy="115" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="95" y1="125" x2="95" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- 4 small wheels -->
-  <circle cx="75" cy="190" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="75" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="215" cy="190" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="215" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="75" cy="190" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="75" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="215" cy="190" r="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="215" cy="190" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

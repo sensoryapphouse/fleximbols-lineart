@@ -16,7 +16,7 @@
   <!-- Percent marks -->
   <circle cx="169" cy="96" r="3" fill="#1a1a1a"/>
   <circle cx="179" cy="105" r="3" fill="#1a1a1a"/>
-  <line x1="171" y1="106" x2="178" y2="95" stroke="#1a1a1a" stroke-width="3.18" stroke-linecap="round"/>
+  <line x1="171" y1="106" x2="178" y2="95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wi-fi arcs above laptop (online feel) -->
   <path d="M 120 40 Q 145 28 170 40" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 128 50 Q 145 42 162 50" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>

@@ -19,9 +19,9 @@
   <!-- Brush handle (angled) -->
   <line x1="270" y1="20" x2="200" y2="130" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- Brush ferrule -->
-  <rect x="195" y="125" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78" stroke-linejoin="round" transform="rotate(-55 202 130)"/>
+  <rect x="195" y="125" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-55 202 130)"/>
   <!-- Brush tip - tinted black with dye -->
-  <ellipse cx="193" cy="142" rx="5" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.78" transform="rotate(-55 193 142)"/>
+  <ellipse cx="193" cy="142" rx="5" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-55 193 142)"/>
   <!-- DYE DROP on cheek (tint colour) -->
-  <path d="M232 175 Q224 188 232 200 Q240 188 232 175Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M232 175 Q224 188 232 200 Q240 188 232 175Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

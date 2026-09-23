@@ -16,10 +16,10 @@
   <!-- Handle inner opening (closed pistol grip) -->
   <path d="M58,78 Q57,70 62,66 Q68,62 73,66 Q77,70 76,78 L76,96 Q68,100 60,96Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
   <!-- Handle wood grain lines -->
-  <line x1="55" y1="68" x2="68" y2="64" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="54" y1="76" x2="68" y2="72" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="54" y1="84" x2="68" y2="82" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="55" y1="68" x2="68" y2="64" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="54" y1="76" x2="68" y2="72" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="54" y1="84" x2="68" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Handle attachment screws -->
   <circle cx="64" cy="105" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <circle cx="78" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

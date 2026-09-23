@@ -5,7 +5,7 @@
 <rect x="246" y="214" width="48" height="94" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <!-- round knob (highlighted) -->
 <circle cx="290" cy="261" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="278" cy="249" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="278" cy="249" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- stem -->
 <rect x="262" y="251" width="20" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 </svg>

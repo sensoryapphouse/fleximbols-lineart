@@ -19,16 +19,16 @@
   <!-- Small car icon on map (black/white app style) -->
   <rect x="118" y="118" width="44" height="22" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M124 118 Q128 110 138 108 L144 108 Q152 110 156 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="126" cy="140" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="154" cy="140" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="126" cy="140" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="154" cy="140" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pickup pin (black, app style) -->
-  <path d="M148 75 Q148 57 160 53 Q172 49 174 62 Q174 72 160 83 Q148 75 148 75 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M148 75 Q148 57 160 53 Q172 49 174 62 Q174 72 160 83 Q148 75 148 75 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="161" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bottom panel on phone -->
   <rect x="85" y="170" width="120" height="42" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="85" y="170" width="120" height="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- ETA bar (black pill) -->
-  <rect x="95" y="178" width="100" height="26" rx="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="95" y="178" width="100" height="26" rx="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- ETA dots (suggest text without text) -->
   <circle cx="122" cy="191" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="145" cy="191" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

@@ -12,11 +12,11 @@
 <!-- head -->
 <circle id="h1" data-fig="ma" cx="256" cy="124" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="skin"/>
 <!-- longer hair framing face -->
-<path d="M 212 124 Q 210 80 256 80 Q 302 80 300 124 Q 256 100 212 124 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 212 124 Q 204 172 216 192 L 230 184 Q 222 144 224 126 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 300 124 Q 308 172 296 192 L 282 184 Q 290 144 288 126 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 212 124 Q 210 80 256 80 Q 302 80 300 124 Q 256 100 212 124 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 212 124 Q 204 172 216 192 L 230 184 Q 222 144 224 126 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 300 124 Q 308 172 296 192 L 282 184 Q 290 144 288 126 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- simple face -->
 <circle cx="242" cy="122" r="4" fill="#1a1a1a"/>
 <circle cx="270" cy="122" r="4" fill="#1a1a1a"/>
-<path d="M 244 142 Q 256 148 268 142" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 244 142 Q 256 148 268 142" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

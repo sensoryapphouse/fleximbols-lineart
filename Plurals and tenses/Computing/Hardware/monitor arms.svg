@@ -8,9 +8,9 @@
   <!-- clamp jaw bottom -->
   <rect x="46" y="178" width="40" height="10" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- clamp screw -->
-  <circle cx="66" cy="192" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
-  <line x1="62" y1="192" x2="70" y2="192" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="66" y1="188" x2="66" y2="196" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <circle cx="66" cy="192" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61"/>
+  <line x1="62" y1="192" x2="70" y2="192" stroke="#1a1a1a" stroke-width="4.61" stroke-linecap="round"/>
+  <line x1="66" y1="188" x2="66" y2="196" stroke="#1a1a1a" stroke-width="4.61" stroke-linecap="round"/>
   <!-- vertical pole from clamp -->
   <rect x="60" y="70" width="12" height="88" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- horizontal arm segment 1 — sweeps right from pole top -->
@@ -22,16 +22,16 @@
   <!-- pivot joint 2 -->
   <circle cx="214" cy="44" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- monitor VESA mount plate -->
-  <rect x="204" y="30" width="24" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
+  <rect x="204" y="30" width="24" height="28" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
   <!-- monitor body -->
   <rect x="148" y="22" width="116" height="82" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- screen -->
-  <rect x="157" y="30" width="98" height="66" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
+  <rect x="157" y="30" width="98" height="66" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61"/>
   <!-- screen content -->
-  <rect x="165" y="40" width="50" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="165" y="53" width="80" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="165" y="63" width="64" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <rect x="165" y="73" width="72" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="165" y="40" width="50" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" />
+  <rect x="165" y="53" width="80" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" />
+  <rect x="165" y="63" width="64" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" />
+  <rect x="165" y="73" width="72" height="6" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" />
   <!-- cable running down arm -->
-  <path d="M 206 56 Q 200 74 182 74 Q 160 74 146 74 Q 110 74 80 90 L 72 140" fill="none" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 206 56 Q 200 74 182 74 Q 160 74 146 74 Q 110 74 80 90 L 72 140" fill="none" stroke="#1a1a1a" stroke-width="4.61" stroke-linecap="round" stroke-linejoin="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

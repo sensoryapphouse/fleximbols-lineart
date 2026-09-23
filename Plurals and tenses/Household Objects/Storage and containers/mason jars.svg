@@ -4,11 +4,11 @@
   <!-- Screw band (outer ring of lid) -->
   <rect x="82" y="28" width="126" height="22" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Band screw thread lines -->
-  <line x1="100" y1="28" x2="97" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="120" y1="28" x2="118" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="140" y1="28" x2="140" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="160" y1="28" x2="162" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="180" y1="28" x2="183" y2="50" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="28" x2="97" y2="50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="120" y1="28" x2="118" y2="50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="140" y1="28" x2="140" y2="50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="160" y1="28" x2="162" y2="50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="180" y1="28" x2="183" y2="50" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Lid flat top disc -->
   <rect x="88" y="22" width="114" height="14" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" data-lp="hair"/>
@@ -24,7 +24,7 @@
   <!-- Contents (water/liquid fill, lower portion) -->
   <path d="M66 165 L62 210 L228 210 L224 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Liquid surface line -->
-  <line x1="66" y1="165" x2="224" y2="165" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="66" y1="165" x2="224" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Measurement ridges on jar body (horizontal embossed lines) -->
   <line x1="68" y1="120" x2="222" y2="120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -32,13 +32,13 @@
   <line x1="64" y1="176" x2="226" y2="176" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Measurement tick marks (right side) -->
-  <line x1="218" y1="120" x2="228" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="220" y1="148" x2="230" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="221" y1="176" x2="231" y2="176" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="218" y1="120" x2="228" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="220" y1="148" x2="230" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="221" y1="176" x2="231" y2="176" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Jar base -->
   <rect x="62" y="206" width="166" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 
   <!-- Highlight on jar (shine) -->
   <path d="M88 80 Q82 130 84 160" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

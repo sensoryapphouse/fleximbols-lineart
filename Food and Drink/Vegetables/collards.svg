@@ -5,11 +5,11 @@
   <rect x="118" y="190" width="54" height="20" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- thick stems -->
   <path d="M128,195 Q100,150 85,95" stroke="#1a1a1a" stroke-width="11.85" fill="none" stroke-linecap="round"/>
-  <path d="M128,195 Q100,150 85,95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M128,195 Q100,150 85,95" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <path d="M145,195 L145,55" stroke="#1a1a1a" stroke-width="11.85" fill="none" stroke-linecap="round"/>
-  <path d="M145,195 L145,55" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,195 L145,55" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <path d="M162,195 Q190,150 205,95" stroke="#1a1a1a" stroke-width="11.85" fill="none" stroke-linecap="round"/>
-  <path d="M162,195 Q190,150 205,95" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M162,195 Q190,150 205,95" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- big round leaves (back layer lighter) -->
   <ellipse cx="85" cy="90" rx="50" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="205" cy="90" rx="50" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
@@ -17,11 +17,11 @@
   <ellipse cx="145" cy="100" rx="60" ry="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- ribs on center leaf -->
   <path d="M145,55 L145,150" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M145,55 L145,150" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" fill="none"/>
-  <path d="M145,80 Q120,95 100,100" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M145,80 Q170,95 190,100" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M145,115 Q120,128 105,135" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-  <path d="M145,115 Q170,128 185,135" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
+  <path d="M145,55 L145,150" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" fill="none"/>
+  <path d="M145,80 Q120,95 100,100" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M145,80 Q170,95 190,100" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M145,115 Q120,128 105,135" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M145,115 Q170,128 185,135" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- veins on side leaves -->
   <path d="M85,55 L85,128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M205,55 L205,128" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

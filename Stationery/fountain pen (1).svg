@@ -6,7 +6,7 @@
   <!-- Metal pointed fountain nib: elongated diamond with centre slit -->
   <polygon points="211,115 246,120 211,125" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Nib centre slit -->
-  <line x1="221" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="221" y1="120" x2="245" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Clip on top of barrel -->
   <rect x="55" y="103" width="10" height="80" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Clip ball end -->

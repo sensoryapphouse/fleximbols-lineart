@@ -10,9 +10,9 @@
 <rect x="358" y="208" width="50" height="24" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </g>
 <!-- flour dusting -->
-<circle cx="200" cy="300" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="300" cy="316" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256" cy="344" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="150" cy="392" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="356" cy="392" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="200" cy="300" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="300" cy="316" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="256" cy="344" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="150" cy="392" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="356" cy="392" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

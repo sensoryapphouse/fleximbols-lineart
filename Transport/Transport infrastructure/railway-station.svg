@@ -8,7 +8,7 @@
 <rect x="298" y="232" width="64" height="56" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="298" y="320" width="64" height="60" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="190" y="146" width="132" height="48" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
-<path d="M 232 158 Q 232 152 240 152 L 272 152 Q 280 152 280 160 L 280 180 L 232 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 232 158 Q 232 152 240 152 L 272 152 Q 280 152 280 160 L 280 180 L 232 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="238" y="160" width="16" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <rect x="258" y="160" width="16" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <circle cx="242" cy="184" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />

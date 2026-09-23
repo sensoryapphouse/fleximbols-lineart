@@ -9,9 +9,9 @@
   <path d="M 62,95 L 108,152" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M 72,88 L 112,142" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Wrapper texture lines left -->
-  <path d="M 50,115 Q 82,110 114,118" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 50,138 Q 82,133 114,141" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 50,160 Q 82,155 114,163" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 50,115 Q 82,110 114,118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 50,138 Q 82,133 114,141" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 50,160 Q 82,155 114,163" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right half (front piece) -->
   <path d="M 128,68 Q 128,44 164,42 Q 200,44 200,68 L 200,148 Q 200,172 164,175 Q 128,172 128,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right half diagonal cut face -->
@@ -21,12 +21,12 @@
   <path d="M 142,74 L 196,130" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <path d="M 154,68 L 198,118" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Wrapper texture lines right -->
-  <path d="M 130,92 Q 164,86 198,94" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 130,115 Q 164,109 198,117" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <path d="M 130,138 Q 164,132 198,140" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 130,92 Q 164,86 198,94" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 130,115 Q 164,109 198,117" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 130,138 Q 164,132 198,140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Shrimp visible at top end of right roll -->
-  <path d="M 148,44 Q 164,36 180,44 Q 172,54 164,52 Q 156,54 148,44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 148,44 Q 164,36 180,44 Q 172,54 164,52 Q 156,54 148,44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dipping sauce small bowl -->
   <path d="M 218,175 Q 216,160 228,157 Q 252,157 264,160 Q 276,163 274,175 Q 272,192 246,194 Q 220,192 218,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="246" cy="163" rx="24" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="246" cy="163" rx="24" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

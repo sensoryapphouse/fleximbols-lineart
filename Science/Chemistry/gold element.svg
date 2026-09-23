@@ -6,10 +6,10 @@
   <!-- stamped icon on bar -->
   <rect x="75" y="130" width="70" height="35" fill="none" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round"/>
   <path d="M 90 150 L 100 140 L 110 150 L 120 140 L 130 150" fill="none" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="110" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43"/>
+  <circle cx="110" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- gold ring beside -->
   <circle cx="240" cy="175" r="28" fill="none" stroke="#1a1a1a" stroke-width="4.85"/>
   <circle cx="240" cy="175" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
   <circle cx="240" cy="175" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04"/>
-  <circle cx="240" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="240" cy="155" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

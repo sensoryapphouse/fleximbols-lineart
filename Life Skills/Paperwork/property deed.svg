@@ -18,12 +18,12 @@
   <rect x="170" y="108" width="10" height="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- trees -->
   <circle cx="95" cy="110" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="93" y="115" width="4" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="93" y="115" width="4" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="115" cy="145" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="113" y="148" width="4" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="113" y="148" width="4" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- compass N -->
   <circle cx="210" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <polygon points="210,140 213,150 210,148 207,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="210,140 213,150 210,148 207,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- ownership stamp -->
   <circle cx="220" cy="190" r="22" fill="none" stroke="#1a1a1a" stroke-width="6.67"/>
   <circle cx="220" cy="190" r="16" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>

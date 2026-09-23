@@ -16,14 +16,14 @@
   <!-- Dense dark-green canopy -->
   <ellipse cx="145" cy="95" rx="105" ry="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Dense sub-canopy mass — very full and heavy looking -->
-  <ellipse cx="100" cy="90" rx="55" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="190" cy="88" rx="55" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="68" rx="62" ry="45" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="100" cy="90" rx="55" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="190" cy="88" rx="55" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="68" rx="62" ry="45" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Darker top mass to give dense feeling -->
   <ellipse cx="120" cy="42" rx="40" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="170" cy="40" rx="40" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="28" rx="38" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="28" rx="38" ry="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Root buttresses at base (ebony characteristic) -->
-  <polygon points="131,218 118,220 125,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <polygon points="159,218 172,220 165,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="131,218 118,220 125,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <polygon points="159,218 172,220 165,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

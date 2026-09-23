@@ -5,12 +5,12 @@
   <!-- pink highlight -->
   <path d="M75 200 Q60 250 70 310" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" opacity="0.7" />
   <!-- dimple -->
-  <path d="M125 145 Q150 128 175 145" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M125 145 Q150 128 175 145" fill="none" stroke="#1a1a1a" stroke-width="6.07" stroke-linecap="round" />
   <!-- stem -->
   <path d="M150 138 L150 95 Q154 80 170 80" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" />
   <!-- leaf -->
   <path d="M170 100 Q225 75 255 115 Q225 135 190 125 Q170 120 170 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
-  <path d="M178 112 Q215 112 245 116" fill="none" stroke="#1a1a1a" stroke-width="4" /></g>
+  <path d="M178 112 Q215 112 245 116" fill="none" stroke="#1a1a1a" stroke-width="6.07" /></g>
 <path data-part="dress" d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>
 <line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>

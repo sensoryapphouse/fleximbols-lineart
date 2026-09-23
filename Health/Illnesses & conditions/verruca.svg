@@ -19,11 +19,11 @@
 <!-- foot-pad top edge drawn OVER the toe bases (fills, hiding lower toe outlines) -->
 <path d="M 196 248 Q 206 214 256 214 Q 306 214 316 248 Q 256 258 196 248 Z"
       fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"  data-lp="skin"/>
-<path d="M 200 244 Q 256 222 312 244" fill="none" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 200 244 Q 256 222 312 244" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 
 <!-- verruca: the wart -->
-<circle cx="252" cy="322" r="27" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="252" cy="322" r="27" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="252" cy="322" r="27" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="252" cy="322" r="27" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- black seed dots -->
 <circle cx="246" cy="318" r="3" fill="#1a1a1a"/>
 <circle cx="257" cy="324" r="3" fill="#1a1a1a"/>

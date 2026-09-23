@@ -10,5 +10,5 @@
   <rect x="200" y="118" width="50" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <rect x="60" y="168" width="170" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></rect>
   <circle cx="250" cy="42" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <path d="M 250,28 L 250,56 M 236,42 L 264,42 M 240,32 L 260,52 M 260,32 L 240,52" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 250,28 L 250,56 M 236,42 L 264,42 M 240,32 L 260,52 M 260,32 L 240,52" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"></path>
 </g></svg>

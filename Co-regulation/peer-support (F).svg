@@ -3,7 +3,7 @@
   <!-- cupped hand below -->
   <path d="M30 360 Q40 300 100 300 Q150 300 240 300 Q272 300 272 332 Q272 388 200 408 Q120 424 70 404 Q36 390 30 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
   <!-- finger creases -->
-  <path d="M120 312 Q120 332 116 352 M160 312 Q160 332 156 352 M200 312 Q200 330 196 348" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  <path d="M120 312 Q120 332 116 352 M160 312 Q160 332 156 352 M200 312 Q200 330 196 348" fill="none" stroke="#1a1a1a" stroke-width="5.84" stroke-linecap="round" opacity="0.6"/>
   <!-- big heart resting in hand -->
   <path d="M150 110 L70 200 Q40 240 60 280 Q92 318 150 270 Q208 318 240 280 Q260 240 230 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
   <!-- shine -->

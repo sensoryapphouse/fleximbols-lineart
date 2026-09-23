@@ -23,7 +23,7 @@
   <path d="M125 130 L121 134 L125 138 L129 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
 
   <!-- small heart confetti scattered on card -->
-  <path d="M178 175 Q175 170 178 166 Q181 170 184 166 Q187 170 184 175 L178 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M200 168 Q197 163 200 159 Q203 163 206 159 Q209 163 206 168 L200 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M100 178 Q97 173 100 169 Q103 173 106 169 Q109 173 106 178 L100 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M178 175 Q175 170 178 166 Q181 170 184 166 Q187 170 184 175 L178 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M200 168 Q197 163 200 159 Q203 163 206 159 Q209 163 206 168 L200 168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M100 178 Q97 173 100 169 Q103 173 106 169 Q109 173 106 178 L100 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

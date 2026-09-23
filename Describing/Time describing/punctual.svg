@@ -3,7 +3,7 @@
 <g>
 <!-- clock body -->
 <circle cx="240" cy="256" r="150" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="240" cy="256" r="150" fill="none" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="240" cy="256" r="150" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- hour ticks -->
 <g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round">
 <line x1="240" y1="124" x2="240" y2="146"/>

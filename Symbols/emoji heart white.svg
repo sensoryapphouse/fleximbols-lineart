@@ -2,5 +2,5 @@
   <!-- white heart with bold black outline -->
   <path d="M145 200 C120 180 30 138 30 80 C30 50 52 28 80 28 C102 28 122 42 145 62 C168 42 188 28 210 28 C238 28 260 50 260 80 C260 138 170 180 145 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.47" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- inner stroke to reinforce outline visibility -->
-  <path d="M145 188 C124 170 42 132 42 80 C42 56 60 38 80 38 C100 38 120 50 145 70 C170 50 190 38 210 38 C230 38 248 56 248 80 C248 132 166 170 145 188 Z" fill="none" stroke="#1a1a1a" stroke-width="2.42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M145 188 C124 170 42 132 42 80 C42 56 60 38 80 38 C100 38 120 50 145 70 C170 50 190 38 210 38 C230 38 248 56 248 80 C248 132 166 170 145 188 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

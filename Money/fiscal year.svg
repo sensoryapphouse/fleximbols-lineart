@@ -8,13 +8,13 @@
   <circle cx="72" cy="36" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <circle cx="122" cy="36" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Calendar grid lines -->
-  <line x1="22" y1="90" x2="192" y2="90" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="22" y1="115" x2="192" y2="115" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="22" y1="140" x2="192" y2="140" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="60" y1="70" x2="60" y2="186" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="98" y1="70" x2="98" y2="186" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="136" y1="70" x2="136" y2="186" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="174" y1="70" x2="174" y2="186" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="22" y1="90" x2="192" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="115" x2="192" y2="115" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="140" x2="192" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="70" x2="60" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="98" y1="70" x2="98" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="136" y1="70" x2="136" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="174" y1="70" x2="174" y2="186" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bar chart inside calendar cells (financial growth) -->
   <rect x="35" y="150" width="14" height="32" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="55" y="135" width="14" height="47" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -27,7 +27,7 @@
   <path d="M228,64 Q220,68 224,76 Q228,84 240,80 Q252,76 248,84 Q244,92 232,96" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Cyclic arrow below -->
   <path d="M210,155 Q215,135 235,130 Q255,125 265,140" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <polygon points="265,140 275,128 268,152" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="265,140 275,128 268,152" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <path d="M240,175 Q225,195 205,190 Q185,185 183,170" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <polygon points="183,170 172,182 196,178" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="183,170 172,182 196,178" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

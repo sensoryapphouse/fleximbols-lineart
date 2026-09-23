@@ -2,5 +2,5 @@
 <line x1="150.0" y1="372.0" x2="450.0" y2="372.0" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="150.0" y1="372.0" x2="334.7" y2="135.6" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <path d="M 246.0 372.0 A 96 96 0 0 0 209.1 296.4" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="150.0" cy="372.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="150.0" cy="372.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.19"/>
 </g></svg>

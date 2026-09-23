@@ -3,5 +3,5 @@
   <circle cx="145" cy="130" r="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></circle>
   <circle cx="220" cy="130" r="30" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 70,118 L 35,108 Q 28,128 35,148 L 70,138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="145" cy="130" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="130" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

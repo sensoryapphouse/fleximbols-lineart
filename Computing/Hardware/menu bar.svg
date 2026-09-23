@@ -4,7 +4,7 @@
   <!-- Menu bar strip across the top -->
   <rect x="20" y="35" width="250" height="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Apple-style left mark -->
-  <circle cx="38" cy="52" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="38" cy="52" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- File menu label box -->
   <rect x="54" y="44" width="38" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- "F" letter (path strokes) -->
@@ -37,12 +37,12 @@
   <!-- "2" -->
   <polygon points="256,48 263,48 263,52 257,52 257,55 263,55 263,60 256,60 256,57 260,57 260,55 256,55" fill="#1a1a1a" stroke="none"/>
   <!-- Content area placeholder lines -->
-  <rect x="35" y="85" width="120" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="35" y="100" width="180" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="35" y="115" width="150" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="35" y="135" width="160" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="35" y="150" width="100" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="35" y="170" width="200" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="85" width="120" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="100" width="180" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="115" width="150" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="135" width="160" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="150" width="100" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="35" y="170" width="200" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arrow pointing to menu bar -->
   <polygon points="145,225 138,210 152,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="145" y1="225" x2="145" y2="218" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>

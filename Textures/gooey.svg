@@ -2,11 +2,11 @@
   <!-- Source food block (melted cheese/chocolate on top) -->
   <path d="M 55,75 Q 55,62 68,62 L 222,62 Q 235,62 235,75 L 235,105 Q 235,118 222,118 L 68,118 Q 55,118 55,105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Melted top surface drip waves -->
-  <path d="M 55,105 Q 75,98 95,108 Q 115,118 135,108 Q 155,98 175,108 Q 195,118 215,108 Q 228,102 235,105" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 55,105 Q 75,98 95,108 Q 115,118 135,108 Q 155,98 175,108 Q 195,118 215,108 Q 228,102 235,105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Cheese holes -->
-  <ellipse cx="100" cy="88" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="150" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="198" cy="90" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="100" cy="88" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="150" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="198" cy="90" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Thick drippy strings hanging down -->
   <!-- Drip 1 (left) -->
   <path d="M 80,118 Q 76,140 80,165 Q 84,185 80,195 Q 76,205 80,215 Q 84,225 88,218 Q 92,210 88,200 Q 86,190 88,172 Q 90,150 86,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
@@ -26,7 +26,7 @@
   <ellipse cx="205" cy="207" rx="8" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Stretchy string between drips 1 and 2 -->
   <path d="M 88,178 Q 105,182 118,185" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <path d="M 88,178 Q 105,182 118,185" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 88,178 Q 105,182 118,185" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Shiny highlight on cheese block -->
   <path d="M 68,72 Q 110,68 155,72" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
 </g></svg>

@@ -7,22 +7,22 @@
   <circle cx="52" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Flag 1 -->
   <line x1="52" y1="138" x2="52" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="52,90 84,98 52,106" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="52,90 84,98 52,106" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Milestone dot 2 -->
   <circle cx="110" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Flag 2 (below line) -->
   <line x1="110" y1="158" x2="110" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="110,206 142,198 110,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="110,206 142,198 110,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Milestone dot 3 -->
   <circle cx="170" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Flag 3 -->
   <line x1="170" y1="138" x2="170" y2="90" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="170,90 202,98 170,106" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="170,90 202,98 170,106" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Milestone dot 4 (open/future) -->
   <circle cx="230" cy="148" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Flag 4 (below) -->
   <line x1="230" y1="158" x2="230" y2="206" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="230,206 262,198 230,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="230,206 262,198 230,190" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Track connector segments coloured -->
   <line x1="28" y1="148" x2="52" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="62" y1="148" x2="100" y2="148" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

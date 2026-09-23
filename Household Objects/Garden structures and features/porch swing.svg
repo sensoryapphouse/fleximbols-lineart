@@ -8,14 +8,14 @@
   <!-- bench seat -->
   <rect x="65" y="130" width="160" height="18" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- seat slats -->
-  <line x1="100" y1="130" x2="100" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="130" y1="130" x2="130" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="160" y1="130" x2="160" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="190" y1="130" x2="190" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="130" x2="100" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="130" y1="130" x2="130" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="160" y1="130" x2="160" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="190" y1="130" x2="190" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- back rest -->
   <rect x="65" y="98" width="160" height="16" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- cushion on seat -->
-  <rect x="70" y="132" width="150" height="12" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="70" y="132" width="150" height="12" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- armrests -->
   <rect x="65" y="110" width="12" height="38" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="213" y="110" width="12" height="38" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

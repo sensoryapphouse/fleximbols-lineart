@@ -19,6 +19,6 @@
 <line x1="256" y1="322" x2="256" y2="302" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="262" y1="324" x2="272" y2="306" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="266" y1="328" x2="284" y2="318" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="256.0" cy="334.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="334.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
 <polygon points="256,300 270,250 256,262 242,250" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 </g></svg>

@@ -20,7 +20,7 @@
     <polygon points="309,259 318,362 466,414 556,247 566,164 438,139 309,259" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="309,259 478,308 565,169" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="478,308 466,414" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="253,150 257,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="253,150 257,121" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="253,150 257,121" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

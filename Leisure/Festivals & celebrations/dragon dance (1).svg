@@ -29,8 +29,8 @@
   <!-- Performer 1 (left) full body -->
   <circle cx="68" cy="180" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="60" y="187" width="16" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="56" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="74" y="187" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="56" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="74" y="187" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="60" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="69" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="63" cy="231" rx="5" ry="3" fill="#1a1a1a"/>
@@ -38,8 +38,8 @@
   <!-- Performer 2 (middle) full body -->
   <circle cx="146" cy="180" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="138" y="187" width="16" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="134" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="152" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="134" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="152" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="138" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="147" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="141" cy="231" rx="5" ry="3" fill="#1a1a1a"/>
@@ -47,8 +47,8 @@
   <!-- Performer 3 (right) full body -->
   <circle cx="223" cy="180" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="215" y="187" width="16" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="211" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="229" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="211" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="229" y="195" width="6" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="215" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="224" y="208" width="7" height="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="218" cy="231" rx="5" ry="3" fill="#1a1a1a"/>

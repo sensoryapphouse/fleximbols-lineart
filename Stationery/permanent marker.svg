@@ -7,14 +7,14 @@
   <!-- cap top with clip -->
   <rect x="106" y="16" width="56" height="68" rx="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- cap clip -->
-  <rect x="120" y="12" width="10" height="58" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="120" y="12" width="10" height="58" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- body (fat barrel) -->
   <rect x="106" y="78" width="56" height="90" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- label band -->
   <rect x="106" y="102" width="56" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- label lines -->
-  <line x1="114" y1="112" x2="154" y2="112" stroke="#1a1a1a" stroke-width="2.47" stroke-linecap="round"/>
-  <line x1="114" y1="122" x2="148" y2="122" stroke="#1a1a1a" stroke-width="2.47" stroke-linecap="round"/>
+  <line x1="114" y1="112" x2="154" y2="112" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="114" y1="122" x2="148" y2="122" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- shoulder taper to bullet tip -->
   <path d="M 106,168 L 118,178 L 150,178 L 162,168 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- bullet tip (round) -->

@@ -33,26 +33,26 @@
   <circle cx="76"  cy="108" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="73"  cy="105" r="2" fill="#1a1a1a"/>
   <circle cx="79"  cy="105" r="2" fill="#1a1a1a"/>
-  <path d="M72,112 Q76,116 80,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M72,112 Q76,116 80,112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="146" cy="108" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="143" cy="105" r="2" fill="#1a1a1a"/>
   <circle cx="149" cy="105" r="2" fill="#1a1a1a"/>
-  <path d="M142,112 Q146,116 150,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M142,112 Q146,116 150,112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="215" cy="108" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="212" cy="105" r="2" fill="#1a1a1a"/>
   <circle cx="218" cy="105" r="2" fill="#1a1a1a"/>
-  <path d="M211,112 Q215,116 219,112" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M211,112 Q215,116 219,112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Student faces row 2 -->
   <circle cx="76"  cy="153" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="73"  cy="150" r="2" fill="#1a1a1a"/>
   <circle cx="79"  cy="150" r="2" fill="#1a1a1a"/>
-  <path d="M72,157 Q76,161 80,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M72,157 Q76,161 80,157" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="146" cy="153" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="143" cy="150" r="2" fill="#1a1a1a"/>
   <circle cx="149" cy="150" r="2" fill="#1a1a1a"/>
-  <path d="M142,157 Q146,161 150,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M142,157 Q146,161 150,157" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="215" cy="153" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="212" cy="150" r="2" fill="#1a1a1a"/>
   <circle cx="218" cy="150" r="2" fill="#1a1a1a"/>
-  <path d="M211,157 Q215,161 219,157" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M211,157 Q215,161 219,157" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -13,9 +13,9 @@
   <path d="M 88 132 Q 76 120 70 108 Q 64 94 72 86 Q 82 78 92 88 Q 98 98 95 112" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
 
   <!-- Finger division lines -->
-  <line x1="112" y1="102" x2="110" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="136" y1="92" x2="134" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="158" y1="92" x2="158" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="112" y1="102" x2="110" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="136" y1="92" x2="134" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="158" y1="92" x2="158" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Sterile stippling dots on palm -->
   <circle cx="145" cy="172" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

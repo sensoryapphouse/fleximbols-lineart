@@ -29,11 +29,11 @@
   <!-- Top powdered sugar dusting on angled face -->
   <path d="M 62,95 L 145,57 L 228,95 Q 208,87 188,93 Q 165,83 145,88 Q 125,83 102,93 Q 82,87 62,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Sugar dust dots on top -->
-  <circle cx="120" cy="74" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="133" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="148" cy="65" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="163" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="175" cy="73" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="74" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="133" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="65" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="163" cy="68" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="73" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Left side -->
   <rect x="55" y="95" width="9" height="120" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Right side -->

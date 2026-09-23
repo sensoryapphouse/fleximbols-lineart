@@ -4,18 +4,18 @@
 <circle cx="236.0" cy="196.0" r="66.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <polygon points="178 160 176 96 226 146" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <polygon points="294 160 296 96 246 146" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<polygon points="182 150 184 116 212 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<polygon points="290 150 288 116 260 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<circle cx="212.0" cy="190.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="215.8" cy="186.2" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="260.0" cy="190.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="263.9" cy="186.2" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<polygon points="236 210 226 220 246 220" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="182 150 184 116 212 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18" stroke-linejoin="round"/>
+<polygon points="290 150 288 116 260 150" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18" stroke-linejoin="round"/>
+<circle cx="212.0" cy="190.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.18"/>
+<circle cx="215.8" cy="186.2" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18"/>
+<circle cx="260.0" cy="190.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.18"/>
+<circle cx="263.9" cy="186.2" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18"/>
+<polygon points="236 210 226 220 246 220" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.18" stroke-linejoin="round"/>
 <path d="M 236 220 Q 226 234 214 230 M 236 220 Q 246 234 258 230" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<line x1="196" y1="206" x2="140" y2="200" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="276" y1="206" x2="332" y2="200" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="196" y1="218" x2="140" y2="212" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="276" y1="218" x2="332" y2="212" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="196" y1="230" x2="140" y2="224" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="276" y1="230" x2="332" y2="224" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="196" y1="206" x2="140" y2="200" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
+<line x1="276" y1="206" x2="332" y2="200" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
+<line x1="196" y1="218" x2="140" y2="212" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
+<line x1="276" y1="218" x2="332" y2="212" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
+<line x1="196" y1="230" x2="140" y2="224" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
+<line x1="276" y1="230" x2="332" y2="224" stroke="#1a1a1a" stroke-width="4.18" stroke-linecap="round"/>
 </g></svg>

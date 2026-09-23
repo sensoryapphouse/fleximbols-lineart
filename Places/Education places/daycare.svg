@@ -16,7 +16,7 @@
   <rect x="128" y="158" width="38" height="37" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <circle cx="160" cy="178" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Heart emblem on door -->
-  <path d="M140,167 C140,163 136,160 133,163 C130,166 133,171 140,176 C147,171 150,166 147,163 C144,160 140,163 140,167 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round"/>
+  <path d="M140,167 C140,163 136,160 133,163 C130,166 133,171 140,176 C147,171 150,166 147,163 C144,160 140,163 140,167 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Crib (right side) -->
   <!-- Crib base/mattress -->
   <rect x="210" y="158" width="55" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
@@ -36,7 +36,7 @@
   <!-- Teddy face -->
   <circle cx="233" cy="151" r="2" fill="#1a1a1a"/>
   <circle cx="241" cy="151" r="2" fill="#1a1a1a"/>
-  <circle cx="237" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="237" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Large heart (care cue) -->
   <path d="M30,75 C30,65 20,58 13,65 C6,72 13,82 30,95 C47,82 54,72 47,65 C40,58 30,65 30,75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
 </g></svg>

@@ -6,13 +6,13 @@
   <!-- net hoop -->
   <ellipse cx="195" cy="105" rx="50" ry="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- inner mesh lighter -->
-  <ellipse cx="195" cy="105" rx="42" ry="47" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="195" cy="105" rx="42" ry="47" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- mesh grid -->
-  <path d="M160 75 L230 135 M170 65 L235 125 M180 60 L240 115 M155 90 L225 145 M155 115 L215 155" stroke="#1a1a1a" stroke-width="2.22" fill="none"/>
-  <path d="M160 135 L230 75 M155 125 L225 65 M170 145 L240 90 M180 150 L235 115" stroke="#1a1a1a" stroke-width="2.22" fill="none"/>
+  <path d="M160 75 L230 135 M170 65 L235 125 M180 60 L240 115 M155 90 L225 145 M155 115 L215 155" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M160 135 L230 75 M155 125 L225 65 M170 145 L240 90 M180 150 L235 115" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- rim -->
   <ellipse cx="195" cy="105" rx="50" ry="55" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- connection to handle -->
   <path d="M150 140 L165 155" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
-  <path d="M150 140 L165 155" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M150 140 L165 155" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

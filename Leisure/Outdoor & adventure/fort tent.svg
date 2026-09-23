@@ -9,11 +9,11 @@
   <!-- blanket draped over chairs (sagging in middle) -->
   <path d="M22 100 Q22 88 38 88 L52 88 Q70 86 90 96 Q145 116 200 96 Q220 86 238 88 L252 88 Q268 88 268 100 L268 130 Q220 150 145 144 Q70 150 22 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- blanket pattern (polka dots) -->
-  <circle cx="70" cy="110" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="110" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="180" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="220" cy="110" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="128" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="70" cy="110" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="110" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="220" cy="110" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="128" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- second blanket layer below (cosy) -->
   <path d="M52 138 Q145 156 238 138 L238 200 L52 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- child sitting inside, full body -->
@@ -30,7 +30,7 @@
   <path d="M127 134 Q128 118 145 116 Q162 118 163 134 Q158 126 145 126 Q132 126 127 134 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="139" cy="141" r="2" fill="#1a1a1a"/>
   <circle cx="151" cy="141" r="2" fill="#1a1a1a"/>
-  <path d="M139 148 Q145 152 151 148" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M139 148 Q145 152 151 148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- little pillow -->
   <ellipse cx="80" cy="195" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="210" cy="195" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

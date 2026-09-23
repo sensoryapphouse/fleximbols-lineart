@@ -7,12 +7,12 @@
   <path d="M138 30 L142 18 L146 30 L146 80 L138 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M146 30 L154 38 L159 50 L164 30 L169 50 L174 50 L184 40 L184 80 L146 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- shaft binding -->
-  <rect x="134" y="100" width="16" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="134" y="100" width="16" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cobra coiled at base -->
   <path d="M195 200 Q230 195 235 165 Q235 140 215 135 Q205 135 205 150 Q205 160 215 160 Q220 160 220 152" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- hood -->
   <path d="M205 130 Q190 120 195 105 Q205 95 215 100 Q225 95 235 105 Q240 120 225 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="210" cy="115" r="2.5" fill="#1a1a1a"/>
   <circle cx="225" cy="115" r="2.5" fill="#1a1a1a"/>
-  <path d="M213 125 L218 130 L223 125" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M213 125 L218 130 L223 125" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

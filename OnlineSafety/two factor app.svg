@@ -7,5 +7,5 @@
   <path d="M 110,160 L 168,160" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"></path>
   <circle cx="178" cy="180" r="9" fill="none" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 178,180 L 178,173 M 178,180 L 183,180" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"></path>
-  <circle cx="150" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="150" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
 </g></svg>

@@ -2,25 +2,25 @@
 <line x1="48" y1="256" x2="464" y2="256" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <polygon points="41.8,256.0 68.9,240.4 68.9,271.6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <polygon points="470.2,256.0 443.1,271.6 443.1,240.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="256.0" cy="256.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="256.0" r="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
 <circle cx="256.0" cy="256.0" r="30.0" fill="none" stroke="#1a1a1a" stroke-width="12"/>
 <line x1="256" y1="186" x2="256" y2="326" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="172" y1="236" x2="172" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="340" y1="236" x2="340" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="172.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="340.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="172.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="340.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
 <line x1="118" y1="236" x2="118" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="394" y1="236" x2="394" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="111.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="387.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="125.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="401.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="111.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="387.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="125.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="401.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
 <line x1="64" y1="236" x2="64" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="448" y1="236" x2="448" y2="276" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="50.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="434.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="64.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="448.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="78.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="462.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="50.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="434.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="64.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="448.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="78.0" cy="216.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.7"/>
+<circle cx="462.0" cy="216.0" r="5.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.7"/>
 </g></svg>

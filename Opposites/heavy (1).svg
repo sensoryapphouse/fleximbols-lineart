@@ -15,11 +15,11 @@
   <line x1="180" y1="215" x2="200" y2="225" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Downward strain arrow 1 (left) -->
   <line x1="105" y1="30" x2="105" y2="68" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
-  <polygon points="105,75 96,55 114,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="105,75 96,55 114,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Downward strain arrow 2 (centre) -->
   <line x1="145" y1="30" x2="145" y2="68" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
-  <polygon points="145,75 136,55 154,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="145,75 136,55 154,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Downward strain arrow 3 (right) -->
   <line x1="185" y1="30" x2="185" y2="68" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
-  <polygon points="185,75 176,55 194,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="185,75 176,55 194,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

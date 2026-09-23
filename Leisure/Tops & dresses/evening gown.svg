@@ -10,8 +10,8 @@
   <!-- Slim column skirt (narrow, floor-length — key difference from ball-gown) -->
   <path d="M118 115 Q108 160 105 222 L185 222 Q182 160 172 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Subtle vertical seam lines for sleekness -->
-  <line x1="135" y1="115" x2="132" y2="222" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="155" y1="115" x2="158" y2="222" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="135" y1="115" x2="132" y2="222" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="155" y1="115" x2="158" y2="222" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Waist definition line -->
   <path d="M118 115 Q145 122 172 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Small side slit hint -->

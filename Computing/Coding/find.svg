@@ -6,12 +6,12 @@
   <circle cx="155" cy="110" r="45" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85"/>
   <circle cx="155" cy="110" r="36" fill="none" stroke="#1a1a1a" stroke-width="6.47"/>
   <!-- Found item inside: a small star/dot with highlight -->
-  <polygon points="155,82 161,98 178,98 165,109 170,126 155,116 140,126 145,109 132,98 149,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.43" stroke-linejoin="round"/>
+  <polygon points="155,82 161,98 178,98 165,109 170,126 155,116 140,126 145,109 132,98 149,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Handle -->
   <line x1="188" y1="143" x2="248" y2="205" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- Checkmark badge (success — found!) in bottom right of magnifier -->
   <!-- Green circle badge -->
-  <circle cx="192" cy="147" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.23"/>
+  <circle cx="192" cy="147" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Check mark drawn as polyline -->
   <polyline points="181,147 190,158 206,136" fill="none" stroke="#ffffff" stroke-width="4.04" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

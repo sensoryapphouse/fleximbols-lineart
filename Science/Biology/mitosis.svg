@@ -2,7 +2,7 @@
   <!-- Left daughter cell -->
   <circle cx="85" cy="120" r="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Nucleus left -->
-  <circle cx="85" cy="120" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="85" cy="120" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Chromosomes inside left (X shapes) -->
   <path d="M 65 105 L 75 120 M 75 105 L 65 120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <path d="M 95 110 L 105 125 M 105 110 L 95 125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
@@ -10,11 +10,11 @@
   <!-- Right daughter cell -->
   <circle cx="205" cy="120" r="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Nucleus right -->
-  <circle cx="205" cy="120" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="205" cy="120" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Chromosomes inside right (identical to left) -->
   <path d="M 185 105 L 195 120 M 195 105 L 185 120" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <path d="M 215 110 L 225 125 M 225 110 L 215 125" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <path d="M 195 130 L 205 145 M 205 130 L 195 145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <!-- Division line between cells -->
-  <path d="M 145 60 Q 150 120 145 180" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 145 60 Q 150 120 145 180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

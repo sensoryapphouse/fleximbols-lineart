@@ -3,7 +3,7 @@
   <circle cx="145" cy="125" r="105" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Crust ring -->
   <circle cx="145" cy="125" r="105" fill="none" stroke="#1a1a1a" stroke-width="26.65"/>
-  <circle cx="145" cy="125" r="96" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="125" r="96" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Red sauce fill -->
   <circle cx="145" cy="125" r="87" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Melted cheese patches -->

@@ -3,16 +3,16 @@
   <!-- Table surface (background) -->
   <rect x="10" y="40" width="270" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Table grain lines -->
-  <path d="M30,60 L260,60 M30,200 L260,200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M30,60 L260,60 M30,200 L260,200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Placemat (rounded rectangle, slightly tilted look) -->
   <rect x="35" y="65" width="220" height="130" rx="12" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Decorative inner border -->
   <rect x="48" y="78" width="194" height="104" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Corner decorations -->
-  <circle cx="55" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="235" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="55" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="235" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="55" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="235" cy="85" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="55" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="235" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Plate centered on placemat -->
   <circle cx="145" cy="130" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <circle cx="145" cy="130" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>

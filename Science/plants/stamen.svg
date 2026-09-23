@@ -11,8 +11,8 @@
 <ellipse cx="210" cy="138" rx="30" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(-8 210 138)"/>
 <ellipse cx="302" cy="138" rx="30" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(8 302 138)"/>
 <ellipse cx="362" cy="158" rx="30" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" transform="rotate(20 362 158)"/>
-<circle cx="150" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="210" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="302" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="362" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="150" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="210" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="302" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="362" cy="158" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

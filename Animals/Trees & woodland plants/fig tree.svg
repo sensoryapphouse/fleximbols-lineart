@@ -19,23 +19,23 @@
   <!-- Purple teardrop figs -->
   <!-- Fig 1 -->
   <ellipse cx="115" cy="107" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="115" cy="96" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="115" cy="96" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fig crown tip -->
-  <path d="M112,95 L115,90 L118,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M112,95 L115,90 L118,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fig 2 -->
   <ellipse cx="148" cy="120" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="148" cy="109" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M145,108 L148,103 L151,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="148" cy="109" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M145,108 L148,103 L151,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fig 3 -->
   <ellipse cx="177" cy="110" rx="9" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="177" cy="99" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M174,98 L177,93 L180,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="177" cy="99" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M174,98 L177,93 L180,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fig 4 -->
   <ellipse cx="133" cy="140" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="133" cy="129" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M130,128 L133,123 L136,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="133" cy="129" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M130,128 L133,123 L136,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Fig 5 -->
   <ellipse cx="163" cy="138" rx="9" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="163" cy="127" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M160,126 L163,121 L166,126" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <circle cx="163" cy="127" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M160,126 L163,121 L166,126" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -26,5 +26,5 @@
   <!-- shade bottom rim -->
   <ellipse cx="112" cy="96" rx="40" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- bulb glow -->
-  <ellipse cx="112" cy="75" rx="9" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="112" cy="75" rx="9" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

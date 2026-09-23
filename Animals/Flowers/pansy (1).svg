@@ -18,12 +18,12 @@
   <!-- dark blotch markings in centre — face-like -->
   <ellipse cx="145" cy="148" rx="30" ry="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- whisker lines from blotch -->
-  <line x1="122" y1="148" x2="105" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="122" y1="143" x2="104" y2="143" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="148" x2="185" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="168" y1="143" x2="186" y2="143" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="122" y1="148" x2="105" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="122" y1="143" x2="104" y2="143" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="148" x2="185" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="168" y1="143" x2="186" y2="143" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- centre throat spot -->
-  <circle cx="145" cy="153" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="153" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stamen dot -->
-  <circle cx="145" cy="138" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="138" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

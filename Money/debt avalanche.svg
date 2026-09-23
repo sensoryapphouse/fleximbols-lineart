@@ -19,8 +19,8 @@
 
   <!-- decreasing arrow down -->
   <path d="M260 50 Q270 120 270 200" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <path d="M270 200 L260 188 L280 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M270 200 L260 188 L280 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- small puffs of dust -->
-  <circle cx="20" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
-  <circle cx="30" cy="215" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" data-lp="hair"/>
+  <circle cx="20" cy="200" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
+  <circle cx="30" cy="215" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
 </g></svg>

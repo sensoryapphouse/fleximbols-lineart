@@ -10,20 +10,20 @@
   <!-- Pecan halves in a ring on top (6 pecans) -->
   <!-- Pecan top -->
   <ellipse cx="145" cy="140" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="145" y1="131" x2="145" y2="149" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="131" x2="145" y2="149" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pecan top-right -->
   <ellipse cx="174" cy="148" rx="14" ry="9" transform="rotate(-50 174 148)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="167" y1="142" x2="181" y2="154" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="167" y1="142" x2="181" y2="154" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pecan bottom-right -->
   <ellipse cx="170" cy="168" rx="14" ry="9" transform="rotate(50 170 168)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="163" y1="162" x2="177" y2="174" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="163" y1="162" x2="177" y2="174" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pecan bottom -->
   <ellipse cx="145" cy="175" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="145" y1="166" x2="145" y2="184" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="166" x2="145" y2="184" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pecan bottom-left -->
   <ellipse cx="120" cy="168" rx="14" ry="9" transform="rotate(-50 120 168)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="113" y1="162" x2="127" y2="174" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="113" y1="162" x2="127" y2="174" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pecan top-left -->
   <ellipse cx="116" cy="148" rx="14" ry="9" transform="rotate(50 116 148)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="109" y1="142" x2="123" y2="154" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="109" y1="142" x2="123" y2="154" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

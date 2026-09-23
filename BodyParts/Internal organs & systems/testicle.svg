@@ -11,5 +11,5 @@
   <path d="M183,136 Q196,152 183,168" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Pointer dot -->
   <circle cx="68" cy="148" r="7" fill="#1a1a1a"/>
-  <line x1="75" y1="148" x2="107" y2="148" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="75" y1="148" x2="107" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

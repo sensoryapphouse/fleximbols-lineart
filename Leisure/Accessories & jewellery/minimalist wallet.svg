@@ -5,7 +5,7 @@
   <!-- Card 2 (middle) -->
   <rect x="82" y="44" width="80" height="52" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(-6,122,70)"/>
   <!-- Card chip on card 2 -->
-  <rect x="95" y="58" width="16" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-6,122,70)"/>
+  <rect x="95" y="58" width="16" height="12" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-6,122,70)"/>
   <!-- Card 1 (front, fanned rightmost) -->
   <rect x="105" y="42" width="80" height="52" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" transform="rotate(7,145,68)"/>
   <!-- Chip on front card -->
@@ -17,9 +17,9 @@
   <!-- Card slot opening at top of wallet body -->
   <rect x="96" y="118" width="98" height="10" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wallet side stitching detail (left) -->
-  <line x1="88" y1="130" x2="88" y2="188" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="5,5"/>
+  <line x1="88" y1="130" x2="88" y2="188" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="5,5"/>
   <!-- Wallet side stitching detail (right) -->
-  <line x1="202" y1="130" x2="202" y2="188" stroke="#1a1a1a" stroke-width="2.96" stroke-dasharray="5,5"/>
+  <line x1="202" y1="130" x2="202" y2="188" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="5,5"/>
   <!-- RFID/decoration line on wallet face -->
-  <rect x="98" y="152" width="94" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="98" y="152" width="94" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

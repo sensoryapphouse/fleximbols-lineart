@@ -7,15 +7,15 @@
 <ellipse cx="140" cy="320" rx="110" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <ellipse cx="140" cy="320" rx="70" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- sparkle stars -->
-<polygon points="120,290 125,305 140,308 127,318 131,333 120,323 109,333 113,318 100,308 115,305" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="178,300 181,310 191,311 183,318 186,328 178,322 170,328 173,318 165,311 175,310" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="150,352 153,362 163,363 155,370 158,380 150,374 142,380 145,370 137,363 147,362" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="120,290 125,305 140,308 127,318 131,333 120,323 109,333 113,318 100,308 115,305" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="178,300 181,310 191,311 183,318 186,328 178,322 170,328 173,318 165,311 175,310" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="150,352 153,362 163,363 155,370 158,380 150,374 142,380 145,370 137,363 147,362" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- DIRTY plate (right, faded) -->
 <g opacity="0.34">
 <ellipse cx="372" cy="320" rx="110" ry="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <ellipse cx="372" cy="320" rx="70" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="352" cy="300" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<ellipse cx="392" cy="332" rx="14" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="360" cy="348" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
+<ellipse cx="352" cy="300" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
+<ellipse cx="392" cy="332" rx="14" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="360" cy="348" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
 </g>
 </g></svg>

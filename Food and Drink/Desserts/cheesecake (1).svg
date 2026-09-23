@@ -4,7 +4,7 @@
   <path d="M 60,82 Q 80,72 100,84 Q 105,98 88,104 Q 70,108 60,98 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 115,75 Q 135,65 155,77 Q 160,92 142,98 Q 122,102 112,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 170,80 Q 190,70 210,82 Q 215,96 198,102 Q 178,106 168,94 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 80,76 Q 82,68 92,72" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 138,68 Q 140,60 152,64" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 192,72 Q 194,64 206,68" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 80,76 Q 82,68 92,72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 138,68 Q 140,60 152,64" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 192,72 Q 194,64 206,68" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

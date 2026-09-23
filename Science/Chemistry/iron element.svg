@@ -6,15 +6,15 @@
   <rect x="30" y="125" width="30" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="120" y="125" width="30" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pole caps -->
-  <rect x="27" y="200" width="36" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="117" y="200" width="36" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="27" y="200" width="36" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="117" y="200" width="36" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- magnet field lines -->
-  <path d="M50 220 Q90 240 130 220" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M50 220 Q90 240 130 220" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- iron nail on right -->
   <!-- nail head -->
   <ellipse cx="220" cy="50" rx="22" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- nail head top highlight -->
-  <ellipse cx="220" cy="48" rx="16" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="220" cy="48" rx="16" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nail shaft -->
   <polygon points="208,55 232,55 226,200 214,200" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- nail shaft highlight -->

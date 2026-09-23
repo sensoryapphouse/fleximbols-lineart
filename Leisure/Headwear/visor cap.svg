@@ -7,9 +7,9 @@
   <!-- Curved brim projecting forward from front of band -->
   <path d="M72,160 Q55,163 38,172 Q34,181 44,186 Q80,190 145,188 Q210,190 246,186 Q256,181 252,172 Q235,163 218,160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Brim underside -->
-  <path d="M72,160 Q56,165 46,174 Q80,180 145,178 Q210,180 244,174 Q234,165 218,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72,160 Q56,165 46,174 Q80,180 145,178 Q210,180 244,174 Q234,165 218,160" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Sweatband inner strip -->
-  <path d="M72,155 Q145,148 218,155 L218,162 Q145,156 72,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M72,155 Q145,148 218,155 L218,162 Q145,156 72,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Velcro/adjustment strap at back centre top of band -->
   <rect x="118" y="98" width="54" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
   <!-- Strap texture dots -->
@@ -17,5 +17,5 @@
   <circle cx="145" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="157" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Brim stitch -->
-  <path d="M52,176 Q145,182 238,176" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <path d="M52,176 Q145,182 238,176" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
 </g></svg>

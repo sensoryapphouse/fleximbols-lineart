@@ -8,9 +8,9 @@
   <!-- Door (centered) -->
   <rect x="127" y="174" width="36" height="44" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Door arch -->
-  <path d="M127 182 Q127 174 145 174 Q163 174 163 182" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <path d="M127 182 Q127 174 145 174 Q163 174 163 182" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Door knob -->
-  <circle cx="156" cy="197" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="156" cy="197" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Marker/pin loop (large, rounded loop above house — generic looped pin marker shape) -->
   <!-- The loop: a rounded teardrop/pin shape pointing down, centered over house -->
   <!-- Outer loop outline -->

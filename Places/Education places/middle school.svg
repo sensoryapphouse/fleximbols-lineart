@@ -16,12 +16,12 @@
   <!-- Door -->
   <rect x="120" y="140" width="50" height="55" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Door knob -->
-  <circle cx="163" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="163" cy="168" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Second floor windows -->
   <rect x="75" y="72" width="35" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="180" y="72" width="35" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Flag pole -->
   <line x1="220" y1="35" x2="220" y2="5" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Flag -->
-  <polygon points="220,5 250,14 220,23" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="220,5 250,14 220,23" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

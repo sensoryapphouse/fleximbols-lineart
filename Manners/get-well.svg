@@ -4,8 +4,8 @@
 <line x1="216" y1="332" x2="296" y2="332" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="216" y1="354" x2="278" y2="354" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="372" y1="316" x2="382" y2="388" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="350" cy="294" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="394" cy="294" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="366" cy="274" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<circle cx="366" cy="316" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="350" cy="294" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+<circle cx="394" cy="294" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+<circle cx="366" cy="274" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+<circle cx="366" cy="316" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
 </g></svg>

@@ -10,7 +10,7 @@
 <!-- pickup bed rail -->
 <rect x="318" y="252" width="142" height="62" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- white side band -->
-<rect x="56" y="284" width="404" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="56" y="284" width="404" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.88"/>
 <line x1="56" y1="284" x2="460" y2="284" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="56" y1="306" x2="460" y2="306" stroke="#1a1a1a" stroke-width="5"/>
 <!-- life ring badge on door -->

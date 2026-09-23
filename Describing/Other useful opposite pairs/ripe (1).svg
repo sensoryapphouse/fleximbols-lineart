@@ -17,7 +17,7 @@
   <!-- Stem -->
   <path d="M145 62 Q147 45 150 38" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Highlight (glossy) -->
-  <ellipse cx="118" cy="110" rx="14" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 118 110)"/>
+  <ellipse cx="118" cy="110" rx="14" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 118 110)"/>
   <!-- Small happy check / star burst to show "ready" -->
   <path d="M198 88 L201 78 L204 88 L214 91 L204 94 L201 104 L198 94 L188 91 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

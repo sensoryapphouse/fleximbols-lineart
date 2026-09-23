@@ -19,7 +19,7 @@
   <!-- Water level inside tank -->
   <rect x="207" y="100" width="20" height="18" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Water drop on tank -->
-  <path d="M217 84 Q221 90 217 95 Q213 90 217 84Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M217 84 Q221 90 217 95 Q213 90 217 84Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Knobs -->
   <circle cx="217" cy="138" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="217" cy="162" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

@@ -10,9 +10,9 @@
   <!-- Rice stuffing visible at top of left pocket -->
   <path d="M70 138 Q80 133 95 136 Q98 143 80 144 Q65 143 70 138Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sesame seeds on left pocket -->
-  <circle cx="68" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="82" cy="158" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="97" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="82" cy="158" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="97" cy="162" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Inari pocket 2 (center) - slightly taller -->
   <path d="M115 175 Q114 138 155 130 Q196 125 198 142 Q200 162 196 178 Q175 192 155 192 Q124 192 115 175Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
@@ -22,9 +22,9 @@
   <!-- Rice stuffing visible at top -->
   <path d="M143 130 Q155 125 170 128 Q173 136 155 137 Q139 136 143 130Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sesame seeds center -->
-  <circle cx="142" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="158" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="174" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="142" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="158" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="174" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Inari pocket 3 (right) -->
   <path d="M192 180 Q192 147 225 140 Q258 135 258 150 Q260 168 258 182 Q240 195 222 194 Q198 192 192 180Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
@@ -34,7 +34,7 @@
   <!-- Rice stuffing visible at top -->
   <path d="M213 140 Q225 135 240 138 Q242 145 225 146 Q210 145 213 140Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sesame seeds right -->
-  <circle cx="214" cy="163" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="228" cy="158" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="243" cy="163" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="214" cy="163" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="228" cy="158" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="243" cy="163" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -3,9 +3,9 @@
 <line x1="256" y1="110" x2="256" y2="332" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <rect x="198.0" y="342.0" width="116.0" height="20.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <rect x="243.0" y="362.0" width="26.0" height="60.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<line x1="243" y1="374" x2="269" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="243" y1="388" x2="269" y2="388" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="243" y1="402" x2="269" y2="402" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="243" y1="374" x2="269" y2="374" stroke="#1a1a1a" stroke-width="4.95" stroke-linecap="round"/>
+<line x1="243" y1="388" x2="269" y2="388" stroke="#1a1a1a" stroke-width="4.95" stroke-linecap="round"/>
+<line x1="243" y1="402" x2="269" y2="402" stroke="#1a1a1a" stroke-width="4.95" stroke-linecap="round"/>
 <circle cx="256" cy="436" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="256" cy="436" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="436" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.95"/>
 </g></svg>

@@ -15,10 +15,10 @@
     <polygon points="396,229 484,345 482,370 181,466 110,306 106,289 396,229" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="126,290 180,423 180,423 180,425 181,426 182,427 184,428 188,429 194,429 203,428 464,353 464,353 466,352 467,351 468,349 469,346 469,343 467,339 463,334 387,233 126,290" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="87,49 105,66 125,282" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="105,66 402,26" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="105,66 402,26" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="105,66 402,26" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="125,255 369,204 392,224" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="369,204 375,29" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="187,433 186,466" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

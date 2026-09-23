@@ -9,12 +9,12 @@
   <!-- LCD display panel -->
   <rect x="100" y="155" width="90" height="30" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- LCD digits -->
-  <rect x="110" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="124" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="142" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="156" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="110" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="124" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="142" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="156" y="162" width="8" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- unit indicator -->
-  <rect x="170" y="170" width="14" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="170" y="170" width="14" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tare button -->
   <circle cx="70" cy="172" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- on/off button -->

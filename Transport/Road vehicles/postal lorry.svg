@@ -20,8 +20,8 @@
   <!-- Envelope flap V -->
   <path d="M62 120 L102 148 L142 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Envelope bottom cross lines -->
-  <line x1="62" y1="172" x2="102" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="142" y1="172" x2="102" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="62" y1="172" x2="102" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="142" y1="172" x2="102" y2="148" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Body accent stripe -->
   <rect x="30" y="160" width="170" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Rear bumper -->

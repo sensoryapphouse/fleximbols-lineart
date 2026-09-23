@@ -4,26 +4,26 @@
   <!-- Cross arm -->
   <rect x="200" y="30" width="56" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Overhead wire -->
-  <line x1="20" y1="37" x2="270" y2="37" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="20" y1="37" x2="270" y2="37" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pantograph arm lower -->
   <line x1="160" y1="37" x2="148" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="148" y1="37" x2="160" y2="75" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Pantograph base bar -->
-  <rect x="138" y="72" width="30" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="138" y="72" width="30" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Street rails -->
   <rect x="20" y="210" width="250" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="72" y="210" width="8" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="130" y="210" width="8" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="188" y="210" width="8" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Rail tracks (two lines) -->
-  <rect x="68" y="206" width="6" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="216" y="206" width="6" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="68" y="206" width="6" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="216" y="206" width="6" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Tram body -->
   <rect x="25" y="108" width="240" height="98" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Roof -->
   <rect x="25" y="78" width="240" height="36" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Destination board -->
-  <rect x="55" y="82" width="80" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="55" y="82" width="80" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Windows row -->
   <rect x="40" y="120" width="38" height="34" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="92" y="120" width="38" height="34" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

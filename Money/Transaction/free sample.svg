@@ -36,5 +36,5 @@
   <!-- "try me" tag with star (replaces FREE/TRY text) -->
   <path d="M142 35 L165 35 L172 45 L165 55 L142 55 L135 45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="148" cy="45" r="3" fill="#1a1a1a"/>
-  <path d="M155 38 L157 43 L162 43 L158 46 L160 51 L155 48 L150 51 L152 46 L148 43 L153 43 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M155 38 L157 43 L162 43 L158 46 L160 51 L155 48 L150 51 L152 46 L148 43 L153 43 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

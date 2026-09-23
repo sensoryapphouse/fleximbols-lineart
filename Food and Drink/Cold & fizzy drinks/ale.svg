@@ -14,10 +14,10 @@
   <circle cx="155" cy="54" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="178" cy="58" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Dimple circles on mug -->
-  <circle cx="120" cy="120" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="155" cy="120" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="120" cy="155" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="155" cy="155" r="10" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="120" cy="120" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="120" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="155" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="155" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mug outline on top of fill -->
   <path d="M80,205 L80,75 Q80,65 90,65 L195,65 Q205,65 205,75 L205,205 Z" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Bottom base -->

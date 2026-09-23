@@ -25,10 +25,10 @@
   <!-- magnetic stripe -->
   <rect x="60" y="134" width="172" height="18" fill="#1a1a1a"/>
   <!-- chip -->
-  <rect x="76" y="164" width="26" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="76" y1="170" x2="102" y2="170" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="76" y1="178" x2="102" y2="178" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="89" y1="164" x2="89" y2="184" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="76" y="164" width="26" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="76" y1="170" x2="102" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="76" y1="178" x2="102" y2="178" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="89" y1="164" x2="89" y2="184" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- card number dots -->
   <g fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22">
     <circle cx="118" cy="198" r="3"/>
@@ -53,5 +53,5 @@
   <circle cx="244" cy="72" r="6" fill="none" stroke="#ffffff" stroke-width="5.93"/>
   <line x1="248" y1="44" x2="216" y2="76" stroke="#ffffff" stroke-width="5.93" stroke-linecap="round"/>
   <!-- up arrow showing rising interest -->
-  <path d="M232 110 L226 120 L230 120 L230 128 L234 128 L234 120 L238 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M232 110 L226 120 L230 120 L230 128 L234 128 L234 120 L238 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -10,16 +10,16 @@
   <!-- Diced vegetables (browned cubes) -->
   <!-- Carrot cubes (orange) -->
   <rect x="50" y="150" width="22" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="54" y="154" width="10" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="54" y="154" width="10" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.67" />
   <rect x="80" y="148" width="20" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Potato cubes (browned) -->
   <rect x="108" y="150" width="24" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="120" cy="158" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="120" cy="158" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.67" />
   <rect x="142" y="148" width="22" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="153" cy="156" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="153" cy="156" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.67" />
   <!-- Pepper / broccoli (green) -->
   <rect x="174" y="150" width="22" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="184" cy="158" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="184" cy="158" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.67" />
   <rect x="204" y="148" width="20" height="24" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Red onion / tomato cube -->
   <rect x="232" y="150" width="20" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -37,13 +37,13 @@
   <!-- ROAST label band -->
   <rect x="78" y="215" width="134" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- R -->
-  <path d="M88 220 L88 234 M88 220 L96 220 Q100 220 100 224 Q100 228 96 228 L88 228 M96 228 L100 234" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M88 220 L88 234 M88 220 L96 220 Q100 220 100 224 Q100 228 96 228 L88 228 M96 228 L100 234" fill="none" stroke="#1a1a1a" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- O -->
-  <path d="M108 220 Q104 220 104 227 Q104 234 108 234 Q114 234 114 227 Q114 220 108 220 Z" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
+  <path d="M108 220 Q104 220 104 227 Q104 234 108 234 Q114 234 114 227 Q114 220 108 220 Z" fill="none" stroke="#1a1a1a" stroke-width="4.67" stroke-linejoin="round"/>
   <!-- A -->
-  <path d="M120 234 L125 220 L130 234 M122 230 L128 230" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 234 L125 220 L130 234 M122 230 L128 230" fill="none" stroke="#1a1a1a" stroke-width="4.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- S -->
-  <path d="M144 221 Q138 220 138 224 Q138 227 142 227 Q146 227 146 230 Q146 234 140 233" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
+  <path d="M144 221 Q138 220 138 224 Q138 227 142 227 Q146 227 146 230 Q146 234 140 233" fill="none" stroke="#1a1a1a" stroke-width="4.67" stroke-linecap="round"/>
   <!-- T -->
-  <path d="M152 220 L162 220 M157 220 L157 234" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M152 220 L162 220 M157 220 L157 234" fill="none" stroke="#1a1a1a" stroke-width="4.67" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

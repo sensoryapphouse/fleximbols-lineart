@@ -26,6 +26,6 @@
   <path d="M108 130 Q115 118 122 112" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <ellipse cx="122" cy="110" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- White rice visible bits -->
-  <ellipse cx="140" cy="138" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="115" cy="140" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="140" cy="138" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="115" cy="140" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

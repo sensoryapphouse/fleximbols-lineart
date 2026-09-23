@@ -19,9 +19,9 @@
   <line x1="160" y1="96" x2="160" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="173" y1="96" x2="173" y2="144" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pleat fold lines (zigzag top) -->
-  <polyline points="108,96 114,102 121,96 127,102 134,96 140,102 147,96 153,102 160,96 166,102 173,96 179,102 182,96" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polyline points="108,96 114,102 121,96 127,102 134,96 140,102 147,96 153,102 160,96 166,102 173,96 179,102 182,96" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Pleat fold lines (zigzag bottom) -->
-  <polyline points="108,144 114,138 121,144 127,138 134,144 140,138 147,144 153,138 160,144 166,138 173,144 179,138 182,144" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polyline points="108,144 114,138 121,144 127,138 134,144 140,138 147,144 153,138 160,144 166,138 173,144 179,138 182,144" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Right hexagonal end cap -->
   <polygon points="182,120 196,92 224,92 238,120 224,148 196,148" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Right buttons (hex layout) -->

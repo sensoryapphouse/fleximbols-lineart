@@ -8,12 +8,12 @@
 <polygon points="176,232 336,232 374,308 138,308" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- central medallion / motif -->
 <polygon points="256,248 286,270 256,292 226,270" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="256" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65"/>
 <!-- corner dots in the field -->
-<circle cx="196" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="316" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="180" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="332" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
+<circle cx="196" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
+<circle cx="316" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
+<circle cx="180" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
+<circle cx="332" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.65" />
 <!-- fringe / tassels along the near (bottom) edge -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
 <line x1="78" y1="360" x2="72" y2="384"/>
@@ -27,4 +27,4 @@
 <line x1="398" y1="360" x2="401" y2="386"/>
 <line x1="434" y1="360" x2="440" y2="384"/>
 </g>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

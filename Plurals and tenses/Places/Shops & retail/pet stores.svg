@@ -27,7 +27,7 @@
   <ellipse cx="133" cy="138" rx="4" ry="3" fill="#1a1a1a" stroke="none"/>
   <!-- Dog eye -->
   <circle cx="120" cy="130" r="4" fill="#1a1a1a" stroke="none"/>
-  <circle cx="121" cy="129" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="121" cy="129" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
   <!-- Dog ear (floppy) -->
   <ellipse cx="106" cy="122" rx="8" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-20 106 122)"/>
   <!-- Dog tail (wagging) -->
@@ -36,32 +36,32 @@
   <rect x="72" y="160" width="9" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="96" y="160" width="9" height="16" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- LEFT PANE top: shelf/background strip -->
-  <rect x="34" y="69" width="108" height="53" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="34" y="69" width="108" height="53" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
   <!-- RIGHT PANE: FISH BOWL in window -->
   <!-- Fish bowl -->
   <ellipse cx="196" cy="148" rx="32" ry="25" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Bowl base/stand -->
   <rect x="182" y="170" width="28" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Water fill in bowl -->
-  <ellipse cx="196" cy="154" rx="28" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M164 148 Q180 158 196 148 Q212 138 228 148" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <ellipse cx="196" cy="154" rx="28" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
+  <path d="M164 148 Q180 158 196 148 Q212 138 228 148" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
   <!-- Fish inside bowl -->
   <ellipse cx="196" cy="152" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Fish tail -->
-  <path d="M184 152 L176 145 L176 159 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M184 152 L176 145 L176 159 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" stroke-linejoin="round"/>
   <!-- Fish eye -->
   <circle cx="204" cy="149" r="3" fill="#1a1a1a" stroke="none"/>
-  <circle cx="205" cy="148" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="205" cy="148" r="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
   <!-- Bubbles -->
-  <circle cx="216" cy="136" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="222" cy="128" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="216" cy="136" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35"/>
+  <circle cx="222" cy="128" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35"/>
   <!-- RIGHT PANE top: small plant/gravel -->
-  <rect x="144" y="69" width="108" height="53" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="144" y="69" width="108" height="53" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
   <ellipse cx="196" cy="100" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M192 100 Q190 88 188 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M196 100 Q196 86 196 76" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M200 100 Q202 88 204 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Door -->
   <rect x="115" y="178" width="60" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
-  <circle cx="127" cy="196" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="127" cy="196" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -3,12 +3,12 @@
   <rect x="25" y="40" width="170" height="32" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"></rect>
   <rect x="50" y="28" width="12" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="158" y="28" width="12" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
-  <line x1="25" y1="100" x2="195" y2="100" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="25" y1="135" x2="195" y2="135" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="25" y1="170" x2="195" y2="170" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="68" y1="72" x2="68" y2="200" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="110" y1="72" x2="110" y2="200" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="152" y1="72" x2="152" y2="200" stroke="#1a1a1a" stroke-width="2.96"></line>
+  <line x1="25" y1="100" x2="195" y2="100" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="25" y1="135" x2="195" y2="135" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="25" y1="170" x2="195" y2="170" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="68" y1="72" x2="68" y2="200" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="110" y1="72" x2="110" y2="200" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="152" y1="72" x2="152" y2="200" stroke="#1a1a1a" stroke-width="4.1"></line>
   <rect x="71" y="103" width="38" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <path d="M 175,130 Q 175,124 181,124 L 270,124 Q 276,124 276,130 L 276,196 Q 276,202 270,202 L 181,202 Q 175,202 175,196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 175,130 L 225,166 L 276,130" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>

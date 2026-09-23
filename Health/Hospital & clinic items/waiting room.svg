@@ -2,9 +2,9 @@
   <!-- Door/gate frame (right side) -->
   <rect x="178" y="60" width="80" height="165" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Door panel -->
-  <rect x="188" y="70" width="60" height="145" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="188" y="70" width="60" height="145" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Door knob/handle -->
-  <circle cx="198" cy="148" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="198" cy="148" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Door vertical bars (gate feel) -->
   <line x1="210" y1="74" x2="210" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="226" y1="74" x2="226" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -20,10 +20,10 @@
   <!-- Clock (top left) -->
   <circle cx="52" cy="46" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Clock tick marks -->
-  <line x1="52" y1="20" x2="52" y2="28" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="52" y1="64" x2="52" y2="72" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="26" y1="46" x2="34" y2="46" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="70" y1="46" x2="78" y2="46" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="52" y1="20" x2="52" y2="28" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="52" y1="64" x2="52" y2="72" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="26" y1="46" x2="34" y2="46" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="70" y1="46" x2="78" y2="46" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Clock hands -->
   <line x1="52" y1="46" x2="52" y2="28" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="52" y1="46" x2="66" y2="46" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -36,7 +36,7 @@
   <!-- Sand dot in bottom -->
   <ellipse cx="43" cy="148" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Hourglass rim top -->
-  <rect x="24" y="96" width="38" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="24" y="96" width="38" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Hourglass rim bottom -->
-  <rect x="24" y="150" width="38" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="24" y="150" width="38" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

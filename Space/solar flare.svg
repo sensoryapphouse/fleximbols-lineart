@@ -2,8 +2,8 @@
   <!-- Sun disc on left side -->
   <circle cx="115" cy="125" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
   <!-- Small sunspot detail -->
-  <circle cx="130" cy="105" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="100" cy="140" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="130" cy="105" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="100" cy="140" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Large flare loop bursting from right edge — clear arc going OFF the sun -->
   <path d="M 180 95 Q 240 50 270 110 Q 280 160 230 175" fill="none" stroke="#1a1a1a" stroke-width="17.77" stroke-linecap="round"/>
   <path d="M 180 95 Q 240 50 270 110 Q 280 160 230 175" fill="none" stroke="#1a1a1a" stroke-width="10.15" stroke-linecap="round"/>
@@ -13,6 +13,6 @@
   <path d="M 175 165 Q 200 200 240 200" fill="none" stroke="#1a1a1a" stroke-width="10.15" stroke-linecap="round"/>
   <path d="M 175 165 Q 200 200 240 200" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <!-- Bright spark dots near eruption base -->
-  <circle cx="178" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.91"/>
-  <circle cx="180" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.91"/>
+  <circle cx="178" cy="100" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="160" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

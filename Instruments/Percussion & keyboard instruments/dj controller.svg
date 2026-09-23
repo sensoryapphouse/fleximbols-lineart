@@ -9,7 +9,7 @@
   <rect x="130" y="80" width="30" height="90" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"></rect>
   <rect x="140" y="115" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="120" y="80" width="50" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
-  <rect x="120" y="92" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
-  <rect x="120" y="100" width="30" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
-  <rect x="120" y="165" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></rect>
+  <rect x="120" y="92" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="120" y="100" width="30" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="120" y="165" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
 </g></svg>

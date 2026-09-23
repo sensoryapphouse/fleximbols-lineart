@@ -15,11 +15,11 @@
   <!-- Stage floor -->
   <rect x="52" y="158" width="186" height="34" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Floor boards -->
-  <line x1="85"  y1="158" x2="85"  y2="192" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="118" y1="158" x2="118" y2="192" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="151" y1="158" x2="151" y2="192" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="184" y1="158" x2="184" y2="192" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="217" y1="158" x2="217" y2="192" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="85"  y1="158" x2="85"  y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="118" y1="158" x2="118" y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="151" y1="158" x2="151" y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="184" y1="158" x2="184" y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="217" y1="158" x2="217" y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Left curtain (drawn open to left) -->
   <path d="M52,44 Q62,60 58,90 Q54,118 62,140 Q68,158 52,158" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>

@@ -7,9 +7,9 @@
   
   <rect x="25" y="148" width="240" height="50" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   
-  <line x1="85" y1="148" x2="85" y2="198" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="145" y1="148" x2="145" y2="198" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="205" y1="148" x2="205" y2="198" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="85" y1="148" x2="85" y2="198" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="145" y1="148" x2="145" y2="198" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="205" y1="148" x2="205" y2="198" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <ellipse cx="145" cy="148" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   
@@ -28,25 +28,25 @@
   <ellipse cx="58" cy="153" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="58" cy="148" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   
-  <circle cx="50" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="59" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="67" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="50" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="59" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="67" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <ellipse cx="232" cy="153" rx="20" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <ellipse cx="232" cy="149" rx="20" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="227" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="235" cy="147" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="227" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="235" cy="147" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <path d="M40 105 Q50 85 65 95 Q55 100 60 115 Q48 108 40 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M55 100 L60 115" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M55 100 L60 115" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M68 98 Q80 78 95 90 Q83 94 87 110 Q74 102 68 98 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M83 93 L87 110" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M83 93 L87 110" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M220 90 Q232 70 247 82 Q235 86 238 102 Q226 94 220 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M235 85 L238 102" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M235 85 L238 102" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M235 95 Q248 75 263 87 Q250 91 253 108 Q241 99 235 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M250 90 L253 108" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M250 90 L253 108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
   <rect x="136" y="100" width="14" height="40" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M143 100 Q140 90 143 82 Q146 90 143 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="143" y1="100" x2="143" y2="82" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M143 100 Q140 90 143 82 Q146 90 143 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="143" y1="100" x2="143" y2="82" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

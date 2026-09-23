@@ -21,11 +21,11 @@
   <!-- rider 1 head -->
   <circle cx="188" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rider 1 hair -->
-  <path d="M180 187 Q188 180 196 187" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M180 187 Q188 180 196 187" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- rider 2 head -->
   <circle cx="212" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- rider 2 hair -->
-  <path d="M204 186 Q212 179 220 186" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M204 186 Q212 179 220 186" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- arms up (excitement) -->
   <line x1="188" y1="197" x2="180" y2="183" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <line x1="212" y1="197" x2="220" y2="183" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>

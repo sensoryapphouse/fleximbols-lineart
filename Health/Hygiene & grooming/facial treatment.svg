@@ -24,9 +24,9 @@
 
   <!-- cucumber slices on eyes -->
   <circle cx="55" cy="133" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-  <circle cx="55" cy="133" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="55" cy="133" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="75" cy="133" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-  <circle cx="75" cy="133" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="75" cy="133" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- small smile / mouth -->
   <path d="M 60,148 Q 65,151 70,148" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
@@ -37,7 +37,7 @@
   <!-- wick -->
   <line x1="209" y1="80" x2="209" y2="73" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- flame -->
-  <path d="M 209,72 Q 204,66 209,58 Q 214,66 209,72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 209,72 Q 204,66 209,58 Q 214,66 209,72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- cream jar (top right) -->
   <rect x="232" y="92" width="32" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>

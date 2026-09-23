@@ -13,39 +13,39 @@
 <!-- fist at end of forearm -->
 <circle id="h2" data-fig="mc" cx="324" cy="404" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <!-- knuckle lines on fist -->
-<line x1="320" y1="382" x2="318" y2="392" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="334" y1="384" x2="332" y2="394" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="346" y1="392" x2="342" y2="400" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="320" y1="382" x2="318" y2="392" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="334" y1="384" x2="332" y2="394" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="346" y1="392" x2="342" y2="400" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
 
 <!-- ===== inflatable cuff wrapped around the upper arm ===== -->
 <!-- cuff body wrapping the limb -->
 <rect x="178" y="200" width="104" height="92" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- cuff edge highlight -->
-<rect x="178" y="200" width="104" height="92" rx="14" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="178" y="200" width="104" height="92" rx="14" fill="none" stroke="#1a1a1a" stroke-width="4.87"/>
 <!-- Velcro band straps -->
-<rect x="170" y="216" width="120" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<rect x="170" y="262" width="120" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="170" y="216" width="120" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.87"/>
+<rect x="170" y="262" width="120" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.87"/>
 <!-- velcro hatch texture -->
-<line x1="176" y1="223" x2="284" y2="223" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4"/>
-<line x1="176" y1="269" x2="284" y2="269" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="176" y1="223" x2="284" y2="223" stroke="#1a1a1a" stroke-width="4.87" stroke-dasharray="5 4"/>
+<line x1="176" y1="269" x2="284" y2="269" stroke="#1a1a1a" stroke-width="4.87" stroke-dasharray="5 4"/>
 <!-- inflation bulb pad on the cuff -->
-<rect x="262" y="232" width="30" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<rect x="262" y="232" width="30" height="30" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.87"/>
 
 <!-- ===== rubber tube connecting cuff to gauge ===== -->
 <path d="M 282 246 Q 360 250 388 320" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 
 <!-- ===== large gauge dial with red needle pointing high ===== -->
 <circle cx="390" cy="356" r="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="390" cy="356" r="56" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="390" cy="356" r="56" fill="none" stroke="#1a1a1a" stroke-width="4.87"/>
 <!-- tick marks around dial -->
-<line x1="390" y1="306" x2="390" y2="316" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="421" y1="316" x2="415" y2="324" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="430" y1="356" x2="440" y2="356" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="421" y1="396" x2="415" y2="388" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="390" y1="406" x2="390" y2="396" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="359" y1="396" x2="365" y2="388" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="350" y1="356" x2="340" y2="356" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="359" y1="316" x2="365" y2="324" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="390" y1="306" x2="390" y2="316" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="421" y1="316" x2="415" y2="324" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="430" y1="356" x2="440" y2="356" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="421" y1="396" x2="415" y2="388" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="390" y1="406" x2="390" y2="396" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="359" y1="396" x2="365" y2="388" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="350" y1="356" x2="340" y2="356" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
+<line x1="359" y1="316" x2="365" y2="324" stroke="#1a1a1a" stroke-width="4.87" stroke-linecap="round"/>
 <!-- red "danger zone" arc near the top-right (high reading) -->
 <path d="M 390 304 A 52 52 0 0 1 437 332" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- bold red needle pointing HIGH (up-right into the red zone) -->

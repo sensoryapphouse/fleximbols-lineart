@@ -12,9 +12,9 @@
   <circle cx="145" cy="205" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <circle cx="95" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <ellipse cx="218" cy="55" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
-  <circle cx="225" cy="48" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></circle>
+  <circle cx="225" cy="48" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <circle cx="225" cy="48" r="2" fill="#1a1a1a"></circle>
-  <circle cx="215" cy="62" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></circle>
-  <path d="M 235,55 Q 245,58 248,55 L 244,62 L 240,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></path>
+  <circle cx="215" cy="62" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <path d="M 235,55 Q 245,58 248,55 L 244,62 L 240,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 55,108 L 50,118 L 55,128 L 52,135" stroke="#1a1a1a" stroke-width="6.66" fill="none" stroke-linecap="round"></path>
 </g></svg>

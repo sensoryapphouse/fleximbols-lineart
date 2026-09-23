@@ -22,5 +22,5 @@
   <!-- entry point ripple -->
   <ellipse cx="175" cy="175" rx="14" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- blood dot -->
-  <circle cx="175" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="175" cy="172" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

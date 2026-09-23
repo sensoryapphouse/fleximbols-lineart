@@ -11,20 +11,20 @@
   <path d="M30 120 L210 120" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- running wheel attached -->
   <circle cx="235" cy="150" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="235" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="235" cy="150" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- spokes -->
-  <path d="M235 112 L235 188 M197 150 L273 150 M210 125 L260 175 M260 125 L210 175" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M235 112 L235 188 M197 150 L273 150 M210 125 L260 175 M260 125 L210 175" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- wheel stand -->
   <rect x="225" y="183" width="20" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- water bottle attached to bars -->
   <rect x="155" y="65" width="30" height="55" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- water inside -->
-  <rect x="158" y="80" width="24" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="158" y="80" width="24" height="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bottle nozzle -->
-  <rect x="165" y="120" width="10" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="170" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="165" y="120" width="10" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bedding -->
-  <path d="M40 200 Q60 195 80 200 Q100 195 120 200 Q140 195 160 200 Q180 195 200 200" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
+  <path d="M40 200 Q60 195 80 200 Q100 195 120 200 Q140 195 160 200 Q180 195 200 200" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <circle cx="55" cy="205" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="100" cy="207" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="150" cy="205" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

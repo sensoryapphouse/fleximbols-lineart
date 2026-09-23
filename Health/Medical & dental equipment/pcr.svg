@@ -9,17 +9,17 @@
   <path d="M40 125 L50 115 L60 125 L70 115 L80 125" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- control knob -->
   <circle cx="120" cy="118" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="120" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sample wells (grid) -->
   <rect x="32" y="150" width="130" height="40" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="45" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="60" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="75" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="90" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="105" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="120" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="135" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="150" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="45" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="60" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="75" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="90" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="170" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- PCR tube extracted -->
   <path d="M195 60 L215 60 L213 130 L205 145 L197 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- tube cap -->

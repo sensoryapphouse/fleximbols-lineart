@@ -23,7 +23,7 @@
   <rect x="183" y="156" width="38" height="30" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- Firebox flames -->
   <path d="M193 183 Q197 172 202 180 Q206 168 211 176 Q215 169 219 178" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M196 183 Q200 175 205 182 Q209 171 214 179" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 183 Q200 175 205 182 Q209 171 214 179" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Connection pipe -->
   <rect x="168" y="160" width="12" height="18" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Temperature gauge -->

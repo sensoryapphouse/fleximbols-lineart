@@ -7,7 +7,7 @@
   <path d="M30 85 L130 35 L230 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- door -->
   <rect x="110" y="135" width="40" height="65" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="142" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="142" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- windows -->
   <rect x="55" y="100" width="35" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M72 100 L72 128 M55 114 L90 114" stroke="#1a1a1a" stroke-width="4.45"/>

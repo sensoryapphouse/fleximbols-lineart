@@ -2,14 +2,14 @@
 <g>
 	<g id="XMLID_34_">
 		<g>
-			<rect x="197.5" y="147.5" style="fill:#ffffff" width="90" height="80" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<rect x="162.5" y="227.5" style="fill:#ffffff" width="160" height="50" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<rect x="197.5" y="147.5" style="fill:#ffffff" width="90" height="80" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<rect x="162.5" y="227.5" style="fill:#ffffff" width="160" height="50" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 			<path style="fill:#ffffff" d="M67.5,277.5v130v20c0,5.5-4.5,10-10,10h-40c-5.5,0-10-4.5-10-10v-170c0-5.5,4.5-10,10-10h40
-				c5.5,0,10,4.5,10,10V277.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+				c5.5,0,10,4.5,10,10V277.5z" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 			<path style="fill:#ffffff" d="M477.5,257.5v170c0,5.5-4.5,10-10,10h-40c-5.5,0-10-4.5-10-10v-20v-130v-20c0-5.5,4.5-10,10-10h40
-				C473,247.5,477.5,252,477.5,257.5z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<polygon style="fill:#ffffff" points="67.5,277.5 162.5,277.5 322.5,277.5 417.5,277.5 417.5,407.5 67.5,407.5 			" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<polygon style="fill:#ffffff" points="337.5,47.5 337.5,147.5 287.5,147.5 197.5,147.5 147.5,147.5 147.5,47.5 			" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+				C473,247.5,477.5,252,477.5,257.5z" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<polygon style="fill:#ffffff" points="67.5,277.5 162.5,277.5 322.5,277.5 417.5,277.5 417.5,407.5 67.5,407.5 			" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<polygon style="fill:#ffffff" points="337.5,47.5 337.5,147.5 287.5,147.5 197.5,147.5 147.5,147.5 147.5,47.5 			" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 		</g>
 		<g>
 			<path d="M467.5,240h-40c-9.649,0-17.5,7.851-17.5,17.5V270h-80v-50h-35v-65h50V40H140v115h50v65h-35v50H75v-12.5
@@ -19,8 +19,8 @@
 				v-15H205v-20H280z M170,235h145v35H170V235z M60,427.5c0,1.355-1.145,2.5-2.5,2.5h-40c-1.355,0-2.5-1.145-2.5-2.5v-170
 				c0-1.355,1.145-2.5,2.5-2.5h40c1.355,0,2.5,1.145,2.5,2.5V427.5z M75,400v-70h262.5v-15H75v-30h335v115H75z M470,427.5
 				c0,1.355-1.145,2.5-2.5,2.5h-40c-1.355,0-2.5-1.145-2.5-2.5v-170c0-1.355,1.145-2.5,2.5-2.5h40c1.355,0,2.5,1.145,2.5,2.5V427.5z
-				" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-			<rect x="357.5" y="315" width="30" height="15" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+				" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+			<rect x="357.5" y="315" width="30" height="15" stroke="#1a1a1a" stroke-width="6.86" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 		</g>
 	</g>
 </g>

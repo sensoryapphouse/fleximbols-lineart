@@ -8,7 +8,7 @@
   <circle cx="200" cy="175" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"></circle>
   <circle cx="195" cy="172" r="2" fill="#1a1a1a"></circle>
   <circle cx="205" cy="172" r="2" fill="#1a1a1a"></circle>
-  <path d="M 198,180 L 202,180" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 198,180 L 202,180" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 235,162 Q 240,150 248,158 M 250,170 Q 258,158 265,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 188,188 L 188,205 L 198,205 L 198,190 Z M 218,188 L 218,205 L 228,205 L 228,190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></path>
   <path d="M 235,195 Q 245,200 250,210" stroke="#1a1a1a" stroke-width="7.40" fill="none" stroke-linecap="round"></path>

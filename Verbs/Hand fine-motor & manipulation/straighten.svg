@@ -3,8 +3,8 @@
   <path d="M 56,168 Q 130,90 204,168 Q 278,246 352,168 Q 390,130 456,168" fill="none" stroke="#1a1a1a" stroke-width="10.99" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- downward transformation arrow -->
   <line x1="256" y1="224" x2="256" y2="296" stroke="#1a1a1a" stroke-width="7.85" stroke-linecap="round"/>
-  <polygon points="256,320 236,292 276,292" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.57"/>
+  <polygon points="256,320 236,292 276,292" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.25"/>
   <!-- straight line (after) -->
   <line x1="56" y1="380" x2="432" y2="380" stroke="#1a1a1a" stroke-width="10.99" stroke-linecap="round"/>
-  <polygon points="458,380 430,362 430,398" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.35" stroke-linejoin="round"/>
+  <polygon points="458,380 430,362 430,398" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round"/>
 </g></svg>

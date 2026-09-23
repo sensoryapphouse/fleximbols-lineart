@@ -13,18 +13,18 @@
 <circle id="h1" data-fig="ma" cx="256" cy="120" r="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" data-lp="skin"/>
 <!-- marker dots + thin grey leader lines to regions -->
 <!-- head -->
-<circle cx="176" cy="100" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="185" y1="103" x2="216" y2="116" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="176" cy="100" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="185" y1="103" x2="216" y2="116" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- chest -->
-<circle cx="350" cy="220" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="341" y1="222" x2="294" y2="232" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="350" cy="220" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="341" y1="222" x2="294" y2="232" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- tummy -->
-<circle cx="170" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="179" y1="271" x2="220" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="170" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="179" y1="271" x2="220" y2="276" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- private region -->
-<circle cx="352" cy="312" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="343" y1="312" x2="284" y2="306" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="352" cy="312" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="343" y1="312" x2="284" y2="306" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- leg -->
-<circle cx="168" cy="400" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="177" y1="400" x2="232" y2="400" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="168" cy="400" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="177" y1="400" x2="232" y2="400" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

@@ -8,7 +8,7 @@
   <path d="M100 95 Q90 130 100 170" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <path d="M115 90 Q105 120 115 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Body curve definition -->
-  <path d="M170 80 Q200 115 215 165" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M170 80 Q200 115 215 165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Stem cap (thicker collar at top) -->
   <path d="M105 68 Q120 55 145 55 Q170 55 185 68 Q175 80 145 80 Q115 80 105 68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Stem -->

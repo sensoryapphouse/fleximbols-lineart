@@ -3,5 +3,5 @@
   <circle cx="145" cy="120" r="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="160" y1="80" x2="160" y2="130" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <path d="M160,80 Q185,90 175,110" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
-  <ellipse cx="149" cy="132" rx="14" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="149" cy="132" rx="14" ry="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

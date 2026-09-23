@@ -16,7 +16,7 @@
   <!-- curling foil sheet coming out of box -->
   <path d="M88,168 L82,186 Q80,206 100,212 Q120,218 130,196 Q138,178 136,168" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- foil sheet highlight (shiny surface) -->
-  <path d="M92,172 L88,192 Q88,206 100,210" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M92,172 L88,192 Q88,206 100,210" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- foil bottom curl -->
   <path d="M82,186 Q80,206 100,212 Q120,218 130,196" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

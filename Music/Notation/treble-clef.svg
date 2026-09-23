@@ -19,5 +19,5 @@ C 286 270 312 282 314 312
 C 316 344 286 366 254 360
 C 226 355 210 330 218 302"
 fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="265.0" cy="286.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="265.0" cy="286.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.89"/>
 </g></svg>

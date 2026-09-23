@@ -19,7 +19,7 @@
   <ellipse cx="155" cy="108" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="118" cy="152" rx="12" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Salt specks -->
-  <circle cx="145" cy="122" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="165" cy="135" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="128" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="122" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="135" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="128" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

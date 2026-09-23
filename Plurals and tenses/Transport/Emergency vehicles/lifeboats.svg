@@ -4,7 +4,7 @@
 <!-- hull (orange) -->
 <path d="M 64 300 L 448 300 L 410 366 Q 402 378 380 378 L 132 378 Q 110 378 102 366 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- blue stripe on hull -->
-<rect x="86" y="312" width="356" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="86" y="312" width="356" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.77"/>
 <!-- deck / cabin (blue) -->
 <rect x="150" y="218" width="212" height="84" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="170" y="234" width="60" height="50" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
@@ -15,4 +15,4 @@
 <!-- bow flag pole -->
 <line x1="200" y1="218" x2="200" y2="180" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <path d="M 200 182 L 240 190 L 200 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

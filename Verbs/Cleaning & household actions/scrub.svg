@@ -2,10 +2,10 @@
   <!-- Surface being scrubbed -->
   <rect x="30" y="160" width="230" height="30" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" data-lp="hair"/>
   <!-- Suds/foam on surface -->
-  <ellipse cx="110" cy="160" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="157" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="180" cy="161" rx="16" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="130" cy="154" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="110" cy="160" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="157" rx="22" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="180" cy="161" rx="16" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="130" cy="154" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Scrub brush -->
   <rect x="95" y="115" width="90" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Brush bristles -->
@@ -25,6 +25,6 @@
   <path d="M192 132 Q207 125 222 132" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M195 145 Q210 138 225 145" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Effort arrows left/right -->
-  <polygon points="65,120 50,113 50,127" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <polygon points="220,120 235,113 235,127" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <polygon points="65,120 50,113 50,127" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="220,120 235,113 235,127" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

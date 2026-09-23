@@ -14,16 +14,16 @@
   <!-- Compartment 2 (top-right): vegetables (peas + carrots) -->
   <path d="M 120,87 L 243,80 L 250,131 L 121,134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Peas -->
-  <circle cx="140" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="155" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="170" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="148" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="165" cy="122" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="140" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="122" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Carrots (orange diced) -->
-  <rect x="190" y="98" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="210" y="105" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="195" y="118" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="218" y="120" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="190" y="98" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="105" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="195" y="118" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="218" y="120" width="9" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Compartment 3 (bottom, full width): dessert (pink/cream) -->
   <path d="M 43,141 L 252,138 L 250,190 L 41,198 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Cherry on dessert -->

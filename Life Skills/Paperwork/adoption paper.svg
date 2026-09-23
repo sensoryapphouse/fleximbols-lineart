@@ -2,7 +2,7 @@
   
   <rect x="50" y="28" width="190" height="184" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   
-  <rect x="58" y="36" width="174" height="168" rx="6" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="6,4"/>
+  <rect x="58" y="36" width="174" height="168" rx="6" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,4"/>
 
   
   <rect x="72" y="54" width="146" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -22,7 +22,7 @@
 
   
   <circle cx="214" cy="60" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="214" cy="60" r="16" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="4,3"/>
+  <circle cx="214" cy="60" r="16" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="4,3"/>
   
-  <polygon points="214,48 217,57 226,57 219,63 222,72 214,66 206,72 209,63 202,57 211,57" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="214,48 217,57 226,57 219,63 222,72 214,66 206,72 209,63 202,57 211,57" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

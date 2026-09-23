@@ -32,10 +32,10 @@
   <line x1="28" y1="48" x2="74" y2="48" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-dasharray="6,5"/>
   <line x1="28" y1="60" x2="74" y2="60" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-dasharray="6,5"/>
   <!-- Stitch lines across whole quilt surface rows (simplified) -->
-  <line x1="20" y1="90" x2="270" y2="90" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="20" y1="198" x2="270" y2="198" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="82" y1="15" x2="82" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="145" y1="15" x2="145" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-  <line x1="207" y1="15" x2="207" y2="225" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="7,6"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="20" y1="90" x2="270" y2="90" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="20" y1="198" x2="270" y2="198" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="82" y1="15" x2="82" y2="225" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="145" y1="15" x2="145" y2="225" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+  <line x1="207" y1="15" x2="207" y2="225" stroke="#1a1a1a" stroke-width="4.72" stroke-linecap="round" stroke-dasharray="7,6"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

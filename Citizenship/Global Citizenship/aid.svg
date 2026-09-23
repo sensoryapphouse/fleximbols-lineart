@@ -5,7 +5,7 @@
 <polygon points="136.0,212 256,212 106.0,168" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <polygon points="376.0,212 256,212 406.0,168" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <rect x="208.0" y="251.2" width="96.0" height="96.0" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="242.0" y="263.2" width="28.0" height="72.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="220.0" y="285.2" width="72.0" height="28.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="242.0" y="263.2" width="28.0" height="72.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+<rect x="220.0" y="285.2" width="72.0" height="28.0" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 <path d="M 346.0 289.4 C 297.0 250.2 297.0 195.6 321.5 195.6 C 337.6 195.6 346.0 219.4 346.0 230.6 C 346.0 219.4 354.4 195.6 370.5 195.6 C 395.0 195.6 395.0 250.2 346.0 289.4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 </g></svg>

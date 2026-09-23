@@ -9,13 +9,13 @@
   <!-- Shell body sides -->
   <rect x="82" y="75" width="126" height="122" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Hoops/tension rods detail on shell top -->
-  <rect x="82" y="75" width="14" height="122" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="194" y="75" width="14" height="122" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="82" y="75" width="14" height="122" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="194" y="75" width="14" height="122" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Lug casings on shell side visible -->
-  <rect x="100" y="90" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="100" y="160" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="178" y="90" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="178" y="160" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="100" y="90" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="100" y="160" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="178" y="90" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="178" y="160" width="12" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Front head (batter head) - ellipse at left side of horizontal drum -->
   <ellipse cx="82" cy="136" rx="14" ry="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
@@ -36,5 +36,5 @@
   <circle cx="66" cy="154" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 
   <!-- Pedal spring (coil symbol) -->
-  <path d="M75 200 Q70 192 76 186 Q82 180 76 174 Q70 168 75 162" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M75 200 Q70 192 76 186 Q82 180 76 174 Q70 168 75 162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

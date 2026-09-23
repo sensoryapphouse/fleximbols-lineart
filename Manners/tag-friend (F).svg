@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1553) translate(-247.50 -269.00)">
 <g transform="translate(52.8,150.3) scale(0.721)"><!-- price/luggage tag -->
   <g stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
-    <path d="M60 150 L180 150 L250 250 L150 360 L60 360 Z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="6.00" />
-    <circle cx="105" cy="195" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M60 150 L180 150 L250 250 L150 360 L60 360 Z" fill="#ffffff"  stroke="#1a1a1a" stroke-width="7.2" />
+    <circle cx="105" cy="195" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.2" />
     <circle cx="105" cy="195" r="9" fill="#1a1a1a" stroke="none" />
   </g>
   <!-- string -->
-  <path d="M60 150 Q20 130 25 100 Q30 75 55 80" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M60 150 Q20 130 25 100 Q30 75 55 80" fill="none" stroke="#1a1a1a" stroke-width="7.2" stroke-linecap="round" />
   <!-- heart on tag (friend) -->
-  <path d="M170 250 q0 -22 -22 -22 q-22 0 -22 22 q0 22 44 42 q44 -20 44 -42 q0 -22 -22 -22 q-22 0 -22 22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" transform="translate(-15 0)" /></g>
+  <path d="M170 250 q0 -22 -22 -22 q-22 0 -22 22 q0 22 44 42 q44 -20 44 -42 q0 -22 -22 -22 q-22 0 -22 22" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.2" stroke-linejoin="round" transform="translate(-15 0)" /></g>
 <g data-part="hair-back"><g transform="translate(262.17 97.80) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><path data-part="dress" d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>
 <line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="386" y1="389" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>

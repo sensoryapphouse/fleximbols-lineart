@@ -4,7 +4,7 @@
   <!-- Bright green highlight (vibrant) -->
   <path d="M108 75 Q115 110 130 145 Q150 175 185 185" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Light shine -->
-  <path d="M115 85 Q125 115 145 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M115 85 Q125 115 145 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pointed tip -->
   <path d="M195 200 Q205 195 200 188" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Stem cap (small) -->

@@ -11,10 +11,10 @@
   <!-- FOAM FRAME (thick, wraps around face) -->
   <path d="M30 110 Q26 90 60 86 L230 86 Q264 90 260 110 L264 170 Q260 188 230 188 L60 188 Q30 188 26 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- foam padding inner texture (small bumps) -->
-  <circle cx="46" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="46" cy="174" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="244" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="244" cy="174" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="46" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="46" cy="174" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="244" cy="100" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="244" cy="174" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- SINGLE WIDE LENS (key ski-goggle feature) -->
   <path d="M50 110 Q46 100 64 98 L226 98 Q244 100 240 110 L242 164 Q240 176 226 176 L64 176 Q50 176 48 164 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- lens mirror tint (single wide reflective surface) -->

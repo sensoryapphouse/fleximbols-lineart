@@ -24,5 +24,5 @@
   <line x1="142" y1="159" x2="148" y2="162" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
   <!-- Control box on left upright -->
   <rect x="22" y="100" width="20" height="30" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
-  <circle cx="32" cy="112" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="32" cy="112" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

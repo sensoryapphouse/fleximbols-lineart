@@ -38,8 +38,8 @@
   <path d="M12,146 Q14,136 22,136 Q30,136 32,146" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="19" cy="150" r="1.5" fill="#1a1a1a"/>
   <circle cx="25" cy="150" r="1.5" fill="#1a1a1a"/>
-  <path d="M19,154 Q22,156 25,154" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <rect x="18" y="158" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M19,154 Q22,156 25,154" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <rect x="18" y="158" width="8" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M10,164 L18,162 L22,166 L26,162 L34,164 L36,200 L8,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Arms (down, full body figure) -->
   <line x1="10" y1="170" x2="4" y2="190" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
@@ -51,6 +51,6 @@
   <!-- Legs -->
   <rect x="12" y="200" width="9" height="22" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="23" y="200" width="9" height="22" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="8" y="220" width="16" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="22" y="220" width="16" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="8" y="220" width="16" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="22" y="220" width="16" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

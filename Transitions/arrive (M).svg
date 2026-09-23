@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><metadata id="sah">{"v":1,"fig":[["h1","ma"]]}</metadata><g data-fit="1" transform="translate(256 256) scale(1.1642) translate(-318.50 -271.50)">
 <line x1="418" y1="455" x2="418" y2="235" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<polygon points="418,235 514,267 418,299" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<ellipse cx="418" cy="457" rx="26" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<polygon points="418,235 514,267 418,299" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15" stroke-linejoin="round"/>
+<ellipse cx="418" cy="457" rx="26" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15"/>
 <line x1="161" y1="303" x2="206" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="161" y1="303" x2="206" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="191" y1="303" x2="150" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="191" y1="303" x2="150" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="206" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>
@@ -15,7 +15,7 @@
 <line x1="206" y1="168" x2="372" y2="168" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="372" y1="168" x2="349" y2="179" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="372" y1="168" x2="349" y2="157" stroke="#1a1a1a" stroke-width="20.0" stroke-linecap="round"/><line x1="206" y1="168" x2="372" y2="168" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
 <line x1="372" y1="168" x2="349" y2="179" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
 <line x1="372" y1="168" x2="349" y2="157" stroke="#1a1a1a" stroke-width="14.5" stroke-linecap="round"/>
-<line x1="150" y1="300" x2="186" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="322" x2="182" y2="322" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="150" y1="278" x2="186" y2="278" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="150" y1="300" x2="186" y2="300" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
+<line x1="150" y1="322" x2="182" y2="322" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
+<line x1="150" y1="278" x2="186" y2="278" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g></svg>

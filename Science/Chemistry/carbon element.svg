@@ -7,7 +7,7 @@
   <path d="M70 90 L110 90 L90 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M110 90 L125 70 L90 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- shine highlight -->
-  <path d="M78 78 L88 78 L83 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M78 78 L88 78 L83 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- divider gap implied by spacing -->
 
@@ -23,5 +23,5 @@
   <!-- graphite tip (black) -->
   <path d="M195 195 L215 195 L205 215 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pencil shaft accent line -->
-  <path d="M205 55 L205 170" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M205 55 L205 170" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

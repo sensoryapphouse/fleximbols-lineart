@@ -4,11 +4,11 @@
   <!-- Tub rim -->
   <path d="M 79,90 Q 79,100 145,102 Q 211,100 211,90 Q 211,80 145,78 Q 79,80 79,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Very thick yogurt surface - filled near top showing density -->
-  <path d="M 90,108 Q 90,118 145,120 Q 200,118 200,108 L 208,90 Q 211,100 145,102 Q 79,100 82,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 90,108 Q 90,118 145,120 Q 200,118 200,108 L 208,90 Q 211,100 145,102 Q 79,100 82,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Very thick flat-topped dollop - skyr is much denser than greek -->
   <path d="M 108,108 Q 106,88 120,80 Q 132,74 145,73 Q 158,74 170,80 Q 184,88 182,108 Q 170,104 145,103 Q 120,104 108,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Flat dense top surface of skyr (very little dome - it holds shape) -->
-  <path d="M 118,82 Q 145,76 172,82" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M 118,82 Q 145,76 172,82" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- STANDING SPOON - upright in the thick skyr (key differentiator) -->
   <!-- Spoon handle standing vertically -->
   <path d="M 178,108 L 182,22" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
@@ -17,7 +17,7 @@
   <!-- Spoon bowl highlight -->
   <path d="M 175,15 Q 178,13 182,14" fill="none" stroke="#ffffff" stroke-width="2.22" stroke-linecap="round"/>
   <!-- Spoon base embedded in thick yogurt -->
-  <path d="M 174,106 Q 178,102 182,105 Q 186,108 182,110 Q 178,112 174,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 174,106 Q 178,102 182,105 Q 186,108 182,110 Q 178,112 174,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Tub label - Iceland blue coloring -->
   <path d="M 92,178 Q 92,186 145,188 Q 198,186 198,178 L 196,162 Q 196,170 145,172 Q 94,170 94,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Small white cross on label - Icelandic flag suggestion -->

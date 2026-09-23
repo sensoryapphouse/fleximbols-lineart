@@ -44,5 +44,5 @@
   <rect x="118" y="109" width="22" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- climate leaf -->
   <path d="M175 122 Q175 100 200 100 Q200 122 178 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M178 120 Q188 110 198 102" fill="none" stroke="#1a1a1a" stroke-width="3.20" stroke-linecap="round"/>
+  <path d="M178 120 Q188 110 198 102" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

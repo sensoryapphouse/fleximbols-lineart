@@ -2,15 +2,15 @@
 <rect x="130.0" y="120.0" width="280.0" height="300.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="116.0" y="110.0" width="280.0" height="300.0" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="116.0" y="110.0" width="34.0" height="300.0" rx="0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<line x1="398" y1="140" x2="408" y2="140" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="398" y1="184" x2="408" y2="184" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="398" y1="228" x2="408" y2="228" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="398" y1="272" x2="408" y2="272" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="398" y1="316" x2="408" y2="316" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="398" y1="360" x2="408" y2="360" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="398" y1="140" x2="408" y2="140" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<line x1="398" y1="184" x2="408" y2="184" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<line x1="398" y1="228" x2="408" y2="228" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<line x1="398" y1="272" x2="408" y2="272" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<line x1="398" y1="316" x2="408" y2="316" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<line x1="398" y1="360" x2="408" y2="360" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
 <circle cx="273.0" cy="260.0" r="84.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<line x1="189" y1="260" x2="357" y2="260" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<ellipse cx="273.0" cy="260.0" rx="34.0" ry="84.0" fill="none" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 227 220 Q 267 206 271 248 Q 243 260 223 250 Q 215 226 227 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 279 266 Q 317 258 319 304 Q 283 314 279 266 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<line x1="189" y1="260" x2="357" y2="260" stroke="#1a1a1a" stroke-width="4.21" stroke-linecap="round"/>
+<ellipse cx="273.0" cy="260.0" rx="34.0" ry="84.0" fill="none" stroke="#1a1a1a" stroke-width="4.21"/>
+<path d="M 227 220 Q 267 206 271 248 Q 243 260 223 250 Q 215 226 227 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
+<path d="M 279 266 Q 317 258 319 304 Q 283 314 279 266 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.21" stroke-linejoin="round"/>
 </g></svg>

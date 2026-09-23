@@ -13,7 +13,7 @@
 <path d="M 197 236 L 150 280 L 174 300 L 188 286 L 188 392 Q 188 402 198 402 L 252 402 Q 262 402 262 392 L 262 286 L 276 300 L 300 280 L 232 232 Q 214 250 197 236 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- coat centre seam + buttons -->
 <line x1="225" y1="262" x2="225" y2="396" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="225" cy="300" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="225" cy="338" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="225" cy="376" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="225" cy="300" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="225" cy="338" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="225" cy="376" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

@@ -21,11 +21,11 @@
   <path d="M115 125 Q120 112 118 108" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- reel 2: lemon -->
   <ellipse cx="145" cy="123" rx="13" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M134 123 L156 123" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M134 123 L156 123" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- reel 3: bell -->
   <path d="M173 138 Q173 116 181 110 Q189 116 189 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="171" y="138" width="20" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="181" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="181" cy="148" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- coin slot -->
   <rect x="110" y="176" width="70" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- coin tray -->

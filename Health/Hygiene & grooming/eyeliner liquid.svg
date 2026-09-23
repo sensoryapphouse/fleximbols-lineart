@@ -5,8 +5,8 @@
   <!-- Bottle label band -->
   <rect x="120" y="98" width="50" height="36" rx="0" fill="#1a1a1a" stroke="none"/>
   <!-- Label text implied by thin lines -->
-  <line x1="126" y1="108" x2="164" y2="108" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="126" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="126" y1="108" x2="164" y2="108" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="126" y1="116" x2="164" y2="116" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cap / top section -->
   <rect x="122" y="32" width="46" height="30" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Cap-to-bottle collar -->
@@ -19,7 +19,7 @@
   <!-- Fine tip (very narrow triangle) -->
   <polygon points="140,195 150,195 145,228" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Small liquid dot at the very tip -->
-  <circle cx="145" cy="230" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="230" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Wand visible below bottle bottom (wand pulled out visual) -->
   <!-- Bottle shine highlight -->
   <line x1="124" y1="68" x2="124" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

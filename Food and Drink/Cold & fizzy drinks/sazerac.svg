@@ -23,5 +23,5 @@
   <line x1="222" y1="170" x2="222" y2="198" stroke="#1a1a1a" stroke-width="3.81"/>
   <line x1="232" y1="170" x2="232" y2="198" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- sugar sparkle dot -->
-  <circle cx="229" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="229" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

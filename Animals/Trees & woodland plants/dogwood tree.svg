@@ -16,7 +16,7 @@
     <ellipse cx="14" cy="0" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="14" rx="10" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-14" cy="0" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 2: upper left -->
   <g transform="translate(98,105)">
@@ -24,7 +24,7 @@
     <ellipse cx="12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="12" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 3: upper right -->
   <g transform="translate(192,105)">
@@ -32,7 +32,7 @@
     <ellipse cx="12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="12" rx="9" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-12" cy="0" rx="12" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 4: mid left -->
   <g transform="translate(73,140)">
@@ -40,7 +40,7 @@
     <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 5: mid right -->
   <g transform="translate(217,140)">
@@ -48,7 +48,7 @@
     <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 6: lower left -->
   <g transform="translate(108,155)">
@@ -56,7 +56,7 @@
     <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Flower 7: lower right -->
   <g transform="translate(182,155)">
@@ -64,6 +64,6 @@
     <ellipse cx="11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="0" cy="11" rx="8" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
     <ellipse cx="-11" cy="0" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+    <circle cx="0" cy="0" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 </g></svg>

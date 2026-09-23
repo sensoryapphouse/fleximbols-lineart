@@ -27,5 +27,5 @@
   <line x1="255" y1="146" x2="163" y2="132" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="195" y1="185" x2="156" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   
-  <circle cx="145" cy="125" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="125" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

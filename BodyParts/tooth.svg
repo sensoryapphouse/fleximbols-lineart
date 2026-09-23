@@ -12,28 +12,28 @@
 
 </g>
 <ellipse cx="256" cy="142" rx="24" ry="14" fill="none" stroke="#1a1a1a" stroke-width="11"/>
-<line x1="256" y1="142" x2="314" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="256" cy="142" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="256" y1="142" x2="314" y2="224" stroke="#1a1a1a" stroke-width="5.82" stroke-linecap="round"/>
+<circle cx="256" cy="142" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.82"/>
 <circle cx="388" cy="150" r="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <clipPath id="cl256_142"><circle cx="388" cy="150" r="117"/></clipPath>
 <g clip-path="url(#cl256_142)"><g transform="translate(239.5 1.5) scale(0.580)">
-<ellipse cx="256" cy="256" rx="124" ry="92" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="256" cy="256" rx="98" ry="68" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="170" y="192" width="172" height="34" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<rect x="170" y="288" width="172" height="34" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<line x1="194" y1="192" x2="194" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="194" y1="288" x2="194" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="218" y1="192" x2="218" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="218" y1="288" x2="218" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="242" y1="192" x2="242" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="242" y1="288" x2="242" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="266" y1="192" x2="266" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="266" y1="288" x2="266" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="290" y1="192" x2="290" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="290" y1="288" x2="290" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="314" y1="192" x2="314" y2="226" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="314" y1="288" x2="314" y2="322" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<ellipse cx="256" cy="288" rx="58" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<ellipse cx="256" cy="256" rx="124" ry="92" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<ellipse cx="256" cy="256" rx="98" ry="68" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10.03"/>
+<rect x="170" y="192" width="172" height="34" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<rect x="170" y="288" width="172" height="34" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
+<line x1="194" y1="192" x2="194" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="194" y1="288" x2="194" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="218" y1="192" x2="218" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="218" y1="288" x2="218" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="242" y1="192" x2="242" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="242" y1="288" x2="242" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="266" y1="192" x2="266" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="266" y1="288" x2="266" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="290" y1="192" x2="290" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="290" y1="288" x2="290" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="314" y1="192" x2="314" y2="226" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<line x1="314" y1="288" x2="314" y2="322" stroke="#1a1a1a" stroke-width="10.03" stroke-linecap="round"/>
+<ellipse cx="256" cy="288" rx="58" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="10.03"/>
 <ellipse cx="256" cy="209" rx="92" ry="24" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 </g></g>
 <circle cx="388" cy="150" r="120" fill="none" stroke="#1a1a1a" stroke-width="6"/>

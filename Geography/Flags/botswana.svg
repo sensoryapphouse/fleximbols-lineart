@@ -4,5 +4,5 @@
     <path fill="#ffffff" d="M0 160h640v160H0z" stroke="#1a1a1a" stroke-width="5.00"/>
     <path fill="#1a1a1a" d="M0 186h640v108H0z"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

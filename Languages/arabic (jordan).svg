@@ -7,11 +7,11 @@
   <g clip-path="url(#jo-a)" transform="translate(110.5)scale(.9375)">
     <g fill-rule="evenodd" stroke-width="1pt">
       <path fill="#1a1a1a" d="M-117.8 0h1024v170.7h-1024z"/>
-      <path fill="#ffffff" d="M-117.8 170.7h1024v170.6h-1024z" stroke="#1a1a1a" stroke-width="5.33"/>
-      <path fill="#ffffff" d="M-117.8 341.3h1024V512h-1024z" stroke="#1a1a1a" stroke-width="5.33"/>
-      <path fill="#ffffff" d="m-117.8 512 512-256-512-256z" stroke="#1a1a1a" stroke-width="5.33"/>
-      <path fill="#ffffff" d="m24.5 289 5.7-24.9H4.7l23-11-15.9-19.9 23 11 5.6-24.8 5.7 24.9L69 233.2l-16 19.9 23 11H50.6l5.7 24.9-15.9-20z" stroke="#1a1a1a" stroke-width="5.33"/>
+      <path fill="#ffffff" d="M-117.8 170.7h1024v170.6h-1024z" stroke="#1a1a1a" stroke-width="6.4"/>
+      <path fill="#ffffff" d="M-117.8 341.3h1024V512h-1024z" stroke="#1a1a1a" stroke-width="6.4"/>
+      <path fill="#ffffff" d="m-117.8 512 512-256-512-256z" stroke="#1a1a1a" stroke-width="6.4"/>
+      <path fill="#ffffff" d="m24.5 289 5.7-24.9H4.7l23-11-15.9-19.9 23 11 5.6-24.8 5.7 24.9L69 233.2l-16 19.9 23 11H50.6l5.7 24.9-15.9-20z" stroke="#1a1a1a" stroke-width="6.4"/>
     </g>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg><rect x="76.0" y="68.0" width="360" height="270" fill="none" stroke="#1a1a1a" stroke-width="5"/></svg>

@@ -26,8 +26,8 @@
   <line x1="142" y1="115" x2="142" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="149" y1="118" x2="149" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="113" cy="113" r="1.5" fill="#1a1a1a"/>
-  <rect x="125" y="135" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="145" y="135" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="125" y="135" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="145" y="135" width="3" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lion (foreground left) -->
   <ellipse cx="90" cy="195" rx="22" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <circle cx="68" cy="188" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>

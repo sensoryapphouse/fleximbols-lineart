@@ -11,12 +11,12 @@
   <!-- Frame border overlay -->
   <rect x="45" y="28" width="160" height="140" rx="6" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Frame mat inner line -->
-  <rect x="53" y="36" width="144" height="124" rx="4" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="53" y="36" width="144" height="124" rx="4" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Hexagon token badge — bottom-right of frame -->
   <polygon points="216,148 230,140 244,148 244,164 230,172 216,164" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Chain link inside hex -->
   <circle cx="230" cy="156" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Small coin below frame -->
   <circle cx="145" cy="198" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="145" cy="198" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="198" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

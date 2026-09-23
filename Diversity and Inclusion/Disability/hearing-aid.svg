@@ -2,15 +2,15 @@
 <path d="M 90 460 Q 90 330 240 322 Q 390 330 390 460 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <line x1="240.0" y1="322.0" x2="240.0" y2="300.0" stroke="#1a1a1a" stroke-width="40" stroke-linecap="round"/>
 <circle cx="240.0" cy="210.0" r="86.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
-<path d="M 154 210 Q 154 112 240 112 Q 326 112 326 210 Q 240 140 154 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" data-lp="hair"/>
-<circle cx="210.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="270.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 154 210 Q 154 112 240 112 Q 326 112 326 210 Q 240 140 154 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69" stroke-linejoin="round" data-lp="hair"/>
+<circle cx="210.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.69"/>
+<circle cx="270.0" cy="204.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.69"/>
 <path d="M 214 244 Q 240 262 266 244" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 320 196 Q 342 200 338 222 Q 334 240 320 236" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 326 210 Q 332 216 326 224" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 326 210 Q 332 216 326 224" fill="none" stroke="#1a1a1a" stroke-width="4.69" stroke-linejoin="round"/>
 <path d="M 344 194 Q 362 188 364 216 Q 362 232 348 228 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="356.0" cy="208.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="356.0" cy="208.0" r="5.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"/>
 <path d="M 348 228 Q 334 238 324 226" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="324.0" cy="226.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
-<polygon points="374,176 377,185 386,188 377,191 374,200 371,191 362,188 371,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<circle cx="324.0" cy="226.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"/>
+<polygon points="374,176 377,185 386,188 377,191 374,200 371,191 362,188 371,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69" stroke-linejoin="round"/>
 </g></svg>

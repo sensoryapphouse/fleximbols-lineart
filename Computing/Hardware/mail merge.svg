@@ -29,13 +29,13 @@
   <rect x="190" y="40" width="80" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M 190 40 L 230 72 L 270 40" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- address line -->
-  <rect x="200" y="80" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="200" y="80" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- letter 2 (middle) -->
   <rect x="190" y="98" width="80" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M 190 98 L 230 130 L 270 98" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="200" y="138" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="200" y="138" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- letter 1 (front) -->
   <rect x="190" y="156" width="80" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <path d="M 190 156 L 230 188 L 270 156" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="200" y="196" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="200" y="196" width="40" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

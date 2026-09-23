@@ -4,5 +4,5 @@
   <path d="M 75 88 Q 145 120 75 152" fill="none" stroke="#1a1a1a" stroke-width="3.42" stroke-linecap="round"/>
   <path d="M 215 88 Q 145 120 215 152" fill="none" stroke="#ffffff" stroke-width="8.20" stroke-linecap="round"/>
   <path d="M 215 88 Q 145 120 215 152" fill="none" stroke="#1a1a1a" stroke-width="3.42" stroke-linecap="round"/>
-  <ellipse cx="118" cy="92" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74"/>
+  <ellipse cx="118" cy="92" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -3,29 +3,29 @@
 <g stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
 <!-- bird 1 (big, centre) -->
 <g transform="translate(206 210) scale(1.15)">
-<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
-<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.35" />
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.59" />
+<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.59" />
 <polygon points="-2,-6 -22,-2 -2,4" fill="#ffffff" stroke-width="6" stroke="#1a1a1a" />
 </g>
 <!-- bird 2 (upper left) -->
 <g transform="translate(118 130) scale(0.78)">
-<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.41" />
-<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.41" />
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.25" />
+<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.25" />
 </g>
 <!-- bird 3 (upper right) -->
 <g transform="translate(380 145) scale(0.82)">
-<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.10" />
-<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.10" />
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
+<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.85" />
 </g>
 <!-- bird 4 (lower left) -->
 <g transform="translate(135 320) scale(0.8)">
-<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.25" />
-<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.25" />
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.04" />
+<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.04" />
 </g>
 <!-- bird 5 (lower right) -->
 <g transform="translate(372 330) scale(0.85)">
-<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.88" />
-<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.88" />
+<path d="M -60 0 Q -28 -34 0 -6 Q 28 -34 60 0 Q 28 -14 0 8 Q -28 -14 -60 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.57" />
+<circle cx="0" cy="-4" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.57" />
 </g>
 </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

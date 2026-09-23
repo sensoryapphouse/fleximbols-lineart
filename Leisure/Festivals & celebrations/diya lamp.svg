@@ -10,5 +10,5 @@
 <!-- big flame -->
 <path d="M 256 296 Q 210 220 256 132 Q 302 220 256 296 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- inner flame -->
-<path d="M 256 290 Q 232 240 256 186 Q 280 240 256 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 256 290 Q 232 240 256 186 Q 280 240 256 290 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

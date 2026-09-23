@@ -3,7 +3,7 @@
   <!-- 12-point rounded seal shape -->
   <path d="M145,28
     L158,52 L184,44 L186,72 L212,72 L204,96 L228,108 L212,128 L228,152 L204,158 L204,184 L178,178 L162,200 L145,184 L128,200 L112,178 L86,184 L86,158 L62,152 L78,128 L62,108 L86,96 L78,72 L104,72 L106,44 L132,52 Z"
-    fill="#ffffff" stroke="#1a1a1a" stroke-width="2.12" stroke-linejoin="round"/>
+    fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- checkmark -->
   <polyline points="96,116 132,158 196,82" fill="none" stroke="#1a1a1a" stroke-width="6.77" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

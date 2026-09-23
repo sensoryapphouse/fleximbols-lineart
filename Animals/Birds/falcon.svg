@@ -12,9 +12,9 @@
   <!-- Belly pale -->
   <ellipse cx="145" cy="168" rx="22" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Belly streaks -->
-  <line x1="138" y1="158" x2="136" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="145" y1="156" x2="143" y2="180" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="152" y1="158" x2="150" y2="178" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="138" y1="158" x2="136" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="156" x2="143" y2="180" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="152" y1="158" x2="150" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Head -->
   <circle cx="145" cy="108" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Moustache malar stripe left -->
@@ -22,9 +22,9 @@
   <!-- Moustache malar stripe right -->
   <path d="M162,118 Q168,126 166,132" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
   <!-- White cheek left -->
-  <ellipse cx="128" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="128" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- White cheek right -->
-  <ellipse cx="162" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="162" cy="116" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Beak -->
   <path d="M145,103 Q138,108 140,116 L150,116 Q152,108 145,103Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Eye left -->

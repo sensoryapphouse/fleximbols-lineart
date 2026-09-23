@@ -4,9 +4,9 @@
   <circle cx="28" cy="33" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="38" cy="33" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="48" cy="33" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M18 60 L188 60 M18 78 L188 78 M18 96 L188 96 M18 114 L188 114 M18 132 L188 132 M18 150 L188 150 M18 168 L188 168 M18 186 L188 186 M18 204 L188 204" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M60 44 L60 222 M105 44 L105 222 M150 44 L150 222" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="18" y="44" width="170" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M18 60 L188 60 M18 78 L188 78 M18 96 L188 96 M18 114 L188 114 M18 132 L188 132 M18 150 L188 150 M18 168 L188 168 M18 186 L188 186 M18 204 L188 204" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M60 44 L60 222 M105 44 L105 222 M150 44 L150 222" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="18" y="44" width="170" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M28 56 L36 56 M70 56 L82 56 M115 56 L130 56 M158 56 L180 56" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M28 72 L42 72 M70 72 L88 72 M115 72 L132 72 M158 72 L178 72" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <path d="M28 90 L42 90 M70 90 L88 90 M115 90 L132 90 M158 90 L178 90" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>

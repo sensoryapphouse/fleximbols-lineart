@@ -11,17 +11,17 @@
   <!-- Spray nozzle tube horizontal -->
   <path d="M97 68 L125 68" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Nozzle tip -->
-  <circle cx="128" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="128" cy="68" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mist spray puff arcing right and up -->
-  <path d="M133 65 Q145 50 158 45" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
-  <path d="M133 68 Q150 60 165 58" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
-  <path d="M133 71 Q148 72 160 78" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+  <path d="M133 65 Q145 50 158 45" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M133 68 Q150 60 165 58" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M133 71 Q148 72 160 78" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- Mist droplets -->
-  <circle cx="162" cy="43" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="168" cy="57" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="163" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="155" cy="38" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
-  <circle cx="172" cy="65" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.11"/>
+  <circle cx="162" cy="43" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="168" cy="57" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="163" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="38" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="172" cy="65" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Hand holding bottle (right hand) -->
   <!-- Palm -->
   <ellipse cx="81" cy="148" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -40,7 +40,7 @@
   <!-- Head -->
   <circle cx="199" cy="38" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Hair -->
-  <path d="M173 30 Q176 8 199 8 Q222 8 225 30 Q218 15 199 15 Q180 15 173 30Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M173 30 Q176 8 199 8 Q222 8 225 30 Q218 15 199 15 Q180 15 173 30Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Collarbone/shoulder hint -->
   <path d="M178 98 Q199 105 220 98" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
 </g></svg>

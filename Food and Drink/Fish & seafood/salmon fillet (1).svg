@@ -20,9 +20,9 @@
   <path d="M 140 124 Q 158 120 175 124" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Lemon slice garnish -->
   <circle cx="215" cy="155" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="215" cy="155" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="215" y1="139" x2="215" y2="171" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="199" y1="155" x2="231" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="204" y1="144" x2="226" y2="166" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="226" y1="144" x2="204" y2="166" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <circle cx="215" cy="155" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="215" y1="139" x2="215" y2="171" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="199" y1="155" x2="231" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="204" y1="144" x2="226" y2="166" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="226" y1="144" x2="204" y2="166" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -7,5 +7,5 @@
 <polygon points="150,344 156,362 174,368 156,374 150,392 144,374 126,368 144,362"/>
 </g>
 <!-- small companion twinkle star -->
-<polygon points="396,318 405,340 429,342 410,356 416,380 396,366 376,380 382,356 363,342 387,340" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="396,318 405,340 429,342 410,356 416,380 396,366 376,380 382,356 363,342 387,340" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

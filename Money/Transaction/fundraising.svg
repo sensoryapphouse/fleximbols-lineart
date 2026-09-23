@@ -8,7 +8,7 @@
   <!-- Jar lid slot -->
   <line x1="130" y1="105" x2="160" y2="105" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Slot opening -->
-  <rect x="137" y="100" width="16" height="8" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="137" y="100" width="16" height="8" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Coins inside jar (stacked) -->
   <ellipse cx="145" cy="193" rx="28" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

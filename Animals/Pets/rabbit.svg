@@ -5,11 +5,11 @@
 <circle cx="304.0" cy="288.0" r="60.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 286 234 Q 268 130 296 92 Q 320 128 312 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 326 234 Q 332 128 360 96 Q 372 142 348 236 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 290 224 Q 282 150 300 116 Q 312 152 306 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 330 226 Q 336 152 354 122 Q 360 158 344 228 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<circle cx="320.0" cy="282.0" r="10.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="323.5" cy="278.5" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="346.0" cy="304.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 290 224 Q 282 150 300 116 Q 312 152 306 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 330 226 Q 336 152 354 122 Q 360 158 344 228 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<circle cx="320.0" cy="282.0" r="10.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.37"/>
+<circle cx="323.5" cy="278.5" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
+<circle cx="346.0" cy="304.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
 <line x1="346" y1="312" x2="346" y2="322" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<path d="M 346 322 Q 338 330 330 326 M 346 322 Q 354 330 362 326" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 346 322 Q 338 330 330 326 M 346 322 Q 354 330 362 326" fill="none" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
 </g></svg>

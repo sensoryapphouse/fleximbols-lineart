@@ -29,11 +29,11 @@
   <circle cx="239" cy="108" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
   <!-- Second row of smaller slots -->
-  <rect x="52" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="82" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="112" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="142" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="172" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="52" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="82" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="112" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="142" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="172" y="145" width="22" height="28" rx="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dots in second row -->
   <circle cx="63" cy="159" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="93" cy="159" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

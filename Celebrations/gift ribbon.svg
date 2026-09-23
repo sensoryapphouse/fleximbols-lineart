@@ -3,8 +3,8 @@
   <path d="M 145 110 Q 80 60 50 80 Q 30 100 60 130 Q 90 145 145 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 145 110 Q 210 60 240 80 Q 260 100 230 130 Q 200 145 145 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Inner shading lines on loops -->
-  <path d="M 75 95 Q 95 105 130 115" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
-  <path d="M 215 95 Q 195 105 160 115" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M 75 95 Q 95 105 130 115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 215 95 Q 195 105 160 115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Center knot -->
   <rect x="128" y="100" width="34" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Tails -->
@@ -16,5 +16,5 @@
   <path d="M 60 75 Q 40 55 50 40 Q 65 35 70 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 230 75 Q 250 55 240 40 Q 225 35 220 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Sparkle -->
-  <path d="M 145 30 L 148 38 L 156 41 L 148 44 L 145 52 L 142 44 L 134 41 L 142 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 145 30 L 148 38 L 156 41 L 148 44 L 145 52 L 142 44 L 134 41 L 142 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

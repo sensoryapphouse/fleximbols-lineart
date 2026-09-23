@@ -14,13 +14,13 @@
   <!-- Egg yolk -->
   <circle cx="145" cy="182" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Gentle ripple rings (barely-moving water) -->
-  <ellipse cx="145" cy="175" rx="68" ry="10" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="175" rx="88" ry="14" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="175" rx="68" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="175" rx="88" ry="14" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Very tiny bubbles (gentle, barely simmering) -->
-  <circle cx="90" cy="192" r="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="76" cy="185" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="200" cy="190" r="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="214" cy="182" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="192" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="76" cy="185" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="190" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="214" cy="182" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Very light steam (barely any) -->
   <path d="M105 174 Q100 162 106 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M185 174 Q180 162 186 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

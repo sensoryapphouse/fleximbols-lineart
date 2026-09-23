@@ -13,10 +13,10 @@
   <line x1="115" y1="30" x2="180" y2="90" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round"/>
   <!-- olive 1 -->
   <ellipse cx="140" cy="58" rx="11" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" transform="rotate(40 140 58)"/>
-  <ellipse cx="144" cy="62" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="144" cy="62" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- olive 2 -->
   <ellipse cx="165" cy="78" rx="11" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34" transform="rotate(40 165 78)"/>
-  <ellipse cx="169" cy="82" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="169" cy="82" rx="3" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stem -->
   <rect x="140" y="150" width="10" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
   <!-- base -->

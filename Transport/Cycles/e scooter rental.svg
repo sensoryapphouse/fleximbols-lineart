@@ -7,7 +7,7 @@
   <!-- dock head/terminal -->
   <rect x="22" y="90" width="32" height="28" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- QR panel on dock -->
-  <rect x="28" y="95" width="20" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="28" y="95" width="20" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- QR pattern (simplified squares) -->
   <rect x="30" y="97" width="5" height="5" rx="1" fill="#1a1a1a"/>
   <rect x="30" y="104" width="5" height="5" rx="1" fill="#1a1a1a"/>
@@ -39,7 +39,7 @@
   <!-- battery pack on stem -->
   <rect x="188" y="148" width="20" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- lightning bolt -->
-  <polyline points="195,149 192,155 197,155 194,160" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="195,149 192,155 197,155 194,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- mudguard rear -->
   <path d="M108 178 Q95 178 92 200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- mudguard front -->

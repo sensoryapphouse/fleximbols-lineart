@@ -2,28 +2,28 @@
 <polygon points="64.0 120.0 192.0 136.0 192.0 376.0 64.0 392.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <polygon points="192.0 136.0 320.0 120.0 320.0 392.0 192.0 376.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <polygon points="320.0 120.0 448.0 136.0 448.0 376.0 320.0 392.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="192" y1="136" x2="192" y2="376" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="320" y1="120" x2="320" y2="392" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="192" y1="136" x2="192" y2="376" stroke="#1a1a1a" stroke-width="5.19" stroke-linecap="round"/>
+<line x1="320" y1="120" x2="320" y2="392" stroke="#1a1a1a" stroke-width="5.19" stroke-linecap="round"/>
 <path d="M 110 360 Q 180 300 170 250 Q 160 200 240 180" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linejoin="round"/>
 <path d="M 110 360 Q 180 300 170 250 Q 160 200 240 180" fill="none" stroke="#ffffff" stroke-width="4" stroke-linejoin="round"/>
 <circle cx="372.0" cy="196.0" r="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<polygon points="372.0 152.0 359.3 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="372.0 152.0 384.7 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="403.1 164.9 372.0 178.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="403.1 164.9 390.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="416.0 196.0 384.7 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="416.0 196.0 384.7 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="403.1 227.1 390.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="403.1 227.1 372.0 214.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="372.0 240.0 384.7 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="372.0 240.0 359.3 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="340.9 227.1 372.0 214.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="340.9 227.1 354.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="328.0 196.0 359.3 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="328.0 196.0 359.3 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="340.9 164.9 354.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="340.9 164.9 372.0 178.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<circle cx="372.0" cy="196.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 240 210 C 210 168 218 136 240 136 C 262 136 270 168 240 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<circle cx="240.0" cy="160.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<polygon points="372.0 152.0 359.3 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="372.0 152.0 384.7 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="403.1 164.9 372.0 178.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="403.1 164.9 390.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="416.0 196.0 384.7 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="416.0 196.0 384.7 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="403.1 227.1 390.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="403.1 227.1 372.0 214.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="372.0 240.0 384.7 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="372.0 240.0 359.3 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="340.9 227.1 372.0 214.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="340.9 227.1 354.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="328.0 196.0 359.3 208.7 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="328.0 196.0 359.3 183.3 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="340.9 164.9 354.0 196.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<polygon points="340.9 164.9 372.0 178.0 372 196" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<circle cx="372.0" cy="196.0" r="8.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
+<path d="M 240 210 C 210 168 218 136 240 136 C 262 136 270 168 240 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
+<circle cx="240.0" cy="160.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
 </g></svg>

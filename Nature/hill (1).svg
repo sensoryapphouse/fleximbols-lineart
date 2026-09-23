@@ -12,7 +12,7 @@
   <path d="M 180 170 l 3 -9 l 3 9 l 3 -7 l 3 7" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- winding path up to top -->
   <path d="M 145 95 Q 120 130 150 150 Q 180 170 130 195 L 140 215" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 145 95 Q 120 130 150 150 Q 180 170 130 195 L 140 215" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 145 95 Q 120 130 150 150 Q 180 170 130 195 L 140 215" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- ground -->
   <rect x="20" y="200" width="250" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

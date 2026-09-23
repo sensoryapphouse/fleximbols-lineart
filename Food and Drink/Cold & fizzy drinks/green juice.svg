@@ -8,18 +8,18 @@
   <ellipse cx="145" cy="60" rx="48" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- leafy green leaf garnish poking out of glass -->
   <path d="M 110 40 Q 95 25 80 15 Q 78 35 95 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 88 30 L 100 42" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <path d="M 88 30 L 100 42" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <path d="M 165 42 Q 175 22 195 12 Q 200 30 185 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 182 28 L 175 44" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <path d="M 182 28 L 175 44" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- apple slice on rim -->
   <path d="M 215 50 Q 235 45 250 55 Q 250 75 230 78 Q 215 70 215 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 220 55 Q 232 52 244 58 Q 244 72 230 73 Q 220 67 220 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- apple seed -->
-  <ellipse cx="232" cy="63" rx="2" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="232" cy="63" rx="2" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- rim notch for apple -->
   <path d="M 210 30 L 230 30 L 225 52 L 215 52 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pulp specks -->
-  <circle cx="120" cy="110" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="160" cy="140" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="135" cy="180" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="120" cy="110" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="140" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="180" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

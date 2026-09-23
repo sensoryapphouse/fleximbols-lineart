@@ -26,9 +26,9 @@
   <!-- Tomato slice (round, red) -->
   <ellipse cx="145" cy="128" rx="44" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tomato segments -->
-  <line x1="145" y1="117" x2="145" y2="139" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="123" y1="121" x2="167" y2="135" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="123" y1="135" x2="167" y2="121" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="145" y1="117" x2="145" y2="139" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="123" y1="121" x2="167" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="123" y1="135" x2="167" y2="121" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- TOP TOAST SLICE -->
   <rect x="44" y="102" width="202" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linecap="round" stroke-linejoin="round"/>
@@ -40,6 +40,6 @@
   <!-- Frilly cellophane flag on toothpick -->
   <path d="M200,50 L228,56 L200,70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Flag ruffles -->
-  <path d="M200,50 Q210,53 228,56" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M200,58 Q212,61 226,59" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M200,50 Q210,53 228,56" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M200,58 Q212,61 226,59" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

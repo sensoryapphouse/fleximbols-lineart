@@ -19,5 +19,5 @@
   <line x1="188" y1="58" x2="194" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="216" y1="73" x2="224" y2="58" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- upper eyelid crease -->
-  <path d="M24 110 C60 64 230 64 266 110" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M24 110 C60 64 230 64 266 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

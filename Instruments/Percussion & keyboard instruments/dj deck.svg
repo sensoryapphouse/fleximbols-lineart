@@ -12,17 +12,17 @@
   <!-- Vinyl record: outer groove area -->
   <circle cx="118" cy="148" r="80" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Groove rings -->
-  <circle cx="118" cy="148" r="72" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="118" cy="148" r="62" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="118" cy="148" r="52" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="118" cy="148" r="42" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="72" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="148" r="62" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="148" r="52" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="148" r="42" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Record label (centre) -->
   <circle cx="118" cy="148" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Label detail rings -->
-  <circle cx="118" cy="148" r="20" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="118" cy="148" r="12" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="118" cy="148" r="20" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="148" r="12" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Spindle centre -->
-  <circle cx="118" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="118" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tonearm base -->
   <circle cx="222" cy="82" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
@@ -31,7 +31,7 @@
   <!-- Headshell -->
   <rect x="168" y="112" width="18" height="10" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Stylus -->
-  <line x1="178" y1="122" x2="176" y2="132" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="178" y1="122" x2="176" y2="132" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Pitch slider: right side -->
   <rect x="240" y="80" width="12" height="100" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -44,5 +44,5 @@
 
   <!-- 33/45 RPM selector -->
   <rect x="28" y="68" width="28" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="34" cy="74" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="34" cy="74" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

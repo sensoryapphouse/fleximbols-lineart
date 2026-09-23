@@ -13,14 +13,14 @@
   <rect x="152" y="37" width="36" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="212" y="37" width="36" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- vertical grid lines -->
-  <line x1="80" y1="56" x2="80" y2="212" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="56" x2="140" y2="212" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="200" y1="56" x2="200" y2="212" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="80" y1="56" x2="80" y2="212" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="56" x2="140" y2="212" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="200" y1="56" x2="200" y2="212" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- horizontal grid lines -->
-  <line x1="20" y1="85" x2="270" y2="85" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="20" y1="115" x2="270" y2="115" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="20" y1="175" x2="270" y2="175" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="20" y1="85" x2="270" y2="85" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="20" y1="115" x2="270" y2="115" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="20" y1="145" x2="270" y2="145" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="20" y1="175" x2="270" y2="175" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sub-header row: coloured block labels -->
   <rect x="25" y="60" width="50" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="85" y="60" width="50" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

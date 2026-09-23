@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- purslane: succulent fleshy tear-shape green leaves on reddish stems -->
   <!-- base/ground -->
-  <ellipse cx="145" cy="215" rx="85" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <ellipse cx="145" cy="215" rx="85" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- reddish stems sprawling -->
   <path d="M145,210 Q140,160 100,130 Q70,110 50,85" stroke="#1a1a1a" stroke-width="6.34" fill="none" stroke-linecap="round"/>
-  <path d="M145,210 Q140,160 100,130 Q70,110 50,85" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 Q140,160 100,130 Q70,110 50,85" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <path d="M145,210 Q150,160 190,130 Q220,110 240,85" stroke="#1a1a1a" stroke-width="6.34" fill="none" stroke-linecap="round"/>
-  <path d="M145,210 Q150,160 190,130 Q220,110 240,85" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 Q150,160 190,130 Q220,110 240,85" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <path d="M145,210 L145,50" stroke="#1a1a1a" stroke-width="6.34" fill="none" stroke-linecap="round"/>
-  <path d="M145,210 L145,50" stroke="#1a1a1a" stroke-width="1.91" fill="none" stroke-linecap="round"/>
+  <path d="M145,210 L145,50" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- side branches -->
   <path d="M120,170 Q100,165 80,160" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
   <path d="M170,170 Q190,165 210,160" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
@@ -44,7 +44,7 @@
     <path d="M175,180 Q188,175 182,162 Q168,165 168,175 Q170,184 175,180 Z"/>
   </g>
   <!-- highlight on a few leaves -->
-  <path d="M48,68 Q52,72 50,78" stroke="#1a1a1a" stroke-width="1.91" fill="none"/>
-  <path d="M240,68 Q236,72 238,78" stroke="#1a1a1a" stroke-width="1.91" fill="none"/>
-  <path d="M145,38 L145,48" stroke="#1a1a1a" stroke-width="1.91"/>
+  <path d="M48,68 Q52,72 50,78" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M240,68 Q236,72 238,78" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M145,38 L145,48" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

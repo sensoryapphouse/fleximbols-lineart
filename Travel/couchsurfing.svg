@@ -21,16 +21,16 @@
   <rect x="155" y="148" width="60" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- arm -->
   <line x1="170" y1="155" x2="160" y2="145" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
-  <circle cx="158" cy="143" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="158" cy="143" r="3.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="200" y1="160" x2="195" y2="170" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <!-- legs lying -->
   <rect x="105" y="155" width="55" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="103" cy="161" rx="6" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="103" cy="161" rx="6" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- host figure full body standing on left -->
   <!-- head -->
   <circle cx="78" cy="105" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M68 102 Q78 92 89 102 L89 98 Q78 88 68 99 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M68 102 Q78 92 89 102 L89 98 Q78 88 68 99 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- torso -->
   <rect x="68" y="115" width="21" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- arms (holding laptop) -->
@@ -38,7 +38,7 @@
   <line x1="89" y1="120" x2="102" y2="138" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <!-- laptop in hands -->
   <rect x="55" y="135" width="50" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="57" y="137" width="46" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="57" y="137" width="46" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- legs -->
   <line x1="74" y1="147" x2="72" y2="165" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <line x1="83" y1="147" x2="85" y2="165" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>

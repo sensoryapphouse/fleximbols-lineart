@@ -9,15 +9,15 @@
   <!-- reclined back section angled -->
   <path d="M135 179 L250 130 L250 118 L135 167Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- slats on seat -->
-  <line x1="72" y1="155" x2="72" y2="179" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="95" y1="155" x2="95" y2="179" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="118" y1="155" x2="118" y2="179" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="72" y1="155" x2="72" y2="179" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="95" y1="155" x2="95" y2="179" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="118" y1="155" x2="118" y2="179" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- slats on back -->
-  <line x1="158" y1="168" x2="162" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="185" y1="161" x2="189" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="212" y1="153" x2="216" y2="120" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="158" y1="168" x2="162" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="185" y1="161" x2="189" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="212" y1="153" x2="216" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- footrest extension -->
   <rect x="20" y="162" width="32" height="16" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <line x1="28" y1="178" x2="24" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="44" y1="178" x2="44" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

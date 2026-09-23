@@ -25,6 +25,6 @@
   <ellipse cx="145" cy="222" rx="40" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <ellipse cx="225" cy="218" rx="30" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- riverbank vegetation -->
-  <path d="M10 100 L10 122 L18 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M280 100 L280 122 L272 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M10 100 L10 122 L18 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M280 100 L280 122 L272 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

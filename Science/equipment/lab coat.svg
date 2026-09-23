@@ -3,7 +3,7 @@
 <path d="M 210 104 L 256 130 L 256 410" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 302 104 L 256 130" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 256 250 L 256 410" fill="none" stroke="#1a1a1a" stroke-width="9"/>
-<line x1="256" y1="150" x2="256" y2="240" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="256" y1="150" x2="256" y2="240" stroke="#1a1a1a" stroke-width="5.77"/>
 <circle cx="240" cy="210" r="6" fill="#1a1a1a"/>
 <circle cx="240" cy="270" r="6" fill="#1a1a1a"/>
 <circle cx="240" cy="330" r="6" fill="#1a1a1a"/>

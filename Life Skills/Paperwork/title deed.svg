@@ -7,7 +7,7 @@
   <!-- decorative banner border -->
   <line x1="72" y1="49" x2="100" y2="49" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="190" y1="49" x2="218" y2="49" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="145,42 149,49 145,56 141,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="145,42 149,49 145,56 141,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- house with title -->
   <polygon points="95,110 145,75 195,110 195,150 95,150" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <polygon points="90,112 145,72 200,112" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
@@ -26,5 +26,5 @@
   <path d="M150,188 q8,-8 16,0 q8,6 16,-3 q6,-3 14,3" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- gold seal -->
   <circle cx="210" cy="68" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <polygon points="210,60 213,67 220,67 214,72 216,79 210,75 204,79 206,72 200,67 207,67" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="210,60 213,67 220,67 214,72 216,79 210,75 204,79 206,72 200,67 207,67" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

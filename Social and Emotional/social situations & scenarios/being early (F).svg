@@ -14,9 +14,9 @@
 
 
 
-<circle cx="360" cy="110" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="360" cy="110" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="360" y1="110" x2="360" y2="85" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<line x1="360" y1="110" x2="381" y2="110" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="360" cy="110" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<g transform="translate(380 95) scale(1.450) translate(-380 -95)"><path d="M 384.07 92.69 L 392.95 103.62 L 415.89 74.74 L 424.11 81.26 L 393.05 120.38 L 375.93 99.31 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/></g>
+<line x1="360" y1="110" x2="381" y2="110" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="360" cy="110" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<g transform="translate(380 95) scale(1.450) translate(-380 -95)"><path d="M 384.07 92.69 L 392.95 103.62 L 415.89 74.74 L 424.11 81.26 L 393.05 120.38 L 375.93 99.31 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.14" stroke-linejoin="round"/></g>
 </svg>

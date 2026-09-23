@@ -18,11 +18,11 @@
   <!-- Cupid's bow accent -->
   <path d="M215 128 Q215 134 215 138" fill="none" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- Sheer tint sparkle (natural look indicator) -->
-  <path d="M195 105 L198 112 L205 113 L200 117 L201 124 L195 120 L189 124 L190 117 L185 113 L192 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M195 105 L198 112 L205 113 L200 117 L201 124 L195 120 L189 124 L190 117 L185 113 L192 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Sheer wash droplet -->
   <ellipse cx="240" cy="105" rx="5" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <ellipse cx="240" cy="105" rx="2" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Subtle natural cheek dot -->
-  <circle cx="180" cy="178" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="250" cy="178" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="180" cy="178" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="178" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

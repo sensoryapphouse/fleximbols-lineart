@@ -12,7 +12,7 @@
   <!-- Craters -->
   <ellipse cx="55" cy="168" rx="18" ry="8" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
   <ellipse cx="235" cy="175" rx="14" ry="6" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
-  <ellipse cx="180" cy="195" rx="10" ry="5" fill="none" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="180" cy="195" rx="10" ry="5" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Horizon line -->
   <line x1="20" y1="148" x2="270" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
@@ -36,7 +36,7 @@
   <!-- Head with helmet -->
   <circle cx="159" cy="88" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Visor -->
-  <path d="M149,87 Q159,80 169,87 Q169,94 159,97 Q149,94 149,87 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <path d="M149,87 Q159,80 169,87 Q169,94 159,97 Q149,94 149,87 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Spacesuit body (seated) -->
   <rect x="146" y="100" width="26" height="20" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <!-- Arms on controls -->

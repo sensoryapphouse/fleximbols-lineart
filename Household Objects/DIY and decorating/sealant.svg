@@ -14,7 +14,7 @@
 <line x1="420" y1="268" x2="420" y2="278" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <!-- bead of sealant squeezing out and laying down a line -->
 <path d="M 422 273 Q 452 268 476 278" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<path d="M 422 273 Q 452 268 476 278" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+<path d="M 422 273 Q 452 268 476 278" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
 
 <!-- push rod at back -->
 <line x1="140" y1="273" x2="96" y2="273" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>

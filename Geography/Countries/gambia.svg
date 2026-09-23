@@ -5,11 +5,11 @@
     </clipPath>
   </defs>
   <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#gm-a)" transform="translate(0 48)">
-    <path fill="#ffffff" d="M0-128h640V85.3H0z" stroke="#1a1a1a" stroke-width="17.02"/>
-    <path fill="#ffffff" d="M0 85.3h640V121H0z" stroke="#1a1a1a" stroke-width="17.02"/>
+    <path fill="#ffffff" d="M0-128h640V85.3H0z" stroke="#1a1a1a" stroke-width="20.43"/>
+    <path fill="#ffffff" d="M0 85.3h640V121H0z" stroke="#1a1a1a" stroke-width="20.43"/>
     <path fill="#1a1a1a" d="M0 120.9h640V263H0z"/>
-    <path fill="#ffffff" d="M0 263.1h640v35.6H0z" stroke="#1a1a1a" stroke-width="17.02"/>
-    <path fill="#ffffff" d="M0 298.7h640V512H0z" stroke="#1a1a1a" stroke-width="17.02"/>
+    <path fill="#ffffff" d="M0 263.1h640v35.6H0z" stroke="#1a1a1a" stroke-width="20.43"/>
+    <path fill="#ffffff" d="M0 298.7h640V512H0z" stroke="#1a1a1a" stroke-width="20.43"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="20.43"/>
 </g><rect x="310" y="357" width="188" height="141" fill="none" stroke="#1a1a1a" stroke-width="7"/></svg>

@@ -3,27 +3,27 @@
   <rect x="22" y="40" width="180" height="160" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <rect x="22" y="40" width="180" height="26" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- rings -->
-  <rect x="48" y="28" width="8" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="168" y="28" width="8" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="48" y="28" width="8" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="168" y="28" width="8" height="20" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- grid -->
-  <line x1="22" y1="92" x2="202" y2="92" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="22" y1="118" x2="202" y2="118" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="22" y1="144" x2="202" y2="144" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="22" y1="170" x2="202" y2="170" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="52" y1="66" x2="52" y2="200" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="82" y1="66" x2="82" y2="200" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="112" y1="66" x2="112" y2="200" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="142" y1="66" x2="142" y2="200" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="172" y1="66" x2="172" y2="200" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="22" y1="92" x2="202" y2="92" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="118" x2="202" y2="118" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="144" x2="202" y2="144" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="22" y1="170" x2="202" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="52" y1="66" x2="52" y2="200" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="82" y1="66" x2="82" y2="200" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="112" y1="66" x2="112" y2="200" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="142" y1="66" x2="142" y2="200" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="172" y1="66" x2="172" y2="200" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- marked visit days (circled red) -->
   <circle cx="67" cy="105" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="157" cy="131" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="97" cy="183" r="10" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- check marks inside circles -->
-  <path d="M 62 105 L 66 109 L 72 101" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 152 131 L 156 135 L 162 127" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 92 183 L 96 187 L 102 179" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 62 105 L 66 109 L 72 101" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 152 131 L 156 135 L 162 127" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 92 183 L 96 187 L 102 179" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- clock in lower-right corner of canvas -->
   <circle cx="244" cy="172" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>

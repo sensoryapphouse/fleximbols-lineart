@@ -22,18 +22,18 @@
   <rect x="203" y="80" width="16" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="205" y="72" width="12" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sterilizing rays/sparkles around bottles -->
-  <path d="M55 100 L48 95 M55 110 L48 115 M52 105 L45 105" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M115 80 L112 73 M120 78 L125 71 M118 85 L125 85" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M170 80 L173 73 M165 78 L160 71 M167 85 L160 85" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M235 100 L242 95 M235 110 L242 115 M238 105 L245 105" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M55 100 L48 95 M55 110 L48 115 M52 105 L45 105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M115 80 L112 73 M120 78 L125 71 M118 85 L125 85" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M170 80 L173 73 M165 78 L160 71 M167 85 L160 85" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M235 100 L242 95 M235 110 L242 115 M238 105 L245 105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Control panel: green indicator + power button -->
   <rect x="55" y="175" width="180" height="22" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="80" cy="186" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="105" cy="186" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="80" cy="186" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="186" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Power symbol on right -->
-  <circle cx="210" cy="186" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M210 181 L210 187" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M206 184 Q210 190 214 184" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="210" cy="186" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M210 181 L210 187" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M206 184 Q210 190 214 184" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Base feet -->
   <rect x="50" y="205" width="20" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="220" y="205" width="20" height="10" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

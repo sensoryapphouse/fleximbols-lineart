@@ -16,7 +16,7 @@
   <ellipse cx="162" cy="55" rx="7" ry="9" fill="none" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- brand-like icon (Kobo's stylised circle-with-spark) -->
   <circle cx="190" cy="55" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M186 50 Q190 47 194 50 Q196 55 190 58 Q186 60 186 57" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M186 50 Q190 47 194 50 Q196 55 190 58 Q186 60 186 57" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- divider -->
   <line x1="94" y1="76" x2="212" y2="76" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- text lines on page -->

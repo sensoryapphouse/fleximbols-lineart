@@ -5,8 +5,8 @@
 <rect x="150.0" y="300.0" width="96.0" height="52.0" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="198.0" cy="322.0" r="32.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <path d="M 168 314 Q 166 290 192 288 Q 218 288 222 308" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<path d="M 182 320 Q 190 324 198 320" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<path d="M 188 338 Q 198 344 208 338" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 182 320 Q 190 324 198 320" fill="none" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
+<path d="M 188 338 Q 198 344 208 338" fill="none" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
 <path d="M 236 332 Q 240 300 280 300 L 410 300 Q 430 300 430 330 L 430 350 Q 430 360 412 360 L 236 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <line x1="236" y1="344" x2="430" y2="344" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <path d="M 300 236 h 28 l -28 30 h 28" fill="none" stroke="#1a1a1a" stroke-width="7.0" stroke-linejoin="round"/>

@@ -2,7 +2,7 @@
   <!-- Macrame wall hanging: wooden dowel + knotted rope + tassels (boho) -->
   <!-- Wooden dowel rod -->
   <rect x="40" y="22" width="210" height="14" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <line x1="55" y1="29" x2="240" y2="29" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="55" y1="29" x2="240" y2="29" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Dowel end caps -->
   <circle cx="45" cy="29" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="245" cy="29" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

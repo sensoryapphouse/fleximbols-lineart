@@ -17,5 +17,5 @@
   <path d="M205 75 L205 165 C185 165 185 75 205 75 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- egg yolk circle inside filling -->
   <circle cx="200" cy="120" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="196" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="196" cy="116" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

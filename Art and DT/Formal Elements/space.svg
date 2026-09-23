@@ -10,8 +10,8 @@
 <line x1="256" y1="218" x2="120" y2="218" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="256" y1="218" x2="392" y2="218" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <circle cx="256" cy="218" r="6" fill="#1a1a1a" stroke="none"/>
-<line x1="196" y1="232" x2="196" y2="214" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<polygon points="196,190 180,218 212,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="196" y1="232" x2="196" y2="214" stroke="#1a1a1a" stroke-width="5.41" stroke-linecap="round"/>
+<polygon points="196,190 180,218 212,218" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.41" stroke-linejoin="round"/>
 <line x1="318" y1="404" x2="318" y2="332" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <polygon points="318,232 250,348 386,348" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 </g>

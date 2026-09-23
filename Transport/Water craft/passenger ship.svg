@@ -24,5 +24,5 @@
 <ellipse style="fill:#ffffff" cx="105.56" cy="89.66" rx="2.37" ry="2.69" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
 <ellipse style="fill:#ffffff" cx="113.18" cy="89.93" rx="2.09" ry="2.52" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
 <ellipse style="fill:#ffffff" cx="119.89" cy="90.19" rx="1.8" ry="2.34" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
-<line style="fill:none;stroke:#1a1a1a;stroke-miterlimit:10" x1="124" y1="84.46" x2="100.91" y2="82.22" />
+<line style="fill:none;stroke:#1a1a1a;stroke-miterlimit:10" x1="124" y1="84.46" x2="100.91" y2="82.22"  stroke-width="1.81"/>
 </g></svg>

@@ -11,16 +11,16 @@
 <path d="M 178 300 q 78 26 156 0" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 178 348 q 78 26 156 0" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 178 396 q 78 26 156 0" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 234 460 L 256 492 L 278 460 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 234 460 L 256 492 L 278 460 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="256.0" cy="250.0" r="56.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="256.0" cy="158.0" r="52.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
 <path d="M 234 120 Q 210 78 190 84" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 278 120 Q 302 78 322 84" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="190.0" cy="84.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322.0" cy="84.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="236.0" cy="152.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="276.0" cy="152.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="236.0" cy="154.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="276.0" cy="154.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="190.0" cy="84.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54"/>
+<circle cx="322.0" cy="84.0" r="8.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54"/>
+<circle cx="236.0" cy="152.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54"/>
+<circle cx="276.0" cy="152.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.54"/>
+<circle cx="236.0" cy="154.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54"/>
+<circle cx="276.0" cy="154.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.54"/>
 <path d="M 240 180 Q 256 194 272 180" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

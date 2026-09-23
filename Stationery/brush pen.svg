@@ -19,17 +19,17 @@
   <!-- Brush nib: flexible tapered bristle tip -->
   <path d="M 216,108 Q 250,115 268,118 Q 250,121 216,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Bristle detail lines -->
-  <line x1="218" y1="110" x2="262" y2="117" stroke="#1a1a1a" stroke-width="1.67" stroke-linecap="round"/>
-  <line x1="218" y1="114" x2="266" y2="118" stroke="#1a1a1a" stroke-width="1.67" stroke-linecap="round"/>
-  <line x1="218" y1="122" x2="262" y2="119" stroke="#1a1a1a" stroke-width="1.67" stroke-linecap="round"/>
+  <line x1="218" y1="110" x2="262" y2="117" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="218" y1="114" x2="266" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="218" y1="122" x2="262" y2="119" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Variable-width calligraphy stroke (thick downstroke, thin cross-stroke) -->
   <!-- Thick downward stroke on left -->
   <path d="M 55,155 Q 70,145 82,175 Q 85,185 80,195" fill="none" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Thin connecting/upstroke -->
-  <path d="M 82,165 Q 110,150 138,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 82,165 Q 110,150 138,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Thick second downstroke -->
   <path d="M 138,155 Q 152,145 160,178 Q 163,188 158,196" fill="none" stroke="#1a1a1a" stroke-width="12.22" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Thin exit stroke right -->
-  <path d="M 160,175 Q 195,162 230,168" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M 160,175 Q 195,162 230,168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

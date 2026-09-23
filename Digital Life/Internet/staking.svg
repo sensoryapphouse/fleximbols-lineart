@@ -19,11 +19,11 @@
   <rect x="182" y="120" width="68" height="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" data-lp="hair"/>
   <path d="M198 120 L198 100 Q198 74 216 74 Q234 74 234 100 L234 120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="216" cy="143" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
-  <rect x="211" y="150" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="211" y="150" width="10" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   
   <line x1="248" y1="80" x2="248" y2="52" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M248 62 Q262 52 268 38" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M248 70 Q234 60 228 46" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="268" cy="35" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
-  <ellipse cx="228" cy="43" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="268" cy="35" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="228" cy="43" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -12,21 +12,21 @@
   <!-- Brown/dark rot patch -->
   <ellipse cx="165" cy="90" rx="16" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Mould fuzz dots -->
-  <circle cx="108" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="120" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="172" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="182" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="108" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="172" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="182" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stink/smell wavy lines upper right -->
   <path d="M210 55 Q220 48 215 40 Q210 32 220 25" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M222 60 Q232 53 227 45 Q222 37 232 30" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Fly 1 -->
   <ellipse cx="192" cy="55" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="186" cy="50" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 186 50)"/>
-  <ellipse cx="198" cy="50" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 198 50)"/>
-  <path d="M187 59 L182 64 M192 60 L190 66 M197 59 L202 64" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="186" cy="50" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 186 50)"/>
+  <ellipse cx="198" cy="50" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 198 50)"/>
+  <path d="M187 59 L182 64 M192 60 L190 66 M197 59 L202 64" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Fly 2 -->
   <ellipse cx="100" cy="75" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="94" cy="71" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-20 94 71)"/>
-  <ellipse cx="106" cy="71" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(20 106 71)"/>
-  <path d="M95 79 L90 84 M100 80 L98 86 M105 79 L110 84" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <ellipse cx="94" cy="71" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 94 71)"/>
+  <ellipse cx="106" cy="71" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 106 71)"/>
+  <path d="M95 79 L90 84 M100 80 L98 86 M105 79 L110 84" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

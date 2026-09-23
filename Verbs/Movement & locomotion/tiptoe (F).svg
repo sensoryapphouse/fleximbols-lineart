@@ -8,6 +8,6 @@
 
 
 
-<g transform="translate(184 251) scale(1.450) translate(-184 -251)"><line x1="150" y1="240" x2="184" y2="240" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/></g>
-<g transform="translate(184 251) scale(1.450) translate(-184 -251)"><line x1="150" y1="262" x2="180" y2="262" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/></g>
+<g transform="translate(184 251) scale(1.450) translate(-184 -251)"><line x1="150" y1="240" x2="184" y2="240" stroke="#1a1a1a" stroke-width="4.14" stroke-linecap="round"/></g>
+<g transform="translate(184 251) scale(1.450) translate(-184 -251)"><line x1="150" y1="262" x2="180" y2="262" stroke="#1a1a1a" stroke-width="4.14" stroke-linecap="round"/></g>
 <path data-part="lower" d="M 297.0 452.0 L 297.0 383.0 L 305.0 383.0 L 290.0 351.0 L 275.0 383.0 L 283.0 383.0 L 283.0 452.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/></svg>

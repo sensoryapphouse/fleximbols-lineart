@@ -18,10 +18,10 @@
   <!-- Ice display window on panel -->
   <rect x="82" y="47" width="80" height="55" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ice cubes inside machine visible through window -->
-  <rect x="88" y="53" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="114" y="53" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="88" y="78" width="20" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="114" y="78" width="20" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="88" y="53" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="114" y="53" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="88" y="78" width="20" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="114" y="78" width="20" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- Falling ice cubes -->
   <rect x="118" y="135" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -30,9 +30,9 @@
   <!-- Collection bin/glass -->
   <path d="M95 165 L88 210 L202 210 L195 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Ice in bin -->
-  <rect x="102" y="180" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="128" y="185" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="152" y="178" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="102" y="180" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="128" y="185" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="152" y="178" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Bin rim -->
   <line x1="88" y1="165" x2="202" y2="165" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
 </g></svg>

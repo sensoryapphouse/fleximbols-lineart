@@ -10,14 +10,14 @@
   <ellipse cx="145" cy="165" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <circle cx="138" cy="163" r="2" fill="#1a1a1a"></circle>
   <circle cx="152" cy="163" r="2" fill="#1a1a1a"></circle>
-  <path d="M 135,175 Q 145,182 155,175" stroke="#1a1a1a" stroke-width="2.96" fill="none" stroke-linecap="round"></path>
-  <path d="M 142,182 Q 145,188 138,192 M 148,182 Q 145,188 152,192" stroke="#1a1a1a" stroke-width="2.96" fill="none"></path>
+  <path d="M 135,175 Q 145,182 155,175" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"></path>
+  <path d="M 142,182 Q 145,188 138,192 M 148,182 Q 145,188 152,192" stroke="#1a1a1a" stroke-width="4.1" fill="none"></path>
   <path d="M 50,165 Q 30,150 25,128 Q 35,140 60,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"></path>
   <path d="M 240,165 Q 260,150 265,128 Q 255,140 230,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"></path>
-  <path d="M 35,142 L 28,138 M 250,142 L 258,138" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 35,142 L 28,138 M 250,142 L 258,138" stroke="#1a1a1a" stroke-width="4.1"></path>
   <ellipse cx="100" cy="158" rx="11" ry="7" fill="#ffffff" opacity="0.5" stroke="#1a1a1a" stroke-width="3.42"></ellipse>
   <ellipse cx="190" cy="158" rx="11" ry="7" fill="#ffffff" opacity="0.5" stroke="#1a1a1a" stroke-width="3.42"></ellipse>
   <path d="M 90,205 L 88,222 L 100,222 L 102,208 Z M 188,208 L 190,222 L 202,222 L 200,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></path>
-  <path d="M 88,222 L 85,228 M 95,222 L 95,230 M 100,222 L 105,228 M 188,222 L 185,228 M 195,222 L 195,230 M 202,222 L 205,228" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 88,222 L 85,228 M 95,222 L 95,230 M 100,222 L 105,228 M 188,222 L 185,228 M 195,222 L 195,230 M 202,222 L 205,228" stroke="#1a1a1a" stroke-width="4.1"></path>
   <path d="M 230,160 L 250,170 Q 260,175 255,185 Q 245,180 240,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
 </g></svg>

@@ -3,6 +3,6 @@
   <ellipse cx="145" cy="155" rx="115" ry="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="145" cy="160" rx="90" ry="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M115 150 q-10 0 -10 8 q0 8 10 8 q0 6 8 6 q8 0 8 -6 h28 q0 6 8 6 q8 0 8 -6 q10 0 10 -8 q0 -8 -10 -8 q0 -6 -8 -6 q-8 0 -8 6 h-28 q0 -6 -8 -6 q-8 0 -8 6 z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M40 170 q-5 -20 10 -30" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M250 170 q5 -20 -10 -30" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M40 170 q-5 -20 10 -30" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M250 170 q5 -20 -10 -30" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

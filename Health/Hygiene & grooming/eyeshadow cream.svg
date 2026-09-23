@@ -10,7 +10,7 @@
   <!-- Creamy product surface (glossy mauve cream) -->
   <ellipse cx="100" cy="132" rx="54" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Cream dip/swirl (finger dipped in, dent in the cream) -->
-  <ellipse cx="100" cy="132" rx="20" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="100" cy="132" rx="20" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cream shine highlight (cream has soft sheen) -->
   <ellipse cx="78" cy="128" rx="14" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Pot label band -->
@@ -22,7 +22,7 @@
   <!-- Index finger extended down-left toward cream -->
   <path d="M 210 78 Q 196 100 178 122 Q 174 132 184 134 Q 196 132 208 116 Q 222 96 230 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Fingernail -->
-  <ellipse cx="182" cy="128" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-40 182 128)"/>
+  <ellipse cx="182" cy="128" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-40 182 128)"/>
   <!-- Cream dab on fingertip -->
-  <circle cx="184" cy="132" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="184" cy="132" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

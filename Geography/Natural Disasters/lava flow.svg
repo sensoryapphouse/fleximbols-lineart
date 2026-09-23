@@ -19,7 +19,7 @@
   <!-- Lava at crater/vent -->
   <ellipse cx="145" cy="50" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Eruption glow above crater -->
-  <ellipse cx="145" cy="38" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="38" rx="16" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lava pool at base -->
   <ellipse cx="145" cy="172" rx="60" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -13,15 +13,15 @@
   <rect x="20" y="155" width="22" height="52" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="248" y="155" width="22" height="52" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Sofa legs -->
-  <rect x="34" y="205" width="10" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="246" y="205" width="10" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="34" y="205" width="10" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="246" y="205" width="10" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Adult 1 left -->
   <rect x="42" y="118" width="28" height="50" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <ellipse cx="56" cy="104" rx="15" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <ellipse cx="56" cy="91" rx="15" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="56" cy="91" rx="15" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <ellipse cx="50" cy="103" rx="2.5" ry="2.5" fill="#1a1a1a"/>
   <ellipse cx="62" cy="103" rx="2.5" ry="2.5" fill="#1a1a1a"/>
-  <path d="M49 111 Q56 117 63 111" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M49 111 Q56 117 63 111" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Left arm around child -->
   <path d="M70 130 Q100 122 120 130" fill="none" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <!-- Right arm down -->
@@ -29,10 +29,10 @@
   <!-- Child centre -->
   <rect x="118" y="130" width="22" height="38" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" stroke-linejoin="round"/>
   <ellipse cx="129" cy="118" rx="13" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <ellipse cx="129" cy="107" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <ellipse cx="129" cy="107" rx="13" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <ellipse cx="123" cy="117" rx="2.5" ry="2.5" fill="#1a1a1a"/>
   <ellipse cx="135" cy="117" rx="2.5" ry="2.5" fill="#1a1a1a"/>
-  <path d="M122 125 Q129 131 136 125" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M122 125 Q129 131 136 125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Child arms relaxed -->
   <line x1="118" y1="142" x2="104" y2="155" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <line x1="140" y1="142" x2="154" y2="155" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
@@ -40,18 +40,18 @@
   <rect x="196" y="118" width="28" height="50" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <ellipse cx="210" cy="104" rx="15" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Longer hair for second adult -->
-  <ellipse cx="210" cy="90" rx="17" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="196" y="90" width="8" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <rect x="224" y="90" width="8" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <ellipse cx="210" cy="90" rx="17" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="196" y="90" width="8" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="224" y="90" width="8" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <ellipse cx="204" cy="103" rx="2.5" ry="2.5" fill="#1a1a1a"/>
   <ellipse cx="216" cy="103" rx="2.5" ry="2.5" fill="#1a1a1a"/>
-  <path d="M203 111 Q210 117 217 111" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M203 111 Q210 117 217 111" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Left arm around child -->
   <path d="M196 130 Q168 122 148 130" fill="none" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <!-- Right arm down -->
   <line x1="224" y1="132" x2="240" y2="150" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <!-- Hearts floating above -->
-  <path d="M130 70 Q130 62 136 62 Q142 62 142 70 Q142 76 130 84 Q118 76 118 70 Q118 62 124 62 Q130 62 130 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" stroke-linejoin="round"/>
-  <path d="M175 54 Q175 47 180 47 Q185 47 185 54 Q185 60 175 67 Q165 60 165 54 Q165 47 170 47 Q175 47 175 54 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M84 62 Q84 56 88 56 Q92 56 92 62 Q92 67 84 73 Q76 67 76 62 Q76 56 80 56 Q84 56 84 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M130 70 Q130 62 136 62 Q142 62 142 70 Q142 76 130 84 Q118 76 118 70 Q118 62 124 62 Q130 62 130 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M175 54 Q175 47 180 47 Q185 47 185 54 Q185 60 175 67 Q165 60 165 54 Q165 47 170 47 Q175 47 175 54 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M84 62 Q84 56 88 56 Q92 56 92 62 Q92 67 84 73 Q76 67 76 62 Q76 56 80 56 Q84 56 84 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

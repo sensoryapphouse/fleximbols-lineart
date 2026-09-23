@@ -2,7 +2,7 @@
   <!-- green sprout -->
   <path d="M145 30 Q138 60 140 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M145 30 Q138 60 140 90 Q150 75 155 50 Q150 35 145 30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M145 30 Q152 55 150 85" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145 30 Q152 55 150 85" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- garlic bulb (round papery white) -->
   <ellipse cx="145" cy="140" rx="78" ry="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" data-lp="hair"/>
   <!-- clove segments -->
@@ -16,5 +16,5 @@
   <path d="M145 220 L145 232" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M160 218 L162 230" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- highlight (subtle shading via lighter neutral) -->
-  <ellipse cx="120" cy="110" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="120" cy="110" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

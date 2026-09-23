@@ -4,7 +4,7 @@
 <path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
 <!-- lumen line -->
-<path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 150 130 Q 250 150 256 240 Q 262 340 330 380" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- rounded insertion tip (top-left) -->
 <circle cx="146" cy="128" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- inflated retention balloon just below tip -->

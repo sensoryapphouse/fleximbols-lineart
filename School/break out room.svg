@@ -17,8 +17,8 @@
   <rect x="168" y="138" width="112" height="18" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <rect x="168" y="148" width="112" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Two small head silhouettes inside sub-window -->
-  <circle cx="210" cy="178" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M190 224 Q190 200 210 200 Q230 200 230 224" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="248" cy="178" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M228 224 Q228 200 248 200 Q268 200 268 224" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="210" cy="178" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M190 224 Q190 200 210 200 Q230 200 230 224" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="248" cy="178" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M228 224 Q228 200 248 200 Q268 200 268 224" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

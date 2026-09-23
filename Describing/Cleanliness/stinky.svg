@@ -11,8 +11,8 @@
 <path d="M 122 170 L 178 170 L 178 270 L 232 300 Q 244 308 232 322 L 196 344 Q 150 360 122 322 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <line x1="122" y1="200" x2="178" y2="200" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- grime patch on heel/toe -->
-<ellipse cx="200" cy="320" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<ellipse cx="150" cy="300" rx="12" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="200" cy="320" rx="18" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="hair"/>
+<ellipse cx="150" cy="300" rx="12" ry="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- FRESH sock (right, faded) -->
 <g opacity="0.34">
 <path d="M 318 170 L 374 170 L 374 270 L 428 300 Q 440 308 428 322 L 392 344 Q 346 360 318 322 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>

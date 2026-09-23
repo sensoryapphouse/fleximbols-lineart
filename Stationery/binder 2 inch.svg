@@ -9,14 +9,14 @@
   <!-- spine edge -->
   <line x1="124" y1="30" x2="124" y2="210" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- label on spine -->
-  <rect x="86" y="75" width="32" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="90" y1="90" x2="114" y2="90" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="100" x2="114" y2="100" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="110" x2="114" y2="110" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="120" x2="114" y2="120" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="130" x2="114" y2="130" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="140" x2="114" y2="140" stroke="#1a1a1a" stroke-width="1.48"/>
-  <line x1="90" y1="150" x2="114" y2="150" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="86" y="75" width="32" height="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="90" x2="114" y2="90" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="100" x2="114" y2="100" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="110" x2="114" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="120" x2="114" y2="120" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="130" x2="114" y2="130" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="140" x2="114" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="90" y1="150" x2="114" y2="150" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- size badge "2 inch" -->
   <rect x="140" y="100" width="65" height="40" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- 2 numeral as path -->

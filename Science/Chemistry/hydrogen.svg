@@ -6,7 +6,7 @@
   <!-- highlight on balloon (small curved gleam) -->
   <path d="M115 60 C115 45 130 35 145 35" fill="none" stroke="#ffffff" stroke-width="8.88" stroke-linecap="round"/>
   <!-- string (curved, indicating floating) -->
-  <path d="M145 172 C160 195 130 210 150 230" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145 172 C160 195 130 210 150 230" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- upward motion indicator: small arrows beside balloon -->
   <path d="M40 130 L40 95" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M33 105 L40 92 L47 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

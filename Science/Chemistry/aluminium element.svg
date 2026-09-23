@@ -5,11 +5,11 @@
   <!-- top rim oval -->
   <ellipse cx="145" cy="45" rx="55" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- inner top depression -->
-  <ellipse cx="145" cy="45" rx="46" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="45" rx="46" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- pull tab ring -->
   <ellipse cx="160" cy="45" rx="18" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- pull tab rivet -->
-  <circle cx="140" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="140" cy="45" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- highlight stripe -->
   <path d="M 105 65 L 105 195" fill="none" stroke="#ffffff" stroke-width="8.88" stroke-linecap="round"/>
   <!-- label band -->

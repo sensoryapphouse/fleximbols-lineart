@@ -6,7 +6,7 @@
   <!-- inside top (dark, empty) -->
   <path d="M60 95 L75 75 L250 75 L230 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- inner back of box hint -->
-  <path d="M75 75 L240 75 L225 90 L80 90 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M75 75 L240 75 L225 90 L80 90 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- left front flap splayed outward -->
   <path d="M60 95 L40 50 L130 40 L145 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- right front flap splayed outward -->
@@ -16,5 +16,5 @@
   <!-- back-right flap -->
   <path d="M250 75 L255 35 L170 25 L150 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- box detail crease -->
-  <line x1="145" y1="95" x2="145" y2="220" stroke="#1a1a1a" stroke-width="2.22" stroke-dasharray="4 4"/>
+  <line x1="145" y1="95" x2="145" y2="220" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="4 4"/>
 </g></svg>

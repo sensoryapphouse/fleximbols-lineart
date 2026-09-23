@@ -5,10 +5,10 @@
   <path d="M100,75 Q120,55 145,55 Q120,65 105,90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- prominent white stitching seam (horizontal across) -->
   <path d="M70,128 Q145,100 220,128" fill="none" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
-  <path d="M70,128 Q145,100 220,128" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M70,128 Q145,100 220,128" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- individual stitches as cross marks -->
   <path d="M82,127 L85,118 M95,123 L98,114 M110,118 L113,109 M125,114 L128,105 M145,110 L148,101 M165,113 L168,104 M180,118 L183,109 M195,122 L198,113 M208,126 L211,117"
-        fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+        fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- highlight dot -->
   <ellipse cx="115" cy="85" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

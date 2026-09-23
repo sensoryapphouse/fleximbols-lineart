@@ -11,8 +11,8 @@
   <!-- Big A -->
   <path d="M 105 108 L 115 82 L 125 108 M 109 100 L 121 100" fill="none" stroke="#1a1a1a" stroke-width="7.78" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Flag 1 small -->
-  <rect x="170" y="83" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="170" y="83" width="22" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="170" y="83" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="170" y="83" width="22" height="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arrow down -->
   <path d="M 138 122 L 138 138 L 130 138 L 145 152 L 160 138 L 152 138 L 152 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Language output box (other language) -->
@@ -20,8 +20,8 @@
   <!-- Big character (kanji-like simple) -->
   <path d="M 110 170 L 130 170 M 120 170 L 120 195 M 110 182 L 130 182 M 113 195 L 127 195" fill="none" stroke="#1a1a1a" stroke-width="7.78" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Flag 2 small -->
-  <rect x="170" y="168" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="181" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="170" y="168" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="181" cy="175" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Home button -->
   <circle cx="145" cy="222" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- two speech bubbles with arrows (replaces TRANSLATE text) -->

@@ -6,15 +6,15 @@
   <!-- LARGE pale-yellow flat bulb (bigger than sweet-onion) -->
   <path d="M145 85 Q25 92 18 155 Q30 215 145 222 Q260 215 272 155 Q265 92 145 85 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- horizontal layer lines -->
-  <path d="M35 135 Q145 118 255 135" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M25 165 Q145 150 265 165" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M35 195 Q145 180 255 195" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M35 135 Q145 118 255 135" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M25 165 Q145 150 265 165" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M35 195 Q145 180 255 195" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- vertical seams -->
-  <path d="M145 85 L145 222" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M85 92 Q78 155 90 218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M205 92 Q212 155 200 218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M145 85 L145 222" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M85 92 Q78 155 90 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M205 92 Q212 155 200 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- highlight -->
-  <ellipse cx="80" cy="130" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="130" rx="20" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- prominent BROWN root tip tuft at bottom -->
   <path d="M125 222 L120 235" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M138 224 L135 238" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

@@ -18,10 +18,10 @@
   <path d="M70 110 L70 140 L82 140 Q90 140 90 134 Q90 128 82 128 Q90 128 90 122 Q90 116 82 116 L70 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- O -->
   <rect x="96" y="110" width="14" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="100" y="114" width="6" height="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="100" y="114" width="6" height="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- O -->
   <rect x="115" y="110" width="14" height="30" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="119" y="114" width="6" height="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="119" y="114" width="6" height="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- T -->
   <rect x="134" y="110" width="14" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="138" y="110" width="6" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -37,7 +37,7 @@
 
   <!-- progress bar -->
   <rect x="70" y="60" width="150" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="73" y="63" width="90" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="73" y="63" width="90" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- power symbol -->
   <circle cx="58" cy="200" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>

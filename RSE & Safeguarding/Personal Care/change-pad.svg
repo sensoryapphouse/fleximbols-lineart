@@ -2,7 +2,7 @@
 <path d="M 240 158 Q 282 158 280 216 Q 277 262 280 308 Q 282 366 240 366 Q 198 366 200 308 Q 203 262 200 216 Q 198 158 240 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 202 250 q -34 -4 -34 16 q 0 18 34 10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <path d="M 278 250 q 34 -4 34 16 q 0 18 -34 10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 240 182 Q 262 182 261 262 Q 262 342 240 342 Q 218 342 219 262 Q 218 182 240 182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 240 182 Q 262 182 261 262 Q 262 342 240 342 Q 218 342 219 262 Q 218 182 240 182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.73" stroke-linejoin="round"/>
 <path d="M 287.8 141.7 A 128 128 0 1 1 123.7 218.2" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <polygon points="124.0,218.0 130.0,248.0 100.0,237.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

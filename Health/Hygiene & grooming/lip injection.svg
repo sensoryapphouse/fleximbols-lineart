@@ -15,7 +15,7 @@
   <!-- syringe barrel -->
   <rect x="210" y="35" width="60" height="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-45 240 49)"/>
   <!-- liquid -->
-  <rect x="214" y="38" width="48" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-45 238 49)"/>
+  <rect x="214" y="38" width="48" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-45 238 49)"/>
   <!-- plunger flange -->
   <rect x="265" y="25" width="6" height="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-45 268 46)"/>
   <!-- plumping arrows around lips -->
@@ -24,5 +24,5 @@
   <path d="M 120 200 L 120 215 M 120 215 L 116 211 M 120 215 L 124 211" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <path d="M 60 195 L 50 205 M 50 205 L 56 204 M 50 205 L 51 199" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" fill="none"/>
   <!-- plumping effect sparkle -->
-  <path d="M 35 90 L 38 95 L 43 98 L 38 101 L 35 106 L 32 101 L 27 98 L 32 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 35 90 L 38 95 L 43 98 L 38 101 L 35 106 L 32 101 L 27 98 L 32 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

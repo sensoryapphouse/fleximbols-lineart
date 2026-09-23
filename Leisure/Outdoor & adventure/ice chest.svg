@@ -15,18 +15,18 @@
   <rect x="226" y="32" width="22" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- drink bottle peeking out -->
   <rect x="125" y="20" width="20" height="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="129" y="14" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="129" y="14" width="12" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- drink can -->
   <rect x="155" y="28" width="20" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <rect x="155" y="28" width="20" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="155" y="28" width="20" height="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- side handles (rope) -->
   <path d="M 35 110 Q 40 95 60 95 L 80 95 Q 100 95 105 110" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <path d="M 35 110 Q 40 95 60 95 L 80 95 Q 100 95 105 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 35 110 Q 40 95 60 95 L 80 95 Q 100 95 105 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M 185 110 Q 190 95 210 95 L 230 95 Q 250 95 255 110" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <path d="M 185 110 Q 190 95 210 95 L 230 95 Q 250 95 255 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 185 110 Q 190 95 210 95 L 230 95 Q 250 95 255 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- big front latch -->
   <rect x="130" y="80" width="30" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="91" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="91" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- hinge ribs -->
   <path d="M 25 130 L 265 130 M 25 170 L 265 170" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- snowflake icon on side (denotes ice) -->

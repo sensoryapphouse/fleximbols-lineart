@@ -7,7 +7,7 @@
   <!-- Tip cap -->
   <polygon points="118,42 143,200 168,42 145,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Inner left shadow facet -->
-  <polygon points="118,42 130,200 145,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="118,42 130,200 145,28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Base termination line -->
   <line x1="110" y1="168" x2="180" y2="168" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Highlight line down left face -->

@@ -5,8 +5,8 @@
   <path d="M103 110 L105 205 L185 205 L187 110Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Cascade streaks (nitro effect — lighter vertical bands falling through dark coffee) -->
   <path d="M118 112 Q115 135 118 165 Q120 185 117 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M135 110 Q132 140 136 170 Q138 190 135 205" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M155 112 Q153 138 156 168 Q158 192 155 205" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M135 110 Q132 140 136 170 Q138 190 135 205" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M155 112 Q153 138 156 168 Q158 192 155 205" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M172 110 Q170 132 173 160 Q175 185 172 205" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Creamy nitro head (top layer, thick) -->
   <path d="M103 110 L187 110 L185 85 L105 85Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

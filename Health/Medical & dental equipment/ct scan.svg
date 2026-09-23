@@ -20,7 +20,7 @@
   <!-- cross-section image beside (monitor) -->
   <rect x="180" y="40" width="90" height="80" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- screen inner -->
-  <rect x="186" y="46" width="78" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="186" y="46" width="78" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cross-section: outer body circle -->
   <circle cx="225" cy="80" r="28" fill="#ffffff" stroke="#ffffff" stroke-width="2.96"/>
   <!-- bone/spine spots -->
@@ -30,6 +30,6 @@
   <circle cx="215" cy="88" r="3" fill="#1a1a1a" stroke="#ffffff" stroke-width="1.48"/>
   <circle cx="235" cy="88" r="3" fill="#1a1a1a" stroke="#ffffff" stroke-width="1.48"/>
   <!-- monitor stand -->
-  <rect x="220" y="120" width="10" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="210" y="132" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="220" y="120" width="10" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="210" y="132" width="30" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

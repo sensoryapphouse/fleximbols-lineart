@@ -7,15 +7,15 @@
 <circle cx="256" cy="116" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="377" cy="326" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="135" cy="326" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="256" cy="116" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="377" cy="326" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="135" cy="326" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="116" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="377" cy="326" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="135" cy="326" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="256" cy="256" r="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="256" cy="256" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="256" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 372 150 A 150 150 0 0 1 410 250" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<polygon points="410,250 430,238 432,266" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="410,250 430,238 432,266" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 140 362 A 150 150 0 0 0 240 408" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<polygon points="240,408 222,422 246,432" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="240,408 222,422 246,432" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <ellipse cx="256" cy="222" rx="22" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <ellipse cx="294" cy="290" rx="22" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" transform="rotate(-60 294 290)" data-lp="skin"/>
 </g></svg>

@@ -14,5 +14,5 @@
   <!-- Lightning bolt inside circle -->
   <polygon points="158,52 128,124 148,124 132,188 172,108 150,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Inner highlight on bolt -->
-  <polygon points="154,68 144,110 150,110 143,148 162,114 154,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="154,68 144,110 150,110 143,148 162,114 154,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

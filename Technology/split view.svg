@@ -4,9 +4,9 @@
   <!-- left title bar -->
   <rect x="18" y="30" width="124" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- left window dots -->
-  <circle cx="28" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="38" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="48" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="28" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="38" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="48" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- left content lines -->
   <rect x="28" y="64" width="100" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="28" y="84" width="80" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -18,9 +18,9 @@
   <rect x="148" y="30" width="124" height="180" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- right title bar -->
   <rect x="148" y="30" width="124" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="158" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="168" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="178" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="158" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="168" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="178" cy="41" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- right content lines -->
   <rect x="158" y="64" width="100" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="158" y="84" width="70" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -31,9 +31,9 @@
   <!-- divider down middle -->
   <line x1="145" y1="20" x2="145" y2="220" stroke="#1a1a1a" stroke-width="13.34" stroke-linecap="round"/>
   <!-- divider grip dots -->
-  <circle cx="145" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="145" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="110" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="120" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- SPLIT lettering at bottom -->
   <!-- divider icon (replaces SPLIT text) -->
   <line x1="145" y1="145" x2="145" y2="220" stroke="#1a1a1a" stroke-width="8.89" stroke-dasharray="6 4" stroke-linecap="round"/>

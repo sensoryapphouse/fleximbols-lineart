@@ -30,20 +30,20 @@
   <line x1="170" y1="105" x2="170" y2="205" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- matching bands (some aligned across both lanes) -->
-  <rect x="108" y="110" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="158" y="110" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="108" y="110" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="110" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
-  <rect x="108" y="130" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="158" y="138" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="108" y="130" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="138" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
-  <rect x="108" y="150" width="24" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="158" y="150" width="24" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="108" y="150" width="24" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="150" width="24" height="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
-  <rect x="108" y="172" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="158" y="172" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="108" y="172" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="172" width="24" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
-  <rect x="108" y="188" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
-  <rect x="158" y="188" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="108" y="188" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="188" width="24" height="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- match indicator (checkmark badge at top) -->
   <circle cx="145" cy="60" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>

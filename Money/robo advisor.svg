@@ -15,17 +15,17 @@
   <rect x="42" y="142" width="158" height="14" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="200" cy="105" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M200 95 L200 91 M200 119 L200 115 M210 105 L214 105 M186 105 L190 105 M207 98 L210 95 M207 112 L210 115 M193 98 L190 95 M193 112 L190 115" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="200" cy="105" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="105" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="40" y="165" width="220" height="70" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <path d="M50 220 L72 200 L92 210 L120 180 L150 195 L180 175 L210 188 L248 172" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="248,172 236,170 244,182" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="248,172 236,170 244,182" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="72" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="92" cy="210" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="120" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="150" cy="195" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="180" cy="175" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <circle cx="210" cy="188" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
-  <path d="M50 175 L50 230 M50 230 L255 230" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M50 175 L50 230 M50 230 L255 230" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="225" cy="200" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M222 192 L228 192 M222 200 L228 200 M225 188 L225 212" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M222 192 L228 192 M222 200 L228 200 M225 188 L225 212" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

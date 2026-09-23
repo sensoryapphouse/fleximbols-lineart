@@ -3,7 +3,7 @@
   <path d="M145 30 L150 70" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- leaf -->
   <path d="M150 45 Q190 30 210 55 Q200 80 165 70 Q150 60 150 45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M155 50 L200 60" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M155 50 L200 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- cluster of large bronze/gold round grapes -->
   <circle cx="115" cy="90" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="160" cy="90" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -14,9 +14,9 @@
   <circle cx="161" cy="170" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="138" cy="205" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- highlights -->
-  <circle cx="107" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="152" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="84" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="130" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="176" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="107" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="152" cy="83" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="84" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="176" cy="123" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

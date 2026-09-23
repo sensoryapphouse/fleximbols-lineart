@@ -3,7 +3,7 @@
   <!-- penny outer rim -->
   <circle cx="80" cy="120" r="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- penny inner face -->
-  <circle cx="80" cy="120" r="54" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="80" cy="120" r="54" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- profile bust silhouette (no text) -->
   <path d="M62 145 Q62 115 75 100 Q90 92 100 105 Q105 115 102 130 Q100 140 95 145 L100 175 L60 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- highlight on penny edge -->

@@ -3,7 +3,7 @@
   <path d="M 100,108 Q 145,118 190,108" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 80,40 L 80,68 Q 80,75 90,75 L 200,75 Q 210,75 210,68 L 215,55" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 215,55 L 245,40 L 250,50 L 220,65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 245,40 Q 268,30 280,38 M 250,52 Q 272,48 282,55 M 248,62 Q 268,68 280,68" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
-  <rect x="110" y="130" width="70" height="70" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></rect>
-  <path d="M 120,150 L 170,150 M 120,165 L 170,165 M 120,180 L 160,180" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 245,40 Q 268,30 280,38 M 250,52 Q 272,48 282,55 M 248,62 Q 268,68 280,68" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <rect x="110" y="130" width="70" height="70" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <path d="M 120,150 L 170,150 M 120,165 L 170,165 M 120,180 L 160,180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

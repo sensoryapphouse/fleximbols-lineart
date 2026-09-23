@@ -8,7 +8,7 @@
 <!-- nozzle -->
 <rect x="248" y="104" width="16" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- label band -->
-<rect x="196" y="252" width="120" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="196" y="252" width="120" height="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="196" y1="252" x2="316" y2="252" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="196" y1="338" x2="316" y2="338" stroke="#1a1a1a" stroke-width="6"/>
 <!-- shine sparkles on label -->

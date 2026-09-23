@@ -9,5 +9,5 @@
 <ellipse cx="191.6" cy="233.2" rx="46.0" ry="46.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <ellipse cx="191.6" cy="158.8" rx="46.0" ry="46.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="256.0" cy="196.0" r="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="256.0" cy="196.0" r="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="196.0" r="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.17"/>
 </g></svg>

@@ -5,11 +5,11 @@
   <!-- open door left -->
   <rect x="30" y="100" width="32" height="78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M62 100 L82 90 L82 168 L62 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="68" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="68" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- open door right -->
   <rect x="228" y="100" width="32" height="78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M228 100 L208 90 L208 168 L228 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="222" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="222" cy="138" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- doctor full body in middle -->
   <circle cx="145" cy="120" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M133 117 Q145 105 157 117 L155 111 Q145 100 135 111 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>

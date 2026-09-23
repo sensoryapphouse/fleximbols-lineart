@@ -24,9 +24,9 @@
   <!-- handle attachment band -->
   <rect x="210" y="96" width="14" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <!-- flour dust falling through mesh (motion cue) -->
-  <circle cx="100" cy="160" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="120" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="170" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="155" cy="155" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="160" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="175" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="180" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="155" cy="155" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

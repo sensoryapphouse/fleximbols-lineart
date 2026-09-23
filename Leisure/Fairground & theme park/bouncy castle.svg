@@ -24,8 +24,8 @@
   <path d="M30 130 Q25 125 30 120" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <path d="M260 130 Q265 125 260 120" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <!-- stars -->
-  <path d="M85 145 L88 153 L96 153 L90 158 L92 166 L85 161 L78 166 L80 158 L74 153 L82 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
-  <path d="M205 145 L208 153 L216 153 L210 158 L212 166 L205 161 L198 166 L200 158 L194 153 L202 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M85 145 L88 153 L96 153 L90 158 L92 166 L85 161 L78 166 L80 158 L74 153 L82 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M205 145 L208 153 L216 153 L210 158 L212 166 L205 161 L198 166 L200 158 L194 153 L202 153 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- bounce arrows -->
   <path d="M145 95 L145 75" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M140 80 L145 75 L150 80" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>

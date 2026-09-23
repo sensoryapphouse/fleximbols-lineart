@@ -16,36 +16,36 @@
 <line x1="190" y1="446" x2="190" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 190 410 q -20 -8 -26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 190 420 q 20 -8 26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="190" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="190" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 <g>
 <line x1="218" y1="446" x2="218" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 218 410 q -20 -8 -26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 218 420 q 20 -8 26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="218" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="218" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 <g>
 <line x1="313" y1="446" x2="313" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 313 410 q -20 -8 -26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 313 420 q 20 -8 26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="313" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="313" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 <g>
 <line x1="341" y1="446" x2="341" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 341 410 q -20 -8 -26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 341 420 q 20 -8 26 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="341" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="341" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 <g>
 <line x1="67" y1="446" x2="67" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 67 410 q -18 -8 -24 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 67 420 q 18 -8 24 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="67" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="67" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 <g>
 <line x1="445" y1="446" x2="445" y2="372" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <path d="M 445 410 q -18 -8 -24 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 445 420 q 18 -8 24 -28" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<ellipse cx="445" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<ellipse cx="445" cy="360" rx="10" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.94"/>
 </g>
 </g></svg>

@@ -23,8 +23,8 @@
   <rect x="36" y="150" width="78" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- charges document on podium -->
   <rect x="55" y="162" width="40" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="60" y1="170" x2="90" y2="170" stroke="#1a1a1a" stroke-width="2.67"/>
-  <line x1="60" y1="176" x2="85" y2="176" stroke="#1a1a1a" stroke-width="2.67"/>
+  <line x1="60" y1="170" x2="90" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="176" x2="85" y2="176" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- defendant head -->
   <circle cx="75" cy="128" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <path d="M62 125 Q64 113 75 112 Q86 113 88 125 Q83 119 75 119 Q67 119 62 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

@@ -16,19 +16,19 @@
   <!-- head -->
   <circle cx="115" cy="115" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- ears -->
-  <circle cx="108" cy="106" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="120" cy="106" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="108" cy="106" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="120" cy="106" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- snout -->
-  <ellipse cx="120" cy="118" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="120" cy="118" rx="5" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- closed eye -->
-  <path d="M111 113 Q113 115 115 113" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M111 113 Q113 115 115 113" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- nose -->
   <circle cx="122" cy="117" r="1.5" fill="#1a1a1a"/>
   <!-- paws tucked -->
-  <ellipse cx="78" cy="126" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="78" cy="126" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Z (single, sleeping deeper than sleep-mode but quieter) -->
-  <path d="M145 65 L160 65 L160 70 L150 80 L160 80 L160 85 L145 85 L145 80 L155 70 L145 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M145 65 L160 65 L160 70 L150 80 L160 80 L160 85 L145 85 L145 80 L155 70 L145 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- HIBERNATE letters below screen -->
   <!-- snowflake hint (cold/winter hibernation) -->

@@ -8,7 +8,7 @@
 <line x1="180" y1="96" x2="167" y2="112" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="180" y1="96" x2="167" y2="112" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="70" y1="140" x2="92" y2="140" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="70" y1="140" x2="92" y2="140" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="200" y1="140" x2="178" y2="140" stroke="#1a1a1a" stroke-width="17" stroke-linecap="round"/><line x1="200" y1="140" x2="178" y2="140" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
-<circle cx="135" cy="150" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="135" cy="150" r="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="56" y1="200" x2="214" y2="200" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 </g>
 <!-- 2. WASH / BRUSH TEETH: cup + toothbrush -->

@@ -19,5 +19,5 @@
   <path d="M182 96 C176 90 168 92 171 100 C174 107 182 110 182 110 C182 110 190 107 193 100 C196 92 188 90 182 96 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- brain on right pan -->
   <circle cx="258" cy="98" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M253 95 Q255 91 258 93 Q261 91 263 95 Q265 98 263 101 Q261 105 258 103 Q255 105 253 101 Q251 98 253 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M253 95 Q255 91 258 93 Q261 91 263 95 Q265 98 263 101 Q261 105 258 103 Q255 105 253 101 Q251 98 253 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

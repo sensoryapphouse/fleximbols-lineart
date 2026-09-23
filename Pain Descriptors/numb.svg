@@ -10,5 +10,5 @@
 <ellipse cx="256" cy="332" rx="60" ry="34" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="14 12"/>
 <line x1="238" y1="316" x2="274" y2="348" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="274" y1="316" x2="238" y2="348" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="256.0" cy="332.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="332.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49"/>
 </g></svg>

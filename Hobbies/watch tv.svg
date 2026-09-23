@@ -49,7 +49,7 @@
   <line x1="80" y1="148" x2="98" y2="162" stroke="#1a1a1a" stroke-width="12.30" stroke-linecap="round"/>
   <!-- Remote control -->
   <rect x="98" y="158" width="14" height="26" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
-  <ellipse cx="105" cy="165" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round"/>
-  <rect x="101" y="172" width="8" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round"/>
-  <rect x="101" y="178" width="8" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.74" stroke-linejoin="round"/>
+  <ellipse cx="105" cy="165" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="101" y="172" width="8" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="101" y="178" width="8" height="4" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

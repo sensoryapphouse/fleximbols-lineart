@@ -4,13 +4,13 @@
   <!-- Pan rim top ellipse -->
   <ellipse cx="145" cy="100" rx="75" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
   <!-- Nonstick dark interior (top view visible inside rim) -->
-  <ellipse cx="145" cy="100" rx="65" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="100" rx="65" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Long handle extending right -->
   <rect x="225" y="105" width="42" height="18" rx="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Handle end cap -->
   <ellipse cx="267" cy="114" rx="7" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Pan base bottom flat -->
-  <ellipse cx="145" cy="183" rx="65" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="183" rx="65" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Subtle sheen on nonstick surface -->
   <ellipse cx="130" cy="97" rx="20" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

@@ -4,7 +4,7 @@
   <!-- Bowl rim ellipse -->
   <ellipse cx="145" cy="122" rx="117" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Broth surface -->
-  <ellipse cx="145" cy="122" rx="100" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="122" rx="100" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Broth golden tone -->
   <ellipse cx="145" cy="123" rx="92" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 
@@ -26,11 +26,11 @@
   <path d="M162 108 Q155 98 160 92 Q166 86 172 94" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
 
   <!-- Scallion/green onion rounds on top of broth -->
-  <circle cx="90" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="105" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="200" cy="118" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="215" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="105" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="118" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="215" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Scallion ring details -->
   <circle cx="90" cy="120" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="200" cy="118" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

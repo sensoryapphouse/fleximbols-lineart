@@ -24,6 +24,6 @@
   <!-- pattern transferred onto nail -->
   <circle cx="245" cy="170" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M239 170 Q245 163 251 170 Q245 177 239 170 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="235" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="255" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="235" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="255" cy="185" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

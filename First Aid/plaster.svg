@@ -2,23 +2,23 @@
 <g transform="rotate(-32 256 256)">
 <rect x="120.0" y="222.0" width="272.0" height="68.0" rx="33" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <rect x="214.0" y="224.0" width="84.0" height="64.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="232.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="280.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="232.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="280.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="150.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="150.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="170.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="170.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="190.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="190.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="342.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="342.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="362.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="362.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="232.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="256.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="280.0" cy="242.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="232.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="256.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="280.0" cy="266.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="150.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="150.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="170.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="170.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="190.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="190.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="322.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="322.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="342.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="342.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="362.0" cy="238.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
+<circle cx="362.0" cy="262.0" r="3.2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.3"/>
 </g>
 </g></svg>

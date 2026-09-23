@@ -3,19 +3,19 @@
   <!-- palette tin -->
   <rect x="30" y="220" width="240" height="120" rx="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
   <!-- paint wells (colors) -->
-  <circle cx="70" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
-  <circle cx="125" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
-  <circle cx="180" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
-  <circle cx="235" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="70" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
+  <circle cx="125" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
+  <circle cx="180" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
+  <circle cx="235" cy="280" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
   <!-- brush diagonal -->
   <g transform="translate(150 130) rotate(-35)">
-    <rect x="-16" y="-100" width="32" height="120" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5" />
-    <rect x="-16" y="-72" width="32" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
-    <path d="M-16 20 L16 20 L11 44 L-11 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
-    <path d="M-11 44 Q-8 90 0 110 Q8 90 11 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+    <rect x="-16" y="-100" width="32" height="120" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.91" />
+    <rect x="-16" y="-72" width="32" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
+    <path d="M-16 20 L16 20 L11 44 L-11 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" stroke-linejoin="round" />
+    <path d="M-11 44 Q-8 90 0 110 Q8 90 11 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" />
   </g>
   <!-- water splash dot -->
-  <path d="M40 200 Q45 182 55 200 Q50 214 40 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" /></g>
+  <path d="M40 200 Q45 182 55 200 Q50 214 40 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.91" /></g>
 <path data-part="dress" d="M 339.9 269.24 L 396.1 269.24 L 396.1 334.04 L 420.4 407.48 L 315.6 407.48 L 339.9 334.04 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="355" y1="407" x2="351" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="25.8" data-part="ink"/><line x1="355" y1="407" x2="351" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="17.8" data-part="leg"/>
 <line x1="381" y1="407" x2="385" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="25.8" data-part="ink"/><line x1="381" y1="407" x2="385" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="17.8" data-part="leg"/>

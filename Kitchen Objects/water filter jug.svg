@@ -5,8 +5,8 @@
   <path d="M 60,90 L 215,90" stroke="#1a1a1a" stroke-width="4.45"></path>
   <ellipse cx="138" cy="115" rx="55" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <path d="M 125,115 L 125,160 L 150,160 L 150,115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></path>
-  <path d="M 125,135 Q 138,125 150,135" fill="none" stroke="#1a1a1a" stroke-width="2.96"></path>
-  <path d="M 125,150 Q 138,140 150,150" fill="none" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 125,135 Q 138,125 150,135" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 125,150 Q 138,140 150,150" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
   <circle cx="138" cy="200" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <circle cx="160" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
   <circle cx="178" cy="208" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>

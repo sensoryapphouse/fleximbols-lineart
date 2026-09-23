@@ -21,10 +21,10 @@
   <rect x="15" y="195" width="180" height="35" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- countdown clock + fire (replaces FLASH banner) -->
   <rect x="50" y="185" width="190" height="42" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M108 195 Q100 200 108 210 Q112 202 108 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M116 193 Q108 200 116 212 Q120 202 116 193 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M108 195 Q100 200 108 210 Q112 202 108 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M116 193 Q108 200 116 212 Q120 202 116 193 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- sale tag icon -->
   <path d="M155 195 L175 195 L185 207 L175 220 L155 220 L145 207 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
-  <circle cx="162" cy="207" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="162" cy="207" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="175" y1="197" x2="165" y2="217" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
 </g></svg>

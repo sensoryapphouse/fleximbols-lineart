@@ -20,9 +20,9 @@
   <!-- Chip pins right -->
   <path d="M 172,108 L 185,108 M 172,128 L 185,128" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Chip inner grid -->
-  <path d="M 130,105 L 160,105 M 130,120 L 160,120 M 130,135 L 160,135 M 136,100 L 136,140 M 152,100 L 152,140" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 130,105 L 160,105 M 130,120 L 160,120 M 130,135 L 160,135 M 136,100 L 136,140 M 152,100 L 152,140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
   <!-- Chip centre dot -->
-  <circle cx="145" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="120" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <!-- Stem -->
   <path d="M 135,192 L 135,210 L 155,210 L 155,192" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>
   <rect x="118" y="210" width="54" height="18" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></rect>

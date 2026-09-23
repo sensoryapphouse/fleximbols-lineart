@@ -4,9 +4,9 @@
 <line x1="186" y1="162" x2="326" y2="162" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="186" y1="184" x2="326" y2="184" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <rect x="120.0" y="196.0" width="272.0" height="150.0" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="150.0" y="206.0" width="212.0" height="14.0" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="360.0" cy="236.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<rect x="150.0" y="250.0" width="70.0" height="18.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="176.0" cy="259.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="150.0" y="206.0" width="212.0" height="14.0" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.7"/>
+<circle cx="360.0" cy="236.0" r="11.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.7"/>
+<rect x="150.0" y="250.0" width="70.0" height="18.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.7"/>
+<circle cx="176.0" cy="259.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.7"/>
 <path d="M 132 346 L 380 346 L 366 384 L 146 384 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

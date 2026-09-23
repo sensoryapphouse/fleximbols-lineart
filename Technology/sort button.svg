@@ -9,7 +9,7 @@
   <!-- Up/down arrow shaft -->
   <line x1="222" y1="85" x2="222" y2="175" stroke="#1a1a1a" stroke-width="4.04" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Up arrowhead (filled triangle) -->
-  <polygon points="222,68 211,89 233,89" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.43" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="222,68 211,89 233,89" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Down arrowhead (filled triangle) -->
-  <polygon points="222,192 211,171 233,171" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.43" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="222,192 211,171 233,171" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

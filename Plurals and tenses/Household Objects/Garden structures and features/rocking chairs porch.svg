@@ -5,9 +5,9 @@
   <!-- seat -->
   <rect x="72" y="120" width="108" height="15" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- seat slats -->
-  <line x1="100" y1="120" x2="100" y2="135" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="125" y1="120" x2="125" y2="135" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <line x1="150" y1="120" x2="150" y2="135" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="100" y1="120" x2="100" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="125" y1="120" x2="125" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="150" y1="120" x2="150" y2="135" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- back slats -->
   <rect x="78" y="55" width="96" height="68" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="100" y1="55" x2="100" y2="123" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -25,4 +25,4 @@
   <rect x="195" y="172" width="60" height="20" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="205" y1="192" x2="205" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="245" y1="192" x2="245" y2="210" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

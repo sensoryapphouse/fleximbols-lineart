@@ -35,7 +35,7 @@
   <path d="M185 186 Q190 189 195 186" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- cloud plush (right, lavender) -->
   <path d="M205 195 Q202 178 220 178 Q225 168 238 172 Q250 168 252 182 Q265 182 260 198 Q250 208 230 208 Q212 208 205 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <circle cx="226" cy="192" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <circle cx="238" cy="192" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="226" cy="192" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" />
+  <circle cx="238" cy="192" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.63" />
   <path d="M226 200 Q232 204 238 200" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

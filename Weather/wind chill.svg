@@ -6,11 +6,11 @@
   <!-- Thermometer bulb (cold, blue) -->
   <circle cx="64" cy="193" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Thermometer tick marks -->
-  <line x1="78" y1="45" x2="90" y2="45" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="78" y1="70" x2="90" y2="70" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="78" y1="95" x2="90" y2="95" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="78" y1="120" x2="90" y2="120" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="78" y1="145" x2="90" y2="145" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="78" y1="45" x2="90" y2="45" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="78" y1="70" x2="90" y2="70" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="78" y1="95" x2="90" y2="95" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="78" y1="120" x2="90" y2="120" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="78" y1="145" x2="90" y2="145" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wind lines blowing past thermometer (right to left feel) -->
   <path d="M 265 70 Q 200 60 105 75" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="108,69 105,75 112,77" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

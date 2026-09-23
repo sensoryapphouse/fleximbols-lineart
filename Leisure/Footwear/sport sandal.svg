@@ -10,15 +10,15 @@
   <path d="M 88 75 Q 145 60 202 75 L 202 92 Q 145 78 88 92 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- velcro buckle on toe strap -->
   <rect x="190" y="75" width="14" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 192 80 L 202 80 M 192 84 L 202 84 M 192 88 L 202 88" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 192 80 L 202 80 M 192 84 L 202 84 M 192 88 L 202 88" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- MID STRAP (across instep) -->
   <path d="M 82 115 Q 145 105 208 115 L 208 132 Q 145 122 82 132 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- mid buckle -->
   <rect x="78" y="115" width="14" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 80 120 L 90 120 M 80 124 L 90 124 M 80 128 L 90 128" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 80 120 L 90 120 M 80 124 L 90 124 M 80 128 L 90 128" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- HEEL STRAP (back ankle strap, signature) -->
   <path d="M 85 155 Q 145 145 205 155 L 205 172 Q 145 162 85 172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- heel buckle -->
   <rect x="195" y="155" width="14" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 197 160 L 207 160 M 197 164 L 207 164 M 197 168 L 207 168" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M 197 160 L 207 160 M 197 164 L 207 164 M 197 168 L 207 168" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

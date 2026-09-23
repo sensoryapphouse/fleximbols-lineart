@@ -8,15 +8,15 @@
   <!-- Food submerged (chicken piece) -->
   <ellipse cx="145" cy="148" rx="48" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Herbs in marinade (floating) -->
-  <ellipse cx="108" cy="145" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="178" cy="143" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="130" cy="137" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="162" cy="138" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="108" cy="145" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="178" cy="143" rx="7" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="130" cy="137" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="162" cy="138" rx="6" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Garlic cloves in marinade -->
-  <ellipse cx="118" cy="155" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="172" cy="153" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="118" cy="155" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="172" cy="153" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Liquid level lines (showing submerged) -->
-  <path d="M65 158 Q105 162 145 160 Q185 162 225 158" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M65 158 Q105 162 145 160 Q185 162 225 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Clock (time cue) top right -->
   <circle cx="232" cy="62" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Clock face -->

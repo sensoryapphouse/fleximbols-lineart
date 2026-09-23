@@ -7,23 +7,23 @@
   <!-- 6 wells in 2x3 grid -->
   <!-- Top row -->
   <ellipse cx="80" cy="100" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="80" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="145" cy="100" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="210" cy="100" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="210" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="210" cy="100" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bottom row - one well has a muffin in it -->
   <ellipse cx="80" cy="170" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="80" cy="170" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="80" cy="170" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <ellipse cx="145" cy="170" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Muffin in middle bottom well -->
   <path d="M 122 170 Q 122 150 145 145 Q 168 150 168 170 Q 168 178 145 180 Q 122 178 122 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Muffin top dome -->
-  <path d="M 125 158 Q 145 138 165 158" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 125 158 Q 145 138 165 158" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Chips on muffin -->
   <circle cx="138" cy="153" r="2" fill="#1a1a1a"/>
   <circle cx="152" cy="151" r="2" fill="#1a1a1a"/>
   <circle cx="145" cy="158" r="2" fill="#1a1a1a"/>
   <ellipse cx="210" cy="170" rx="28" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="210" cy="170" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="210" cy="170" rx="22" ry="16" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

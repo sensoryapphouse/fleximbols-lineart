@@ -22,7 +22,7 @@
   <!-- cable from rear -->
   <path d="M 60 120 Q 40 130 35 155 Q 32 175 50 190" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- motion dust flecks near drum -->
-  <circle cx="240" cy="92" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="252" cy="86" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="246" cy="150" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="240" cy="92" r="2.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="252" cy="86" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="246" cy="150" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

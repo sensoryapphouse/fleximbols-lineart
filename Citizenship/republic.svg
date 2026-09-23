@@ -20,10 +20,10 @@
   <rect x="210" y="130" width="55" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <rect x="225" y="135" width="25" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 232 110 L 232 138 L 244 138 L 244 110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 235 115 L 241 115 M 235 120 L 241 120 M 235 125 L 241 125" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 235 115 L 241 115 M 235 120 L 241 120 M 235 125 L 241 125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Scroll "we the people" -->
   <path d="M 20 200 Q 15 195 20 190 L 130 190 Q 135 195 130 200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M 30 193 Q 35 193 40 195 Q 45 193 50 195 Q 55 193 60 195 Q 65 193 70 195 Q 75 193 80 195 Q 85 193 90 195 Q 95 193 100 195 Q 105 193 110 195 Q 115 193 120 195" stroke="#1a1a1a" stroke-width="3.33" fill="none" stroke-linecap="round"/>
+  <path d="M 30 193 Q 35 193 40 195 Q 45 193 50 195 Q 55 193 60 195 Q 65 193 70 195 Q 75 193 80 195 Q 85 193 90 195 Q 95 193 100 195 Q 105 193 110 195 Q 115 193 120 195" stroke="#1a1a1a" stroke-width="4.1" fill="none" stroke-linecap="round"/>
   <!-- Person full body 1 -->
   <circle cx="155" cy="195" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 148 203 L 148 220 L 162 220 L 162 203 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

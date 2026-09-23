@@ -9,6 +9,6 @@
     <stop offset="100%" stop-color="#ffffff"/>
   </linearGradient>
 </defs>
-<polygon points="30,215 30,40 250,215" fill="url(#wedF)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="30,40 80,15 250,190 250,215" fill="url(#wedT)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="30,215 30,40 250,215" fill="url(#wedF)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="30,40 80,15 250,190 250,215" fill="url(#wedT)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

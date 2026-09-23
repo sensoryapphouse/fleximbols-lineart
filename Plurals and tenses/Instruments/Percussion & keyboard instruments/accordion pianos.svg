@@ -24,14 +24,14 @@
   <line x1="80" y1="156" x2="116" y2="156" stroke="#1a1a1a" stroke-width="6.67"/>
   <line x1="116" y1="170" x2="80" y2="170" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Bellows edge shading triangles -->
-  <polygon points="80,48 116,48 116,62" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="80,72 116,72 80,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="116,86 116,100 80,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="80,100 116,100 80,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="116,114 116,128 80,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="80,128 116,128 80,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="116,142 116,156 80,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <polygon points="80,156 116,156 80,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <polygon points="80,48 116,48 116,62" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="80,72 116,72 80,86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="116,86 116,100 80,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="80,100 116,100 80,114" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="116,114 116,128 80,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="80,128 116,128 80,142" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="116,142 116,156 80,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
+  <polygon points="80,156 116,156 80,170" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.22" />
   <!-- RIGHT treble body with PIANO keyboard -->
   <rect x="116" y="48" width="156" height="144" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Piano keyboard panel on right side (vertical keyboard) -->
@@ -58,4 +58,4 @@
   <line x1="132" y1="135" x2="172" y2="135" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="132" y1="150" x2="172" y2="150" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <line x1="132" y1="165" x2="172" y2="165" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

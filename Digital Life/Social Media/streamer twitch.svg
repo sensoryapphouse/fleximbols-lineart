@@ -22,7 +22,7 @@
   <rect x="136" y="157" width="13" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="127" y="163" width="31" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- webcam -->
-  <rect x="135" y="78" width="15" height="9" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="135" y="78" width="15" height="9" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="142" cy="82" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- controller in hands -->
   <rect x="64" y="145" width="30" height="16" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -49,9 +49,9 @@
   <circle cx="122" cy="128" r="3" fill="#1a1a1a"/>
   <circle cx="138" cy="128" r="3" fill="#1a1a1a"/>
   <!-- open mouth excited -->
-  <path d="M122 137 Q130 145 138 137" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M122 137 Q130 145 138 137" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- headset band -->
   <path d="M110 122 Q130 108 150 122" fill="none" stroke="#1a1a1a" stroke-width="6.66" stroke-linecap="round"/>
-  <rect x="107" y="120" width="8" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="175" y="120" width="8" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="107" y="120" width="8" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="175" y="120" width="8" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

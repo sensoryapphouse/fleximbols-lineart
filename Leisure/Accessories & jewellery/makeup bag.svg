@@ -17,7 +17,7 @@
   <!-- Bag crease / soft texture lines -->
   <path d="M56 136 Q145 130 234 136" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M52 162 Q145 156 238 162" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M54 190 Q145 184 236 190" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M54 190 Q145 184 236 190" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- ZIP strip along top of bag -->
   <rect x="38" y="104" width="214" height="14" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Zip teeth marks -->

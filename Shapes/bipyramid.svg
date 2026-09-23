@@ -9,12 +9,12 @@
     <stop offset="100%" stop-color="#1a1a1a"/>
   </linearGradient>
 </defs>
-<polygon points="145,15 200,120 145,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,15 90,120 145,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,225 200,120 145,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,225 90,120 145,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,15 245,140 200,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,225 245,140 200,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,15 45,140 90,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<polygon points="145,225 45,140 90,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="145,15 200,120 145,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,15 90,120 145,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,225 200,120 145,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,225 90,120 145,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,15 245,140 200,120" fill="url(#biL)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,225 245,140 200,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,15 45,140 90,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<polygon points="145,225 45,140 90,120" fill="url(#biD)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

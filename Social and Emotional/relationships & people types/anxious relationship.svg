@@ -21,12 +21,12 @@
   <!-- worried eyes -->
   <circle cx="76" cy="115" r="1.5" fill="#1a1a1a"/>
   <circle cx="84" cy="115" r="1.5" fill="#1a1a1a"/>
-  <path d="M72 111 L77 113" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <path d="M88 111 L83 113" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M72 111 L77 113" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M88 111 L83 113" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- worried mouth (squiggle) -->
   <path d="M74 124 Q77 122 80 124 Q83 126 86 124" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
   <!-- sweat drop -->
-  <path d="M95 105 Q97 110 95 112 Q93 110 95 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <path d="M95 105 Q97 110 95 112 Q93 110 95 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- torso -->
   <path d="M68 130 L92 130 L96 185 L64 185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- clinging arms reaching out to partner -->

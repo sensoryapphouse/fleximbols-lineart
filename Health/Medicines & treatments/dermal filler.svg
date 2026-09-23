@@ -20,9 +20,9 @@
   <!-- hypodermis (bottom) -->
   <rect x="135" y="137" width="135" height="83" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- layer labels (drawn as path bars to avoid text) -->
-  <rect x="142" y="68" width="20" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="142" y="100" width="28" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
-  <rect x="142" y="170" width="24" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="142" y="68" width="20" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="142" y="100" width="28" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="142" y="170" width="24" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- syringe injected into dermis layer (diagonal from top right) -->
   <!-- barrel -->
   <rect x="220" y="35" width="55" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round" transform="rotate(40 247 46)"/>

@@ -12,5 +12,5 @@
   <path d="M 165 75 Q 175 58 190 70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 175 58 Q 185 40 200 52" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Arrow at top of arc indicating bend direction -->
-  <path d="M 140 35 L 155 25 L 150 40" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 140 35 L 155 25 L 150 40" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

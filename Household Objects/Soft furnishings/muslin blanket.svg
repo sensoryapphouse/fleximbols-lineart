@@ -39,7 +39,7 @@
   <circle cx="215" cy="170" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="245" cy="170" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Hemmed border lines -->
-  <rect x="44" y="40" width="202" height="160" rx="4" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="44" y="40" width="202" height="160" rx="4" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Soft drape wrinkle lines -->
   <path d="M180,34 Q190,80 188,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M220,34 Q228,90 224,150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

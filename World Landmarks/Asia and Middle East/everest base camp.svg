@@ -30,7 +30,7 @@
   <circle cx="115" cy="170" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M105 168 L125 168 L122 158 L108 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- pom -->
-  <circle cx="115" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="156" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- jacket -->
   <rect x="103" y="178" width="24" height="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- backpack visible behind -->

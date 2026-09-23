@@ -8,7 +8,7 @@
   <rect x="65" y="98" width="160" height="70" rx="7" ry="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Human body silhouette (simple torso+legs icon) on left side of display -->
   <!-- Head -->
-  <circle cx="98" cy="112" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="98" cy="112" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Torso -->
   <rect x="91" y="120" width="14" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Body fat overlay (slightly wider, showing fat layer) -->
@@ -33,12 +33,12 @@
   <rect x="126" y="119" width="4" height="9" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="136" y="119" width="4" height="9" rx="1" ry="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- % symbol -->
-  <circle cx="147" cy="112" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="147" cy="112" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="143" y1="128" x2="151" y2="108" stroke="#1a1a1a" stroke-width="3.70"/>
-  <circle cx="149" cy="126" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="149" cy="126" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "BODY FAT" label below digits -->
   <rect x="112" y="134" width="44" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Electrode pads on scale surface (for bioimpedance measurement) -->
   <ellipse cx="100" cy="190" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
   <ellipse cx="190" cy="190" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

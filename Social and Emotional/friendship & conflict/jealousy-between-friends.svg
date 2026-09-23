@@ -14,7 +14,7 @@
 
 
 
-<polygon points="385,210 391,224 406,225 395,235 398,249 385,241 373,249 376,235 365,225 380,224" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="385,210 391,224 406,225 395,235 398,249 385,241 373,249 376,235 365,225 380,224" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-<ellipse cx="172" cy="221" rx="52" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="172" cy="221" rx="52" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="161" y1="345" x2="155" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="161" y1="345" x2="155" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <line x1="183" y1="345" x2="189" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="31.5" data-part="ink"/><line x1="183" y1="345" x2="189" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="23.5" data-part="leg"/>
 <ellipse cx="155" cy="460" rx="14" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>
@@ -44,5 +44,5 @@
 
 
 
-<path d="M 232 128 l -12 22 l 9 0 l -8 22 l 22 -28 l -10 0 l 11 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 232 128 l -12 22 l 9 0 l -8 22 l 22 -28 l -10 0 l 11 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

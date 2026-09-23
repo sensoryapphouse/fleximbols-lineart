@@ -4,12 +4,12 @@
   <circle cx="95" cy="125" r="85" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
 
   <!-- Latitude lines (horizontal) -->
-  <ellipse cx="95" cy="95" rx="83" ry="18" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="95" cy="125" rx="85" ry="10" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="95" cy="155" rx="83" ry="18" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="95" cy="95" rx="83" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="95" cy="125" rx="85" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="95" cy="155" rx="83" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Vertical meridian lines -->
-  <ellipse cx="95" cy="125" rx="30" ry="85" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="95" cy="125" rx="60" ry="85" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="95" cy="125" rx="30" ry="85" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="95" cy="125" rx="60" ry="85" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Land masses (simplified continents) -->
   <!-- North America-like -->
@@ -39,8 +39,8 @@
   <line x1="195" y1="131" x2="265" y2="131" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="195" y1="148" x2="265" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Vertical map lines -->
-  <line x1="218" y1="62" x2="218" y2="158" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="242" y1="62" x2="242" y2="158" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="218" y1="62" x2="218" y2="158" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="242" y1="62" x2="242" y2="158" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Map landmass blob -->
   <path d="M200,88 Q212,82 222,88 Q230,96 225,110 Q218,120 206,115 Q198,106 200,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 

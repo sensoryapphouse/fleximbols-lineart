@@ -8,7 +8,7 @@
   <!-- Lens highlight -->
   <ellipse cx="130" cy="78" rx="12" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- LED -->
-  <circle cx="145" cy="55" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="55" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Trigger indicator (alarm) badge -->
   <circle cx="240" cy="55" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <line x1="240" y1="44" x2="240" y2="60" stroke="#ffffff" stroke-width="7.40" stroke-linecap="round"/>
@@ -20,8 +20,8 @@
   <!-- Detection cone (fanning down from sensor) -->
   <path d="M 145,98 L 60,225 L 230,225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Cone wave bands inside (showing detection field) -->
-  <path d="M 95,180 Q 145,170 195,180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
-  <path d="M 78,210 Q 145,196 212,210" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <path d="M 95,180 Q 145,170 195,180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,3"/>
+  <path d="M 78,210 Q 145,196 212,210" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,3"/>
   <!-- Moving figure inside the cone (walking icon) -->
   <circle cx="145" cy="150" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70"/>
   <path d="M 138,158 L 152,158 L 150,180 L 140,180 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>

@@ -22,9 +22,9 @@
   <!-- microphone body (capsule head) -->
   <ellipse cx="232" cy="105" rx="22" ry="28" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.18" stroke-linecap="round" stroke-linejoin="round" transform="rotate(15 232 105)"/>
   <!-- microphone grille pattern -->
-  <line x1="218" y1="100" x2="248" y2="108" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="216" y1="110" x2="246" y2="118" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="222" y1="120" x2="246" y2="126" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="218" y1="100" x2="248" y2="108" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="216" y1="110" x2="246" y2="118" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="222" y1="120" x2="246" y2="126" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- microphone handle base extending down from capsule -->
   <rect x="225" y="125" width="14" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="rotate(15 232 136)"/>
 </g></svg>

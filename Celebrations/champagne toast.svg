@@ -7,9 +7,9 @@
   <polygon points="58,140 112,140 116,98 54,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Left bubbles -->
   <circle cx="78" cy="188" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="88" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="74" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="96" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="88" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="74" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="96" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Right champagne flute -->
   <polygon points="212,222 198,222 174,98 236,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
@@ -19,9 +19,9 @@
   <polygon points="232,140 178,140 174,98 236,98" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Right bubbles -->
   <circle cx="212" cy="188" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="202" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="216" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="194" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="202" cy="168" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="216" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="194" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Clink contact line -->
   <line x1="116" y1="98" x2="174" y2="98" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>

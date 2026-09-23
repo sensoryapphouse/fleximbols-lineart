@@ -20,15 +20,15 @@
   <!-- Belt -->
   <rect x="96" y="165" width="98" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Belt buckle -->
-  <rect x="140" y="167" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="140" y="167" width="14" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Pants -->
   <path d="M96 179 L194 179 L188 226 L98 226 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Leg divider -->
   <path d="M145 179 L145 226" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Shoes -->
-  <ellipse cx="115" cy="226" rx="18" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="175" cy="226" rx="18" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="226" rx="18" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="175" cy="226" rx="18" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arms (along sides) -->
   <path d="M100 75 L82 150 L80 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M190 75 L208 150 L210 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -46,13 +46,13 @@
   <!-- Holter device clipped to belt (right side) -->
   <rect x="208" y="160" width="48" height="40" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Device screen -->
-  <rect x="214" y="166" width="36" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="214" y="166" width="36" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Mini waveform on device screen -->
-  <path d="M216 173 L222 173 L224 169 L226 178 L228 173 L234 173 L236 168 L238 178 L240 173 L248 173" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M216 173 L222 173 L224 169 L226 178 L228 173 L234 173 L236 168 L238 178 L240 173 L248 173" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Buttons -->
-  <circle cx="220" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="232" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="244" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="220" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="232" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="244" cy="190" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Belt clip -->
   <path d="M232 160 L232 152 L240 152 L240 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
 

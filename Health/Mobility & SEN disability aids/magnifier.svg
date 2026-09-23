@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="90.10 83.28 347.15 347.15">
 <!-- magnifier / magnifying glass: round lens with handle -->
 <circle cx="224" cy="216" r="106" fill="#ffffff" stroke="#1a1a1a" stroke-width="11"/>
-<circle cx="224" cy="216" r="106" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="224" cy="216" r="106" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- inner rim -->
 <circle cx="224" cy="216" r="86" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- shine -->

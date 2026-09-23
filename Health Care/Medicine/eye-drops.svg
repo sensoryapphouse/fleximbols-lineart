@@ -2,9 +2,9 @@
 <rect x="150.0" y="150.0" width="96.0" height="120.0" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <rect x="166.0" y="120.0" width="64.0" height="34.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <polygon points="180,270 216,270 206,312 190,312" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 198 332 q -16 22 0 36 q 16 -14 0 -36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 198 332 q -16 22 0 36 q 16 -14 0 -36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 250 392 Q 318 348 386 392 Q 318 436 250 392 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="318.0" cy="392.0" r="26.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="318.0" cy="392.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="310.0" cy="384.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="318.0" cy="392.0" r="26.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
+<circle cx="318.0" cy="392.0" r="11.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.02"/>
+<circle cx="310.0" cy="384.0" r="4.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.02"/>
 </g></svg>

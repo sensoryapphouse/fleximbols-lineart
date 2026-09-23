@@ -4,8 +4,8 @@
   <!-- Box front flap open -->
   <path d="M185 148 L185 128 L265 128 L265 148" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Box label lines -->
-  <line x1="198" y1="170" x2="252" y2="170" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="198" y1="182" x2="240" y2="182" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="198" y1="170" x2="252" y2="170" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="198" y1="182" x2="240" y2="182" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Messy pile on left -->
   <!-- Random items in pile -->
   <!-- Book -->
@@ -21,15 +21,15 @@
   <path d="M130 178 L145 185 L140 195 L125 190" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Items flying toward bin with arrows -->
   <!-- Flying book -->
-  <rect x="125" y="118" width="30" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-20 140 129)"/>
+  <rect x="125" y="118" width="30" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-20 140 129)"/>
   <!-- Flying cup -->
   <path d="M155" fill="none"/>
-  <path d="M158 100 Q154 88 162 84 Q170 80 173 92 L171 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M158 100 Q154 88 162 84 Q170 80 173 92 L171 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Motion arrows pointing right toward bin -->
   <path d="M132 152 Q155 145 178 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="178,140 166,134 168,147" fill="#1a1a1a"/>
   <path d="M145 125 Q162 118 178 118" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="178,118 167,112 167,124" fill="#1a1a1a"/>
-  <path d="M148 104 Q163 98 178 100" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M148 104 Q163 98 178 100" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <polygon points="178,100 167,94 167,106" fill="#1a1a1a"/>
 </g></svg>

@@ -16,7 +16,7 @@
   <!-- twist dial (lower) -->
   <rect x="118" y="154" width="54" height="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- twist ridges -->
-  <path d="M124 160 L124 170 M132 160 L132 170 M140 160 L140 170 M148 160 L148 170 M156 160 L156 170 M164 160 L164 170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M124 160 L124 170 M132 160 L132 170 M140 160 L140 170 M148 160 L148 170 M156 160 L156 170 M164 160 L164 170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- lower base -->
   <rect x="120" y="176" width="50" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -24,7 +24,7 @@
 
   <!-- small swatch dot beside product to indicate skin tone -->
   <ellipse cx="218" cy="40" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M204 40 Q218 36 232 40" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M204 40 Q218 36 232 40" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- arrow indicating twist-up mechanism -->
   <path d="M80 165 L100 165 M94 159 L100 165 L94 171" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

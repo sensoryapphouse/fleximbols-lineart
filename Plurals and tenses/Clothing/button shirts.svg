@@ -10,7 +10,7 @@
   <!-- Shirt collar right -->
   <path d="M148 20 Q180 15 200 20 L185 42 Q170 38 155 45Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Button placket center line -->
-  <line x1="144" y1="20" x2="144" y2="220" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="4,4"/>
+  <line x1="144" y1="20" x2="144" y2="220" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="4,4"/>
   <!-- BUTTONS column (left panel, near center) -->
   <!-- Button 1 (top) -->
   <circle cx="135" cy="60" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -37,7 +37,7 @@
   <circle cx="133" cy="167" r="2" fill="#1a1a1a"/>
   <circle cx="137" cy="167" r="2" fill="#1a1a1a"/>
   <!-- Buttonhole on right panel (aligned with button 2 being fastened) -->
-  <ellipse cx="153" cy="95" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="153" cy="95" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- RIGHT HAND (thumb and finger) fastening button through hole -->
   <!-- Right hand coming from right side -->
   <!-- Palm -->
@@ -58,4 +58,4 @@
   <!-- Wrist going left -->
   <path d="M80 78 Q62 72 44 68" stroke="#1a1a1a" stroke-width="5.55" fill="none" stroke-linecap="round"/>
   <path d="M80 90 Q62 84 44 82 Q40 80 40 75 Q40 70 44 68 Q48 66 50 70 Q62 74 78 78Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

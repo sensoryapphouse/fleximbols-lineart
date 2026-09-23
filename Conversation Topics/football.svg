@@ -5,10 +5,10 @@
 <line x1="283" y1="293" x2="331" y2="360" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="229" y1="293" x2="181" y2="360" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="212" y1="242" x2="134" y2="216" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<polygon points="256.0,210.0 299.7,241.8 283.0,293.2 229.0,293.2 212.3,241.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="273.6,111.7 284.5,145.3 256.0,166.0 227.5,145.3 238.4,111.7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="398.7,228.2 370.1,248.9 341.6,228.2 352.5,194.6 387.8,194.6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="326.5,383.1 298.0,362.4 308.9,328.8 344.2,328.8 355.1,362.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="156.9,362.4 167.8,328.8 203.1,328.8 214.0,362.4 185.5,383.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="124.2,194.6 159.5,194.6 170.4,228.2 141.9,248.9 113.3,228.2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="256.0,210.0 299.7,241.8 283.0,293.2 229.0,293.2 212.3,241.8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+<polygon points="273.6,111.7 284.5,145.3 256.0,166.0 227.5,145.3 238.4,111.7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+<polygon points="398.7,228.2 370.1,248.9 341.6,228.2 352.5,194.6 387.8,194.6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+<polygon points="326.5,383.1 298.0,362.4 308.9,328.8 344.2,328.8 355.1,362.4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+<polygon points="156.9,362.4 167.8,328.8 203.1,328.8 214.0,362.4 185.5,383.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+<polygon points="124.2,194.6 159.5,194.6 170.4,228.2 141.9,248.9 113.3,228.2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

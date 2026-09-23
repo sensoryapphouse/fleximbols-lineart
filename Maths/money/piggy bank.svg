@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-11.13 3.37 541.09 541.09"><g transform="translate(256 256) scale(1.42) translate(-256 -250)">
 <ellipse cx="252" cy="296" rx="140" ry="104" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <ellipse cx="150" cy="306" rx="42" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="138" cy="302" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="160" cy="302" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="298" cy="270" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="138" cy="302" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.23"/>
+<circle cx="160" cy="302" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.23"/>
+<circle cx="298" cy="270" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.23"/>
 <ellipse cx="322" cy="244" rx="28" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="170" y="380" width="30" height="42" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="222" y="382" width="30" height="44" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>

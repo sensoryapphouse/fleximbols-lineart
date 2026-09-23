@@ -14,5 +14,5 @@
   <!-- fine bullet tip (narrow, pointed) -->
   <path d="M252 116 L268 120 L252 124 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- clip on cap -->
-  <rect x="44" y="94" width="8" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="44" y="94" width="8" height="36" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

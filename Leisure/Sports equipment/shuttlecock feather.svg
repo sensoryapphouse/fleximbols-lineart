@@ -13,12 +13,12 @@
   <path d="M138,135 L138,15 Q140,5 145,5 Q150,5 152,15 L152,135 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- feather barb lines -->
-  <path d="M145,15 L145,130" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M145,15 L145,130" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M75,30 L150,135 M105,18 L150,130 M185,18 L145,130 M215,30 L145,135"
-        fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+        fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- string/thread ring binding the feathers -->
-  <path d="M85,90 Q145,75 205,90" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M75,115 Q145,98 215,115" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M85,90 Q145,75 205,90" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M75,115 Q145,98 215,115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- cork base (rounded dome) -->
   <path d="M105,135 Q105,125 115,123 L175,123 Q185,125 185,135 L185,180 Q185,210 145,210 Q105,210 105,180 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>

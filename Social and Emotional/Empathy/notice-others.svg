@@ -26,19 +26,19 @@
 
 
 
-<line x1="186" y1="141" x2="296" y2="150" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="298" y1="150" x2="288" y2="146" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="298" y1="150" x2="290" y2="156" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="186" y1="141" x2="296" y2="150" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="298" y1="150" x2="288" y2="146" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
-<line x1="298" y1="150" x2="290" y2="156" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="186" y1="141" x2="296" y2="150" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="298" y1="150" x2="288" y2="146" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="298" y1="150" x2="290" y2="156" stroke="#1a1a1a" stroke-width="9.0" stroke-linecap="round"/><line x1="186" y1="141" x2="296" y2="150" stroke="#1a1a1a" stroke-width="5.69" stroke-linecap="round"/>
+<line x1="298" y1="150" x2="288" y2="146" stroke="#1a1a1a" stroke-width="5.69" stroke-linecap="round"/>
+<line x1="298" y1="150" x2="290" y2="156" stroke="#1a1a1a" stroke-width="5.69" stroke-linecap="round"/>
 <line x1="212" y1="86" x2="212" y2="120" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<circle cx="212" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="384" cy="96" rx="58" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="332" cy="146" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="312" cy="168" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle id="h3" data-fig="fc" cx="384" cy="96" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" data-lp="skin"/>
+<circle cx="212" cy="138" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
+<ellipse cx="384" cy="96" rx="58" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
+<circle cx="332" cy="146" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
+<circle cx="312" cy="168" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69"/>
+<circle id="h3" data-fig="fc" cx="384" cy="96" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69" data-lp="skin"/>
 
 
-<circle cx="375" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="393" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 373 109 Q 384 100 395 109" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linejoin="round"/>
-<path d="M 395 98 q 7 12 0 22 q -7 -10 0 -22 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="375" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.69"/>
+<circle cx="393" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.69"/>
+<path d="M 373 109 Q 384 100 395 109" fill="none" stroke="#1a1a1a" stroke-width="5.69" stroke-linejoin="round"/>
+<path d="M 395 98 q 7 12 0 22 q -7 -10 0 -22 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.69" stroke-linejoin="round"/>
 </g></svg>

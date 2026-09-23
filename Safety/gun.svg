@@ -19,7 +19,7 @@
     <polygon points="239,152 239,152 247,151 255,151 264,151 274,153 279,155 283,157 287,160 291,164 294,169 296,175 296,175 290,186 283,197 274,209 269,215 263,220 256,225 249,230 241,233 233,235 225,236 216,235 216,235 218,234 226,231 235,227 239,223 244,219 248,214 251,208 253,202 254,194 253,185 251,175 246,164 239,152 239,152" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="326,133 501,138 487,194 487,209 562,379 390,412 326,133" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="471,75 512,128 517,76 471,75" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
-    <polygon points="366,371 341,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="366,371 341,254" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="366,371 341,254" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
   </g>
 </g></svg>

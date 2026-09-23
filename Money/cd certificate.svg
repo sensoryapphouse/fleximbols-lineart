@@ -6,11 +6,11 @@
   <!-- Scroll right curl -->
   <ellipse cx="245" cy="118" rx="12" ry="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
   <!-- Decorative border lines -->
-  <rect x="58" y="54" width="174" height="128" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="58" y="54" width="174" height="128" rx="4" ry="4" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Top horizontal rule -->
-  <line x1="68" y1="74" x2="222" y2="74" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="68" y1="74" x2="222" y2="74" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Bottom horizontal rule -->
-  <line x1="68" y1="162" x2="222" y2="162" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="68" y1="162" x2="222" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Certificate title bar (abstract) -->
   <rect x="88" y="57" width="114" height="16" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Three text-line placeholders -->
@@ -19,7 +19,7 @@
   <rect x="100" y="112" width="90" height="9" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <!-- Gold coin bottom-left -->
   <circle cx="88" cy="150" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94"/>
-  <circle cx="88" cy="150" r="11" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="88" cy="150" r="11" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lock bottom-right -->
   <rect x="172" y="140" width="26" height="22" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <path d="M177 140 Q177 128 185 128 Q193 128 193 140" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>

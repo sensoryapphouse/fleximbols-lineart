@@ -18,7 +18,7 @@
   <rect x="42" y="118" width="60" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="42" y="134" width="70" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- "VFX" label -->
-  <rect x="42" y="152" width="60" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="42" y="152" width="60" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <rect x="50" y="158" width="44" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Sparkle burst top-right -->
   <!-- Centre glow -->
@@ -33,5 +33,5 @@
   <line x1="237" y1="63" x2="244" y2="56" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <line x1="199" y1="101" x2="192" y2="108" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Inner sparkle star points -->
-  <polygon points="218,68 221,78 231,82 221,86 218,96 215,86 205,82 215,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="218,68 221,78 231,82 221,86 218,96 215,86 205,82 215,78" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

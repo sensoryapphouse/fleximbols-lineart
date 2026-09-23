@@ -3,7 +3,7 @@
   <!-- Pear-shaped body -->
   <ellipse cx="145" cy="158" rx="70" ry="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Body shading lines for roundness -->
-  <ellipse cx="145" cy="158" rx="55" ry="57" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00"/>
+  <ellipse cx="145" cy="158" rx="55" ry="57" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Re-outline body on top -->
   <ellipse cx="145" cy="158" rx="70" ry="72" fill="none" stroke="#1a1a1a" stroke-width="11.11"/>
   <!-- Decorative rosette soundhole -->

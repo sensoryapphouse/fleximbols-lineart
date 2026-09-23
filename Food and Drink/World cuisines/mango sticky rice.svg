@@ -27,7 +27,7 @@
   <path d="M158 164 Q192 148 226 164" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Coconut cream sesame seeds dots -->
-  <circle cx="68" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="82" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="97" cy="153" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="68" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="82" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="97" cy="153" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

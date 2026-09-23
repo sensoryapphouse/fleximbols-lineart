@@ -12,7 +12,7 @@
 	c42.157-29.415,62.647-63.315,62.647-103.641c0-41.188-28.277-66.774-48.922-85.462c-11.995-10.849-23.328-21.102-23.328-29.338
 	c0-0.759-0.252-1.436-0.432-2.139c0.703,0.18,1.38,0.432,2.139,0.432c8.231,0,18.485,11.332,29.342,23.328
 	c18.684,20.645,44.27,48.922,85.457,48.922c40.329,0,74.233-20.491,103.645-62.652C515.654,269.538,515.654,242.458,501.042,221.512
-	z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <path style="fill:#ffffff" d="M213.528,306.688c11.5,9.627,26.302,15.437,42.474,15.437s30.974-5.811,42.474-15.437
 	c-9.621-8.886-17.585-17.201-17.585-24.095c0-0.759-0.252-1.436-0.432-2.139c0.703,0.18,1.38,0.432,2.139,0.432
 	c6.89,0,15.207,7.965,24.1,17.59c9.683-11.515,15.535-26.359,15.535-42.582c0-16.172-5.812-30.976-15.441-42.476
@@ -21,16 +21,16 @@
 	c9.673,8.926,17.698,17.278,17.698,24.198c0,0.759,0.252,1.436,0.432,2.139c-0.703-0.18-1.38-0.432-2.139-0.432
 	c-6.916,0-15.266-8.022-24.194-17.691c-9.629,11.5-15.441,26.305-15.441,42.476c0,16.223,5.853,31.067,15.535,42.582
 	c8.893-9.624,17.209-17.59,24.1-17.59c0.759,0,1.436-0.252,2.139-0.432c-0.18,0.703-0.432,1.38-0.432,2.139
-	C231.113,289.486,223.15,297.802,213.528,306.688z" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	C231.113,289.486,223.15,297.802,213.528,306.688z" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 <g>
-	<circle style="fill:#ffffff" cx="256.005" cy="255.893" r="26.492" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<rect x="185.359" y="247.062" style="fill:#ffffff" width="141.292" height="17.661" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<rect x="247.174" y="185.247" style="fill:#ffffff" width="17.661" height="141.292" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<circle style="fill:#ffffff" cx="256.005" cy="255.893" r="26.492" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<rect x="185.359" y="247.062" style="fill:#ffffff" width="141.292" height="17.661" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<rect x="247.174" y="185.247" style="fill:#ffffff" width="17.661" height="141.292" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 <g>
-	<circle style="fill:#ffffff" cx="185.359" cy="255.893" r="17.661" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<circle style="fill:#ffffff" cx="326.651" cy="255.893" r="17.661" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<circle style="fill:#ffffff" cx="256.005" cy="326.539" r="17.661" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
-	<circle style="fill:#ffffff" cx="256.005" cy="185.247" r="17.661" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<circle style="fill:#ffffff" cx="185.359" cy="255.893" r="17.661" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<circle style="fill:#ffffff" cx="326.651" cy="255.893" r="17.661" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<circle style="fill:#ffffff" cx="256.005" cy="326.539" r="17.661" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+	<circle style="fill:#ffffff" cx="256.005" cy="185.247" r="17.661" stroke="#1a1a1a" stroke-width="7.25" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
 </g>
 </g></g></svg>

@@ -13,9 +13,9 @@
 <!-- arm reaching out, palm facing DOWN (calm/slow gesture) -->
 <line x1="195" y1="258" x2="244" y2="258" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="195" y1="258" x2="244" y2="258" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="arm"/><line x1="195" y1="258" x2="212" y2="258" stroke-linecap="round" stroke="#1a1a1a" stroke-width="36.6" data-part="ink"/><line x1="195" y1="258" x2="212" y2="258" stroke-linecap="round" stroke="#ffffff" stroke-width="28.6" data-part="sleeve"/>
 <path d="M 240 252 L 286 252 Q 296 252 296 260 Q 296 268 286 268 L 240 268 Q 232 268 232 260 Q 232 252 240 252 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" data-lp="skin"/>
-<line x1="252" y1="268" x2="252" y2="284" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="266" y1="268" x2="266" y2="286" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="280" y1="268" x2="280" y2="284" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="252" y1="268" x2="252" y2="284" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="266" y1="268" x2="266" y2="286" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="280" y1="268" x2="280" y2="284" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- downward 'ease down' motion arrows -->
 <path d="M 264 300 q 0 26 0 40" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <polygon points="254,332 264,352 274,332" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />

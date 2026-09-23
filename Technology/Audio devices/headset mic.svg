@@ -14,7 +14,7 @@
   <!-- mic capsule at boom tip -->
   <ellipse cx="118" cy="213" rx="18" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- mic grille dots -->
-  <circle cx="112" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
-  <circle cx="120" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
-  <circle cx="128" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
+  <circle cx="112" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <circle cx="120" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <circle cx="128" cy="213" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

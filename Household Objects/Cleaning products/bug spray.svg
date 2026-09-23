@@ -10,9 +10,9 @@
   <path d="M 215,52 Q 230,48 238,60 Q 232,68 221,64" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 205,72 Q 220,68 228,80 Q 222,88 211,84" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="230" cy="130" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <line x1="216" y1="124" x2="208" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="216" y1="136" x2="208" y2="142" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="244" y1="124" x2="252" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="244" y1="136" x2="252" y2="142" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 228,121 Q 232,118 234,121" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="216" y1="124" x2="208" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="216" y1="136" x2="208" y2="142" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="244" y1="124" x2="252" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="244" y1="136" x2="252" y2="142" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 228,121 Q 232,118 234,121" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

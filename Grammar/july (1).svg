@@ -65,22 +65,22 @@
     <polygon points="48,146 48,146 47,147 45,149 44,152 44,156 44,156 44,160 45,163 47,165 48,166 48,166 49,166 50,164 50,164 49,162 49,162 48,163 48,163 47,162 46,161 45,156 45,156 46,151 47,150 48,149 48,149 49,150 50,152 52,152 52,152 50,148 49,147 48,146 48,146" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
     <polygon points="74,146 74,146 72,147 71,149 70,152 70,156 70,156 70,160 71,163 72,165 74,166 74,166 75,166 76,164 76,164 75,162 75,162 74,163 74,163 73,162 72,161 71,156 71,156 72,151 73,150 74,149 74,149 75,150 76,152 77,152 77,152 76,148 75,147 74,146 74,146" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
     <polygon points="98,146 98,146 97,147 96,149 95,152 94,156 94,156 95,160 96,163 97,165 98,166 98,166 100,166 100,164 100,164 100,162 100,162 98,163 98,163 97,162 96,161 96,156 96,156 96,151 97,150 98,149 98,149 100,150 101,152 102,152 102,152 101,148 100,147 98,146 98,146" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polygon points="100,225 105,187 13,187 8,225 100,225" fill="none" stroke="#1a1a1a" stroke-width="1.79" fill-rule="evenodd"/>
+    <polygon points="100,225 105,187 13,187 8,225 100,225" fill="none" stroke="#1a1a1a" stroke-width="4.13" fill-rule="evenodd"/>
     <polygon points="92,187 87,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="92,187 87,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="92,187 87,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <polygon points="79,187 74,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="79,187 74,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="79,187 74,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <polygon points="66,187 61,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="66,187 61,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="66,187 61,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <polygon points="53,187 47,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="53,187 47,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="53,187 47,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <polygon points="40,187 34,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="40,187 34,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="40,187 34,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <polygon points="27,187 21,225" fill="#1a1a1a" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
-    <polyline points="27,187 21,225" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
-    <polyline points="12,197 104,197" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
-    <polyline points="11,206 103,206" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
-    <polyline points="10,215 102,215" fill="none" stroke="#1a1a1a" stroke-width="1.79"/>
+    <polyline points="27,187 21,225" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
+    <polyline points="12,197 104,197" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
+    <polyline points="11,206 103,206" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
+    <polyline points="10,215 102,215" fill="none" stroke="#1a1a1a" stroke-width="4.13"/>
     <text x="14" y="185" fill="#1a1a1a" font-size="12">S  M  T  W  Th  F  S</text>
   </g>
 </g></svg>

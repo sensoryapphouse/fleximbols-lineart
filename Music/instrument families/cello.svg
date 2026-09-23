@@ -22,7 +22,7 @@ fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- scroll/pegbox -->
 <path d="M 256 78 q -22 -4 -18 -24 q 4 -16 18 -10 q 14 -6 18 10 q 4 20 -18 24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- strings -->
-<line x1="250" y1="92" x2="244" y2="338" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="256" y1="92" x2="256" y2="338" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="262" y1="92" x2="268" y2="338" stroke="#1a1a1a" stroke-width="3"/>
+<line x1="250" y1="92" x2="244" y2="338" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="256" y1="92" x2="256" y2="338" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="262" y1="92" x2="268" y2="338" stroke="#1a1a1a" stroke-width="6"/>
 </g></svg>

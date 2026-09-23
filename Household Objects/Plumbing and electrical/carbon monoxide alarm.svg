@@ -14,12 +14,12 @@
   <rect x="176" y="82" width="8" height="22" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="187" y="74" width="8" height="30" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="108" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="108" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="108" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="122" y1="140" x2="152" y2="140" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="132" y1="136" x2="142" y2="136" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="132" y1="144" x2="142" y2="144" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="132" y1="136" x2="142" y2="136" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="132" y1="144" x2="142" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="166" cy="140" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="166" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="166" cy="140" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="88" y="166" width="46" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <circle cx="175" cy="173" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="196" cy="169" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

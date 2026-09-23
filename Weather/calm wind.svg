@@ -6,15 +6,15 @@
   <!-- Still lake / water area (flat, reflective) -->
   <rect x="10" y="145" width="270" height="85" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Lake surface highlights (perfectly flat lines — no ripples) -->
-  <line x1="30" y1="162" x2="260" y2="162" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
-  <line x1="50" y1="178" x2="240" y2="178" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
-  <line x1="30" y1="194" x2="260" y2="194" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
+  <line x1="30" y1="162" x2="260" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="50" y1="178" x2="240" y2="178" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="30" y1="194" x2="260" y2="194" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Flag pole (right of centre) -->
   <line x1="195" y1="20" x2="195" y2="145" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Limp flag hanging down from pole (no wind — droops straight down) -->
   <path d="M 195 28 L 195 75 L 220 75 L 220 28 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Flag hangs limp: fold at bottom giving droopy look -->
-  <path d="M 195 75 Q 207 82 220 75" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 195 75 Q 207 82 220 75" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pole base ground line -->
   <line x1="182" y1="145" x2="208" y2="145" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <!-- NO wind lines anywhere — completely still -->

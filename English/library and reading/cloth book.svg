@@ -15,11 +15,11 @@
   <!-- appliqué star on front -->
   <path d="M145 95 L155 117 L179 119 L160 134 L166 158 L145 145 L124 158 L130 134 L111 119 L135 117 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- stitching around star -->
-  <path d="M145 102 L153 119 L171 121 L157 132 L161 150 L145 141 L129 150 L133 132 L119 121 L137 119 Z" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-dasharray="3 2"/>
+  <path d="M145 102 L153 119 L171 121 L157 132 L161 150 L145 141 L129 150 L133 132 L119 121 L137 119 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="3 2"/>
   <!-- spine stitching on left side -->
   <line x1="55" y1="60" x2="55" y2="185" stroke="#ffffff" stroke-width="5.56" stroke-dasharray="5 4"/>
   <!-- small fabric tag bottom right -->
   <rect x="215" y="170" width="22" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <line x1="219" y1="174" x2="232" y2="174" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="219" y1="179" x2="228" y2="179" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="219" y1="174" x2="232" y2="174" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="219" y1="179" x2="228" y2="179" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

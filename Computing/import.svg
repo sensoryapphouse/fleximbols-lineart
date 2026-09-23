@@ -10,5 +10,5 @@
   <!-- Arrow shaft coming straight down into box -->
   <line x1="145" y1="38" x2="145" y2="92" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Arrowhead pointing down into box (tip on shaft axis, base perpendicular + symmetric) -->
-  <polygon points="145,128 118,92 172,92" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="145,128 118,92 172,92" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

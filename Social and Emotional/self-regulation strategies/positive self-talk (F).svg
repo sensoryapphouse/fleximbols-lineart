@@ -13,10 +13,10 @@
 
 
 
-<ellipse cx="360" cy="130" rx="78" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="288" cy="192" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="270" cy="216" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<path d="M 348 134 C 330 118 330 136 348 146 C 366 136 366 118 348 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="360" cy="130" rx="78" ry="56" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="288" cy="192" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="270" cy="216" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 348 134 C 330 118 330 136 348 146 C 366 136 366 118 348 134 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="385" y1="120" x2="407" y2="120" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="396" y1="109" x2="396" y2="131" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="385" y1="120" x2="407" y2="120" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="396" y1="109" x2="396" y2="131" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 </svg>

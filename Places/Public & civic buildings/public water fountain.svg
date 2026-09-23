@@ -14,10 +14,10 @@
   <!-- Water arc stream -->
   <path d="M174,84 Q195,68 188,105" fill="none" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round"/>
   <!-- Water droplets -->
-  <circle cx="192" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="185" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="192" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="185" cy="116" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Push button -->
   <circle cx="126" cy="128" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95"/>
   <!-- Drain hole -->
-  <circle cx="145" cy="157" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="157" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

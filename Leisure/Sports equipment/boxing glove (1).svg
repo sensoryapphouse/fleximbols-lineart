@@ -14,15 +14,15 @@
   <!-- laces panel -->
   <rect x="195" y="172" width="50" height="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- lace X's -->
-  <line x1="200" y1="178" x2="240" y2="190" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="240" y1="178" x2="200" y2="190" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="200" y1="195" x2="240" y2="207" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="240" y1="195" x2="200" y2="207" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="200" y1="178" x2="240" y2="190" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="240" y1="178" x2="200" y2="190" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="200" y1="195" x2="240" y2="207" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="240" y1="195" x2="200" y2="207" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lace holes -->
   <circle cx="200" cy="178" r="2" fill="#1a1a1a"/>
   <circle cx="240" cy="178" r="2" fill="#1a1a1a"/>
   <circle cx="200" cy="212" r="2" fill="#1a1a1a"/>
   <circle cx="240" cy="212" r="2" fill="#1a1a1a"/>
   <!-- highlight -->
-  <ellipse cx="100" cy="85" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="100" cy="85" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -8,11 +8,11 @@
   <!-- Pumpkin centre lobe (drawn last to overlap) -->
   <ellipse cx="145" cy="140" rx="52" ry="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Carved eye left (triangle) -->
-  <polygon points="110,118 122,100 134,118" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <polygon points="110,118 122,100 134,118" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Carved eye right (triangle) -->
-  <polygon points="156,118 168,100 180,118" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <polygon points="156,118 168,100 180,118" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Carved nose (small triangle) -->
-  <polygon points="138,138 145,126 152,138" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <polygon points="138,138 145,126 152,138" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Carved mouth -->
   <path d="M108 158 L120 170 L133 158 L145 170 L157 158 L170 170 L182 158" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Glow inside eyes -->

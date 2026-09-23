@@ -10,11 +10,11 @@
   <rect x="70" y="80" width="150" height="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="70" y="110" width="150" height="95" fill="#1a1a1a"/>
   <!-- Ice/cold cues - ice chunks floating -->
-  <rect x="88" y="58" width="18" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="120" y="54" width="22" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="162" y="58" width="16" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="108" y="68" width="14" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="150" y="65" width="18" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="88" y="58" width="18" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="120" y="54" width="22" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="162" y="58" width="16" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="108" y="68" width="14" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="150" y="65" width="18" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Step/ladder entry right side -->
   <rect x="210" y="50" width="10" height="115" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="210" y1="75" x2="220" y2="75" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
@@ -26,7 +26,7 @@
   <line x1="70" y1="145" x2="80" y2="145" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="70" y1="180" x2="80" y2="180" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Thermometer icon top-left deck -->
-  <rect x="53" y="35" width="6" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="56" cy="57" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="53" y="35" width="6" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="56" cy="57" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="55" y="42" width="2" height="12" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

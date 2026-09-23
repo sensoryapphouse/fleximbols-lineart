@@ -2,18 +2,18 @@
   <!-- Body -->
   <ellipse cx="130" cy="155" rx="42" ry="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Belly patch -->
-  <ellipse cx="130" cy="160" rx="24" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" data-lp="hair"/>
+  <ellipse cx="130" cy="160" rx="24" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
 
   <!-- Head -->
   <circle cx="130" cy="95" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Face white muzzle area -->
-  <ellipse cx="130" cy="105" rx="20" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="130" cy="105" rx="20" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Black mask patches around eyes -->
   <ellipse cx="115" cy="90" rx="13" ry="10" fill="#1a1a1a"/>
   <ellipse cx="145" cy="90" rx="13" ry="10" fill="#1a1a1a"/>
   <!-- Eyes (white in mask) -->
-  <circle cx="115" cy="90" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="145" cy="90" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="115" cy="90" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="90" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pupils -->
   <circle cx="116" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="146" cy="90" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -43,4 +43,4 @@
   <!-- Tail base to curve: series of thick segments alternating black and white -->
   <path d="M168 185 Q210 180 230 155 Q250 128 235 105 Q220 82 200 90" fill="none" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round"/>
   <path d="M168 185 Q210 180 230 155 Q250 128 235 105 Q220 82 200 90" fill="none" stroke="#ffffff" stroke-width="6.66" stroke-linecap="round" stroke-dasharray="14,14"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -45,12 +45,12 @@
   C 316 376 292 368 292 350
   C 292 332 310 322 310 302
   C 310 282 294 268 256 268 Z"
-  fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+  fill="#ffffff" stroke="#1a1a1a" stroke-width="6.43" stroke-linejoin="round"/>
 <!-- sound hole -->
-<circle cx="256.0" cy="408.0" r="44.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256.0" cy="408.0" r="44.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.43"/>
 <circle cx="256.0" cy="408.0" r="44.0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- bridge -->
-<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
+<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.43" data-lp="hair"/>
 <!-- strings running down neck onto the body -->
 <g stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round">
 <line x1="245" y1="80" x2="245" y2="470"/>
@@ -58,4 +58,4 @@
 <line x1="260" y1="80" x2="260" y2="470"/>
 <line x1="267" y1="80" x2="267" y2="470"/>
 </g>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

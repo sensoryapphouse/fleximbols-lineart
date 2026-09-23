@@ -15,7 +15,7 @@
   <rect x="232" y="142" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="228" y="135" width="28" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- bottle label shine icon -->
-  <path d="M 242 175 L 244 170 L 246 175 L 251 173 L 247 178 L 251 183 L 246 181 L 244 186 L 242 181 L 237 183 L 241 178 L 237 173 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 242 175 L 244 170 L 246 175 L 251 173 L 247 178 L 251 183 L 246 181 L 244 186 L 242 181 L 237 183 L 241 178 L 237 173 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- small brush bottom-left -->
   <rect x="20" y="180" width="50" height="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(20 20 180)"/>
   <path d="M 56 196 L 72 200 L 68 215 L 52 211 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

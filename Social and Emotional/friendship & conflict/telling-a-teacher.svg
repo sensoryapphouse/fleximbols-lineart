@@ -28,10 +28,10 @@
 
 
 
-<polygon points="206,120 236,156 210,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<ellipse cx="168" cy="96" rx="46" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="138" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="168" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="198" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<path d="M 346 75 C 332 62 332 76 346 84 C 360 76 360 62 346 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="206,120 236,156 210,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="168" cy="96" rx="46" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="138" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="168" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="198" cy="96" r="9" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<path d="M 346 75 C 332 62 332 76 346 84 C 360 76 360 62 346 75 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

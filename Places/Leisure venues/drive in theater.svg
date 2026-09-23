@@ -25,23 +25,23 @@
   <rect x="76" y="145" width="12" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="202" y="145" width="12" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Ground / lot surface -->
-  <rect x="20" y="192" width="250" height="34" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="20" y="192" width="250" height="34" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Car parked in front -->
   <!-- Car body -->
   <rect x="90" y="177" width="110" height="36" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Car roof cabin -->
   <rect x="110" y="160" width="70" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Car windows -->
-  <rect x="115" y="163" width="27" height="15" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="148" y="163" width="27" height="15" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="115" y="163" width="27" height="15" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="148" y="163" width="27" height="15" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Car wheels -->
   <circle cx="117" cy="213" r="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="117" cy="213" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="183" cy="213" r="13" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="183" cy="213" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Headlights -->
-  <circle cx="97" cy="188" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="97" cy="188" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Speaker post (classic drive-in detail) -->
-  <rect x="35" y="155" width="6" height="40" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="29" y="155" width="18" height="13" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="35" y="155" width="6" height="40" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="29" y="155" width="18" height="13" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

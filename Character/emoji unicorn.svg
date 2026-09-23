@@ -8,8 +8,8 @@
   <ellipse cx="79" cy="103" rx="5" ry="46" fill="#ffffff" transform="rotate(-10 79 103)" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Horn -->
   <polygon points="145,18 133,82 157,82" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
-  <line x1="140" y1="30" x2="144" y2="78" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="145" y1="20" x2="153" y2="68" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="140" y1="30" x2="144" y2="78" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="20" x2="153" y2="68" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Head -->
   <ellipse cx="145" cy="148" rx="90" ry="82" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Eyes -->

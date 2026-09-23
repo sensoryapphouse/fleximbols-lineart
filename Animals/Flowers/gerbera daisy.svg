@@ -26,27 +26,27 @@
   <ellipse cx="145" cy="95" rx="8" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(324 145 140)"/>
   <ellipse cx="145" cy="95" rx="8" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(342 145 140)"/>
   <!-- Inner row shorter petals -->
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(9 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(27 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(45 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(63 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(81 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(99 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(117 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(135 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(153 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(171 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(189 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(207 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(225 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(243 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(261 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(279 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(297 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(315 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(333 145 140)"/>
-  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(351 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(9 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(27 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(45 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(63 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(81 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(99 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(117 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(135 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(153 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(171 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(189 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(207 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(225 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(243 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(261 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(279 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(297 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(315 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(333 145 140)"/>
+  <ellipse cx="145" cy="107" rx="6" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(351 145 140)"/>
   <!-- Dark centre disc -->
   <circle cx="145" cy="140" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-  <circle cx="145" cy="140" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="140" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

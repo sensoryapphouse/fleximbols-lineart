@@ -8,13 +8,13 @@
   <!-- Water reservoir section (lower, blue tint) -->
   <path d="M90 175 L94 220 L196 220 L200 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Water level indicator lines -->
-  <line x1="100" y1="192" x2="190" y2="192" stroke="#1a1a1a" stroke-width="3.18"/>
-  <line x1="102" y1="205" x2="188" y2="205" stroke="#1a1a1a" stroke-width="3.18"/>
+  <line x1="100" y1="192" x2="190" y2="192" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="102" y1="205" x2="188" y2="205" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Fill spout on right side -->
   <rect x="200" y="178" width="30" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="232" cy="184" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Water droplet in reservoir -->
-  <path d="M145 195 Q141 201 145 207 Q149 201 145 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <path d="M145 195 Q141 201 145 207 Q149 201 145 195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Soil -->
   <ellipse cx="145" cy="126" rx="63" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Plant stem -->

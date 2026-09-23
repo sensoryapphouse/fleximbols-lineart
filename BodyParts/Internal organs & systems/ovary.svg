@@ -9,5 +9,5 @@
   <circle cx="162" cy="133" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pointer dot -->
   <circle cx="222" cy="82" r="7" fill="#1a1a1a"/>
-  <line x1="215" y1="88" x2="198" y2="104" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="215" y1="88" x2="198" y2="104" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

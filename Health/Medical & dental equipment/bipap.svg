@@ -7,14 +7,14 @@
   <path d="M 38,114 Q 46,98 54,114 Q 62,130 70,114 Q 78,98 86,114" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Dual-pressure dial (key BiPAP differentiator) -->
   <circle cx="138" cy="105" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
-  <circle cx="138" cy="105" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="138" cy="105" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Dial tick marks -->
   <line x1="138" y1="88" x2="138" y2="93" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="155" y1="105" x2="150" y2="105" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="138" y1="122" x2="138" y2="117" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <line x1="121" y1="105" x2="126" y2="105" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
   <!-- Dial pointer needle -->
-  <line x1="138" y1="105" x2="148" y2="96" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="138" y1="105" x2="148" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- IPAP indicator: upward arrow (higher pressure) -->
   <line x1="116" y1="150" x2="116" y2="138" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polyline points="112,142 116,138 120,142" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

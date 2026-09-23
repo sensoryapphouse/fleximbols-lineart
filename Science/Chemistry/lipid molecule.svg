@@ -4,7 +4,7 @@
   <!-- highlight ring inside head -->
   <circle cx="145" cy="65" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- phosphate dot -->
-  <circle cx="145" cy="65" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="65" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- left wavy fatty acid tail -->
   <path d="M 125 100 Q 105 120 125 140 Q 145 160 125 180 Q 105 200 125 220" fill="none" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 125 100 Q 105 120 125 140 Q 145 160 125 180 Q 105 200 125 220" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

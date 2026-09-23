@@ -7,17 +7,17 @@
 <line x1="258.0" y1="294.0" x2="308.0" y2="278.0" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round"/>
 <line x1="196.0" y1="202.0" x2="174.0" y2="164.0" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="232.0" y1="202.0" x2="254.0" y2="164.0" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="172.0" cy="160.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="160.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="172.0" cy="160.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
+<circle cx="256.0" cy="160.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
 <circle cx="214.0" cy="210.0" r="26.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <ellipse cx="214.0" cy="274.0" rx="50.0" ry="64.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <line x1="214.0" y1="222.0" x2="214.0" y2="330.0" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<circle cx="192.0" cy="256.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="236.0" cy="256.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="192.0" cy="302.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="236.0" cy="302.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="192.0" cy="256.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
+<circle cx="236.0" cy="256.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
+<circle cx="192.0" cy="302.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
+<circle cx="236.0" cy="302.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.17"/>
 <circle cx="330.0" cy="168.0" r="60.0" fill="none" stroke="#1a1a1a" stroke-width="13"/>
-<circle cx="330.0" cy="168.0" r="60.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="330.0" cy="168.0" r="60.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.17"/>
 <circle cx="330.0" cy="168.0" r="60.0" fill="none" stroke="#1a1a1a" stroke-width="13"/>
 <path d="M 300 162 Q 300 134 326 132" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <line x1="372.0" y1="210.0" x2="418.0" y2="256.0" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>

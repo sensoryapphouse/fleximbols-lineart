@@ -13,7 +13,7 @@
   <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
     <polygon points="290,239 2,239 2,93 290,93 290,239" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.96" fill-rule="evenodd"/>
     <polygon points="27,100 129,112 129,112 131,112 131,114 130,117 130,117 128,121 125,125 121,129 115,133 106,137 101,137 96,138 89,137 82,136 82,136 76,136 69,135 61,133 53,130 45,125 42,121 39,118 36,113 35,108 35,108 33,108 30,107 28,106 27,104 26,103 27,100 27,100" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.48" fill-rule="evenodd"/>
-    <polygon points="26,95 26,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="26,95 26,95" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.41" fill-rule="evenodd"/>
     <polyline points="26,95 26,95" fill="none" stroke="#1a1a1a" stroke-width="4.48"/>
     <polygon points="91,26 91,26 93,26 98,26 101,27 105,28 108,31 112,34 112,34 109,34 103,33 95,35 92,36 90,39 91,26" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.48" fill-rule="evenodd"/>
     <polygon points="136,107 86,103 93,21 91,21 84,103 83,103 27,94 27,97 84,105 137,110 136,107" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.48" fill-rule="evenodd"/>
@@ -34,4 +34,4 @@
     <polyline points="220,139 150,235" fill="none" stroke="#1a1a1a" stroke-width="5.96"/>
     <polygon points="243,108 283,54 264,40 223,93 208,82 193,156 258,119 243,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.95" fill-rule="evenodd"/>
   </g>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

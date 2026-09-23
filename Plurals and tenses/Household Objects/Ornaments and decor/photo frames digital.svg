@@ -5,21 +5,21 @@
   <rect x="60" y="35" width="170" height="138" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- photo inside — landscape/mountain scene -->
   <!-- sky -->
-  <rect x="62" y="37" width="166" height="70" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="62" y="37" width="166" height="70" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- ground -->
-  <rect x="62" y="107" width="166" height="64" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="62" y="107" width="166" height="64" rx="0" ry="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" />
   <!-- mountain -->
   <polygon points="90,110 145,52 200,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
-  <polygon points="120,110 145,78 170,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round"/>
+  <polygon points="120,110 145,78 170,110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51" stroke-linejoin="round"/>
   <!-- sun -->
   <circle cx="205" cy="58" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- grass foreground -->
-  <ellipse cx="100" cy="168" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <ellipse cx="185" cy="166" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="100" cy="168" rx="18" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51"/>
+  <ellipse cx="185" cy="166" rx="14" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.51"/>
   <!-- frame bottom bar / stand base -->
   <rect x="110" y="186" width="70" height="10" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- stand leg -->
   <line x1="145" y1="186" x2="145" y2="216" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>
   <!-- stand foot -->
   <rect x="112" y="212" width="66" height="10" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

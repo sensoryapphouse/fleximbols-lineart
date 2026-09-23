@@ -8,10 +8,10 @@
   <!-- Filter paper shape inside basket -->
   <path d="M108,100 L108,128 Q130,134 152,128 L152,100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Coffee grounds in filter -->
-  <ellipse cx="130" cy="118" rx="18" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="130" cy="118" rx="18" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drip drops falling from basket -->
-  <ellipse cx="125" cy="140" rx="4" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66"/>
-  <ellipse cx="135" cy="143" rx="3" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.66"/>
+  <ellipse cx="125" cy="140" rx="4" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="135" cy="143" rx="3" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Warming plate -->
   <rect x="82" y="190" width="96" height="10" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Glass carafe (slightly narrower than coffee-machine) -->

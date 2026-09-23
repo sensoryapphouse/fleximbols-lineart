@@ -12,7 +12,7 @@
   
   <rect x="153" y="152" width="4" height="28" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   
-  <ellipse cx="155" cy="168" rx="2" ry="3" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="155" cy="168" rx="2" ry="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   
   <path d="M155 168 Q148 178 152 186" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
@@ -23,10 +23,10 @@
   <ellipse cx="155" cy="200" rx="55" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   
   <circle cx="155" cy="200" r="7" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="155" y1="193" x2="155" y2="207" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="148" y1="200" x2="162" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="150" y1="195" x2="160" y2="205" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="160" y1="195" x2="150" y2="205" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="155" y1="193" x2="155" y2="207" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="148" y1="200" x2="162" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="150" y1="195" x2="160" y2="205" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="160" y1="195" x2="150" y2="205" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
   <rect x="148" y="176" width="14" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   

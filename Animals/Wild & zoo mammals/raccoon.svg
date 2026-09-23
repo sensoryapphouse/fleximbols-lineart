@@ -6,7 +6,7 @@
 <path d="M 318 356 L 348 356" fill="none" stroke="#1a1a1a" stroke-width="14"/>
 <!-- body -->
 <path d="M 184 404 Q 140 404 140 326 Q 140 248 222 248 Q 296 248 296 326 Q 296 404 256 404 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<ellipse cx="210" cy="350" rx="46" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="210" cy="350" rx="46" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <ellipse cx="196" cy="404" rx="24" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- head -->
 <circle cx="200" cy="196" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
@@ -14,15 +14,15 @@
 <path d="M 150 150 Q 138 108 168 116 Q 180 134 178 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 250 150 Q 262 108 232 116 Q 220 134 222 158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- black bandit mask -->
-<path d="M 138 196 Q 138 168 176 168 Q 196 168 200 188 Q 204 168 224 168 Q 262 168 262 196 Q 262 222 224 222 Q 204 222 200 206 Q 196 222 176 222 Q 138 222 138 196 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 138 196 Q 138 168 176 168 Q 196 168 200 188 Q 204 168 224 168 Q 262 168 262 196 Q 262 222 224 222 Q 204 222 200 206 Q 196 222 176 222 Q 138 222 138 196 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- white brow above mask -->
 <path d="M 150 168 Q 200 150 250 168" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
 <!-- eyes on mask -->
-<circle cx="176" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="224" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="176" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="224" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="176" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="224" cy="194" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="176" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="224" cy="194" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- snout -->
 <path d="M 176 232 Q 200 252 224 232 Q 214 258 200 258 Q 186 258 176 232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<ellipse cx="200" cy="236" rx="13" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="200" cy="236" rx="13" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

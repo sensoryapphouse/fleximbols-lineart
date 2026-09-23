@@ -3,27 +3,27 @@
   <!-- Shadow chip (back) -->
   <g transform="rotate(-40 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <g transform="rotate(-24 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <g transform="rotate(-10 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <g transform="rotate(6 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <g transform="rotate(22 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <g transform="rotate(38 145 210)">
     <rect x="105" y="44" width="80" height="170" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="113" y="52" width="64" height="130" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
   <!-- Pivot rivet -->
   <circle cx="145" cy="210" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

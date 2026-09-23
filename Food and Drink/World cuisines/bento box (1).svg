@@ -4,10 +4,10 @@
   <path d="M 146,54 L 256,54 L 256,118 L 146,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 34,122 L 154,122 L 154,196 L 34,196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 156,122 L 256,122 L 256,196 L 156,196 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <ellipse cx="65" cy="76" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" data-lp="hair"></ellipse>
-  <ellipse cx="90" cy="92" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" data-lp="hair"></ellipse>
-  <ellipse cx="115" cy="80" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" data-lp="hair"></ellipse>
-  <ellipse cx="80" cy="106" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" data-lp="hair"></ellipse>
+  <ellipse cx="65" cy="76" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"></ellipse>
+  <ellipse cx="90" cy="92" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"></ellipse>
+  <ellipse cx="115" cy="80" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"></ellipse>
+  <ellipse cx="80" cy="106" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"></ellipse>
   <path d="M 158,72 Q 195,68 215,76 Q 235,78 250,72" fill="none" stroke="#ffffff" stroke-width="3.33"></path>
   <path d="M 158,90 Q 195,86 215,94 Q 235,96 250,90" fill="none" stroke="#ffffff" stroke-width="3.33"></path>
   <path d="M 158,108 Q 195,104 215,112 Q 235,114 250,108" fill="none" stroke="#ffffff" stroke-width="3.33"></path>

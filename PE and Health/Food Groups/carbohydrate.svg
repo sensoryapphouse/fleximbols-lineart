@@ -5,9 +5,9 @@
 <path d="M 238 195 q -10 12 -4 26" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 277 195 q -10 12 -4 26" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <path d="M 124 414 L 124 356 Q 124 314 168 314 Q 212 314 212 356 L 212 414 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<path d="M 134 406 L 134 358 Q 134 324 168 324 Q 202 324 202 358 L 202 406 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 134 406 L 134 358 Q 134 324 168 324 Q 202 324 202 358 L 202 406 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
 <ellipse cx="348" cy="360" rx="56" ry="42" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="330" cy="348" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="364" cy="340" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="356" cy="372" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="330" cy="348" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="364" cy="340" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
+<circle cx="356" cy="372" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
 </g></svg>

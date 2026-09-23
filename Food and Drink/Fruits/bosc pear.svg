@@ -4,11 +4,11 @@
   <!-- darker russet shading -->
   <path d="M118 130 Q105 165 115 200" fill="none" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round"/>
   <!-- russet speckles -->
-  <circle cx="135" cy="130" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="160" cy="150" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="150" cy="180" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="170" cy="180" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="128" cy="170" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="130" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="150" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="180" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="170" cy="180" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="128" cy="170" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- long stem -->
   <path d="M145 35 Q148 20 144 8" fill="none" stroke="#1a1a1a" stroke-width="17.78" stroke-linecap="round"/>
   <!-- leaf -->

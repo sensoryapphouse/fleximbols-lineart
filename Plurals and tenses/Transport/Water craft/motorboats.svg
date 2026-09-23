@@ -10,5 +10,5 @@
 <path d="M 214 244 L 286 244 L 296 280 L 204 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- outboard engine at stern (left) -->
 <rect x="92" y="262" width="34" height="58" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<rect x="100" y="270" width="18" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<rect x="100" y="270" width="18" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -3,8 +3,8 @@
   <path d="M20,155 Q60,130 110,140 Q140,145 160,160 Q140,175 110,178 Q60,182 20,165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M20,165 Q60,182 110,178 Q140,175 160,160 L160,220 L20,220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- rock highlight cracks -->
-  <path d="M55,138 Q62,148 58,160" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M90,135 Q95,147 92,162" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M55,138 Q62,148 58,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M90,135 Q95,147 92,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- eel body emerging from crevice -->
   <path d="M155,158 Q200,140 230,110 Q250,88 245,65 Q240,50 230,55 Q235,70 225,88 Q210,112 185,130 Q165,145 155,172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- eel belly lighter stripe -->

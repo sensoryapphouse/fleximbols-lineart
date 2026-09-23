@@ -12,9 +12,9 @@
   <ellipse cx="124" cy="80" rx="32" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="100" cy="72" rx="22" ry="17" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Flying leaf fragments -->
-  <ellipse cx="68" cy="60" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(-35 68 60)"/>
-  <ellipse cx="46" cy="82" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(20 46 82)"/>
-  <ellipse cx="35" cy="48" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" transform="rotate(-15 35 48)"/>
+  <ellipse cx="68" cy="60" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-35 68 60)"/>
+  <ellipse cx="46" cy="82" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 46 82)"/>
+  <ellipse cx="35" cy="48" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 35 48)"/>
   <!-- DEBRIS flying through air -->
   <!-- Plank -->
   <rect x="158" y="62" width="46" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" transform="rotate(-28 181 67)"/>

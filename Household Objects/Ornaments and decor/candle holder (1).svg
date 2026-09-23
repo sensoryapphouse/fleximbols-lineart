@@ -17,5 +17,5 @@
   <line x1="145" y1="65" x2="145" y2="50" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Flame -->
   <path d="M 145,50 Q 132,32 138,18 Q 145,30 145,12 Q 152,30 152,18 Q 158,32 145,50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 145,45 Q 140,35 142,25 Q 145,32 148,25 Q 150,35 145,45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.97" stroke-linejoin="round"/>
+  <path d="M 145,45 Q 140,35 142,25 Q 145,32 148,25 Q 150,35 145,45 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

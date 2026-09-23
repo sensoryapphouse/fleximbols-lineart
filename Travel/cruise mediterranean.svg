@@ -25,10 +25,10 @@
   <!-- olive tree (front left) -->
   <rect x="115" y="155" width="8" height="40" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <ellipse cx="119" cy="148" rx="22" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <circle cx="108" cy="143" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="125" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="130" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="113" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="108" cy="143" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="125" cy="140" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="152" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="113" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- CRUISE SHIP (foreground) -->
   <path d="M 60 200 L 230 200 L 215 225 L 75 225 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>

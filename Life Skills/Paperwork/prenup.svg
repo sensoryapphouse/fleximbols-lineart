@@ -23,14 +23,14 @@
   <!-- Pen body -->
   <rect x="154" y="136" width="68" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(-30 188 142)"/>
   <!-- Pen tip -->
-  <polygon points="154,157 148,165 162,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="154,157 148,165 162,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Pen clip -->
-  <rect x="204" y="127" width="5" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" transform="rotate(-30 206 138)"/>
+  <rect x="204" y="127" width="5" height="22" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-30 206 138)"/>
 
   <!-- Small "PRENUP" label — represented as seal/stamp circle not text -->
   <circle cx="175" cy="52" r="18" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-dasharray="5,4"/>
   <!-- Inner seal ring -->
-  <circle cx="175" cy="52" r="11" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="175" cy="52" r="11" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Seal star -->
-  <polygon points="175,42 178,49 186,49 180,54 182,62 175,57 168,62 170,54 164,49 172,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="175,42 178,49 186,49 180,54 182,62 175,57 168,62 170,54 164,49 172,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -20,15 +20,15 @@
   <path d="M120 130 L130 122" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
   <!-- WITCH HAZEL text path -->
   <!-- W -->
-  <path d="M95 210 L98 210 L99 215 L100 210 L102 210 L103 215 L104 210 L107 210 L105 220 L102 220 L101 216 L100 220 L97 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M95 210 L98 210 L99 215 L100 210 L102 210 L103 215 L104 210 L107 210 L105 220 L102 220 L101 216 L100 220 L97 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- H -->
-  <path d="M109 210 L112 210 L112 214 L116 214 L116 210 L119 210 L119 220 L116 220 L116 217 L112 217 L112 220 L109 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M109 210 L112 210 L112 214 L116 214 L116 210 L119 210 L119 220 L116 220 L116 217 L112 217 L112 220 L109 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- - -->
-  <path d="M122 215 L125 215 L125 217 L122 217 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M122 215 L125 215 L125 217 L122 217 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- H -->
-  <path d="M128 210 L131 210 L131 214 L135 214 L135 210 L138 210 L138 220 L135 220 L135 217 L131 217 L131 220 L128 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M128 210 L131 210 L131 214 L135 214 L135 210 L138 210 L138 220 L135 220 L135 217 L131 217 L131 220 L128 220 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- A -->
-  <path d="M141 210 L144 210 L148 220 L145 220 L144.5 218 L142.5 218 L142 220 L139 220 Z M143 215 L144 215 L143.5 213 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" fill-rule="evenodd"/>
+  <path d="M141 210 L144 210 L148 220 L145 220 L144.5 218 L142.5 218 L142 220 L139 220 Z M143 215 L144 215 L143.5 213 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" fill-rule="evenodd"/>
   <!-- amber bottle highlight strip -->
   <rect x="160" y="80" width="6" height="140" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

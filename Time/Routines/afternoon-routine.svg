@@ -38,7 +38,7 @@
 <line x1="92" y1="314" x2="150" y2="314" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- pencil over the pad -->
 <line x1="120" y1="350" x2="168" y2="252" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>
-<polygon points="168,252 178,266 160,262" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" data-lp="skin"/>
-<polygon points="172,258 178,250 170,246" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<polygon points="168,252 178,266 160,262" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" data-lp="skin"/>
+<polygon points="172,258 178,250 170,246" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g>
 </svg>

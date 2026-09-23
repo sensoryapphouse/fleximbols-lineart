@@ -28,14 +28,14 @@
   <rect x="115" y="160" width="60" height="45" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- graduation cap on top of podium -->
   <path d="M115 122 L145 110 L175 122 L145 134 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <circle cx="145" cy="121" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="121" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="145" y1="121" x2="172" y2="135" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
-  <path d="M169 135 L173 150 L177 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M169 135 L173 150 L177 135 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- microphone stem rising from podium -->
   <line x1="100" y1="130" x2="80" y2="95" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <!-- microphone head -->
   <ellipse cx="78" cy="88" rx="9" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <line x1="72" y1="82" x2="84" y2="82" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="71" y1="88" x2="85" y2="88" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="72" y1="94" x2="84" y2="94" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="72" y1="82" x2="84" y2="82" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="71" y1="88" x2="85" y2="88" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="72" y1="94" x2="84" y2="94" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

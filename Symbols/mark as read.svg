@@ -4,7 +4,7 @@
   <!-- letter (white) coming out -->
   <path d="M70 60 H210 V170 H70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- letter lines -->
-  <path d="M85 85 H195 M85 100 H195 M85 115 H170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M85 85 H195 M85 100 H195 M85 115 H170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- envelope opened flap (folded down behind letter) -->
   <path d="M40 80 L135 30 L230 80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- envelope front pocket -->

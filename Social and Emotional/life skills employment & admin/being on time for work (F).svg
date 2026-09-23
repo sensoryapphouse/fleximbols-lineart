@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="56.48 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<circle cx="360" cy="150" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="360" cy="150" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="360" y1="150" x2="360" y2="119" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
-<line x1="360" y1="150" x2="387" y2="150" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="360" cy="150" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="360" y1="150" x2="387" y2="150" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<circle cx="360" cy="150" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="342" y1="220" x2="355" y2="236" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="355" y1="236" x2="382" y2="202" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="150" y1="300" x2="190" y2="300" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="190" y1="300" x2="172" y2="286" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="190" y1="300" x2="172" y2="314" stroke="#1a1a1a" stroke-width="15.0" stroke-linecap="round"/><line x1="342" y1="220" x2="355" y2="236" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="355" y1="236" x2="382" y2="202" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
-<rect x="330" y="250" width="70" height="198" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="344" y="270" width="42" height="178" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="378" cy="360" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="330" y="250" width="70" height="198" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="344" y="270" width="42" height="178" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="378" cy="360" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="150" y1="300" x2="190" y2="300" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="190" y1="300" x2="172" y2="286" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>
 <line x1="190" y1="300" x2="172" y2="314" stroke="#1a1a1a" stroke-width="9.5" stroke-linecap="round"/>

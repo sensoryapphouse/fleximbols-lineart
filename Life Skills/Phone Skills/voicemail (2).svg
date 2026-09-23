@@ -3,13 +3,13 @@
   <circle cx="90" cy="135" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"></circle>
   <circle cx="90" cy="135" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="90" cy="135" r="5" fill="#1a1a1a"></circle>
-  <line x1="90" y1="135" x2="90" y2="115" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="90" y1="135" x2="105" y2="135" stroke="#1a1a1a" stroke-width="2.96"></line>
+  <line x1="90" y1="135" x2="90" y2="115" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="90" y1="135" x2="105" y2="135" stroke="#1a1a1a" stroke-width="4.1"></line>
   <circle cx="200" cy="135" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"></circle>
   <circle cx="200" cy="135" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <circle cx="200" cy="135" r="5" fill="#1a1a1a"></circle>
-  <line x1="200" y1="135" x2="200" y2="115" stroke="#1a1a1a" stroke-width="2.96"></line>
-  <line x1="200" y1="135" x2="215" y2="135" stroke="#1a1a1a" stroke-width="2.96"></line>
+  <line x1="200" y1="135" x2="200" y2="115" stroke="#1a1a1a" stroke-width="4.1"></line>
+  <line x1="200" y1="135" x2="215" y2="135" stroke="#1a1a1a" stroke-width="4.1"></line>
   <line x1="105" y1="135" x2="185" y2="135" stroke="#1a1a1a" stroke-width="7.40"></line>
   <rect x="115" y="50" width="60" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"></rect>
   <text x="145" y="67" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#ffffff">VM</text>

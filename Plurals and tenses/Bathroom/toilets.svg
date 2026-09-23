@@ -3,8 +3,8 @@
 <rect x="206.0" y="108.0" width="40.0" height="18.0" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <rect x="140.0" y="216.0" width="170.0" height="20.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <ellipse cx="224.0" cy="310.0" rx="118.0" ry="86.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<ellipse cx="224.0" cy="310.0" rx="86.0" ry="58.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="224.0" cy="310.0" rx="86.0" ry="58.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.66"/>
 <ellipse cx="224.0" cy="310.0" rx="86.0" ry="58.0" fill="none" stroke="#1a1a1a" stroke-width="4"/>
-<ellipse cx="224.0" cy="300.0" rx="60.0" ry="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="224.0" cy="300.0" rx="60.0" ry="34.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.66"/>
 <path d="M 176 392 L 272 392 L 256 452 L 192 452 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

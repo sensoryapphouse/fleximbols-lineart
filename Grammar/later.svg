@@ -2,7 +2,7 @@
 <circle cx="174" cy="258" r="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="174" y1="258" x2="174" y2="220" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <line x1="174" y1="258" x2="208" y2="258" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="174" cy="258" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="174" cy="258" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.41"/>
 <line x1="372" y1="258" x2="356" y2="265" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="226" y1="258" x2="372" y2="258" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="372" y1="258" x2="356" y2="251" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="226" y1="258" x2="372" y2="258" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="372" y1="258" x2="356" y2="265" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>
 <line x1="372" y1="258" x2="356" y2="251" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>

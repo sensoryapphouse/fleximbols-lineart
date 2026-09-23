@@ -13,7 +13,7 @@
   <!-- Clasp turn-lock circle -->
   <circle cx="145" cy="103" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Clasp center bar -->
-  <rect x="140" y="100" width="10" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="140" y="100" width="10" height="6" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bottom feet -->
   <circle cx="100" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="190" cy="207" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

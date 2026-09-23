@@ -4,13 +4,13 @@
   <!-- Cart basket main shape -->
   <path d="M 60 68 L 72 148 Q 74 162 88 162 L 218 162 Q 232 162 236 148 L 248 68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Cart basket grid lines horizontal -->
-  <line x1="64" y1="96" x2="246" y2="96" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="68" y1="124" x2="244" y2="124" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="64" y1="96" x2="246" y2="96" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="68" y1="124" x2="244" y2="124" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cart basket grid lines vertical -->
-  <line x1="100" y1="68" x2="96" y2="162" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="140" y1="68" x2="140" y2="162" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="180" y1="68" x2="180" y2="162" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="218" y1="68" x2="222" y2="162" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="100" y1="68" x2="96" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="140" y1="68" x2="140" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="180" y1="68" x2="180" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="218" y1="68" x2="222" y2="162" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Push handle bar -->
   <line x1="52" y1="68" x2="270" y2="68" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
   <!-- Axle -->

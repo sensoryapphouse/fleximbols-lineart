@@ -9,5 +9,5 @@
 <rect x="300" y="306" width="48" height="42" rx="3" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="300" y="186" width="34" height="30" rx="3" fill="none" stroke="#1a1a1a" stroke-width="7"/>
 <path d="M 300 150 q -28 30 -8 70" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="292" cy="226" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="292" cy="226" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

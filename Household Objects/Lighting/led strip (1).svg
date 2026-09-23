@@ -18,10 +18,10 @@
   <circle cx="246" cy="147" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Connector plug at end -->
   <rect x="238" y="158" width="20" height="14" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <rect x="244" y="172" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="252" y="172" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="244" y="172" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="252" y="172" width="5" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Coil inner dots -->
-  <circle cx="84" cy="179" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="100" cy="183" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="116" cy="179" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="84" cy="179" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="100" cy="183" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="116" cy="179" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

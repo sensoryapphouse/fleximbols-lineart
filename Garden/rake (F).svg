@@ -14,22 +14,22 @@
 <g transform="translate(388 73) rotate(34)"><rect x="-5.3" y="96.0" width="10.6" height="286.5" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/><line x1="0" y1="363" x2="-46" y2="382" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/><line x1="0" y1="363" x2="46" y2="382" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round"/><rect x="-60.7" y="382.5" width="121.4" height="10.6" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/><line x1="-58" y1="393" x2="-58" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="-44" y1="393" x2="-44" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="-29" y1="393" x2="-29" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="-15" y1="393" x2="-15" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="0" y1="393" x2="0" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="15" y1="393" x2="15" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="29" y1="393" x2="29" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="44" y1="393" x2="44" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/><line x1="58" y1="393" x2="58" y2="430" stroke="#1a1a1a" stroke-width="5.94" stroke-linecap="round"/></g>
 <g transform="rotate(0 150 432)">
 <path d="M 150.0 407.6 C 171.0 414.4 171.0 443.8 150.0 456.4 C 129.0 443.8 129.0 414.4 150.0 407.6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="150" y1="411" x2="150" y2="453" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="150" y1="411" x2="150" y2="453" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g>
 <g transform="rotate(-30 124 436)">
 <path d="M 124.0 411.6 C 145.0 418.4 145.0 447.8 124.0 460.4 C 103.0 447.8 103.0 418.4 124.0 411.6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="124" y1="415" x2="124" y2="457" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="124" y1="415" x2="124" y2="457" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g>
 <g transform="rotate(30 176 434)">
 <path d="M 176.0 409.6 C 197.0 416.4 197.0 445.8 176.0 458.4 C 155.0 445.8 155.0 416.4 176.0 409.6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="176" y1="413" x2="176" y2="455" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="176" y1="413" x2="176" y2="455" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g>
 <g transform="rotate(10 142 414)">
 <path d="M 142.0 389.6 C 163.0 396.4 163.0 425.8 142.0 438.4 C 121.0 425.8 121.0 396.4 142.0 389.6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="142" y1="393" x2="142" y2="435" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="142" y1="393" x2="142" y2="435" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g>
 <g transform="rotate(-12 164 416)">
 <path d="M 164.0 391.6 C 185.0 398.4 185.0 427.8 164.0 440.4 C 143.0 427.8 143.0 398.4 164.0 391.6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="164" y1="395" x2="164" y2="437" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="164" y1="395" x2="164" y2="437" stroke="#1a1a1a" stroke-width="5.15" stroke-linecap="round"/>
 </g>
 </g></svg>

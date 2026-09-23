@@ -2,9 +2,9 @@
   <!-- broad trunk -->
   <path d="M110 220 L120 130 Q145 100 170 130 L180 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- trunk texture -->
-  <path d="M130 200 L130 150" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M150 210 L150 145" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <path d="M165 200 L162 150" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M130 200 L130 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M150 210 L150 145" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M165 200 L162 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- 6 branches splitting from top -->
   <!-- branch 1 (far left) Plants -->
   <path d="M122 130 Q90 105 50 80" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round"/>

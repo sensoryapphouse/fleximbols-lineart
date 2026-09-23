@@ -26,7 +26,7 @@
   <ellipse cx="187" cy="96" rx="9" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- Char / dark crust edges on meat -->
-  <rect x="45" y="176" width="200" height="12" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="45" y="176" width="200" height="12" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- BBQ brush (right side) -->
   <!-- Handle -->
@@ -36,11 +36,11 @@
   <!-- Sauce on bristles -->
   <rect x="212" y="162" width="22" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bristle lines -->
-  <line x1="216" y1="162" x2="216" y2="178" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="223" y1="162" x2="223" y2="178" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="230" y1="162" x2="230" y2="178" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="216" y1="162" x2="216" y2="178" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="223" y1="162" x2="223" y2="178" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="230" y1="162" x2="230" y2="178" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Smoke wisps -->
-  <path d="M80 85 Q75 73 80 63 Q85 53 80 43" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M140 80 Q135 68 140 58 Q145 48 140 38" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M80 85 Q75 73 80 63 Q85 53 80 43" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M140 80 Q135 68 140 58 Q145 48 140 38" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

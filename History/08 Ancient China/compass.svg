@@ -16,5 +16,5 @@
 <polygon points="256,168 274,256 256,272 238,256" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <polygon points="256,344 274,256 256,240 238,256" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 <circle cx="256.0" cy="256.0" r="17.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
-<circle cx="256.0" cy="256.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256.0" cy="256.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.07"/>
 </g></svg>

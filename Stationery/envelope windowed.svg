@@ -11,8 +11,8 @@
   <path d="M65 172 Q80 169 95 172 Q110 175 125 172 Q140 169 150 172" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- window shine highlight -->
   <path d="M60 140 L70 140 L60 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <line x1="60" y1="140" x2="70" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="60" y1="140" x2="60" y2="150" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="60" y1="140" x2="70" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="60" y1="140" x2="60" y2="150" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- stamp top right -->
   <rect x="215" y="65" width="30" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M225 75 L240 90 M240 75 L225 90" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>

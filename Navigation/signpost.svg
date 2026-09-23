@@ -3,10 +3,10 @@
 <circle cx="256.0" cy="150.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
 <polygon points="136,160 352,160 406,196 352,232 136,232" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <polygon points="376,250 160,250 106,286 160,322 376,322" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<circle cx="204.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="244.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="284.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="248.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="208.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="168.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="204.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
+<circle cx="244.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
+<circle cx="284.0" cy="196.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
+<circle cx="248.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
+<circle cx="208.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
+<circle cx="168.0" cy="286.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.62"/>
 </g></svg>

@@ -10,15 +10,15 @@
   <ellipse cx="145" cy="60" rx="55" ry="12" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Swivel connector below board -->
   <line x1="145" y1="72" x2="145" y2="82" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="145" cy="86" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.11"/>
+  <circle cx="145" cy="86" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Speed bag teardrop/pear shape (small) -->
   <!-- Wider at bottom, narrower at top attachment -->
   <path d="M145,92 C125,92 110,105 110,122 C110,145 125,165 145,172 C165,165 180,145 180,122 C180,105 165,92 145,92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Speed bag highlight stripe -->
   <path d="M120,115 C120,112 130,110 135,110" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Seam line -->
-  <line x1="145" y1="92" x2="145" y2="172" stroke="#1a1a1a" stroke-width="2.66" stroke-dasharray="6,5"/>
+  <line x1="145" y1="92" x2="145" y2="172" stroke="#1a1a1a" stroke-width="4.1" stroke-dasharray="6,5"/>
   <!-- Horizontal seam bands -->
-  <path d="M112,125 C118,122 135,120 145,120 C155,120 172,122 178,125" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
-  <path d="M112,148 C118,145 135,143 145,143 C155,143 172,145 178,148" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M112,125 C118,122 135,120 145,120 C155,120 172,122 178,125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M112,148 C118,145 135,143 145,143 C155,143 172,145 178,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

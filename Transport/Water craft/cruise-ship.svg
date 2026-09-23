@@ -3,7 +3,7 @@
 <!-- big hull -->
 <path d="M 54 296 L 458 296 L 420 376 L 110 376 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- waterline stripe -->
-<path d="M 70 340 L 446 340 L 438 356 L 78 356 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4"/>
+<path d="M 70 340 L 446 340 L 438 356 L 78 356 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <!-- multi-deck white superstructure -->
 <rect x="92" y="150" width="328" height="146" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- deck divider lines -->

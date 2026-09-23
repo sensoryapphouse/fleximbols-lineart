@@ -20,11 +20,11 @@
   <!-- zipper down center -->
   <line x1="145" y1="70" x2="145" y2="150" stroke="#1a1a1a" stroke-width="8.89" stroke-linecap="round"/>
   <!-- zipper teeth -->
-  <line x1="140" y1="80" x2="150" y2="80" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="95" x2="150" y2="95" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="110" x2="150" y2="110" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="125" x2="150" y2="125" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="140" y1="140" x2="150" y2="140" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="140" y1="80" x2="150" y2="80" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="95" x2="150" y2="95" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="110" x2="150" y2="110" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="125" x2="150" y2="125" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="140" y1="140" x2="150" y2="140" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- neck opening -->
   <path d="M130 65 Q145 55 160 65 Q160 75 145 78 Q130 75 130 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

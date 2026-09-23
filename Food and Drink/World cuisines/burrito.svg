@@ -7,10 +7,10 @@
 <ellipse cx="178" cy="372" rx="42" ry="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round" transform="rotate(-40 178 372)"/>
 <!-- filling: rice + beans + green -->
 <g transform="rotate(-40 178 372)">
-<circle cx="170" cy="368" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="194" cy="378" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="162" cy="386" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="188" cy="356" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="170" cy="368" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="194" cy="378" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="162" cy="386" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="188" cy="356" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </g>
 <!-- fold seams across body -->
 <path d="M 250 300 Q 270 312 256 332" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

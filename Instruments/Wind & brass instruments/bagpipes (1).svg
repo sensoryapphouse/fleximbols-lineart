@@ -15,23 +15,23 @@
   <line x1="110" y1="108" x2="78" y2="42" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <rect x="72" y="32" width="12" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Blowpipe ferrules -->
-  <rect x="97" y="82" width="14" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="104" y="64" width="14" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="97" y="82" width="14" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="104" y="64" width="14" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drone pipe 1 (tallest, centre) -->
   <line x1="145" y1="108" x2="152" y2="22" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <rect x="144" y="18" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Drone 1 ferrules -->
-  <rect x="143" y="48" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="143" y="72" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="143" y="48" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="143" y="72" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drone pipe 2 (medium, right of centre) -->
   <line x1="168" y1="112" x2="178" y2="30" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <rect x="170" y="26" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="170" y="54" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="170" y="76" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="170" y="54" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="170" y="76" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Drone pipe 3 (shorter, further right) -->
   <line x1="188" y1="120" x2="202" y2="46" stroke="#1a1a1a" stroke-width="10.00" stroke-linecap="round"/>
   <rect x="196" y="42" width="16" height="12" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="197" y="64" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="197" y="64" width="16" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Chanter (hangs down from bag) -->
   <line x1="132" y1="206" x2="128" y2="222" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <rect x="122" y="156" width="14" height="54" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>

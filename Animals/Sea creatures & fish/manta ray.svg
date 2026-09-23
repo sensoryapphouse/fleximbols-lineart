@@ -2,10 +2,10 @@
   <path d="M 145,68 Q 60,82 25,168 Q 60,180 110,160 Q 125,200 145,210 Q 165,200 180,160 Q 230,180 265,168 Q 230,82 145,68 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 110,160 L 90,200 L 80,182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 180,160 L 200,200 L 210,182 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
-  <path d="M 100,148 Q 145,165 190,148 Q 180,182 145,195 Q 110,182 100,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></path>
-  <circle cx="110" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="180" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="110" cy="110" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="180" cy="110" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <path d="M 100,148 Q 145,165 190,148 Q 180,182 145,195 Q 110,182 100,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <circle cx="110" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="180" cy="108" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="110" cy="110" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="180" cy="110" r="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
   <path d="M 145,210 Q 145,225 145,232" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"></path>
 </g></svg>

@@ -9,9 +9,9 @@
 <line x1="162" y1="224" x2="216" y2="220" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- right page: chapter heading bar + ornament break + new text -->
 <rect x="284" y="188" width="80" height="22" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="312" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="338" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="364" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="312" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="338" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="364" cy="248" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="284" y1="290" x2="372" y2="288" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="284" y1="318" x2="358" y2="316" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="284" y1="346" x2="344" y2="344" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>

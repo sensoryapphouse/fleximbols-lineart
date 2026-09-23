@@ -23,7 +23,7 @@
   <!-- Cream highlight -->
   <ellipse cx="185" cy="38" rx="8" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   <!-- Cream sparkle -->
-  <path d="M210 30 L212 34 L216 36 L212 38 L210 42 L208 38 L204 36 L208 34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M210 30 L212 34 L216 36 L212 38 L210 42 L208 38 L204 36 L208 34 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- cream dollop swirl (replaces CREAM text) -->
   <path d="M140 170 Q148 160 156 168 Q162 175 155 180 Q148 186 140 180 Q134 175 140 170 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <path d="M148 160 Q148 152 152 148 Q156 152 155 160" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

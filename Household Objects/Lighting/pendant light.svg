@@ -5,6 +5,6 @@
   <path d="M 80,92 L 210,92 L 195,165 Q 175,180 145,180 Q 115,180 95,165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"></path>
   <ellipse cx="145" cy="165" rx="48" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="145" cy="175" rx="40" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
-  <path d="M 105,200 L 185,220 M 100,210 L 190,225 M 115,195 L 175,215" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"></path>
-  <path d="M 138,175 Q 138,165 145,165 Q 152,165 152,175 Q 152,180 145,180 Q 138,180 138,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"></path>
+  <path d="M 105,200 L 185,220 M 100,210 L 190,225 M 115,195 L 175,215" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"></path>
+  <path d="M 138,175 Q 138,165 145,165 Q 152,165 152,175 Q 152,180 145,180 Q 138,180 138,175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

@@ -15,10 +15,10 @@
   <rect x="44" y="120" width="42" height="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- mosquito icon on label -->
   <ellipse cx="65" cy="138" rx="9" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <circle cx="65" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <path d="M58 130 Q50 124 48 134" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
-  <path d="M72 130 Q80 124 82 134" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
-  <path d="M65 144 L60 152" fill="none" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="65" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M58 130 Q50 124 48 134" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M72 130 Q80 124 82 134" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M65 144 L60 152" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- liquid level indicator -->
   <rect x="44" y="166" width="42" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
   <!-- syringe horizontal -->
@@ -29,7 +29,7 @@
   <!-- plunger -->
   <rect x="90" y="93" width="14" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- liquid in syringe -->
-  <rect x="110" y="106" width="80" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="110" y="106" width="80" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- drip -->
   <path d="M260 116 Q263 124 260 130 Q257 124 260 116 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
 </g></svg>

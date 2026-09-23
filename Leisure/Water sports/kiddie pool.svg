@@ -21,9 +21,9 @@
   <!-- Rubber duck toy -->
   <ellipse cx="155" cy="86" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="161" cy="80" rx="8" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="165" cy="79" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="165" cy="79" rx="4" ry="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Splashing water drops -->
-  <circle cx="100" cy="78" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="115" cy="74" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="130" cy="71" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="78" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="74" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="71" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

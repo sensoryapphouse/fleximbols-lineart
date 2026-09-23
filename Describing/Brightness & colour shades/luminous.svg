@@ -12,5 +12,5 @@
   <!-- orb inner bright core -->
   <circle cx="145" cy="120" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- small highlight dot -->
-  <circle cx="135" cy="110" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="135" cy="110" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

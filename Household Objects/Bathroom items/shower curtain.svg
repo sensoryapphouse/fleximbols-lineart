@@ -20,7 +20,7 @@
   <path d="M 180,60 Q 185,130 175,200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 215,60 Q 220,130 210,200" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- A couple of decorative water-drop motifs -->
-  <path d="M 92,110 Q 87,118 92,124 Q 97,118 92,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M 162,140 Q 157,148 162,154 Q 167,148 162,140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <path d="M 198,95 Q 193,103 198,109 Q 203,103 198,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <path d="M 92,110 Q 87,118 92,124 Q 97,118 92,110 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 162,140 Q 157,148 162,154 Q 167,148 162,140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 198,95 Q 193,103 198,109 Q 203,103 198,95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

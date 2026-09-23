@@ -22,7 +22,7 @@
   <ellipse cx="145" cy="155" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="155" cy="146" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="156" cy="145" r="1.5" fill="#1a1a1a"/>
-  <path d="M 160 147 L 165 148 L 160 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M 160 147 L 165 148 L 160 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <path d="M 138 158 L 130 162 L 138 164 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <path d="M 220 65 Q 230 50 220 35" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <circle cx="225" cy="35" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>

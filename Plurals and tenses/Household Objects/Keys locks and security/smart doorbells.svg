@@ -7,7 +7,7 @@
   <circle cx="75" cy="65" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <circle cx="75" cy="65" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="75" cy="65" r="5" fill="#1a1a1a"/>
-  <circle cx="79" cy="61" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="79" cy="61" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.33" />
   <!-- Status LED -->
   <circle cx="75" cy="110" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Doorbell button (large, illuminated) -->
@@ -15,7 +15,7 @@
   <circle cx="75" cy="160" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bell icon on button (path) -->
   <path d="M 67,156 Q 67,148 75,148 Q 83,148 83,156 L 83,162 L 85,165 L 65,165 L 67,162 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <circle cx="75" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <circle cx="75" cy="170" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.33" />
   <!-- Phone with notification on right -->
   <rect x="170" y="40" width="100" height="170" rx="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round"/>
   <rect x="178" y="55" width="84" height="140" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -32,10 +32,10 @@
   <rect x="184" y="118" width="72" height="70" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Visitor in phone preview - FULL BODY (smaller within frame) -->
   <circle cx="220" cy="138" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 211,135 Q 211,128 220,128 Q 229,128 229,135" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 211,135 Q 211,128 220,128 Q 229,128 229,135" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.33"/>
   <circle cx="217" cy="138" r="1.2" fill="#1a1a1a"/>
   <circle cx="223" cy="138" r="1.2" fill="#1a1a1a"/>
-  <path d="M 217,142 Q 220,144 223,142" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 217,142 Q 220,144 223,142" fill="none" stroke="#1a1a1a" stroke-width="4.33" stroke-linecap="round"/>
   <!-- torso -->
   <path d="M 213,147 L 227,147 L 230,172 L 210,172 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- arms -->
@@ -48,4 +48,4 @@
   <path d="M 115,100 Q 145,90 165,100" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M 120,115 Q 145,108 160,115" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M 125,130 Q 145,125 155,130" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -8,13 +8,13 @@
 <path d="M 325 252 C 406 322 448 384 424 420 C 458 390 414 328 355 252 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <path d="M 340 252 C 432 282 482 322 466 368 C 492 328 440 288 368 252 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <path d="M 150 258 C 150 148 198 92 256 92 C 314 92 362 148 362 258 C 314 290 198 290 150 258 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
-<circle cx="234.0" cy="360.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="240.0" cy="408.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="272.0" cy="408.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="278.0" cy="360.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="218.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="220.0" cy="202.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="294.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="296.0" cy="202.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="234.0" cy="360.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="240.0" cy="408.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="272.0" cy="408.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="278.0" cy="360.0" r="6.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="218.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="220.0" cy="202.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="294.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.89"/>
+<circle cx="296.0" cy="202.0" r="9.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.89"/>
 <path d="M 230 234 C 256 254 282 234 282 234" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

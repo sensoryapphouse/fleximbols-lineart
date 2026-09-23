@@ -12,19 +12,19 @@
   <ellipse cx="150" cy="270" rx="46" ry="26" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" transform="rotate(-28,150,270)" />
   <ellipse cx="334" cy="270" rx="46" ry="26" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" transform="rotate(28,334,270)" />
   <!-- body -->
-  <ellipse cx="242" cy="320" rx="74" ry="90" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="242" cy="320" rx="74" ry="90" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="6.32" stroke-linejoin="round" />
   <!-- head -->
-  <circle cx="242" cy="166" r="72" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="242" cy="166" r="72" fill="url(#gCookie)" stroke="#1a1a1a" stroke-width="6.32" />
   <!-- icing trim -->
   <ellipse cx="242" cy="320" rx="60" ry="74" fill="none" stroke="#ffffff" stroke-width="5" stroke-dasharray="12,9" stroke-linejoin="round" />
   <circle cx="242" cy="166" r="58" fill="none" stroke="#ffffff" stroke-width="5" stroke-dasharray="12,9" />
   <!-- buttons -->
-  <circle cx="242" cy="295" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
-  <circle cx="242" cy="335" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
-  <circle cx="242" cy="375" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="242" cy="295" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.32" />
+  <circle cx="242" cy="335" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.32" />
+  <circle cx="242" cy="375" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.32" />
   <!-- eyes + smile -->
-  <circle cx="216" cy="152" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" />
-  <circle cx="268" cy="152" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="216" cy="152" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.32" />
+  <circle cx="268" cy="152" r="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.32" />
   <path d="M212,192 Q242,216 272,192" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" />
   </g>
 </g></svg>

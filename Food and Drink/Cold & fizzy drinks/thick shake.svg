@@ -5,7 +5,7 @@
   <!-- Glass top rim / thick milkshake surface -->
   <ellipse cx="142" cy="62" rx="55" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Thick shake texture lines suggesting viscosity -->
-  <path d="M 100,95 Q 142,100 183,95 M 98,125 Q 142,130 185,125 M 97,155 Q 142,160 186,155 M 97,185 Q 142,190 186,185" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 100,95 Q 142,100 183,95 M 98,125 Q 142,130 185,125 M 97,155 Q 142,160 186,155 M 97,185 Q 142,190 186,185" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Spoon standing upright in the shake -->
   <ellipse cx="130" cy="58" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M 130,64 L 130,180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

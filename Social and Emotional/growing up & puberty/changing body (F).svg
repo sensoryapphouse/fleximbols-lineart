@@ -16,8 +16,8 @@
 
 
 
-<line x1="143" y1="230" x2="157" y2="230" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="150" y1="223" x2="150" y2="237" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="353" y1="250" x2="367" y2="250" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="360" y1="243" x2="360" y2="257" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<polygon points="256.0,204.0 236.0,201.5 253.5,184.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/><polygon points="256.0,396.0 276.0,398.5 258.5,416.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/></svg>
+<line x1="143" y1="230" x2="157" y2="230" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="150" y1="223" x2="150" y2="237" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="353" y1="250" x2="367" y2="250" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="360" y1="243" x2="360" y2="257" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<polygon points="256.0,204.0 236.0,201.5 253.5,184.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/><polygon points="256.0,396.0 276.0,398.5 258.5,416.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/></svg>

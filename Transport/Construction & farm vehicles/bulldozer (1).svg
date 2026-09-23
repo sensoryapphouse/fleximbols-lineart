@@ -21,7 +21,7 @@
     <polyline points="234,237 244,236 266,278 273,341 212,427" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="268,275 280,275 264,410 289,411 291,401 301,274 290,274 263,264 259,265" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="231,176 259,194 403,189 342,175" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="402,278 401,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="402,278 401,186" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="402,278 401,186" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="515,255 429,257 429,94 423,89 421,78" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="507,191 517,254" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>

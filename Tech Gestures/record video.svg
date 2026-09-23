@@ -4,12 +4,12 @@
   <!-- lens barrel -->
   <rect x="190" y="100" width="50" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="240" cy="130" r="28" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="240" cy="130" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="234" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="240" cy="130" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="234" cy="124" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- viewfinder -->
   <rect x="40" y="55" width="60" height="30" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mic on top -->
-  <rect x="120" y="65" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="120" y="65" width="20" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- handle -->
   <rect x="80" y="180" width="40" height="30" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- big red REC dot badge -->
@@ -18,9 +18,9 @@
   <!-- pulsing rings -->
   <circle cx="225" cy="55" r="40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- film strip indicator on camera body -->
-  <rect x="50" y="125" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="50" y="145" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="50" y="165" width="20" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="50" y="125" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="50" y="145" width="20" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="50" y="165" width="20" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small red dot on body -->
-  <circle cx="100" cy="135" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="100" cy="135" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

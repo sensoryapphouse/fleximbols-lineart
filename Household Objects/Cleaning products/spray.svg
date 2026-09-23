@@ -2,7 +2,7 @@
 <!-- bottle body -->
 <rect x="170" y="234" width="128" height="174" rx="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- liquid level -->
-<path d="M 170 300 L 298 300 L 298 386 Q 298 408 276 408 L 192 408 Q 170 408 170 386 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<path d="M 170 300 L 298 300 L 298 386 Q 298 408 276 408 L 192 408 Q 170 408 170 386 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="170" y="234" width="128" height="174" rx="22" fill="none" stroke="#1a1a1a" stroke-width="9"/>
 <!-- neck -->
 <rect x="206" y="210" width="56" height="28" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>

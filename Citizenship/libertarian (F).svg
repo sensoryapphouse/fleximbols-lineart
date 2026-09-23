@@ -2,7 +2,7 @@
 <g transform="translate(31.4,66.3) scale(0.767)"><!-- Torch of liberty -->
   <!-- flame -->
   <path d="M135 70 Q175 110 165 160 Q205 130 195 200 Q190 245 135 250 Q80 245 75 200 Q65 130 105 160 Q95 110 135 70 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M135 120 Q160 150 150 195 Q145 220 135 225 Q125 220 120 195 Q110 150 135 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M135 120 Q160 150 150 195 Q145 220 135 225 Q125 220 120 195 Q110 150 135 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.77" stroke-linejoin="round"/>
   <!-- cup -->
   <path d="M95 252 L175 252 L160 300 L110 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
   <rect x="105" y="298" width="60" height="22" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

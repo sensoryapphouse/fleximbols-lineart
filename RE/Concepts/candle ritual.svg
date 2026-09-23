@@ -9,9 +9,9 @@
   <!-- Candle body -->
   <rect x="128" y="80" width="34" height="112" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wax drip left -->
-  <path d="M128 110 Q120 122 124 132 Q128 132 128 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 110 Q120 122 124 132 Q128 132 128 122 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wax drip right -->
-  <path d="M162 98 Q170 110 166 122 Q162 122 162 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M162 98 Q170 110 166 122 Q162 122 162 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Wick -->
   <line x1="145" y1="80" x2="145" y2="68" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Flame outer (large, warm) -->

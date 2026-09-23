@@ -8,12 +8,12 @@
 <polygon points="176,232 336,232 374,308 138,308" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- central medallion / motif -->
 <polygon points="256,248 286,270 256,292 226,270" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<circle cx="256" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
 <!-- corner dots in the field -->
-<circle cx="196" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="316" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="180" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
-<circle cx="332" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.46" />
+<circle cx="196" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" />
+<circle cx="316" cy="262" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" />
+<circle cx="180" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" />
+<circle cx="332" cy="290" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35" />
 <!-- fringe / tassels along the near (bottom) edge -->
 <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round">
 <line x1="78" y1="360" x2="72" y2="384"/>

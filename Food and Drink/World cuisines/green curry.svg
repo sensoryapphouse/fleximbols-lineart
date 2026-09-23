@@ -6,8 +6,8 @@
   <ellipse cx="105" cy="138" rx="12" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="160" cy="135" rx="14" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="195" cy="142" rx="11" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
-  <ellipse cx="135" cy="144" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></ellipse>
-  <ellipse cx="180" cy="148" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></ellipse>
+  <ellipse cx="135" cy="144" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></ellipse>
+  <ellipse cx="180" cy="148" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></ellipse>
   <path d="M 88,128 Q 92,118 100,124 Q 95,134 88,128" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></path>
   <path d="M 220,130 Q 224,120 232,126 Q 227,136 220,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></path>
 </g></svg>

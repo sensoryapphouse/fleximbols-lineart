@@ -20,10 +20,10 @@
   <!-- top mast -->
   <rect x="143" y="38" width="4" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M145 30 L145 38" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="28" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="28" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- lattice cross-bracing on legs -->
   <path d="M120 165 L170 165 M125 145 L165 145 M130 125 L160 125 M135 105 L155 105" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M120 165 L170 145 M120 165 L155 145 M170 165 L120 145 M170 165 L135 145" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M120 165 L170 145 M120 165 L155 145 M170 165 L120 145 M170 165 L135 145" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- arch under tower -->
   <path d="M125 165 Q145 150 165 165" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- ground -->

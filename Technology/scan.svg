@@ -11,7 +11,7 @@
   <!-- Scan beam (bright horizontal bar) -->
   <rect x="65" y="118" width="160" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Beam glow line -->
-  <line x1="65" y1="127" x2="225" y2="127" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="65" y1="127" x2="225" y2="127" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Corner brackets TL -->
   <polyline points="30,45 30,22 53,22" fill="none" stroke="#1a1a1a" stroke-width="6.34" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Corner brackets TR -->

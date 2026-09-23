@@ -2,13 +2,13 @@
   <!-- Paper liner - corrugated cup -->
   <path d="M 88,200 L 78,140 L 212,140 L 202,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Liner vertical folds / pleats -->
-  <line x1="97" y1="140" x2="92" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="112" y1="140" x2="106" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="127" y1="140" x2="121" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="145" y1="140" x2="145" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="163" y1="140" x2="169" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="178" y1="140" x2="184" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="193" y1="140" x2="199" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="97" y1="140" x2="92" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="112" y1="140" x2="106" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="127" y1="140" x2="121" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="140" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="163" y1="140" x2="169" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="178" y1="140" x2="184" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="193" y1="140" x2="199" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Muffin top dome - golden-tan baked -->
   <path d="M 68,148 Q 60,100 145,72 Q 230,100 222,148 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Muffin top surface - slightly darker golden -->

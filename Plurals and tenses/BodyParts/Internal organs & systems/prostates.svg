@@ -8,8 +8,8 @@
   <!-- Prostate gland encircling urethra -->
   <ellipse cx="145" cy="125" rx="32" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round"/>
   <!-- Urethra visible through prostate (highlight) -->
-  <rect x="139" y="103" width="12" height="44" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="139" y="103" width="12" height="44" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pointer dot -->
   <circle cx="198" cy="125" r="7" fill="#1a1a1a"/>
-  <line x1="188" y1="125" x2="178" y2="125" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="188" y1="125" x2="178" y2="125" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

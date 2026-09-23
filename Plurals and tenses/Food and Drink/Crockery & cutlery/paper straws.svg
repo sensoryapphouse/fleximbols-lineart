@@ -12,13 +12,13 @@
   <!-- repaint the outer outline so the stripes look unified -->
   <path d="M 75 215 L 215 45" fill="none" stroke="#ffffff" stroke-width="0.00" stroke-linecap="round"/>
   <!-- outline edges -->
-  <path d="M 65 207 L 205 37" fill="none" stroke="#1a1a1a" stroke-width="0.51" stroke-linecap="round"/>
-  <path d="M 85 223 L 225 53" fill="none" stroke="#1a1a1a" stroke-width="0.51" stroke-linecap="round"/>
+  <path d="M 65 207 L 205 37" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 85 223 L 225 53" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- end openings -->
-  <ellipse cx="75" cy="215" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 75 215)"/>
-  <ellipse cx="215" cy="45" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51" transform="rotate(-50 215 45)"/>
+  <ellipse cx="75" cy="215" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-50 75 215)"/>
+  <ellipse cx="215" cy="45" rx="13" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-50 215 45)"/>
   <!-- PAPER label -->
-  <rect x="30" y="40" width="80" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.51"/>
+  <rect x="30" y="40" width="80" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- P -->
   <path d="M 36 45 L 42 45 L 42 51 L 38 51 L 38 57 L 36 57 Z M 38 47 L 40 47 L 40 49 L 38 49 Z" fill="#1a1a1a" fill-rule="evenodd"/>
   <!-- A -->
@@ -29,4 +29,4 @@
   <path d="M 60 45 L 66 45 L 66 47 L 62 47 L 62 50 L 65 50 L 65 52 L 62 52 L 62 55 L 66 55 L 66 57 L 60 57 Z" fill="#1a1a1a"/>
   <!-- R -->
   <path d="M 68 45 L 74 45 L 74 51 L 72 51 L 74 57 L 72 57 L 70 52 L 70 57 L 68 57 Z" fill="#1a1a1a"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

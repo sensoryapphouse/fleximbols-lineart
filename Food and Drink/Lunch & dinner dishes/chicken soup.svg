@@ -15,9 +15,9 @@
   <ellipse cx="100" cy="140" rx="11" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <ellipse cx="175" cy="138" rx="10" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Carrot cross marks -->
-  <line x1="96" y1="140" x2="104" y2="140" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="100" y1="136" x2="100" y2="144" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="171" y1="138" x2="179" y2="138" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="96" y1="140" x2="104" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="100" y1="136" x2="100" y2="144" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="171" y1="138" x2="179" y2="138" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chicken chunks (pale cooked pieces) -->
   <path d="M130,120 Q123,112 127,105 Q131,98 140,100 Q149,102 147,112 Q145,122 130,120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <path d="M158,128 Q152,121 155,114 Q158,107 167,109 Q176,111 174,120 Q172,129 158,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>

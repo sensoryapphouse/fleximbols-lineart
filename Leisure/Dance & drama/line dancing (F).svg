@@ -17,9 +17,9 @@
 <line x1="296" y1="452" x2="322" y2="452" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="340" y1="452" x2="366" y2="452" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="384" y1="452" x2="392" y2="452" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<circle cx="322" cy="138" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="352" cy="146" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="327" y1="138" x2="327" y2="102" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="357" y1="146" x2="357" y2="110" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="322" cy="138" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="352" cy="146" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="327" y1="138" x2="327" y2="102" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="357" y1="146" x2="357" y2="110" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="327" y1="102" x2="357" y2="110" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

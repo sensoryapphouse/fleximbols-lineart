@@ -20,7 +20,7 @@
   <circle cx="145" cy="170" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="141" cy="166" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Flash -->
-  <rect x="160" y="152" width="8" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="160" y="152" width="8" height="6" rx="1" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Snap flash burst (top right outside phone) -->
   <polygon points="222,32 240,46 226,52 244,68 220,62 222,80 208,62 192,68 204,52 188,46 208,42" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <!-- Sparkles -->

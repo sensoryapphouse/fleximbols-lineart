@@ -45,12 +45,12 @@
   C 316 376 292 368 292 350
   C 292 332 310 322 310 302
   C 310 282 294 268 256 268 Z"
-  fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+  fill="#ffffff" stroke="#1a1a1a" stroke-width="6.43" stroke-linejoin="round"/>
 <!-- sound hole -->
-<circle cx="256.0" cy="408.0" r="44.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
+<circle cx="256.0" cy="408.0" r="44.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.43"/>
 <circle cx="256.0" cy="408.0" r="44.0" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- bridge -->
-<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
+<rect x="220.0" y="462.0" width="72.0" height="16.0" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.43" data-lp="hair"/>
 <!-- strings running down neck onto the body -->
 <g stroke="#1a1a1a" stroke-width="2.4" stroke-linecap="round">
 <line x1="245" y1="80" x2="245" y2="470"/>

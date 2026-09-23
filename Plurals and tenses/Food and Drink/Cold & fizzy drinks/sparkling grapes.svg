@@ -19,7 +19,7 @@
   <circle cx="73" cy="173" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 69 152 Q 72 148 76 148" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- label lines -->
-  <rect x="50" y="183" width="40" height="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="50" y="183" width="40" height="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- flute on right -->
   <!-- bowl -->
   <path d="M 175 80 Q 175 140 200 160 Q 225 140 225 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.86" stroke-linecap="round" stroke-linejoin="round"/>
@@ -43,4 +43,4 @@
   <rect x="197" y="160" width="6" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
   <!-- foot -->
   <ellipse cx="200" cy="205" rx="25" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

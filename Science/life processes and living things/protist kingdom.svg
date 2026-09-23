@@ -8,8 +8,8 @@
     <circle cx="78" cy="125" r="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
     <circle cx="78" cy="125" r="5" fill="#1a1a1a"/>
     <!-- vacuoles -->
-    <circle cx="55" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-    <circle cx="95" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="55" cy="120" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+    <circle cx="95" cy="140" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- Paramecium (right) oval with cilia -->
   <g>
@@ -39,8 +39,8 @@
     </g>
     <!-- internal nucleus and vacuoles -->
     <ellipse cx="200" cy="128" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" transform="rotate(-15 200 128)"/>
-    <circle cx="175" cy="130" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-    <circle cx="225" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="175" cy="130" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+    <circle cx="225" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
     <!-- oral groove -->
     <path d="M210 118 Q220 125 222 138" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   </g>

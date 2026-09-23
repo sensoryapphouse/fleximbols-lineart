@@ -8,14 +8,14 @@
   <!-- Velcro strap wrap -->
   <path d="M 84,108 L 176,108 Q 182,108 182,116 L 182,124 Q 182,132 176,132 L 84,132 Q 78,132 78,124 L 78,116 Q 78,108 84,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Velcro texture marks on strap -->
-  <path d="M 88,114 L 88,126 M 96,114 L 96,126 M 104,114 L 104,126 M 112,114 L 112,126 M 120,114 L 120,126 M 128,114 L 128,126 M 136,114 L 136,126 M 144,114 L 144,126 M 152,114 L 152,126 M 160,114 L 160,126 M 168,114 L 168,126" fill="none" stroke="#1a1a1a" stroke-width="1.97" stroke-linecap="round"/>
+  <path d="M 88,114 L 88,126 M 96,114 L 96,126 M 104,114 L 104,126 M 112,114 L 112,126 M 120,114 L 120,126 M 128,114 L 128,126 M 136,114 L 136,126 M 144,114 L 144,126 M 152,114 L 152,126 M 160,114 L 160,126 M 168,114 L 168,126" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Foot / shoe below ankle weight -->
   <!-- Shoe body -->
   <path d="M 92,150 Q 88,158 86,170 Q 84,188 96,192 L 178,192 Q 192,190 194,178 Q 196,162 188,152 L 172,150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Shoe sole -->
   <path d="M 86,182 Q 86,196 98,200 L 182,200 Q 196,196 194,182" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Shoe toe cap highlight -->
-  <path d="M 170,158 Q 188,162 186,172" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 170,158 Q 188,162 186,172" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Shoelace line -->
-  <path d="M 100,162 L 148,162" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 100,162 L 148,162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

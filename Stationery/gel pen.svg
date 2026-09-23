@@ -22,10 +22,10 @@
   <!-- Tip: narrow metal cone -->
   <path d="M 233,107 L 256,117 L 233,127 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Ball tip dot -->
-  <circle cx="256" cy="117" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="256" cy="117" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Thick smooth gel ink line being drawn (rich, glossy, broad) -->
   <path d="M 80,160 Q 130,152 190,158 Q 220,161 255,155" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Ink gloss highlight on the drawn line -->
-  <path d="M 90,157 Q 140,150 195,156" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M 90,157 Q 140,150 195,156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

@@ -25,7 +25,7 @@
   <rect x="134" y="104" width="12" height="7" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33" stroke-linejoin="round"/>
   <!-- Brush drip -->
   <line x1="140" y1="150" x2="140" y2="157" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
-  <ellipse cx="140" cy="159" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="140" cy="159" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- MANICURED HAND (right window area) -->
   <ellipse cx="219" cy="148" rx="15" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- Fingers -->
@@ -33,12 +33,12 @@
   <rect x="213" y="130" width="8" height="20" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="222" y="131" width="8" height="19" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Red nails -->
-  <ellipse cx="208" cy="133" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="217" cy="130" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="226" cy="131" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="208" cy="133" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="217" cy="130" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="226" cy="131" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Thumb -->
   <ellipse cx="200" cy="150" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="194" cy="149" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="194" cy="149" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ground line -->
   <line x1="30" y1="220" x2="260" y2="220" stroke="#1a1a1a" stroke-width="7.11"/>
 </g></svg>

@@ -32,6 +32,6 @@
   <!-- Mouth smile -->
   <path d="M 134,100 Q 145,110 156,100" fill="none" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
   <!-- Translucent gloss sheen across body -->
-  <path d="M 100,128 Q 120,118 140,122" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 165,58 Q 178,48 188,54" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M 100,128 Q 120,118 140,122" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 165,58 Q 178,48 188,54" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

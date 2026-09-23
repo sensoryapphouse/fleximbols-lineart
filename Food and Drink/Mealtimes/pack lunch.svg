@@ -12,8 +12,8 @@
   <!-- Bread bottom -->
   <rect x="92" y="182" width="50" height="12" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Sandwich filling (green lettuce + red) -->
-  <rect x="92" y="176" width="50" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <rect x="94" y="170" width="46" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <rect x="92" y="176" width="50" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="94" y="170" width="46" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bread top -->
   <rect x="92" y="162" width="50" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81"/>
   <!-- Apple / fruit being placed (right side of box, held by hand) -->
@@ -21,7 +21,7 @@
   <!-- Apple stem -->
   <path d="M175 97 Q177 90 182 87" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <!-- Apple leaf -->
-  <ellipse cx="181" cy="89" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" transform="rotate(-30 181 89)"/>
+  <ellipse cx="181" cy="89" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-30 181 89)"/>
   <!-- Right hand holding apple -->
   <ellipse cx="192" cy="128" rx="13" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08"/>
   <!-- Right arm -->

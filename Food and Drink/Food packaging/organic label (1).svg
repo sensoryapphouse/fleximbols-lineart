@@ -15,7 +15,7 @@
   <!-- Sprout right leaf -->
   <path d="M145 125 C165 110 180 90 170 75 C158 80 148 100 145 125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Sprout tip -->
-  <path d="M145 120 C142 108 143 98 145 90 C147 98 148 108 145 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M145 120 C142 108 143 98 145 90 C147 98 148 108 145 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Check mark -->
   <polyline points="98,158 112,172 152,140" fill="none" stroke="#ffffff" stroke-width="5.33" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

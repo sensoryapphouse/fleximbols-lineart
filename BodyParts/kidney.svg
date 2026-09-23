@@ -12,8 +12,8 @@
 
 </g>
 <ellipse cx="236" cy="298" rx="40" ry="26" fill="none" stroke="#1a1a1a" stroke-width="11"/>
-<line x1="262" y1="284" x2="312" y2="232" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<circle cx="236" cy="298" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="262" y1="284" x2="312" y2="232" stroke="#1a1a1a" stroke-width="5.82" stroke-linecap="round"/>
+<circle cx="236" cy="298" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.82"/>
 <circle cx="388" cy="150" r="120" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <clipPath id="cl256_300"><circle cx="388" cy="150" r="117"/></clipPath>
 <g clip-path="url(#cl256_300)">
@@ -28,13 +28,13 @@
 <!-- LEFT kidney: concave hilum on the RIGHT (inner) side -->
 <path d="M 330 88 C 296 88 286 124 286 158 C 286 192 296 228 330 228 C 360 228 372 204 364 184 C 358 170 350 164 350 158 C 350 152 358 146 364 132 C 372 112 360 88 330 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- left hilum notch -->
-<circle cx="358" cy="158" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="358" cy="158" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.82"/>
 <!-- left sheen -->
 <path d="M 312 116 Q 300 158 314 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <!-- RIGHT kidney: mirror, concave hilum on the LEFT (inner) side -->
 <path d="M 446 88 C 480 88 490 124 490 158 C 490 192 480 228 446 228 C 416 228 404 204 412 184 C 418 170 426 164 426 158 C 426 152 418 146 412 132 C 404 112 416 88 446 88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <!-- right hilum notch -->
-<circle cx="418" cy="158" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="418" cy="158" r="11" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.82"/>
 <!-- right sheen -->
 <path d="M 464 116 Q 476 158 462 200" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 </g>

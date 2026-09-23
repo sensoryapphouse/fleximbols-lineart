@@ -11,16 +11,16 @@
   <circle cx="195" cy="165" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="195" cy="165" r="13" fill="none" stroke="#1a1a1a" stroke-width="3.55"/>
   
-  <line x1="50" y1="140" x2="240" y2="140" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <line x1="50" y1="140" x2="240" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
   <line x1="30" y1="55" x2="30" y2="110" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-dasharray="8,6"/>
   <circle cx="30" cy="45" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="30" cy="45" r="9" fill="none" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="30" cy="45" r="9" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <polyline points="24,105 30,115 36,105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   
   <line x1="260" y1="55" x2="260" y2="110" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round" stroke-dasharray="8,6"/>
   <circle cx="260" cy="45" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="260" cy="45" r="9" fill="none" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="260" cy="45" r="9" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <polyline points="254,105 260,115 266,105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   
   <path d="M80 218 Q145 232 210 218" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

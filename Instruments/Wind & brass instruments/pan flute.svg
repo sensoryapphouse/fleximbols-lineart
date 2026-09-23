@@ -22,12 +22,12 @@
   <!-- Binding cord band 2 (lower) -->
   <rect x="35" y="155" width="217" height="12" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Open tops of pipes (dark holes) -->
-  <ellipse cx="49" cy="46" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="76" cy="61" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="103" cy="75" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="130" cy="89" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="157" cy="101" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="184" cy="113" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="211" cy="124" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <ellipse cx="238" cy="134" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <ellipse cx="49" cy="46" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="76" cy="61" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="103" cy="75" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="130" cy="89" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="157" cy="101" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="184" cy="113" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="211" cy="124" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="238" cy="134" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

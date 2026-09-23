@@ -33,11 +33,11 @@
   <!-- Cow head -->
   <ellipse cx="254" cy="177" rx="10" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Cow snout -->
-  <ellipse cx="257" cy="181" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="257" cy="181" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Cow eye -->
   <circle cx="251" cy="175" r="2" fill="#1a1a1a"/>
   <!-- Cow ear -->
-  <ellipse cx="246" cy="170" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" transform="rotate(-15,246,170)"/>
+  <ellipse cx="246" cy="170" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15,246,170)"/>
   <!-- Cow horn -->
   <path d="M245,170 Q242,165 245,162" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <!-- Cow legs -->

@@ -19,9 +19,9 @@
   <path d="M 0,178 Q 40,168 80,176 Q 120,184 160,172 Q 200,160 240,170 Q 270,178 290,172 L 290,195 L 0,195 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- Skier silhouette fleeing (left side, lower slope) -->
   <!-- Body -->
-  <ellipse cx="72" cy="165" rx="7" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="72" cy="165" rx="7" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Head -->
-  <circle cx="72" cy="153" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="72" cy="153" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Ski poles -->
   <line x1="65" y1="162" x2="48" y2="180" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <line x1="79" y1="162" x2="90" y2="180" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>

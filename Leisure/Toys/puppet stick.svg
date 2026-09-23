@@ -37,5 +37,5 @@
   <ellipse cx="160" cy="100" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="240" cy="100" rx="10" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- attachment point (small tape) -->
-  <rect x="156" y="118" width="10" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="156" y="118" width="10" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

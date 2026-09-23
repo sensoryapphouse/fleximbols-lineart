@@ -14,7 +14,7 @@
 
 
 
-<rect x="283" y="254" width="29" height="33" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<rect x="283" y="254" width="29" height="33" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 <line x1="288" y1="254" x2="288" y2="237" stroke="#ffffff" stroke-width="6.6000000000000005" stroke-linecap="round"/>
 <line x1="294" y1="254" x2="294" y2="237" stroke="#ffffff" stroke-width="6.6000000000000005" stroke-linecap="round"/>
 <line x1="301" y1="254" x2="301" y2="237" stroke="#ffffff" stroke-width="6.6000000000000005" stroke-linecap="round"/>

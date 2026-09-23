@@ -12,11 +12,11 @@
   <ellipse cx="110" cy="162" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <ellipse cx="130" cy="158" rx="7" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
   <ellipse cx="150" cy="164" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
-  <ellipse cx="118" cy="172" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <ellipse cx="142" cy="170" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <ellipse cx="118" cy="172" rx="6" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="142" cy="170" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Crab pink flesh showing -->
   <ellipse cx="133" cy="166" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
-  <ellipse cx="155" cy="160" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <ellipse cx="155" cy="160" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Lemon wedge -->
   <path d="M208 155 Q230 145 240 168 Q230 180 208 175 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linecap="round"/>

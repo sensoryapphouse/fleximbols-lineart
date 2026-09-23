@@ -17,8 +17,8 @@
   <!-- Orange-red forehead/crown -->
   <path d="M 115,108 Q 145,90 175,108 Q 168,118 145,120 Q 122,118 115,108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Rosy cheek patches -->
-  <ellipse cx="122" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
-  <ellipse cx="168" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="122" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
+  <ellipse cx="168" cy="124" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Eyes -->
   <circle cx="132" cy="116" r="7" fill="#1a1a1a"/>
   <circle cx="134" cy="114" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />

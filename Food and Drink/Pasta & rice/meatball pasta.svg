@@ -24,20 +24,20 @@
   <circle cx="145" cy="140" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Back meatball surface texture/sheen -->
   <circle cx="135" cy="130" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M132 128 Q140 124 148 128" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M132 128 Q140 124 148 128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Front-left meatball -->
   <circle cx="104" cy="163" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="96" cy="154" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M93 152 Q100 148 108 152" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M93 152 Q100 148 108 152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Front-right meatball -->
   <circle cx="186" cy="163" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="177" cy="154" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M174 152 Q181 148 189 152" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M174 152 Q181 148 189 152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Sauce drizzle over meatballs -->
   <path d="M128 128 Q145 118 162 128" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <path d="M88 152 Q104 143 120 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M170 152 Q185 143 200 152" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Basil garnish on top -->
-  <ellipse cx="145" cy="108" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" transform="rotate(-20 145 108)"/>
-  <ellipse cx="158" cy="111" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round" transform="rotate(15 158 111)"/>
+  <ellipse cx="145" cy="108" rx="11" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-20 145 108)"/>
+  <ellipse cx="158" cy="111" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(15 158 111)"/>
 </g></svg>

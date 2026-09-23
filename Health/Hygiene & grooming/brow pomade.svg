@@ -5,7 +5,7 @@
   <!-- Pot lid (slightly wider, sitting on top) -->
   <rect x="34" y="84" width="112" height="24" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Lid label dot -->
-  <circle cx="90" cy="96" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="96" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pot interior (thick brown pigment visible at top, lid off effect on right side) -->
   <ellipse cx="90" cy="106" rx="46" ry="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pot shine -->

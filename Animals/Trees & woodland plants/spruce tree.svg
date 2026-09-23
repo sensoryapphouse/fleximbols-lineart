@@ -28,8 +28,8 @@
   <path d="M110 58 L145 65 L180 58 L168 48 L145 54 L122 48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Tier 5 with drooping tips -->
   <path d="M145 57 L108 44 L124 32 L145 38 L166 32 L182 44 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
-  <path d="M124 32 Q112 38 108 44" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M166 32 Q178 38 182 44" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M124 32 Q112 38 108 44" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M166 32 Q178 38 182 44" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pointed top -->
   <path d="M124 32 L145 12 L166 32 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
 </g></svg>

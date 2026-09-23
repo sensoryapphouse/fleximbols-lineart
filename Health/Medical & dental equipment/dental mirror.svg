@@ -3,9 +3,9 @@
 <!-- handle -->
 <rect x="244" y="200" width="24" height="220" rx="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- handle ridges -->
-<line x1="250" y1="300" x2="262" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="250" y1="322" x2="262" y2="322" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="250" y1="344" x2="262" y2="344" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="250" y1="300" x2="262" y2="300" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="250" y1="322" x2="262" y2="322" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="250" y1="344" x2="262" y2="344" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- short neck -->
 <rect x="248" y="170" width="16" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- round mirror head -->

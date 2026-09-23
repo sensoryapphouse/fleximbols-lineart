@@ -2,5 +2,5 @@
   <path d="M 145,30 Q 105,32 90,82 Q 75,148 100,200 Q 125,222 145,222 Q 165,222 190,200 Q 215,148 200,82 Q 185,32 145,30 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 145,55 Q 115,58 105,90 Q 95,148 115,195 Q 135,212 145,212 Q 155,212 175,195 Q 195,148 185,90 Q 175,58 145,55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round" stroke-linecap="round"></path>
   <circle cx="145" cy="138" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.94" stroke-linejoin="round" stroke-linecap="round"></circle>
-  <circle cx="145" cy="138" r="24" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"></circle>
+  <circle cx="145" cy="138" r="24" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"></circle>
 </g></svg>

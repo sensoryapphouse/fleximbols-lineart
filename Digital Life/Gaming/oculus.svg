@@ -3,8 +3,8 @@
   <path d="M 40,95 Q 40,72 80,68 L 210,68 Q 250,72 250,95 L 250,160 Q 250,182 220,188 Q 145,198 70,188 Q 40,182 40,160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"></path>
   <ellipse cx="100" cy="130" rx="28" ry="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
   <ellipse cx="190" cy="130" rx="28" ry="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"></ellipse>
-  <ellipse cx="100" cy="130" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></ellipse>
-  <ellipse cx="190" cy="130" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></ellipse>
+  <ellipse cx="100" cy="130" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></ellipse>
+  <ellipse cx="190" cy="130" rx="14" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></ellipse>
   <path d="M 60,180 Q 145,198 230,180" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 25,80 Q 12,78 10,95 Q 12,112 25,110" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>
   <path d="M 265,80 Q 278,78 280,95 Q 278,112 265,110" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"></path>

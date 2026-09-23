@@ -2,25 +2,25 @@
   <!-- Bamboo steamer bottom tier -->
   <rect x="38" y="172" width="214" height="44" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Steamer slat lines bottom -->
-  <line x1="38" y1="186" x2="252" y2="186" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="38" y1="200" x2="252" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="38" y1="186" x2="252" y2="186" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="38" y1="200" x2="252" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Bamboo steamer top tier -->
   <rect x="38" y="118" width="214" height="58" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Steamer interior -->
-  <rect x="44" y="124" width="202" height="46" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
+  <rect x="44" y="124" width="202" height="46" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round" data-lp="hair"/>
   <!-- Dumplings inside steamer - 4 har gow style -->
   <!-- Dumpling 1 -->
   <path d="M 68,152 Q 68,132 88,130 Q 108,132 108,152 Q 100,162 88,163 Q 76,162 68,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 70,148 Q 88,140 106,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 72,154 Q 88,146 104,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 70,148 Q 88,140 106,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 72,154 Q 88,146 104,154" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Dumpling 2 -->
   <path d="M 120,152 Q 120,132 140,130 Q 160,132 160,152 Q 152,162 140,163 Q 128,162 120,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 122,148 Q 140,140 158,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 124,154 Q 140,146 156,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 122,148 Q 140,140 158,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 124,154 Q 140,146 156,154" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Dumpling 3 -->
   <path d="M 172,152 Q 172,132 192,130 Q 212,132 212,152 Q 204,162 192,163 Q 180,162 172,152 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 174,148 Q 192,140 210,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M 176,154 Q 192,146 208,154" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 174,148 Q 192,140 210,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 176,154 Q 192,146 208,154" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Steamer lid -->
   <path d="M 38,118 Q 38,80 145,72 Q 252,80 252,118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Lid knob -->

@@ -32,5 +32,5 @@
 
 <line x1="200" y1="305" x2="194" y2="305" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="318" y1="305" x2="312" y2="305" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<path d="M 256 94.0 C 233.0 72.0 245.0 62.0 256 77.0 C 267.0 62.0 279.0 72.0 256 94.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 256 94.0 C 233.0 72.0 245.0 62.0 256 77.0 C 267.0 62.0 279.0 72.0 256 94.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.29" stroke-linejoin="round"/>
 </g></svg>

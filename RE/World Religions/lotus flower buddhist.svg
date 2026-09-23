@@ -14,7 +14,7 @@
   <ellipse cx="145" cy="120" rx="13" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Centre -->
   <circle cx="145" cy="145" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="145" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="145" cy="145" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Water base -->
   <ellipse cx="145" cy="200" rx="72" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Stem -->

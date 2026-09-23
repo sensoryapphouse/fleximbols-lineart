@@ -24,7 +24,7 @@
   <circle cx="145" cy="28" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="139" cy="26" r="3" fill="#1a1a1a"/>
   <circle cx="151" cy="26" r="3" fill="#1a1a1a"/>
-  <path d="M140 34 Q145 38 150 34" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M140 34 Q145 38 150 34" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Torso north -->
   <rect x="132" y="42" width="26" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
@@ -32,43 +32,43 @@
   <circle cx="262" cy="119" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="256" cy="117" r="3" fill="#1a1a1a"/>
   <circle cx="268" cy="117" r="3" fill="#1a1a1a"/>
-  <path d="M257 125 Q262 129 267 125" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M257 125 Q262 129 267 125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="212" y="110" width="22" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- STUDENT SOUTH -->
   <circle cx="145" cy="212" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="139" cy="210" r="3" fill="#1a1a1a"/>
   <circle cx="151" cy="210" r="3" fill="#1a1a1a"/>
-  <path d="M140 218 Q145 222 150 218" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M140 218 Q145 222 150 218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="132" y="194" width="26" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- STUDENT WEST -->
   <circle cx="28" cy="119" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="22" cy="117" r="3" fill="#1a1a1a"/>
   <circle cx="34" cy="117" r="3" fill="#1a1a1a"/>
-  <path d="M23 125 Q28 129 33 125" fill="none" stroke="#1a1a1a" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M23 125 Q28 129 33 125" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <rect x="56" y="110" width="22" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- CENTRE ADVISER figure (seated) -->
   <!-- Adviser head -->
   <circle cx="145" cy="100" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Hair -->
-  <path d="M129 94 Q130 80 145 78 Q160 80 161 94 L158 92 Q153 82 145 82 Q137 82 132 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M129 94 Q130 80 145 78 Q160 80 161 94 L158 92 Q153 82 145 82 Q137 82 132 92 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Eyes -->
   <circle cx="138" cy="98" r="3" fill="#1a1a1a"/>
   <circle cx="152" cy="98" r="3" fill="#1a1a1a"/>
   <!-- Mouth smile -->
-  <path d="M139 107 Q145 112 151 107" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M139 107 Q145 112 151 107" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Adviser torso -->
   <rect x="126" y="120" width="38" height="40" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Arms out suggesting discussion -->
   <path d="M126 130 L104 128" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <path d="M164 130 L186 128" fill="none" stroke="#1a1a1a" stroke-width="7.77" stroke-linecap="round"/>
   <!-- Hands -->
-  <ellipse cx="100" cy="128" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="190" cy="128" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="100" cy="128" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="190" cy="128" rx="8" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Conversation arc lines suggesting discussion -->
-  <path d="M115 80 Q108 68 118 60" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="4,4"/>
-  <path d="M175 80 Q182 68 172 60" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <path d="M115 80 Q108 68 118 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,4"/>
+  <path d="M175 80 Q182 68 172 60" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="4,4"/>
 </g></svg>

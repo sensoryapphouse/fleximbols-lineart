@@ -5,14 +5,14 @@
   <path d="M90 18 Q80 10 72 16 Q62 24 68 40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M200 18 Q210 10 218 16 Q228 24 222 40" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Navel -->
-  <ellipse cx="145" cy="132" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="132" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- ABDOMEN HIGHLIGHTED - soft belly region (below ribs, above groin) -->
   <path d="M96 100 Q88 130 92 160 Q108 184 145 188 Q182 184 198 160 Q202 130 194 100 Q172 110 145 110 Q118 110 96 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Navel re-drawn on top -->
-  <ellipse cx="145" cy="132" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="145" cy="132" rx="6" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Rib cage lower edge suggestion -->
   <path d="M96 100 Q120 90 145 88 Q170 90 194 100" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Pointer line + dot -->
-  <line x1="202" y1="132" x2="248" y2="118" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="202" y1="132" x2="248" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="248" cy="118" r="6" fill="#1a1a1a"/>
 </g></svg>

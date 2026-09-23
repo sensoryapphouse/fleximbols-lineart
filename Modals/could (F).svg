@@ -13,5 +13,5 @@
 <path d="M 306 216 Q 306 184 338 184 Q 374 184 374 218 Q 374 244 340 256 L 340 274" fill="none" stroke="#1a1a1a" stroke-width="32" stroke-linecap="round"/>
 <circle cx="340" cy="304" r="20" fill="#1a1a1a"/>
 <path d="M 306 216 Q 306 184 338 184 Q 374 184 374 218 Q 374 244 340 256 L 340 274" fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
-<circle cx="340" cy="304" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="340" cy="304" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

@@ -9,7 +9,7 @@
 <ellipse cx="0" cy="28" rx="40" ry="30" fill="#ffffff" stroke-width="9" stroke="#1a1a1a"  data-lp="skin"/>
 <circle cx="-26" cy="-6" r="6" fill="#1a1a1a"/>
 <circle cx="26" cy="-6" r="6" fill="#1a1a1a"/>
-<path d="M 0 18 L 0 36 M 0 36 Q -16 48 -28 40 M 0 36 Q 16 48 28 40" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 0 18 L 0 36 M 0 36 Q -16 48 -28 40 M 0 36 Q 16 48 28 40" fill="none" stroke="#1a1a1a" stroke-width="9.68"/>
 <path d="M -10 18 L 10 18 L 0 30 Z" fill="#1a1a1a"/>
 </g>
 <!-- lioness back right -->
@@ -20,7 +20,7 @@
 <ellipse cx="0" cy="28" rx="40" ry="30" fill="#ffffff" stroke-width="9" stroke="#1a1a1a"  data-lp="skin"/>
 <circle cx="-26" cy="-6" r="6" fill="#1a1a1a"/>
 <circle cx="26" cy="-6" r="6" fill="#1a1a1a"/>
-<path d="M 0 18 L 0 36 M 0 36 Q -16 48 -28 40 M 0 36 Q 16 48 28 40" fill="none" stroke="#1a1a1a" stroke-width="8"/>
+<path d="M 0 18 L 0 36 M 0 36 Q -16 48 -28 40 M 0 36 Q 16 48 28 40" fill="none" stroke="#1a1a1a" stroke-width="9.68"/>
 <path d="M -10 18 L 10 18 L 0 30 Z" fill="#1a1a1a"/>
 </g>
 <!-- male lion front centre, big mane -->

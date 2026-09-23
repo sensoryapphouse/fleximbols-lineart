@@ -15,10 +15,10 @@
   <line x1="145" y1="25" x2="205" y2="195" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Guy ropes left -->
   <line x1="80" y1="100" x2="40" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="40" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Guy ropes right -->
   <line x1="210" y1="100" x2="250" y2="130" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="250" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="250" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Interior furnishings visible through door -->
   <!-- Bed/mattress -->
   <path d="M 122 190 Q 145 182 168 190 L 168 178 Q 145 170 122 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

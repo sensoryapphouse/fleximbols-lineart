@@ -5,13 +5,13 @@
   <!-- Inner palette surface -->
   <rect x="160" y="148" width="112" height="74" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Colour pans — row 1 -->
-  <rect x="168" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="202" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="236" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="168" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="202" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="236" y="156" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Colour pans — row 2 -->
-  <rect x="168" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="202" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <rect x="236" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="168" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="202" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="236" y="186" width="28" height="24" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Large eye close-up (upper half of canvas) -->
   <!-- Eye white area -->
@@ -19,7 +19,7 @@
   <!-- Iris -->
   <circle cx="145" cy="100" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Pupil -->
-  <circle cx="145" cy="100" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="145" cy="100" r="20" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Highlight in eye -->
   <circle cx="155" cy="90" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Upper eyelid shadow area (eyelid fold) -->
@@ -27,7 +27,7 @@
   <!-- Eyelid — top lid shape -->
   <path d="M 20 100 Q 28 62 145 56 Q 262 62 270 100" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- Eyeshadow colour on eyelid -->
-  <path d="M 50 86 Q 80 64 145 60 Q 210 64 240 86 Q 200 92 145 94 Q 90 92 50 86 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <path d="M 50 86 Q 80 64 145 60 Q 210 64 240 86 Q 200 92 145 94 Q 90 92 50 86 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Crease / highlight band -->
   <path d="M 70 78 Q 145 66 220 78 Q 200 80 145 82 Q 90 80 70 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Eyelashes top -->
@@ -45,7 +45,7 @@
   <!-- Handle -->
   <rect x="228" y="30" width="10" height="60" rx="5" transform="rotate(40 228 30)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Ferrule -->
-  <rect x="220" y="62" width="14" height="9" rx="2" transform="rotate(40 220 62)" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="220" y="62" width="14" height="9" rx="2" transform="rotate(40 220 62)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Applicator tip (small flat sponge) -->
   <ellipse cx="207" cy="83" rx="12" ry="7" transform="rotate(40 207 83)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

@@ -12,6 +12,6 @@
   <!-- blue open-box sync indicator (replaces DROPBOX text) -->
   <rect x="40" y="178" width="180" height="32" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- cloud + arrows icon -->
-  <path d="M70 190 Q74 182 84 184 Q88 178 96 181 Q104 176 110 183 Q118 180 116 190 L70 190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M70 190 Q74 182 84 184 Q88 178 96 181 Q104 176 110 183 Q118 180 116 190 L70 190 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M80 190 L80 200 M80 200 L74 196 M80 200 L86 196" fill="none" stroke="#ffffff" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

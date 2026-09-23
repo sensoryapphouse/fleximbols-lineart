@@ -4,13 +4,13 @@
   <!-- glass top rim ellipse -->
   <ellipse cx="145" cy="50" rx="75" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- amber whiskey liquid -->
-  <path d="M76 90 L78 213 L212 213 L214 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M76 90 L78 213 L212 213 L214 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- liquid surface ellipse -->
-  <ellipse cx="145" cy="90" rx="69" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="90" rx="69" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- large ice cube -->
   <rect x="105" y="100" width="50" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="105" y1="115" x2="155" y2="115" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="120" y1="100" x2="120" y2="150" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="105" y1="115" x2="155" y2="115" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="120" y1="100" x2="120" y2="150" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- second smaller ice cube -->
   <rect x="160" y="125" width="32" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- orange slice/wedge -->

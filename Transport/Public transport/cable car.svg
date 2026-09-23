@@ -20,7 +20,7 @@
   <!-- cabin door -->
   <rect x="132" y="138" width="26" height="36" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- door handle -->
-  <circle cx="154" cy="157" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="154" cy="157" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- pulley/wheel on top of cabin -->
   <circle cx="145" cy="80" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- ground line -->

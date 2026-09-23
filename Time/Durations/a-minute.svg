@@ -14,5 +14,5 @@
 <line x1="136" y1="187" x2="129" y2="182" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="187" y1="136" x2="182" y2="129" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="256" y1="256" x2="297" y2="143" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="256" cy="256" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="256" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.07"/>
 </g></svg>

@@ -4,7 +4,7 @@
   <!-- Cup rim highlight -->
   <ellipse cx="145" cy="140" rx="70" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" data-lp="hair"/>
   <!-- Cup ribs (vertical lines on side) -->
-  <path d="M 100,150 L 102,200 M 125,150 L 126,205 M 145,150 L 145,208 M 165,150 L 164,205 M 190,150 L 188,200" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 100,150 L 102,200 M 125,150 L 126,205 M 145,150 L 145,208 M 165,150 L 164,205 M 190,150 L 188,200" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wax pool (top surface inside cup) -->
   <ellipse cx="145" cy="140" rx="60" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wick -->

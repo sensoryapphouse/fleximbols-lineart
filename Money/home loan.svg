@@ -6,21 +6,21 @@
   <!-- Door -->
   <rect x="116" y="158" width="38" height="52" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
   <!-- Doorknob -->
-  <circle cx="148" cy="186" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="148" cy="186" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Window left -->
   <rect x="68" y="148" width="38" height="34" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
-  <line x1="87" y1="148" x2="87" y2="182" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="68" y1="165" x2="106" y2="165" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="87" y1="148" x2="87" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="68" y1="165" x2="106" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Window right -->
   <rect x="184" y="148" width="38" height="34" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round"/>
-  <line x1="203" y1="148" x2="203" y2="182" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="184" y1="165" x2="222" y2="165" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="203" y1="148" x2="203" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="184" y1="165" x2="222" y2="165" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Coin (bottom-right, overlapping) -->
   <circle cx="234" cy="185" r="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
-  <circle cx="234" cy="185" r="16" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="234" cy="185" r="16" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Borrow arrow (curved arrow pointing toward house, bottom-left) -->
   <path d="M 30,195 Q 20,175 38,162" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round"/>
-  <polygon points="38,162 28,154 46,152" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="38,162 28,154 46,152" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

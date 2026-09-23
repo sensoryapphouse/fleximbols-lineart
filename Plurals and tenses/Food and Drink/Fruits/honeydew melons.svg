@@ -16,10 +16,10 @@
   <!-- seed cavity at top of cut -->
   <ellipse cx="222" cy="125" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- seeds -->
-  <ellipse cx="212" cy="123" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(20 212 123)"/>
-  <ellipse cx="220" cy="120" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="228" cy="124" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-15 228 124)"/>
-  <ellipse cx="215" cy="129" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="225" cy="130" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(25 225 130)"/>
-  <ellipse cx="232" cy="128" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <ellipse cx="212" cy="123" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(20 212 123)"/>
+  <ellipse cx="220" cy="120" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="228" cy="124" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 228 124)"/>
+  <ellipse cx="215" cy="129" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="225" cy="130" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(25 225 130)"/>
+  <ellipse cx="232" cy="128" rx="3" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -5,7 +5,7 @@
   <!-- Black strand -->
   <path d="M 70,30 Q 40,55 70,80 Q 100,105 70,130 Q 40,155 70,180 Q 100,205 70,225" fill="none" stroke="#1a1a1a" stroke-width="24.44" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Outline of red strand on top -->
-  <path d="M 70,30 Q 100,55 70,80 Q 40,105 70,130 Q 100,155 70,180 Q 40,205 70,225" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 70,30 Q 100,55 70,80 Q 40,105 70,130 Q 100,155 70,180 Q 40,205 70,225" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Red highlights/sheen along spiral curves -->
   <path d="M 78,42 Q 88,55 82,70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 62,92 Q 52,105 58,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
@@ -14,14 +14,14 @@
   <!-- Second twist (right side) -->
   <path d="M 200,30 Q 230,55 200,80 Q 170,105 200,130 Q 230,155 200,180 Q 170,205 200,225" fill="none" stroke="#1a1a1a" stroke-width="24.44" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 200,30 Q 170,55 200,80 Q 230,105 200,130 Q 170,155 200,180 Q 230,205 200,225" fill="none" stroke="#1a1a1a" stroke-width="24.44" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M 200,30 Q 230,55 200,80 Q 170,105 200,130 Q 230,155 200,180 Q 170,205 200,225" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M 200,30 Q 230,55 200,80 Q 170,105 200,130 Q 230,155 200,180 Q 170,205 200,225" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M 208,42 Q 218,55 212,70" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 192,92 Q 182,105 188,120" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 208,142 Q 218,155 212,170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Cut ends showing cross-section spiral -->
-  <ellipse cx="70" cy="30" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="70" cy="225" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="200" cy="30" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="200" cy="225" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="70" cy="30" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="70" cy="225" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="200" cy="30" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="200" cy="225" rx="16" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

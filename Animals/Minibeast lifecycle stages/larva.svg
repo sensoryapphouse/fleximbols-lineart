@@ -9,7 +9,7 @@
 <circle cx="262" cy="288" r="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- head -->
 <circle cx="326" cy="288" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="344" cy="274" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="344" cy="274" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="346" cy="276" r="5" fill="#1a1a1a"/>
 <path d="M 332 312 q 16 12 32 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
 <!-- antennae -->

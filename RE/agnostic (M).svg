@@ -2,8 +2,8 @@
 <text x="135" y="160" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="120" fill="#1a1a1a">?</text>
 <line x1="57" y1="330" x2="57" y2="392" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <line x1="39" y1="352" x2="75" y2="352" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
-<path d="M 227 330 a 32 32 0 1 0 0 64 a 24 24 0 1 1 0 -64 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-<polygon points="135,360 143,384 169,384 148,400 156,424 135,409 114,424 122,400 101,384 127,384" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 227 330 a 32 32 0 1 0 0 64 a 24 24 0 1 1 0 -64 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.21" stroke-linejoin="round"/>
+<polygon points="135,360 143,384 169,384 148,400 156,424 135,409 114,424 122,400 101,384 127,384" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.21" stroke-linejoin="round"/>
 <line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="353" y1="303" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="383" y1="303" x2="392" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="344" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

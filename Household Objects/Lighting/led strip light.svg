@@ -14,8 +14,8 @@
   <circle cx="255" cy="45" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 20,90 Q 60,75 100,90 Q 145,115 195,90 Q 245,65 280,90" fill="none" stroke="#1a1a1a" stroke-width="4.45"></path>
   <rect x="100" y="155" width="90" height="50" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"></rect>
-  <rect x="108" y="163" width="74" height="34" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <circle cx="125" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></circle>
-  <circle cx="145" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></circle>
-  <circle cx="165" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"></circle>
+  <rect x="108" y="163" width="74" height="34" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <circle cx="125" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="145" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
+  <circle cx="165" cy="180" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
 </g></svg>

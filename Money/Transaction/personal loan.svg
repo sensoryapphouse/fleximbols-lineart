@@ -13,7 +13,7 @@
   <rect x="64" y="154" width="122" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"/>
   <!-- Coin (top-right, overlapping wallet) -->
   <circle cx="232" cy="110" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="232" cy="110" r="17" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="232" cy="110" r="17" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Open hand receiving (bottom, simple stylized hand outline) -->
   <path d="M 80,205 Q 78,185 90,178 L 160,178 Q 174,185 172,205" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
@@ -25,5 +25,5 @@
 
   <!-- Arrow from coin toward hand -->
   <line x1="220" y1="135" x2="160" y2="170" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <polygon points="160,170 150,162 168,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="160,170 150,162 168,162" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

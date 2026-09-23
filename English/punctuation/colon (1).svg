@@ -4,7 +4,7 @@
   <!-- Neck -->
   <rect x="125" y="14" width="40" height="22" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Small intestine context -->
-  <ellipse cx="145" cy="153" rx="32" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" data-lp="hair"/>
+  <ellipse cx="145" cy="153" rx="32" ry="38" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" data-lp="hair"/>
   <!-- COLON: segmented frame with haustra (pouches) showing ascending/transverse/descending -->
   <!-- Ascending colon right - segmented with haustra bumps -->
   <path d="M186 192 C190 184 192 172 190 162 C190 152 186 144 188 134 C190 124 192 116 190 108 C189 104 186 102 183 103" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
@@ -34,7 +34,7 @@
   <!-- Sigmoid colon bottom -->
   <path d="M100 192 C100 198 106 202 115 202 L145 202 L175 202 C184 202 190 198 186 192" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
   <!-- Outline all colon segments with black border -->
-  <path d="M186 192 C190 184 192 172 190 162 C190 152 186 144 188 134 C190 124 192 116 190 108 C189 104 186 102 183 103 C178 100 170 100 163 102 C155 100 145 100 135 100 C127 100 117 102 107 103 C103 102 100 104 99 108 C97 118 98 128 98 138 C97 148 96 160 98 170 C99 180 100 188 100 192 C100 198 106 202 115 202 L145 202 L175 202 C184 202 190 198 186 192" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M186 192 C190 184 192 172 190 162 C190 152 186 144 188 134 C190 124 192 116 190 108 C189 104 186 102 183 103 C178 100 170 100 163 102 C155 100 145 100 135 100 C127 100 117 102 107 103 C103 102 100 104 99 108 C97 118 98 128 98 138 C97 148 96 160 98 170 C99 180 100 188 100 192 C100 198 106 202 115 202 L145 202 L175 202 C184 202 190 198 186 192" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Pointer dot -->
   <circle cx="145" cy="102" r="5" fill="#1a1a1a"/>
 </g></svg>

@@ -27,9 +27,9 @@
   <path d="M 162 80 L 145 70 L 160 88 L 145 92 L 165 95 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- olive branch in beak -->
   <path d="M 260 67 L 285 60" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="270" cy="60" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-20 270 60)"/>
-  <ellipse cx="278" cy="56" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(-25 278 56)"/>
-  <ellipse cx="282" cy="63" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" transform="rotate(15 282 63)"/>
+  <ellipse cx="270" cy="60" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20 270 60)"/>
+  <ellipse cx="278" cy="56" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-25 278 56)"/>
+  <ellipse cx="282" cy="63" rx="4" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(15 282 63)"/>
   <!-- peace symbol (bottom right) -->
   <circle cx="200" cy="170" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.22"/>
   <path d="M 200 130 L 200 210" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>

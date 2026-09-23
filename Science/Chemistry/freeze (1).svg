@@ -5,11 +5,11 @@
   <!-- Food inside (fruit) -->
   <ellipse cx="145" cy="152" rx="35" ry="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Strawberry seeds detail -->
-  <ellipse cx="135" cy="148" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="143" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="155" cy="148" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="140" cy="158" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="152" cy="158" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="135" cy="148" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="143" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="155" cy="148" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="140" cy="158" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="152" cy="158" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Strawberry top -->
   <path d="M130,122 Q145,108 160,122" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Ice crystals inside block -->
@@ -33,7 +33,7 @@
   <line x1="170" y1="50" x2="163" y2="43" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="170" y1="50" x2="163" y2="57" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Ice crystal corner decorations -->
-  <polygon points="185,95 193,90 191,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <polygon points="105,185 97,190 99,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <polygon points="185,185 193,190 193,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <polygon points="185,95 193,90 191,100" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="105,185 97,190 99,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <polygon points="185,185 193,190 193,180" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

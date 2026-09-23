@@ -16,61 +16,61 @@
   <!-- using a macro: each floret = 6 small petals radiating -->
   <!-- floret at y=185 left -->
   <circle cx="122" cy="183" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M122 173 l2 7 l-4 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M122 193 l2-7 l-4 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M112 183 l7 2 l0-4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <path d="M132 183 l-7 2 l0-4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="122" cy="183" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M122 173 l2 7 l-4 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M122 193 l2-7 l-4 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M112 183 l7 2 l0-4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M132 183 l-7 2 l0-4 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="122" cy="183" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- floret y=185 right -->
   <circle cx="168" cy="183" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="168" cy="183" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="168" cy="183" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- floret row y=170 left -->
   <circle cx="118" cy="170" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="118" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- floret row y=170 right -->
   <circle cx="172" cy="170" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="172" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="172" cy="170" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- floret row y=157 left -->
   <circle cx="114" cy="157" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="114" cy="157" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="114" cy="157" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- floret row y=157 right -->
   <circle cx="176" cy="157" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="176" cy="157" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="176" cy="157" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- middle (wider) rows -->
   <circle cx="112" cy="143" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="112" cy="143" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="112" cy="143" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="178" cy="143" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="178" cy="143" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="178" cy="143" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- also centre florets -->
   <circle cx="145" cy="190" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="190" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="190" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="175" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="175" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="175" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="160" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="160" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="160" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="145" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="145" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="145" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- narrowing upper spike rows -->
   <circle cx="120" cy="130" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="120" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="120" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="170" cy="130" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="170" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="170" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="130" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="130" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="130" cy="118" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="130" cy="118" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="130" cy="118" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="160" cy="118" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="160" cy="118" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="160" cy="118" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="115" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="115" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="115" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- upper narrowing -->
   <circle cx="137" cy="103" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="137" cy="103" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="137" cy="103" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="153" cy="103" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="153" cy="103" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="153" cy="103" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="95" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="95" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="95" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- tip florets -->
   <circle cx="145" cy="82" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="82" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="82" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

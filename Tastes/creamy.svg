@@ -10,10 +10,10 @@
   <!-- Swirl curl at top of peak -->
   <path d="M145 35 Q158 28 162 38 Q165 50 155 52 Q145 53 142 45" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Glossy highlight on swirl -->
-  <ellipse cx="152" cy="88" rx="5" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" transform="rotate(-15 152 88)"/>
+  <ellipse cx="152" cy="88" rx="5" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-15 152 88)"/>
   <!-- Bowl rim highlight -->
-  <path d="M75 135 Q145 128 215 135" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M75 135 Q145 128 215 135" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Small dots suggesting creaminess -->
-  <circle cx="110" cy="148" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="180" cy="148" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="110" cy="148" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="148" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

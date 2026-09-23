@@ -24,43 +24,43 @@
   <!-- Tube 1 (bass): top at y=125, height=65 -->
   <rect x="58" y="125" width="12" height="65" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Disc 1 at top of tube: small dark ellipse -->
-  <ellipse cx="64" cy="127" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="64" cy="127" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 2: height=60, top=130 -->
   <rect x="77" y="130" width="12" height="60" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="83" cy="132" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="83" cy="132" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 3: height=55, top=135 -->
   <rect x="96" y="135" width="12" height="55" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="102" cy="137" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="102" cy="137" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 4: height=50, top=140 -->
   <rect x="115" y="140" width="12" height="50" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="121" cy="142" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="121" cy="142" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 5: height=46, top=144 -->
   <rect x="134" y="144" width="12" height="46" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="140" cy="146" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="140" cy="146" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 6: height=42, top=148 -->
   <rect x="153" y="148" width="12" height="42" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="159" cy="150" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="159" cy="150" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 7: height=38, top=152 -->
   <rect x="172" y="152" width="12" height="38" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="178" cy="154" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="178" cy="154" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 8: height=34, top=156 -->
   <rect x="191" y="156" width="12" height="34" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="197" cy="158" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="197" cy="158" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 9: height=30, top=160 -->
   <rect x="210" y="160" width="12" height="30" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="216" cy="162" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="216" cy="162" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Tube 10 (treble): height=26, top=164 -->
   <rect x="222" y="164" width="12" height="26" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <ellipse cx="228" cy="166" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="228" cy="166" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- 10 silver metal bars (same width as marimba but silver not wood) -->
   <!-- Bar 1 -->

@@ -3,13 +3,13 @@
   <path d="M90 25 L100 220 L190 220 L200 25 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- salt rim -->
   <path d="M90 25 L200 25 L198 38 L92 38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
-  <circle cx="100" cy="30" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="115" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="130" cy="29" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="145" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="160" cy="29" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="175" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="190" cy="30" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="100" cy="30" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="130" cy="29" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="160" cy="29" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="33" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="30" r="1.8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- pale pink grapefruit liquid -->
   <path d="M93 42 L102 215 L188 215 L197 42 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- ice cubes -->
@@ -23,4 +23,4 @@
   <path d="M180 24 L198 42" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
   <!-- glass shine -->
   <line x1="105" y1="50" x2="108" y2="200" stroke="#ffffff" stroke-width="6.67" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

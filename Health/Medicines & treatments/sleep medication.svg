@@ -8,10 +8,10 @@
   <!-- bottle body -->
   <rect x="85" y="98" width="120" height="120" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- label -->
-  <rect x="95" y="120" width="100" height="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="95" y="120" width="100" height="70" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- moon on label -->
   <path d="M165 138 A20 20 0 1 1 145 175 A16 16 0 0 0 165 138 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- loose pill -->
   <ellipse cx="225" cy="205" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M210 201 L240 209" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M210 201 L240 209" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

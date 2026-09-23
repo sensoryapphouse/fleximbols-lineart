@@ -19,7 +19,7 @@
   <rect x="58" y="144" width="80" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Clock on right side - larger, formal wall clock -->
   <circle cx="198" cy="108" r="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
-  <circle cx="198" cy="108" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="198" cy="108" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Clock tick marks -->
   <line x1="198" y1="78" x2="198" y2="84" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="198" y1="128" x2="198" y2="134" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

@@ -18,14 +18,14 @@
   <!-- Screw cap -->
   <rect x="76" y="46" width="62" height="34" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Cap thread lines -->
-  <line x1="83" y1="56" x2="130" y2="56" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="81" y1="64" x2="132" y2="64" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="83" y1="56" x2="130" y2="56" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="81" y1="64" x2="132" y2="64" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Brush handle extended (at an angle, painting down-right) -->
   <line x1="107" y1="46" x2="155" y2="148" stroke="#1a1a1a" stroke-width="10.36" stroke-linecap="round"/>
   <!-- Brush bristle tip (at the painting end) -->
   <path d="M 151,142 Q 162,152 155,160 Q 148,155 148,144 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- White fluid on bristle -->
-  <circle cx="154" cy="153" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="154" cy="153" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Label detail on bottle -->
   <rect x="70" y="127" width="74" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <line x1="76" y1="136" x2="136" y2="136" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

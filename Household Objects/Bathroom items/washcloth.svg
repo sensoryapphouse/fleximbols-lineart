@@ -7,7 +7,7 @@
   <!-- folded top flap -->
   <path d="M75 65 L215 65 L195 105 L95 105 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- fold crease lines -->
-  <path d="M75 130 L215 130" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M75 130 L215 130" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- decorative stitched border -->
   <rect x="85" y="75" width="120" height="105" fill="none" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
   <!-- center motif small square -->

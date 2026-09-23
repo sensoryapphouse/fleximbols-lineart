@@ -18,14 +18,14 @@
   <!-- Core bite right -->
   <path d="M152 148 Q157 152 156 160 Q155 166 152 168" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Seeds -->
-  <ellipse cx="143" cy="163" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <ellipse cx="147" cy="163" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <ellipse cx="143" cy="163" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="147" cy="163" rx="3" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stem -->
   <line x1="145" y1="143" x2="145" y2="135" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <!-- Decay leaf beside core -->
   <path d="M158 140 Q172 130 175 145 Q172 155 158 152 Q162 145 158 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Leaf vein -->
-  <line x1="158" y1="146" x2="172" y2="140" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="158" y1="146" x2="172" y2="140" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Soil swirl dots suggesting decomposition -->
   <circle cx="120" cy="195" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81"/>
   <circle cx="133" cy="200" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81"/>

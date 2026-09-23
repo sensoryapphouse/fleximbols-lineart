@@ -7,5 +7,5 @@
 <ellipse cx="256" cy="300" rx="128" ry="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <!-- seat ring (inner hole) -->
 <ellipse cx="256" cy="306" rx="76" ry="74" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="256" cy="306" rx="64" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256" cy="306" rx="64" ry="62" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

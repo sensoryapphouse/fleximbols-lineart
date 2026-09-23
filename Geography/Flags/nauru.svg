@@ -6,8 +6,8 @@
   </defs>
   <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#nr-a)" transform="translate(51.3)scale(.9375)">
     <path fill="#1a1a1a" d="M-140 0H884v512H-140z"/>
-    <path fill="#ffffff" d="M-140 234.1H884V278H-140z" stroke="#1a1a1a" stroke-width="5.33"/>
-    <path fill="#ffffff" d="m161.8 438-33-33-10.5 45.4-12-45-31.9 34 12.1-45L42 407.9l33-33-45.4-10.6 45-12-34-31.8 45 12L72 288l33 33 10.6-45.4 12 45 31.8-34-12 45 44.5-13.5-33 33 45.4 10.5-45 12 34 32-45-12.2z" stroke="#1a1a1a" stroke-width="5.33"/>
+    <path fill="#ffffff" d="M-140 234.1H884V278H-140z" stroke="#1a1a1a" stroke-width="6.4"/>
+    <path fill="#ffffff" d="m161.8 438-33-33-10.5 45.4-12-45-31.9 34 12.1-45L42 407.9l33-33-45.4-10.6 45-12-34-31.8 45 12L72 288l33 33 10.6-45.4 12 45 31.8-34-12 45 44.5-13.5-33 33 45.4 10.5-45 12 34 32-45-12.2z" stroke="#1a1a1a" stroke-width="6.4"/>
   </g>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

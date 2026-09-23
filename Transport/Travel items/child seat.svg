@@ -18,7 +18,7 @@
   
   <line x1="170" y1="100" x2="182" y2="152" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   
-  <rect x="128" y="122" width="34" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="128" y="122" width="34" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   
   <line x1="145" y1="132" x2="145" y2="154" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   

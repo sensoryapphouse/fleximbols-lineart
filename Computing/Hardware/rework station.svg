@@ -36,11 +36,11 @@
   <!-- Circuit board being reworked -->
   <rect x="160" y="155" width="105" height="65" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- PCB grid lines -->
-  <line x1="185" y1="155" x2="185" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="210" y1="155" x2="210" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="235" y1="155" x2="235" y2="220" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="160" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="160" y1="195" x2="265" y2="195" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="185" y1="155" x2="185" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="210" y1="155" x2="210" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="235" y1="155" x2="235" y2="220" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="175" x2="265" y2="175" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="160" y1="195" x2="265" y2="195" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- IC chip being reworked (target component) -->
   <rect x="192" y="178" width="36" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- IC pins -->

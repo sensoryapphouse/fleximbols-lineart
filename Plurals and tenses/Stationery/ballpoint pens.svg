@@ -23,7 +23,7 @@
   <!-- Tip cone (narrow ballpoint) -->
   <path d="M 240,109 L 262,117 L 240,125 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Ballpoint ball -->
-  <circle cx="262" cy="117" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="262" cy="117" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Thin scratchy ink line (thinner than gel, with slight irregularity) -->
   <path d="M 75,158 L 110,155 L 148,159 L 186,156 L 222,160 L 258,157" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
@@ -31,5 +31,5 @@
   <path d="M 130,158 L 136,158" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
 
   <!-- Second line below, also thin -->
-  <path d="M 75,170 Q 130,167 200,171 Q 228,173 258,170" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 75,170 Q 130,167 200,171 Q 228,173 258,170" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

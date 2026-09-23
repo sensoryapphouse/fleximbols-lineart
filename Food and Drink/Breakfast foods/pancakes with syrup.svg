@@ -11,10 +11,10 @@
     <!-- Liquid inside bottle -->
     <rect x="67" y="48" width="32" height="38" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
     <!-- Bottle label -->
-    <rect x="70" y="36" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54" stroke-linejoin="round"/>
-    <line x1="74" y1="42" x2="92" y2="42" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-    <line x1="74" y1="48" x2="92" y2="48" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-    <line x1="74" y1="54" x2="92" y2="54" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+    <rect x="70" y="36" width="26" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+    <line x1="74" y1="42" x2="92" y2="42" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+    <line x1="74" y1="48" x2="92" y2="48" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+    <line x1="74" y1="54" x2="92" y2="54" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   </g>
 
   <!-- Thin continuous drizzle stream (wavy line falling down) -->

@@ -6,10 +6,10 @@
 <path d="M 256 150 q 18 -26 0 -52 q -18 -26 0 -52" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 282 150 q 18 -26 0 -52 q -18 -26 0 -52" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <ellipse cx="256.0" cy="322.0" rx="132.0" ry="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="256.0" cy="318.0" rx="90.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256.0" cy="318.0" rx="90.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15"/>
 <path d="M 176 200 L 336 200 L 322 296 Q 256 320 190 296 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 176 200 L 336 200 L 332 224 Q 256 244 180 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<ellipse cx="256.0" cy="202.0" rx="80.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="hair"/>
+<path d="M 176 200 L 336 200 L 332 224 Q 256 244 180 224 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15" stroke-linejoin="round"/>
+<ellipse cx="256.0" cy="202.0" rx="80.0" ry="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.15" data-lp="hair"/>
 <path d="M 336 214 q 56 0 56 40 q 0 38 -50 40" fill="none" stroke="#ffffff" stroke-width="14" stroke-linejoin="round"/>
 <path d="M 336 214 q 56 0 56 40 q 0 38 -50 40" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 </g></svg>

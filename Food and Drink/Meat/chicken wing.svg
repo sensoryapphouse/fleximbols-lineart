@@ -10,10 +10,10 @@
   <ellipse cx="172" cy="160" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.85" stroke-linejoin="round" stroke-linecap="round"/>
   <ellipse cx="108" cy="158" rx="18" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.04" stroke-linejoin="round" stroke-linecap="round"/>
   
-  <path d="M 100 140 Q 118 132 136 140" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
-  <path d="M 140 125 Q 158 118 174 128" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
-  <path d="M 155 155 Q 170 148 185 156" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
-  <path d="M 100 162 Q 116 154 130 162" fill="none" stroke="#1a1a1a" stroke-width="3.23" stroke-linecap="round"/>
+  <path d="M 100 140 Q 118 132 136 140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 140 125 Q 158 118 174 128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 155 155 Q 170 148 185 156" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 100 162 Q 116 154 130 162" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   
   <ellipse cx="118" cy="118" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

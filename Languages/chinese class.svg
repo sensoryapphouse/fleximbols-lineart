@@ -24,9 +24,9 @@
   <line x1="185" y1="195" x2="190" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="195" y1="195" x2="190" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Lantern ribs -->
-  <line x1="162" y1="118" x2="218" y2="118" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="162" y1="130" x2="218" y2="130" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="162" y1="142" x2="218" y2="142" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="162" y1="118" x2="218" y2="118" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="162" y1="130" x2="218" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="162" y1="142" x2="218" y2="142" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Ground baseline -->
   <line x1="20" y1="205" x2="260" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
 </g></svg>

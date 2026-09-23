@@ -10,7 +10,7 @@
   <!-- Zip pull tab -->
   <rect x="138" y="74" width="14" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Zip teeth suggestion -->
-  <path d="M68 92 Q145 83 222 92" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-dasharray="6 4"/>
+  <path d="M68 92 Q145 83 222 92" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 4"/>
   <!-- Top handle left -->
   <path d="M100 80 Q100 50 130 50 Q145 50 145 50" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M100 80 Q100 50 130 50 Q145 50 145 50" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

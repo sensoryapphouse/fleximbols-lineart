@@ -5,5 +5,5 @@
   <circle cx="304" cy="240" r="72" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"/>
   <circle cx="320" cy="240" r="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="m384 200 7.7 21.5 20.6-9.8-9.8 20.7L424 240l-21.5 7.7 9.8 20.6-20.6-9.8L384 280l-7.7-21.5-20.6 9.8 9.8-20.6L344 240l21.5-7.7-9.8-20.6 20.6 9.8z" stroke="#1a1a1a" stroke-width="5.00"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg><rect x="76.0" y="68.0" width="360" height="270" fill="none" stroke="#1a1a1a" stroke-width="5"/></svg>

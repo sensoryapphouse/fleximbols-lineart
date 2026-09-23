@@ -13,15 +13,15 @@
 
 
 
-<path d="M 300 140 q 9 11 0 18 q -9 -7 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 196 226 q -16 14 -4 30" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 316 226 q 16 14 4 30" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<line x1="330" y1="150" x2="344" y2="150" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="344" y1="150" x2="330" y2="164" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="330" y1="164" x2="344" y2="164" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="352" y1="124" x2="370" y2="124" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="370" y1="124" x2="352" y2="142" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="352" y1="142" x2="370" y2="142" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 300 140 q 9 11 0 18 q -9 -7 0 -18 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 196 226 q -16 14 -4 30" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<path d="M 316 226 q 16 14 4 30" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<line x1="330" y1="150" x2="344" y2="150" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="344" y1="150" x2="330" y2="164" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="330" y1="164" x2="344" y2="164" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="352" y1="124" x2="370" y2="124" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="370" y1="124" x2="352" y2="142" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="352" y1="142" x2="370" y2="142" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="402" y1="92" x2="380" y2="114" stroke="#1a1a1a" stroke-width="11.0" stroke-linecap="round"/><line x1="380" y1="114" x2="402" y2="114" stroke="#1a1a1a" stroke-width="11.0" stroke-linecap="round"/><line x1="380" y1="92" x2="402" y2="92" stroke="#1a1a1a" stroke-width="11.0" stroke-linecap="round"/><line x1="380" y1="92" x2="402" y2="92" stroke="#1a1a1a" stroke-width="5.5" stroke-linecap="round"/>
 <line x1="402" y1="92" x2="380" y2="114" stroke="#1a1a1a" stroke-width="5.5" stroke-linecap="round"/>
 <line x1="380" y1="114" x2="402" y2="114" stroke="#1a1a1a" stroke-width="5.5" stroke-linecap="round"/>

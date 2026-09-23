@@ -11,9 +11,9 @@
 <path d="M 234 260 q 10 36 0 72 q -10 30 0 60" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 256 260 q 10 36 0 72 q -10 30 0 60" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 278 260 q 10 36 0 72 q -10 30 0 60" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<circle cx="226.0" cy="216.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="226.0" cy="218.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="286.0" cy="216.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="286.0" cy="218.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="226.0" cy="216.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42"/>
+<circle cx="226.0" cy="218.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.42"/>
+<circle cx="286.0" cy="216.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42"/>
+<circle cx="286.0" cy="218.0" r="6.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.42"/>
 <path d="M 236 242 C 256 254 276 242 276 242" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
 </g></svg>

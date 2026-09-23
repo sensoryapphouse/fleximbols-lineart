@@ -7,10 +7,10 @@
   <!-- AI chip bottom-right of card -->
   <rect x="172" y="148" width="56" height="44" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Chip inner circuit grid -->
-  <rect x="182" y="158" width="36" height="24" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="191" y1="158" x2="191" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="200" y1="158" x2="200" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="209" y1="158" x2="209" y2="182" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <rect x="182" y="158" width="36" height="24" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="191" y1="158" x2="191" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="200" y1="158" x2="200" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="209" y1="158" x2="209" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Chip legs -->
   <line x1="182" y1="152" x2="182" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
   <line x1="192" y1="152" x2="192" y2="148" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>

@@ -11,18 +11,18 @@
   <!-- Peak 1 (~82,100) -->
   <line x1="82" y1="88" x2="82" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="77" y1="83" x2="87" y2="83" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="78" y1="79" x2="86" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="86" y1="79" x2="78" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="78" y1="79" x2="86" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="86" y1="79" x2="78" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Peak 2 (~136,100) -->
   <line x1="136" y1="88" x2="136" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="131" y1="83" x2="141" y2="83" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="132" y1="79" x2="140" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="140" y1="79" x2="132" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="132" y1="79" x2="140" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="140" y1="79" x2="132" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Peak 3 (~190,100) -->
   <line x1="190" y1="88" x2="190" y2="78" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="185" y1="83" x2="195" y2="83" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="186" y1="79" x2="194" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="194" y1="79" x2="186" y2="87" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="186" y1="79" x2="194" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="194" y1="79" x2="186" y2="87" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Trough sparkles -->
   <line x1="55" y1="118" x2="55" y2="110" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <line x1="51" y1="114" x2="59" y2="114" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>

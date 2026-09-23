@@ -8,7 +8,7 @@
   <!-- Sepal base -->
   <path d="M125 118 C130 110 138 108 145 108 C152 108 160 110 165 118 C162 130 155 138 145 140 C135 138 128 130 125 118Z" fill="#529929" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Sepal points -->
-  <path d="M127 118 L118 105 M135 110 L130 98 M145 108 L145 95 M155 110 L160 98 M163 118 L172 105" fill="none" stroke="#529929" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M127 118 L118 105 M135 110 L130 98 M145 108 L145 95 M155 110 L160 98 M163 118 L172 105" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Outer petals -->
   <path d="M125 118 C112 102 112 80 125 72 C135 68 145 75 145 118Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M165 118 C178 102 178 80 165 72 C155 68 145 75 145 118Z" fill="#f7de58" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>

@@ -28,7 +28,7 @@
 <!-- rear trigger grip -->
 <path d="M 408 232 Q 458 232 458 286 Q 458 332 416 336 L 408 300 Q 430 296 430 274 Q 430 256 408 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- trigger -->
-<path d="M 408 280 L 392 286 L 392 300 L 408 300 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 408 280 L 392 286 L 392 300 L 408 300 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <!-- top handle -->
 <path d="M 312 170 Q 360 108 410 170" fill="none" stroke="#1a1a1a" stroke-width="24" stroke-linecap="round"/>
 <path d="M 312 170 Q 360 108 410 170" fill="none" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>

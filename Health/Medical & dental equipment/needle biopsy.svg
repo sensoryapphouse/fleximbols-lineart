@@ -6,7 +6,7 @@
   <!-- trigger button (red, large) -->
   <rect x="160" y="60" width="36" height="24" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- trigger indicator line -->
-  <rect x="170" y="68" width="16" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="170" y="68" width="16" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- cocking lever -->
   <rect x="208" y="62" width="22" height="14" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- device grip -->
@@ -21,12 +21,12 @@
   <!-- needle bevel point -->
   <path d="M4 100 L10 100 L10 110 L4 110 L0 105 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- needle notch (sample cavity) -->
-  <rect x="35" y="100" width="30" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="35" y="100" width="30" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- extracted tissue cylinder (core sample) -->
   <rect x="55" y="180" width="160" height="22" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- tissue texture -->
-  <path d="M70 187 Q90 184 110 190 Q130 193 150 188 Q170 184 195 191" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M70 196 Q90 192 110 198 Q130 200 150 196 Q170 192 195 198" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M70 187 Q90 184 110 190 Q130 193 150 188 Q170 184 195 191" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M70 196 Q90 192 110 198 Q130 200 150 196 Q170 192 195 198" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- arrow pointing to tissue -->
   <path d="M50 130 L50 175 M45 170 L50 180 L55 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -18,7 +18,7 @@
   <polyline points="154,143 162,150 154,157" fill="none" stroke="#ffffff" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Coin on bubble -->
   <circle cx="145" cy="176" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="176" r="6" fill="none" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="145" cy="176" r="6" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Home button -->
   <circle cx="145" cy="208" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
 </g></svg>

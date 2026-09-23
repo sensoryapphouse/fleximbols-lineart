@@ -10,8 +10,8 @@
   <!-- Target on cover -->
   <circle cx="145" cy="105" r="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <circle cx="145" cy="105" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="145" cy="105" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="105" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Growth arrow on cover -->
   <polyline points="95,168 115,148 135,158 170,128" fill="none" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="170,128 158,124 162,138" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <polygon points="170,128 158,124 162,138" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

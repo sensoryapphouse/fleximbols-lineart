@@ -13,9 +13,9 @@
   <path d="M 159 64 Q 195 85 200 130 Q 201 150 195 168" fill="none" stroke="#1a1a1a" stroke-width="14.23" stroke-linecap="round"/>
   <!-- Smoked rind texture lines horizontal wrap -->
   <path d="M 98 120 Q 145 112 192 120" fill="none" stroke="#1a1a1a" stroke-width="3.56" stroke-linecap="round"/>
-  <path d="M 95 140 Q 145 132 195 140" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <path d="M 96 160 Q 145 152 194 160" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-  <path d="M 100 180 Q 145 172 190 180" fill="none" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
+  <path d="M 95 140 Q 145 132 195 140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 96 160 Q 145 152 194 160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 100 180 Q 145 172 190 180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Golden brown smoked surface highlight -->
   <ellipse cx="128" cy="105" rx="16" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
 </g></svg>

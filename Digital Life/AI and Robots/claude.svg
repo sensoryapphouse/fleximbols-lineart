@@ -17,14 +17,14 @@
   <line x1="145" y1="80" x2="165" y2="100" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- Centre circle -->
   <circle cx="145" cy="80" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
-  <circle cx="145" cy="80" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="145" cy="80" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Small secondary chat bubble (reply) top right -->
   <path d="M188,38 L245,38 Q253,38 253,46 L253,80 Q253,88 245,88 L220,88 L212,100 L215,88 L188,88 Q180,88 180,80 L180,46 Q180,38 188,38 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linejoin="round"/>
   <!-- Three dots inside small bubble -->
-  <circle cx="198" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="215" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
-  <circle cx="232" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.78"/>
+  <circle cx="198" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="215" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="232" cy="63" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Friendly smile arc in main bubble -->
   <path d="M118,140 Q145,162 172,140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

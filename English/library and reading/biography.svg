@@ -13,7 +13,7 @@
   <!-- Small frame around portrait -->
   <rect x="82" y="80" width="126" height="118" fill="none" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- Decorative inner border -->
-  <rect x="86" y="84" width="118" height="110" fill="none" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="86" y="84" width="118" height="110" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Bookmark ribbon -->
   <path d="M195 30 L215 30 L215 80 L205 72 L195 80 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Quill at bottom corner suggesting story -->

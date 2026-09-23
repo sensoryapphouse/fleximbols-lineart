@@ -26,5 +26,5 @@
   <!-- Door line -->
   <path d="M138 158 L138 195" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round"/>
   <!-- Door handle -->
-  <rect x="148" y="172" width="14" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
+  <rect x="148" y="172" width="14" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

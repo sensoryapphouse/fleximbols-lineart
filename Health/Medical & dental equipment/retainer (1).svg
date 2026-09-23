@@ -18,5 +18,5 @@
   <path d="M 80,185 Q 80,200 145,205 Q 210,200 210,185 L 195,185 Q 195,196 145,198 Q 95,196 95,185 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Retainer case hint (open box at bottom) -->
   <rect x="48" y="210" width="194" height="22" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 48,218 Q 145,214 242,218" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 48,218 Q 145,214 242,218" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -8,5 +8,5 @@
   <path d="M 75,210 L 95,210 L 100,225 L 80,225 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"></path>
   <path d="M 195,210 L 215,210 L 210,225 L 192,225 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"></path>
   <text x="145" y="135" text-anchor="middle" font-family="serif" font-size="14" font-weight="900" fill="#1a1a1a">★</text>
-  <circle cx="145" cy="68" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="145" cy="68" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"></circle>
 </g></svg>

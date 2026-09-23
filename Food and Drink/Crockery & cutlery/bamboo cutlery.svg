@@ -19,9 +19,9 @@
   <path d="M201 130 L229 130" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
   <!-- twine binding -->
   <rect x="55" y="155" width="180" height="22" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M55 160 L235 160" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M55 170 L235 170" stroke="#1a1a1a" stroke-width="2.96" fill="none"/>
-  <path d="M55 165 L235 165" stroke="#1a1a1a" stroke-width="1.48" fill="none"/>
+  <path d="M55 160 L235 160" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M55 170 L235 170" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M55 165 L235 165" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- knot -->
   <circle cx="145" cy="166" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
 </g></svg>

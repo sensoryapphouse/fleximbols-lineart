@@ -18,7 +18,7 @@
   <!-- MINUS button below -->
   <rect x="92" y="125" width="106" height="32" rx="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- minus sign in button -->
-  <rect x="102" y="138" width="20" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="102" y="138" width="20" height="6" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- "UNFOLLOW" as path glyphs (block letters U N F O W) -->
   <!-- U -->
   <path d="M 128 137 L 128 150 Q 128 154 132 154 Q 136 154 136 150 L 136 137" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

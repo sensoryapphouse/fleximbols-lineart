@@ -4,8 +4,8 @@
   <!-- Wallet flap fold -->
   <path d="M60,104 Q137,92 214,104" fill="none" stroke="#1a1a1a" stroke-width="3.95" stroke-linecap="round"/>
   <!-- Card slots -->
-  <rect x="74" y="118" width="56" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="74" y="136" width="56" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="74" y="118" width="56" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="74" y="136" width="56" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Flame — top area, above wallet -->
   <path d="M137,28 Q128,42 132,54 Q122,44 124,56 Q118,46 120,62 Q112,58 116,70 Q108,80 120,88 Q130,96 145,96 Q162,96 170,84 Q178,68 168,56 Q162,62 162,70 Q154,58 158,44 Q150,52 150,62 Q143,46 137,28Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.95" stroke-linejoin="round"/>
   <!-- Inner flame highlight -->

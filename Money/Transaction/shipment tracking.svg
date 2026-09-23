@@ -14,7 +14,7 @@
   <!-- shipping label (centred card) -->
   <rect x="80" y="35" width="130" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- label header -->
-  <rect x="80" y="35" width="130" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="80" y="35" width="130" height="14" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- barcode -->
   <rect x="90" y="58" width="3" height="22" fill="#1a1a1a"/>
   <rect x="96" y="58" width="2" height="22" fill="#1a1a1a"/>
@@ -28,9 +28,9 @@
   <rect x="142" y="58" width="2" height="22" fill="#1a1a1a"/>
   <rect x="147" y="58" width="4" height="22" fill="#1a1a1a"/>
   <!-- label address lines -->
-  <rect x="158" y="58" width="44" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="158" y="66" width="36" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="158" y="74" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="158" y="58" width="44" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="66" width="36" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="158" y="74" width="40" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- small package icon on label corner -->
-  <rect x="86" y="84" width="14" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="86" y="84" width="14" height="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

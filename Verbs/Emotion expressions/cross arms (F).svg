@@ -17,6 +17,6 @@
 <path d="M 226.0 199.0 L 282.0 231.0" fill="none" stroke="#ffffff" stroke-width="20" stroke-linejoin="round"/>
 <path d="M 286.0 199.0 L 230.0 231.0" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/>
 <path d="M 286.0 199.0 L 230.0 231.0" fill="none" stroke="#ffffff" stroke-width="20" stroke-linejoin="round"/>
-<ellipse cx="282" cy="231" rx="16" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
-<ellipse cx="230" cy="231" rx="16" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" data-lp="skin"/>
+<ellipse cx="282" cy="231" rx="16" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
+<ellipse cx="230" cy="231" rx="16" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" data-lp="skin"/>
 </svg>

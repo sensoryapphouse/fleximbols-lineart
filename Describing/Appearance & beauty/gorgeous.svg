@@ -18,7 +18,7 @@
 <line x1="120" y1="-30" x2="44" y2="-30"/>
 </g>
 <!-- highlight -->
-<polygon points="-58,-78 -16,-78 -34,-36 -64,-36" fill="#ffffff" stroke-width="0" stroke="#1a1a1a" />
+<polygon points="-58,-78 -16,-78 -34,-36 -64,-36" fill="#ffffff" stroke-width="6" stroke="#1a1a1a" />
 </g>
 <!-- sparkles -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">

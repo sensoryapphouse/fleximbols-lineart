@@ -18,7 +18,7 @@
     <polygon points="280,35 271,52 280,65 295,52 280,35" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polygon points="280,65 273,85 291,115 303,82 280,65" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
     <polyline points="285,123 286,468" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
-    <polygon points="140,59 140,59 154,123 164,175 168,197 171,215" fill="#ffffff" stroke="#1a1a1a" stroke-width="0.00" fill-rule="evenodd"/>
+    <polygon points="140,59 140,59 154,123 164,175 168,197 171,215" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.21" fill-rule="evenodd"/>
     <polyline points="140,59 140,59 154,123 164,175 168,197 171,215" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polyline points="422,64 422,64 417,73 412,86 407,103 403,124 401,137 399,150 399,165 398,181 399,198 400,216 384,414 397,416" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
     <polygon points="312,203 312,203 311,205 310,208 308,209 305,209 305,209 302,209 300,208 299,205 298,203 298,203 299,200 300,198 302,197 305,196 305,196 308,197 310,198 311,200 312,203 312,203" fill="none" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>

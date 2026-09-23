@@ -3,7 +3,7 @@
 <line x1="150" y1="290" x2="462" y2="290" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 50 330 L 50 216 Q 50 200 70 200 L 150 200 L 150 330 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <path d="M 66 214 L 138 214 L 138 256 L 66 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<rect x="50" y="320" width="412" height="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="50" y="320" width="412" height="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="110" cy="350" r="42" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>
 <circle cx="110" cy="350" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <circle cx="300" cy="350" r="42" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="10"/>

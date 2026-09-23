@@ -23,14 +23,14 @@
   <path d="M 182 136 Q 212 88 225 42" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <path d="M 178 135 Q 200 82 208 36" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Water droplets at arc tips -->
-  <circle cx="35" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="50" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="65" cy="40" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="82" cy="34" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="255" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="240" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="225" cy="40" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="208" cy="34" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="35" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="50" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="65" cy="40" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="82" cy="34" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="255" cy="58" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="240" cy="48" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="225" cy="40" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
+  <circle cx="208" cy="34" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.26"/>
   <!-- Inlet pipe below base -->
   <rect x="137" y="207" width="16" height="16" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

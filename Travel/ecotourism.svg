@@ -12,18 +12,18 @@
   <!-- wildlife: deer -->
   <ellipse cx="225" cy="178" rx="22" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="248" cy="170" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <line x1="246" y1="164" x2="244" y2="156" stroke="#1a1a1a" stroke-width="2.96"/>
-  <line x1="250" y1="164" x2="252" y2="156" stroke="#1a1a1a" stroke-width="2.96"/>
+  <line x1="246" y1="164" x2="244" y2="156" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="250" y1="164" x2="252" y2="156" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="215" y1="186" x2="213" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="235" y1="186" x2="237" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <circle cx="250" cy="170" r="1.5" fill="#1a1a1a"/>
 
   <!-- person FULL BODY with binoculars (centre) -->
   <circle cx="105" cy="105" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 93 100 Q 105 90 117 100 L 117 108 Q 105 104 93 108 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 93 100 Q 105 90 117 100 L 117 108 Q 105 104 93 108 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- binoculars to face -->
-  <rect x="95" y="103" width="9" height="9" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="106" y="103" width="9" height="9" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="95" y="103" width="9" height="9" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="106" y="103" width="9" height="9" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="104" y1="107" x2="106" y2="107" stroke="#1a1a1a" stroke-width="2.96"/>
   <!-- torso -->
   <rect x="93" y="118" width="24" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
@@ -33,8 +33,8 @@
   <!-- legs -->
   <rect x="93" y="158" width="10" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="107" y="158" width="10" height="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="90" y="198" width="14" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="106" y="198" width="14" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="90" y="198" width="14" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="106" y="198" width="14" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- recycle symbol -->
   <g transform="translate(160 75)">

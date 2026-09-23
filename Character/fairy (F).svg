@@ -8,9 +8,9 @@
   <path d="M150,55 L173,118 L240,120 L187,162 L206,228 L150,188 L94,228 L113,162 L60,120 L127,118 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
   <!-- sparkles -->
-  <path d="M255,150 l8,22 l22,8 l-22,8 l-8,22 l-8,-22 l-22,-8 l22,-8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-  <path d="M75,300 l6,16 l16,6 l-16,6 l-6,16 l-6,-16 l-16,-6 l16,-6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-  <circle cx="240" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/></g>
+  <path d="M255,150 l8,22 l22,8 l-22,8 l-8,22 l-8,-22 l-22,-8 l22,-8 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.09" stroke-linejoin="round"/>
+  <path d="M75,300 l6,16 l16,6 l-16,6 l-6,16 l-6,-16 l-16,-6 l16,-6 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.09" stroke-linejoin="round"/>
+  <circle cx="240" cy="270" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.09"/></g>
 <!-- Fairy wings behind the figure -->
 <g fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" opacity="0.92">
   <path d="M 368 250 Q 300 190 296 250 Q 292 312 368 300 Z"/>

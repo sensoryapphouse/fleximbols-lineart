@@ -14,5 +14,5 @@
 <circle cx="166" cy="314" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="230" cy="330" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- big bold question mark: roughly how many? -->
-<path d="M 292.1 164.1 Q 292.1 128.0 340.3 128.0 Q 393.6 128.0 393.6 176.2 Q 393.6 214.0 345.4 232.9 Q 326.5 243.2 326.5 275.9" fill="none" stroke="#1a1a1a" stroke-width="25.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="326.5" cy="325.8" r="22.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.7"/>
+<path d="M 292.1 164.1 Q 292.1 128.0 340.3 128.0 Q 393.6 128.0 393.6 176.2 Q 393.6 214.0 345.4 232.9 Q 326.5 243.2 326.5 275.9" fill="none" stroke="#1a1a1a" stroke-width="25.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="326.5" cy="325.8" r="22.4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.88"/>
 </g></svg>

@@ -6,9 +6,9 @@
 <rect x="288" y="256" width="48" height="76" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="296" cy="298" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.00" />
 <circle cx="142" cy="362" r="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="142" cy="362" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="142" cy="362" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="324" cy="362" r="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="324" cy="362" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="324" cy="362" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 348 252 L 412 252 L 412 290 L 348 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <line x1="412" y1="252" x2="412" y2="360" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="348" y1="360" x2="412" y2="360" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="118" y1="360" x2="348" y2="360" stroke="#1a1a1a" stroke-width="16.0" stroke-linecap="round"/><line x1="348" y1="360" x2="412" y2="360" stroke="#1a1a1a" stroke-width="10.5" stroke-linecap="round"/>

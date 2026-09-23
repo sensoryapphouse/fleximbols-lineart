@@ -20,8 +20,8 @@
   <path d="M145 100 Q141 84 148 70 Q152 58 146 44" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <path d="M200 110 Q196 96 202 84 Q206 74 202 62" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round"/>
   <!-- Tiny ash/ember flecks -->
-  <circle cx="74" cy="124" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="220" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="118" cy="118" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <circle cx="180" cy="116" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="74" cy="124" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="220" cy="118" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="118" cy="118" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="116" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

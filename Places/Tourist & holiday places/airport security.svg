@@ -4,26 +4,26 @@
   <!-- conveyor belt / table -->
   <rect x="22" y="172" width="180" height="28" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- belt lines -->
-  <line x1="50" y1="172" x2="50" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="80" y1="172" x2="80" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="110" y1="172" x2="110" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="140" y1="172" x2="140" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="170" y1="172" x2="170" y2="200" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="50" y1="172" x2="50" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="80" y1="172" x2="80" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="110" y1="172" x2="110" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="140" y1="172" x2="140" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="170" y1="172" x2="170" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- tray on belt -->
   <rect x="60" y="165" width="52" height="12" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- items in tray: laptop outline -->
-  <rect x="64" y="166" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="64" y="166" width="16" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- belt rollers at ends -->
   <circle cx="32" cy="186" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="192" cy="186" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- x-ray scanner box (above belt, left) -->
   <rect x="22" y="130" width="90" height="44" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- scanner screen -->
-  <rect x="30" y="136" width="50" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="30" y="136" width="50" height="28" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- scan image lines -->
-  <line x1="36" y1="143" x2="74" y2="143" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="36" y1="151" x2="74" y2="151" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="36" y1="159" x2="74" y2="159" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="36" y1="143" x2="74" y2="143" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="36" y1="151" x2="74" y2="151" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="36" y1="159" x2="74" y2="159" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- officer figure (full body) -->
   <!-- shadow -->
   <ellipse cx="230" cy="202" rx="18" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -33,7 +33,7 @@
   <!-- torso / uniform -->
   <rect x="214" y="148" width="32" height="36" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- badge on uniform -->
-  <rect x="226" y="154" width="8" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="226" y="154" width="8" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- arm pointing at screen -->
   <line x1="214" y1="160" x2="192" y2="152" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
   <!-- other arm down -->
@@ -42,5 +42,5 @@
   <circle cx="230" cy="137" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- cap -->
   <rect x="218" y="127" width="24" height="8" rx="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="215" y="133" width="30" height="4" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="215" y="133" width="30" height="4" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

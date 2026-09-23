@@ -9,7 +9,7 @@
 <path d="M 240 325 L 218 270 M 272 325 L 294 270" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <!-- frame (head) -->
 <ellipse cx="256" cy="200" rx="98" ry="118" fill="#ffffff" stroke="#1a1a1a" stroke-width="14"/>
-<ellipse cx="256" cy="200" rx="98" ry="118" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+<ellipse cx="256" cy="200" rx="98" ry="118" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <!-- strings -->
 <g stroke="#1a1a1a" stroke-width="4">
 <line x1="200" y1="92" x2="200" y2="308"/>

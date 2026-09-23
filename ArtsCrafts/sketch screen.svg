@@ -25,7 +25,7 @@
   <!-- Pencil tip -->
   <polygon points="238,160 248,150 242,165" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Pencil lead tip -->
-  <polygon points="248,150 252,145 245,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="248,150 252,145 245,155" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Pencil eraser band -->
   <polygon points="195,195 200,188 205,197" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 </g></svg>

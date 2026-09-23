@@ -12,10 +12,10 @@
   <!-- Leaf shape -->
   <path d="M145,128 Q118,108 112,130 Q108,150 145,175 Q182,150 178,130 Q172,108 145,128 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Leaf midrib -->
-  <path d="M145,128 Q145,150 145,175" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M145,128 Q145,150 145,175" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Leaf veins -->
-  <path d="M145,142 Q132,136 128,142" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
-  <path d="M145,155 Q130,148 126,155" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
-  <path d="M145,142 Q158,136 162,142" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
-  <path d="M145,155 Q160,148 164,155" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <path d="M145,142 Q132,136 128,142" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145,155 Q130,148 126,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145,142 Q158,136 162,142" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145,155 Q160,148 164,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

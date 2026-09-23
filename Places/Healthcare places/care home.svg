@@ -6,14 +6,14 @@
 <rect x="320" y="150" width="34" height="58" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <!-- door -->
 <rect x="226" y="332" width="60" height="83" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" data-lp="hair"/>
-<circle cx="274" cy="376" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="274" cy="376" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- windows -->
 <rect x="160" y="262" width="54" height="52" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<line x1="187" y1="264" x2="187" y2="312" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="162" y1="288" x2="212" y2="288" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="187" y1="264" x2="187" y2="312" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="162" y1="288" x2="212" y2="288" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <rect x="298" y="262" width="54" height="52" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<line x1="325" y1="264" x2="325" y2="312" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="300" y1="288" x2="350" y2="288" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="325" y1="264" x2="325" y2="312" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="300" y1="288" x2="350" y2="288" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <!-- heart in gable (care) -->
 <path d="M 256 206 C 230 180 240 162 256 174 C 272 162 282 180 256 206 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

@@ -13,6 +13,6 @@
   <!-- top dip + stem -->
   <path d="M145 62 Q142 50 138 35" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- leaf -->
-  <path d="M138 40 Q170 25 185 45 Q165 55 145 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66" stroke-linejoin="round"/>
-  <path d="M145 48 Q165 42 180 45" fill="none" stroke="#1a1a1a" stroke-width="1.78"/>
+  <path d="M138 40 Q170 25 185 45 Q165 55 145 50 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M145 48 Q165 42 180 45" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

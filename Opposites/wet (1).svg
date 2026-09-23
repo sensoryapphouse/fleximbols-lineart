@@ -27,7 +27,7 @@
   <!-- Droplet 2 -->
   <path d="M198,80 Q192,90 198,98 Q204,90 198,80" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Droplet 3 small -->
-  <path d="M82,108 Q78,116 82,122 Q86,116 82,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82,108 Q78,116 82,122 Q86,116 82,108" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Droplet 4 small -->
-  <path d="M210,120 Q206,128 210,134 Q214,128 210,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210,120 Q206,128 210,134 Q214,128 210,120" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

@@ -9,21 +9,21 @@
   <path d="M140 72 Q145 68 150 72" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Barcode block on tag -->
   <rect x="100" y="105" width="90" height="50" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <line x1="108" y1="112" x2="108" y2="147" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="108" y1="112" x2="108" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="114" y1="112" x2="114" y2="147" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <line x1="120" y1="112" x2="120" y2="147" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="120" y1="112" x2="120" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="125" y1="112" x2="125" y2="147" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="130" y1="112" x2="130" y2="147" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="135" y1="112" x2="135" y2="147" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="130" y1="112" x2="130" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="135" y1="112" x2="135" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="141" y1="112" x2="141" y2="147" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <line x1="147" y1="112" x2="147" y2="147" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="147" y1="112" x2="147" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="152" y1="112" x2="152" y2="147" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="158" y1="112" x2="158" y2="147" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="164" y1="112" x2="164" y2="147" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="158" y1="112" x2="158" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="164" y1="112" x2="164" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="170" y1="112" x2="170" y2="147" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round"/>
-  <line x1="176" y1="112" x2="176" y2="147" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="182" y1="112" x2="182" y2="147" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="176" y1="112" x2="176" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="182" y1="112" x2="182" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Price area below barcode -->
   <line x1="115" y1="165" x2="175" y2="165" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="125" y1="175" x2="165" y2="175" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="125" y1="175" x2="165" y2="175" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

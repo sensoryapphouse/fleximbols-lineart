@@ -10,18 +10,18 @@
   <!-- dome front panel (darker) -->
   <path d="M120,200 Q118,130 145,115 Q172,130 170,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- door zip arc -->
-  <path d="M125,200 Q123,140 145,125 Q167,140 165,200" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="6,4"/>
+  <path d="M125,200 Q123,140 145,125 Q167,140 165,200" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6,4"/>
   <!-- door zipper pull -->
   <circle cx="145" cy="125" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- mesh vent top -->
   <ellipse cx="145" cy="50" rx="20" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- stake pegs -->
   <line x1="50" y1="200" x2="38" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="36" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="36" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="240" y1="200" x2="252" y2="215" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="254" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="254" cy="216" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- guy line left -->
-  <line x1="75" y1="130" x2="45" y2="190" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <line x1="75" y1="130" x2="45" y2="190" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
   <!-- guy line right -->
-  <line x1="215" y1="130" x2="245" y2="190" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <line x1="215" y1="130" x2="245" y2="190" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
 </g></svg>

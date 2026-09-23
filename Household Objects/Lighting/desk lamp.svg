@@ -20,5 +20,5 @@
   <!-- light glow beneath -->
   <path d="M195 102 L225 102 L235 130 L195 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- switch on base -->
-  <rect x="160" y="200" width="10" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.54"/>
+  <rect x="160" y="200" width="10" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

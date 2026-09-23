@@ -3,7 +3,7 @@
   <rect x="26" y="32" width="238" height="178" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <!-- Header band (grey) -->
   <rect x="26" y="32" width="238" height="46" rx="10" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
-  <rect x="26" y="58" width="238" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
+  <rect x="26" y="58" width="238" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.49" />
   <!-- Binder rings -->
   <rect x="82" y="22" width="14" height="24" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
   <rect x="194" y="22" width="14" height="24" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="11.11" stroke-linejoin="round"/>
@@ -59,4 +59,4 @@
   <line x1="160" y1="180" x2="160" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="192" y1="180" x2="192" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="224" y1="180" x2="224" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

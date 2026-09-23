@@ -2,8 +2,8 @@
 <g transform="translate(30.2,-5.7) scale(0.838)"><!-- impact driver power tool -->
   <g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
     <!-- motor body -->
-    <path d="M70 150 L210 150 Q236 150 244 180 L244 250 Q236 280 210 282 L92 282 Q76 280 72 268 L70 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" />
-    <rect x="86" y="162" width="120" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" />
+    <path d="M70 150 L210 150 Q236 150 244 180 L244 250 Q236 280 210 282 L92 282 Q76 280 72 268 L70 165 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" />
+    <rect x="86" y="162" width="120" height="12" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" />
     <!-- venting lines -->
     <g stroke="#1a1a1a" stroke-width="4" fill="none">
       <line x1="170" y1="172" x2="170" y2="200"/>
@@ -11,17 +11,17 @@
       <line x1="198" y1="172" x2="198" y2="200"/>
     </g>
     <!-- chuck / collar -->
-    <rect x="44" y="195" width="32" height="44" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" />
+    <rect x="44" y="195" width="32" height="44" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" />
     <!-- hex bit -->
-    <path d="M22 218 L31 207 L48 207 L48 229 L31 229 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" />
-    <rect x="6" y="212" width="22" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23" />
+    <path d="M22 218 L31 207 L48 207 L48 229 L31 229 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" />
+    <rect x="6" y="212" width="22" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28" />
     <!-- grip -->
     <path d="M140 282 L230 282 L240 410 Q238 428 220 430 L162 430 Q146 428 144 410 Z" fill="#1a1a1a"/>
     <!-- trigger -->
-    <path d="M132 300 L142 298 L142 338 L130 342 Q116 332 116 318 Q116 306 132 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.23"  data-lp="hair"/>
+    <path d="M132 300 L142 298 L142 338 L130 342 Q116 332 116 318 Q116 306 132 300 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28"  data-lp="hair"/>
     <!-- battery -->
     <path d="M140 430 L232 430 L238 442 L238 478 Q238 494 220 496 L152 496 Q136 494 136 478 L136 442 Z" fill="#1a1a1a"/>
-    <rect x="150" y="458" width="76" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+    <rect x="150" y="458" width="76" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.28"/>
   </g></g>
 <path data-part="dress" d="M 338.0 197.0 L 398.0 197.0 L 398.0 287.0 L 424.0 389.0 L 312.0 389.0 L 338.0 287.0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="32.7" data-part="ink"/><line x1="350" y1="389" x2="344" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="24.7" data-part="leg"/>

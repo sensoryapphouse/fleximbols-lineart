@@ -10,7 +10,7 @@
   <!-- handles right -->
   <path d="M190,115 Q215,120 210,150 Q208,165 190,160" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- decorative line -->
-  <path d="M108,105 Q145,98 182,105" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M108,105 Q145,98 182,105" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- neck -->
   <rect x="125" y="55" width="40" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- lid -->
@@ -18,5 +18,5 @@
   <!-- finial knob -->
   <circle cx="145" cy="35" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- decorative ring on body -->
-  <ellipse cx="145" cy="140" rx="42" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="140" rx="42" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

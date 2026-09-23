@@ -2,9 +2,9 @@
   <!-- Grill plate / serving surface -->
   <rect x="28" y="160" width="234" height="50" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Grill grate lines on plate -->
-  <line x1="28" y1="172" x2="262" y2="172" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="28" y1="182" x2="262" y2="182" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <line x1="28" y1="192" x2="262" y2="192" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="28" y1="172" x2="262" y2="172" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="28" y1="182" x2="262" y2="182" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="28" y1="192" x2="262" y2="192" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Short rib #1 — bone visible (left) -->
   <!-- Rib bone 1 -->
   <rect x="45" y="90" width="14" height="90" rx="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round" data-lp="hair"/>
@@ -27,10 +27,10 @@
   <line x1="202" y1="138" x2="234" y2="148" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="202" y1="152" x2="234" y2="162" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Sesame seeds -->
-  <circle cx="52" cy="138" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="62" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="135" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="148" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="218" cy="138" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="228" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="52" cy="138" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="62" cy="152" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="132" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="147" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="218" cy="138" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="228" cy="150" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

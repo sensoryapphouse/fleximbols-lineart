@@ -5,9 +5,9 @@
   <path d="M 120,98 Q 158,90 158,120 Q 158,150 120,142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <circle cx="175" cy="120" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 190,98 Q 228,90 228,120 Q 228,150 190,142 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <path d="M 95,108 Q 102,114 100,122" fill="none" stroke="#1a1a1a" stroke-width="1.78"></path>
-  <path d="M 165,108 Q 172,114 170,122" fill="none" stroke="#1a1a1a" stroke-width="1.78"></path>
-  <path d="M 65,118 L 75,118" fill="none" stroke="#1a1a1a" stroke-width="1.78"></path>
-  <path d="M 135,118 L 145,118" fill="none" stroke="#1a1a1a" stroke-width="1.78"></path>
-  <path d="M 205,118 L 215,118" fill="none" stroke="#1a1a1a" stroke-width="1.78"></path>
+  <path d="M 95,108 Q 102,114 100,122" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 165,108 Q 172,114 170,122" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 65,118 L 75,118" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 135,118 L 145,118" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
+  <path d="M 205,118 L 215,118" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

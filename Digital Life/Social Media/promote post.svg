@@ -16,7 +16,7 @@
   <path d="M264,86 Q278,100 264,114" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- coin overlapping bottom right of megaphone -->
   <circle cx="246" cy="176" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="246" cy="176" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.66"/>
+  <circle cx="246" cy="176" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- coin dollar sign bar (no text — just a vertical bar + cross bar representing $) -->
   <rect x="244" y="160" width="4" height="32" rx="2" fill="#1a1a1a" stroke="none"/>
   <rect x="234" y="169" width="24" height="4" rx="2" fill="#1a1a1a" stroke="none"/>

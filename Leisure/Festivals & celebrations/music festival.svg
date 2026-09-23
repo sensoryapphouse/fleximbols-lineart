@@ -17,12 +17,12 @@
   <!-- Stage roof top panel -->
   <rect x="58" y="58" width="174" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Flags on roof -->
-  <line x1="85"  y1="58" x2="85"  y2="35" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <polygon points="85,35 105,42 85,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="145" y1="58" x2="145" y2="32" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <polygon points="145,32 165,39 145,46" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <line x1="205" y1="58" x2="205" y2="35" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <polygon points="205,35 225,42 205,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <line x1="85"  y1="58" x2="85"  y2="35" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <polygon points="85,35 105,42 85,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="145" y1="58" x2="145" y2="32" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <polygon points="145,32 165,39 145,46" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <line x1="205" y1="58" x2="205" y2="35" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <polygon points="205,35 225,42 205,49" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Band silhouettes on stage -->
   <ellipse cx="105" cy="135" rx="8" ry="8" fill="#1a1a1a"/>
   <rect x="99" y="143" width="12" height="18" rx="3" fill="#1a1a1a"/>
@@ -51,8 +51,8 @@
   <rect x="263" y="196" width="11" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Tents left -->
   <polygon points="20,185 50,155 80,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="35" y="170" width="14" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="35" y="170" width="14" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tents right -->
   <polygon points="210,185 240,155 270,185" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="225" y="170" width="14" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="225" y="170" width="14" height="15" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

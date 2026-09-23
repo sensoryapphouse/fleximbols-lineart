@@ -5,7 +5,7 @@
   <!-- inner ring of cup -->
   <ellipse cx="130" cy="135" rx="78" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- inner shadow ring -->
-  <ellipse cx="130" cy="138" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="130" cy="138" rx="70" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- poached egg sitting in cup - white -->
   <ellipse cx="130" cy="130" rx="60" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- yolk -->
@@ -14,10 +14,10 @@
   <!-- handle on the side -->
   <path d="M 220 155 L 270 145 Q 280 148 280 158 Q 280 168 270 170 L 220 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.18" stroke-linejoin="round"/>
   <!-- handle highlight -->
-  <path d="M 230 158 L 268 152" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <path d="M 230 158 L 268 152" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- hanging hole -->
   <circle cx="275" cy="158" r="3.5" fill="#1a1a1a"/>
   <!-- small support legs/tabs -->
   <rect x="55" y="190" width="12" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <rect x="195" y="190" width="12" height="14" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

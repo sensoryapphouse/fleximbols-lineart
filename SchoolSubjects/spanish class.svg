@@ -15,8 +15,8 @@
   <!-- Red bottom band -->
   <rect x="86" y="129" width="130" height="38" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Flag waving right edge (slight taper/wave effect) -->
-  <path d="M216,35 Q224,54 216,73" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M216,129 Q224,148 216,167" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M216,35 Q224,54 216,73" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M216,129 Q224,148 216,167" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Castanets (right side) -->
   <!-- Castanet body top -->

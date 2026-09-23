@@ -31,7 +31,7 @@
 
   <!-- Nori sheet -->
   <rect x="72" y="94" width="15" height="34" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.34" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="79" y1="97" x2="79" y2="126" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round"/>
+  <line x1="79" y1="97" x2="79" y2="126" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Scallion bits -->
   <rect x="112" y="118" width="16" height="5" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55" stroke-linecap="round" stroke-linejoin="round"/>

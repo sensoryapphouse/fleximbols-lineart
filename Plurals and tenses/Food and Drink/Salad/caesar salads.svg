@@ -22,10 +22,10 @@
   <rect x="120" y="118" width="18" height="16" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <rect x="188" y="128" width="16" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Shaved parmesan shards -->
-  <path d="M 98 115 Q 106 110 112 118 Q 106 122 100 119 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M 162 115 Q 170 109 176 117 Q 170 121 163 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <path d="M 133 108 Q 141 103 147 111 Q 141 115 134 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" data-lp="hair"/>
+  <path d="M 98 115 Q 106 110 112 118 Q 106 122 100 119 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 162 115 Q 170 109 176 117 Q 170 121 163 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 133 108 Q 141 103 147 111 Q 141 115 134 112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" data-lp="hair"/>
   <!-- Creamy dressing drizzle -->
   <path d="M 105 138 Q 120 132 135 138 Q 150 144 165 138 Q 178 133 190 140" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M 95 146 Q 112 140 128 146 Q 144 152 160 146" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 95 146 Q 112 140 128 146 Q 144 152 160 146" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

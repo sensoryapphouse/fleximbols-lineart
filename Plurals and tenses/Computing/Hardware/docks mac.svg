@@ -17,8 +17,8 @@
   <!-- icon 3 (large - magnified) -->
   <rect x="104" y="172" width="34" height="34" rx="7" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"></rect>
   <!-- a smiley face on the magnified icon to suggest it's hovered -->
-  <circle cx="115" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
-  <circle cx="127" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></circle>
+  <circle cx="115" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"></circle>
+  <circle cx="127" cy="184" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.69"></circle>
   <path d="M 114,194 Q 121,200 128,194" fill="none" stroke="#ffffff" stroke-width="4.45" stroke-linecap="round"></path>
   <!-- icon 4 (medium) -->
   <rect x="144" y="184" width="22" height="22" rx="5" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
@@ -28,7 +28,7 @@
   <rect x="196" y="188" width="18" height="18" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <!-- trash can icon on far right -->
   <rect x="222" y="188" width="18" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
-  <path d="M 225,188 L 237,188 M 231,191 L 231,203" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"></path>
+  <path d="M 225,188 L 237,188 M 231,191 L 231,203" stroke="#1a1a1a" stroke-width="4.69" stroke-linecap="round"></path>
   <!-- arrow pointing at the dock from below -->
   <path d="M 135,232 L 135,222 L 128,222 L 145,212 L 162,222 L 155,222 L 155,232 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"></path>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

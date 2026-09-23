@@ -15,8 +15,8 @@
   <line x1="170" y1="105" x2="170" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="183" y1="105" x2="183" y2="135" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bulb highlights -->
-  <ellipse cx="60" cy="100" rx="8" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
-  <ellipse cx="214" cy="100" rx="8" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <ellipse cx="60" cy="100" rx="8" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="214" cy="100" rx="8" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bulb cap lines -->
   <path d="M 90 100 Q 92 120 90 140" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 200 100 Q 198 120 200 140" fill="none" stroke="#1a1a1a" stroke-width="4.45"/>

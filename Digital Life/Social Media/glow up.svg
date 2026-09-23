@@ -55,5 +55,5 @@
   <path d="M255 140 l2 -5 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- sparkle stars top right (replaces any remaining text) -->
   <path d="M250 30 L253 40 L263 43 L253 46 L250 56 L247 46 L237 43 L247 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M268 55 L270 62 L277 64 L270 66 L268 73 L266 66 L259 64 L266 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M268 55 L270 62 L277 64 L270 66 L268 73 L266 66 L259 64 L266 62 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -18,10 +18,10 @@
   <!-- club -->
   <path d="M55 155 Q40 130 35 90 Q30 60 50 55 Q70 55 70 80 Q68 110 70 150 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- club spikes -->
-  <circle cx="48" cy="75" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="58" cy="65" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="44" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="55" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="48" cy="75" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="58" cy="65" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="44" cy="95" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="55" cy="105" r="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- right arm -->
   <path d="M202 100 Q225 115 232 145 Q234 158 222 158 Q212 150 208 138 Q200 120 195 115 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- right fist -->
@@ -34,8 +34,8 @@
   <!-- brow ridge -->
   <path d="M124 48 Q134 42 142 48 M148 48 Q156 42 166 48" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- eyes (small mean) -->
-  <circle cx="134" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="156" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="134" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="156" cy="55" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nose -->
   <path d="M143 60 Q140 68 143 72 L147 72 Q150 68 147 60" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <!-- mouth (with TUSKS) -->

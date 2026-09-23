@@ -7,24 +7,24 @@
 <line x1="120" y1="340" x2="392" y2="340" stroke="#1a1a1a" stroke-width="5"/>
 <line x1="120" y1="386" x2="392" y2="386" stroke="#1a1a1a" stroke-width="5"/>
 <!-- staggered vertical joints, course by course (brick/stone bond) -->
-<line x1="176" y1="300" x2="176" y2="340" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="248" y1="300" x2="248" y2="340" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="320" y1="300" x2="320" y2="340" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="148" y1="340" x2="148" y2="386" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="212" y1="340" x2="212" y2="386" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="356" y1="340" x2="356" y2="386" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="176" y1="386" x2="176" y2="430" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="248" y1="386" x2="248" y2="430" stroke="#1a1a1a" stroke-width="4"/>
-<line x1="320" y1="386" x2="320" y2="430" stroke="#1a1a1a" stroke-width="4"/>
+<line x1="176" y1="300" x2="176" y2="340" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="248" y1="300" x2="248" y2="340" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="320" y1="300" x2="320" y2="340" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="148" y1="340" x2="148" y2="386" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="212" y1="340" x2="212" y2="386" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="356" y1="340" x2="356" y2="386" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="176" y1="386" x2="176" y2="430" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="248" y1="386" x2="248" y2="430" stroke="#1a1a1a" stroke-width="5.35"/>
+<line x1="320" y1="386" x2="320" y2="430" stroke="#1a1a1a" stroke-width="5.35"/>
 <!-- thatch / turf conical roof overhanging the walls, with a clear ridge peak -->
 <path d="M 96 304 L 256 168 L 416 304 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <!-- roof ridge / peak cap -->
-<circle cx="256" cy="168" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="256" cy="168" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.35"/>
 <!-- thatch combing lines -->
-<line x1="160" y1="280" x2="200" y2="226" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="220" y1="290" x2="244" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="292" y1="290" x2="268" y2="224" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="352" y1="280" x2="312" y2="226" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="160" y1="280" x2="200" y2="226" stroke="#1a1a1a" stroke-width="5.35" stroke-linecap="round"/>
+<line x1="220" y1="290" x2="244" y2="224" stroke="#1a1a1a" stroke-width="5.35" stroke-linecap="round"/>
+<line x1="292" y1="290" x2="268" y2="224" stroke="#1a1a1a" stroke-width="5.35" stroke-linecap="round"/>
+<line x1="352" y1="280" x2="312" y2="226" stroke="#1a1a1a" stroke-width="5.35" stroke-linecap="round"/>
 <!-- low doorway -->
 <path d="M 222 430 L 222 358 Q 222 330 256 330 Q 290 330 290 358 L 290 430 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </g></svg>

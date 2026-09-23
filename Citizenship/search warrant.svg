@@ -19,7 +19,7 @@
 
   <!-- Magnifying glass over house -->
   <circle cx="230" cy="155" r="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
-  <circle cx="230" cy="155" r="32" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="230" cy="155" r="32" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="252" y1="178" x2="278" y2="208" stroke="#1a1a1a" stroke-width="11.85" stroke-linecap="round"/>
   <line x1="252" y1="178" x2="278" y2="208" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" fill="none"/>
 
@@ -31,5 +31,5 @@
   <line x1="76" y1="207" x2="69" y2="222" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="48" y1="180" x2="38" y2="200" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <line x1="76" y1="180" x2="86" y2="200" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <circle cx="62" cy="155" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="62" cy="155" r="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -25,7 +25,7 @@
   <circle cx="153" cy="69" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="160" cy="71" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Pale yellow interior texture tones -->
-  <path d="M 80,115 L 210,115" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
-  <path d="M 72,155 L 218,155" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
-  <path d="M 68,193 L 222,193" fill="none" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <path d="M 80,115 L 210,115" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <path d="M 72,155 L 218,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
+  <path d="M 68,193 L 222,193" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="6 8"/>
 </g></svg>

@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="46.24 52.21 438.30 438.30"><metadata id="sah">{"v":1,"fig":[["h1","fa"]]}</metadata>
-<polygon points="326,300 394,300 388,418 332,418" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<rect x="320" y="278" width="80" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<rect x="334" y="266" width="52" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<line x1="340" y1="314" x2="340" y2="400" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
-<line x1="380" y1="314" x2="380" y2="400" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+<polygon points="326,300 394,300 388,418 332,418" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="320" y="278" width="80" height="24" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<rect x="334" y="266" width="52" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="340" y1="314" x2="340" y2="400" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="380" y1="314" x2="380" y2="400" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <circle cx="338" cy="424" r="16" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="338" cy="424" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="338" y1="424" x2="338" y2="414" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="338" y1="424" x2="330" y2="429" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="338" y1="424" x2="346" y2="429" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="338" cy="424" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="338" y1="424" x2="338" y2="414" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="338" y1="424" x2="330" y2="429" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="338" y1="424" x2="346" y2="429" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <circle cx="382" cy="424" r="16" fill="none" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="382" cy="424" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<line x1="382" y1="424" x2="382" y2="414" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="382" y1="424" x2="374" y2="429" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="382" y1="424" x2="390" y2="429" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<circle cx="382" cy="424" r="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
+<line x1="382" y1="424" x2="382" y2="414" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="382" y1="424" x2="374" y2="429" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="382" y1="424" x2="390" y2="429" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <g data-part="hair-back"><g transform="translate(141.57 97.82) scale(1.667)"><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><path stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" d="M72.65,24.67C72.65,24.67 72.65,47.86 75.64,58.64C77.11,63.95 78.95,67.3 83.36,63.99L100.46,63.82C104.86,67.18 108.02,63.96 108.97,58.5C111.21,45.62 111.21,24.67 111.21,24.67L72.65,24.67Z" fill="#ffffff" fill-rule="nonzero"  data-lp="hair"/></g><g transform="matrix(1.03483,0,0,1.03483,-31.2045,-4.45837)"><ellipse stroke="#1a1a1a" stroke-width="3.00" stroke-linejoin="round" cx="91.93" cy="24.67" rx="19.28" ry="17.33" fill="#ffffff"  data-lp="hair"/></g></g></g><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="241" y1="303" x2="232" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <line x1="271" y1="303" x2="290" y2="455" stroke-linecap="round" stroke="#1a1a1a" stroke-width="38.4" data-part="ink"/><line x1="271" y1="303" x2="290" y2="455" stroke-linecap="round" stroke="#ffffff" stroke-width="30.4" data-part="leg"/>
 <ellipse cx="232" cy="460" rx="20" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0" data-part="shoe"/>

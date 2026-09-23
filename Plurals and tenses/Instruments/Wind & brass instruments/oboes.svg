@@ -4,7 +4,7 @@
   <path d="M133 203 Q129 216 131 226 Q138 233 145 233 Q152 233 159 226 Q161 216 157 203 Z"
         fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Bell opening (smaller) -->
-  <ellipse cx="145" cy="230" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="230" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Lower joint (slim) -->
   <rect x="136" y="158" width="18" height="50" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
   <!-- Joint ring -->
@@ -21,29 +21,29 @@
   <rect x="141" y="30" width="8" height="18" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Reed blade 1 -->
   <path d="M141 30 Q141 18 145 14 Q145 18 141 30 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Reed blade 2 -->
   <path d="M149 30 Q149 18 145 14 Q145 18 149 30 Z"
-        fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Reed tip line -->
-  <line x1="141" y1="30" x2="149" y2="30" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="141" y1="30" x2="149" y2="30" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Keys left side - upper joint -->
   <circle cx="130" cy="100" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="130" cy="116" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="130" cy="132" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="130" cy="148" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Key rod left -->
-  <line x1="130" y1="92" x2="130" y2="155" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="130" y1="92" x2="130" y2="155" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Keys right side - lower joint -->
   <circle cx="160" cy="165" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="160" cy="181" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <circle cx="160" cy="197" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- Key rod right -->
-  <line x1="160" y1="157" x2="160" y2="203" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="160" y1="157" x2="160" y2="203" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Thumb/octave keys -->
   <circle cx="160" cy="100" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" data-lp="hair"/>
   <circle cx="160" cy="114" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" data-lp="hair"/>
   <!-- Trill keys (small side) -->
-  <rect x="153" y="126" width="11" height="5" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <rect x="153" y="137" width="11" height="5" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <rect x="153" y="126" width="11" height="5" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="153" y="137" width="11" height="5" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

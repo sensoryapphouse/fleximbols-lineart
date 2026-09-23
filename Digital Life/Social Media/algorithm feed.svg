@@ -4,9 +4,9 @@
   <!-- Phone screen -->
   <rect x="110" y="40" width="70" height="160" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Feed cards inside screen -->
-  <rect x="116" y="100" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="116" y="128" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="116" y="156" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <rect x="116" y="100" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="116" y="128" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="116" y="156" width="58" height="22" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Bar indicators showing ranked order (different lengths) -->
   <rect x="120" y="107" width="36" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <rect x="120" y="135" width="28" height="7" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -15,14 +15,14 @@
   <circle cx="145" cy="72" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <circle cx="145" cy="72" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Gear teeth (8 small rects rotated around center) -->
-  <rect x="141" y="55" width="8" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="141" y="83" width="8" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="128" y="68" width="7" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="155" y="68" width="7" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
-  <rect x="130" y="58" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(45 133.5 61.5)"/>
-  <rect x="154" y="79" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(45 157.5 82.5)"/>
-  <rect x="154" y="58" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-45 157.5 61.5)"/>
-  <rect x="130" y="79" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round" transform="rotate(-45 133.5 82.5)"/>
+  <rect x="141" y="55" width="8" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="141" y="83" width="8" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="128" y="68" width="7" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="155" y="68" width="7" height="8" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="130" y="58" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(45 133.5 61.5)"/>
+  <rect x="154" y="79" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(45 157.5 82.5)"/>
+  <rect x="154" y="58" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-45 157.5 61.5)"/>
+  <rect x="130" y="79" width="7" height="7" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" transform="rotate(-45 133.5 82.5)"/>
   <!-- Arrow from gear down to cards -->
   <line x1="145" y1="86" x2="145" y2="97" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="145,100 140,92 150,92" fill="#1a1a1a"/>

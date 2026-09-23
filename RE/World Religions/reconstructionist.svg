@@ -26,10 +26,10 @@
   <!-- open book, bottom centre -->
   <path d="M115 195 L145 200 L175 195 L175 222 L145 225 L115 222 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>
   <path d="M145 200 L145 225" stroke="#1a1a1a" stroke-width="4.45" fill="none"/>
-  <path d="M122 207 L140 207" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
-  <path d="M122 214 L140 214" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
-  <path d="M150 207 L168 207" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
-  <path d="M150 214 L168 214" stroke="#1a1a1a" stroke-width="3.33" fill="none"/>
+  <path d="M122 207 L140 207" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M122 214 L140 214" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M150 207 L168 207" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
+  <path d="M150 214 L168 214" stroke="#1a1a1a" stroke-width="4.1" fill="none"/>
   <!-- reconstruction tools: hammer top-left -->
   <rect x="22" y="40" width="6" height="35" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="15" y="32" width="22" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

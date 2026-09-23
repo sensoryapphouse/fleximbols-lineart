@@ -6,5 +6,5 @@
 <!-- pivot pin -->
 <circle cx="256" cy="326" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <circle cx="256" cy="326" r="7" fill="#1a1a1a"/>
-<!-- rotation arrow (single house-style path) --><path d="M 168.00 200.00 L 175.07 168.13 L 181.76 176.22 A 116.50 116.50 0 0 1 330.24 176.22 L 336.93 168.13 L 344.00 200.00 L 315.26 194.33 L 321.96 186.24 A 103.50 103.50 0 0 0 190.04 186.24 L 196.74 194.33 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+<!-- rotation arrow (single house-style path) --><path d="M 168.00 200.00 L 175.07 168.13 L 181.76 176.22 A 116.50 116.50 0 0 1 330.24 176.22 L 336.93 168.13 L 344.00 200.00 L 315.26 194.33 L 321.96 186.24 A 103.50 103.50 0 0 0 190.04 186.24 L 196.74 194.33 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 </svg>

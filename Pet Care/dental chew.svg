@@ -12,11 +12,11 @@
   <line x1="132" y1="156" x2="158" y2="156" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="132" y1="168" x2="158" y2="168" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- bump texture on Y arms -->
-  <circle cx="100" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="115" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="190" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="175" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="100" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="115" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="190" cy="68" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="175" cy="80" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- highlight bumps on knobs -->
-  <circle cx="128" cy="186" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="154" cy="186" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="128" cy="186" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="154" cy="186" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -18,5 +18,5 @@
 <circle cx="165" cy="276" r="34" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="165" cy="276" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- net mesh hint -->
-<path d="M 150 120 L 110 240 M 150 120 L 200 240" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<path d="M 150 120 L 110 240 M 150 120 L 200 240" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

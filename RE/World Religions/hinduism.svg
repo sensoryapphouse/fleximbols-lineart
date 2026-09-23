@@ -13,5 +13,5 @@
 <!-- chandra (crescent moon) above -->
 <path d="M 320 150 C 296 150 280 134 280 116 C 280 134 296 150 320 150 C 344 150 360 134 360 116" fill="none" stroke="#1a1a1a" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/><path d="M 320 150 C 296 150 280 134 280 116 C 280 134 296 150 320 150 C 344 150 360 134 360 116" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
 <!-- bindu (dot) above the crescent -->
-<circle cx="320.00" cy="92.00" r="17.00" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="320.00" cy="92.00" r="17.00" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.29"/>
 </g></svg>

@@ -11,9 +11,9 @@
   <!-- Slight dome highlight - showing the jiggle puff -->
   <path d="M 80,96 Q 145,78 210,96" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"  data-lp="hair"/>
   <!-- Light texture lines showing soufflé airy interior -->
-  <path d="M 40,140 Q 145,134 250,140" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 40,160 Q 145,154 250,160" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 40,180 Q 145,174 250,180" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 40,140 Q 145,134 250,140" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 40,160 Q 145,154 250,160" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 40,180 Q 145,174 250,180" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wavy side edge to convey jiggly bounce -->
   <path d="M 38,118 Q 44,122 38,128 Q 44,133 38,138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 252,118 Q 246,122 252,128 Q 246,133 252,138" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

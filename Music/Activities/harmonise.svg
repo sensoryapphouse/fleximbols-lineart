@@ -38,9 +38,9 @@
   <polygon points="145,40 158,60 152,60 152,72 138,72 138,60 132,60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.10" stroke-linejoin="round"/>
 
   <!-- Musical notes attached to merged wave -->
-  <ellipse cx="132" cy="92" rx="5" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.74"/>
+  <ellipse cx="132" cy="92" rx="5" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="137" y1="90" x2="137" y2="72" stroke="#1a1a1a" stroke-width="4.10" stroke-linecap="round"/>
-  <ellipse cx="158" cy="92" rx="5" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.74"/>
+  <ellipse cx="158" cy="92" rx="5" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <line x1="163" y1="90" x2="163" y2="72" stroke="#1a1a1a" stroke-width="4.10" stroke-linecap="round"/>
   <path d="M137 72 L163 72" stroke="#1a1a1a" stroke-width="4.10" stroke-linecap="round"/>
 </g></svg>

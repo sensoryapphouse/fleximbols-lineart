@@ -14,5 +14,5 @@
   <!-- Star polygon: 6 outer points, 6 inner points (12-point shape) -->
   <polygon points="145,200 151,208 161,207 156,215 161,223 151,222 145,230 139,222 129,223 134,215 129,207 139,208" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Star centre hole (Torx characteristic centre pin) -->
-  <circle cx="145" cy="215" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="215" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

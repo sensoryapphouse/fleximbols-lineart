@@ -25,8 +25,8 @@
   <!-- Gel highlight (glossy) -->
   <ellipse cx="190" cy="32" rx="10" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bubble inside gel (jelly look) -->
-  <circle cx="208" cy="44" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
-  <circle cx="195" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.54"/>
+  <circle cx="208" cy="44" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="195" cy="48" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Finger underneath gel scoop -->
   <path d="M180 58 Q180 80 200 80 Q220 80 220 58" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <!-- Gel drip from finger to jar -->

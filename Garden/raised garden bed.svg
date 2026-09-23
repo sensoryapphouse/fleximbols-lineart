@@ -2,8 +2,8 @@
   <!-- Wooden box front face -->
   <rect x="40" y="120" width="210" height="80" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55"/>
   <!-- Wooden plank lines on front -->
-  <line x1="40" y1="147" x2="250" y2="147" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <line x1="40" y1="173" x2="250" y2="173" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="40" y1="147" x2="250" y2="147" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="40" y1="173" x2="250" y2="173" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Corner posts -->
   <rect x="40" y="118" width="14" height="86" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="236" y="118" width="14" height="86" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

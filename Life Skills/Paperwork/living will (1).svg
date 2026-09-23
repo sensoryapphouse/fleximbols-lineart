@@ -15,5 +15,5 @@
   <!-- signature line -->
   <line x1="75" y1="200" x2="215" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M80 195 C90 185 100 205 112 195 C124 185 138 205 152 195 C166 185 182 205 200 195" fill="none" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="75" y1="210" x2="135" y2="210" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="75" y1="210" x2="135" y2="210" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

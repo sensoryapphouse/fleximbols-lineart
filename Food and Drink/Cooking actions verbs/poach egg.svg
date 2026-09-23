@@ -13,7 +13,7 @@
   <rect x="246" y="104" width="36" height="14" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- Vinegar swirl (curving spiral on water) -->
   <path d="M85 90 Q100 80 120 85 Q140 92 160 86 Q180 80 200 88 Q215 94 210 90" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <path d="M95 96 Q115 102 140 96 Q165 90 195 96" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M95 96 Q115 102 140 96 Q165 90 195 96" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Poached egg in pot (white blob with yolk) -->
   <path d="M115 100 Q108 92 118 80 Q130 72 148 76 Q166 72 178 82 Q186 92 178 102 Q186 112 175 118 Q160 124 145 120 Q128 124 115 116 Q108 108 115 100 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- Yolk -->
@@ -21,10 +21,10 @@
   <circle cx="142" cy="94" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Slotted spoon entering from right -->
   <ellipse cx="220" cy="100" rx="22" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" data-lp="hair"/>
-  <circle cx="214" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="222" cy="96" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="222" cy="104" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="228" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="214" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="222" cy="96" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="222" cy="104" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="228" cy="100" r="2.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Spoon handle -->
   <rect x="238" y="80" width="44" height="8" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-25 260 84)"/>
   <!-- Low flame at bottom -->

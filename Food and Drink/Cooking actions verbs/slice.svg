@@ -3,7 +3,7 @@
 <rect x="120" y="356" width="272" height="40" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- cut-off slice (left) -->
 <path d="M 150 356 L 150 300 Q 150 268 182 268 L 196 268 L 196 356 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
-<rect x="156" y="282" width="34" height="12" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="156" y="282" width="34" height="12" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- remaining loaf (right) -->
 <path d="M 220 356 L 220 300 Q 220 268 252 268 L 312 268 Q 344 268 344 300 L 344 356 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <!-- gap / knife cut line -->

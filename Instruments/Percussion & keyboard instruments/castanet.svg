@@ -15,8 +15,8 @@
   <line x1="40" y1="132" x2="150" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="40" y1="152" x2="150" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wood grain lines on left castanet top -->
-  <path d="M 60 110 Q 95 106 130 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 55 116 Q 95 112 135 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 60 110 Q 95 106 130 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 55 116 Q 95 112 135 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right castanet -->
   <!-- Top half -->
   <ellipse cx="195" cy="115" rx="55" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
@@ -29,8 +29,8 @@
   <line x1="140" y1="132" x2="250" y2="132" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="140" y1="152" x2="250" y2="152" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Wood grain lines on right castanet top -->
-  <path d="M 160 110 Q 195 106 230 110" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 155 116 Q 195 112 235 116" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 160 110 Q 195 106 230 110" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 155 116 Q 195 112 235 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Cord attachment bumps (top) -->
   <circle cx="95" cy="88" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="195" cy="88" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>

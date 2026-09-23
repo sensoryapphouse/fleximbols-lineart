@@ -2,7 +2,7 @@
 <rect x="96.0" y="150.0" width="320.0" height="300.0" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <rect x="120.0" y="250.0" width="176.0" height="176.0" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="308.0" y="250.0" width="84.0" height="176.0" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="318.0" cy="338.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="318.0" cy="338.0" r="7.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37"/>
 <rect x="96.0" y="196.0" width="320.0" height="46.0" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="8"/>
 <rect x="96.0" y="150.0" width="40.0" height="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.64" />
 <rect x="136.0" y="150.0" width="40.0" height="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.64" />
@@ -12,14 +12,14 @@
 <rect x="296.0" y="150.0" width="40.0" height="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.64" />
 <rect x="336.0" y="150.0" width="40.0" height="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.64" />
 <rect x="376.0" y="150.0" width="40.0" height="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.64" />
-<path d="M 96.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 136.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 176.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 216.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 256.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 296.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 336.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 376.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 96.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 136.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 176.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 216.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 256.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 296.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 336.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
+<path d="M 376.0 202.0 q 20.0 22 40.0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.37" stroke-linejoin="round"/>
 <rect x="96.0" y="150.0" width="320.0" height="52.0" rx="0" ry="0" fill="none" stroke="#1a1a1a" stroke-width="8"/>
 <rect x="150.0" y="262.0" width="212.0" height="160.0" rx="12" ry="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <circle cx="256.0" cy="342.0" r="50.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>

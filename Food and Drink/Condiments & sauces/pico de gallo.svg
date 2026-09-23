@@ -12,12 +12,12 @@
   <rect x="172" y="119" width="17" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- White onion cubes -->
   <rect x="128" y="113" width="16" height="13" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <rect x="90" y="126" width="14" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <rect x="165" y="110" width="13" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <rect x="90" y="126" width="14" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="165" y="110" width="13" height="11" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Green cilantro bits -->
-  <path d="M 110,108 Q 116,100 122,106 Q 118,114 110,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 150,108 Q 155,101 161,106 Q 158,113 150,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 135,126 Q 140,120 146,124 Q 144,131 135,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 110,108 Q 116,100 122,106 Q 118,114 110,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 150,108 Q 155,101 161,106 Q 158,113 150,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 135,126 Q 140,120 146,124 Q 144,131 135,130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Lime wedge accent -->
   <path d="M 188,106 Q 200,94 210,101 Q 203,115 188,112 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <line x1="200" y1="97" x2="192" y2="110" stroke="#ffffff" stroke-width="2.96" stroke-linecap="round"/>

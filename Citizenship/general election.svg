@@ -7,14 +7,14 @@
   <!-- row 1: blue D party -->
   <rect x="32" y="75" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="62" cy="83" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M58 78 L58 88 L64 88 Q68 88 68 83 Q68 78 64 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M58 78 L58 88 L64 88 Q68 88 68 83 Q68 78 64 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <path d="M82 80 Q105 76 130 81 Q150 84 165 80" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M82 87 Q105 84 130 88 Q150 90 163 87" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- row 2: red R party -->
   <rect x="32" y="105" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M34 113 L40 118 L48 107" fill="none" stroke="#1a1a1a" stroke-width="6.22" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="62" cy="113" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <path d="M58 108 L58 118 L62 118 L62 114 L66 118 L70 118 L66 113 Q68 112 68 110 Q68 108 64 108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67" stroke-linejoin="round"/>
+  <path d="M58 108 L58 118 L62 118 L62 114 L66 118 L70 118 L66 113 Q68 112 68 110 Q68 108 64 108 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <path d="M82 110 Q105 106 130 111 Q150 114 165 110" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M82 117 Q105 114 130 118 Q150 120 163 117" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- row 3: green G party -->
@@ -26,7 +26,7 @@
   <!-- row 4: purple I (independent) -->
   <rect x="32" y="165" width="16" height="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="62" cy="173" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56"/>
-  <rect x="60" y="168" width="4" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="60" y="168" width="4" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M82 170 Q105 166 130 171 Q150 174 165 170" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <path d="M82 177 Q105 174 130 178 Q150 180 163 177" fill="none" stroke="#1a1a1a" stroke-width="5.33" stroke-linecap="round"/>
   <!-- national flag (top right) -->
@@ -47,5 +47,5 @@
   <path d="M218 142 Q218 122 235 122 Q252 122 252 142 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- tassel -->
   <line x1="235" y1="122" x2="248" y2="135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <circle cx="248" cy="136" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <circle cx="248" cy="136" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

@@ -4,8 +4,8 @@
   <!-- mounting plate -->
   <rect x="120" y="50" width="50" height="20" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- mounting screws -->
-  <circle cx="130" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <circle cx="160" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <circle cx="130" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="160" cy="60" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- hook arm coming out from plate, curving up at the end -->
   <path d="M145 70 Q145 95 165 95 Q180 95 180 80" fill="none" stroke="#1a1a1a" stroke-width="13.33" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M145 70 Q145 95 165 95 Q180 95 180 80" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
@@ -19,9 +19,9 @@
   <!-- right sleeve -->
   <path d="M185 105 L215 160 L200 175 L175 130 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- buttons -->
-  <circle cx="145" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="130" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="155" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="145" cy="180" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- centre seam -->
-  <line x1="145" y1="105" x2="145" y2="200" stroke="#1a1a1a" stroke-width="2.96"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <line x1="145" y1="105" x2="145" y2="200" stroke="#1a1a1a" stroke-width="4.45"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

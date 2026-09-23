@@ -7,9 +7,9 @@
   <!-- doorway opening -->
   <rect x="90" y="150" width="40" height="50" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- decorative paper chain on side -->
-  <circle cx="150" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="150" cy="167" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="150" cy="179" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="150" cy="155" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="167" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="150" cy="179" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- palm-frond/branch roof -->
   <path d="M 30 100 L 190 100" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- palm leaves laid over roof -->
@@ -28,16 +28,16 @@
   <path d="M 229 40 L 220 35 M 229 50 L 220 45 M 229 60 L 220 55 M 229 70 L 220 65 M 229 40 L 238 35 M 229 50 L 238 45 M 229 60 L 238 55 M 229 70 L 238 65 M 229 80 L 220 75 M 229 80 L 238 75 M 229 95 L 220 90 M 229 95 L 238 90 M 229 110 L 220 105 M 229 110 L 238 105 M 229 125 L 220 120 M 229 125 L 238 120 M 229 140 L 220 135 M 229 140 L 238 135" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- willow branch (thin leaf shape, left) -->
   <path d="M 215 60 L 215 155" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-  <ellipse cx="210" cy="75" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="210" cy="95" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="210" cy="115" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <ellipse cx="210" cy="135" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <ellipse cx="210" cy="75" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="210" cy="95" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="210" cy="115" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="210" cy="135" rx="3" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- myrtle branch (rounded leaves, right) -->
   <path d="M 245 60 L 245 155" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
-  <circle cx="250" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="95" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="250" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="250" cy="75" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="95" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="115" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="250" cy="135" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- etrog (citron fruit, bottom right) -->
   <ellipse cx="225" cy="200" rx="22" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- etrog highlight -->

@@ -25,9 +25,9 @@
 </g>
 <circle cx="234.0" cy="182.0" r="16.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <polygon points="330,300 470,268 486,360 346,392" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<line x1="377" y1="289" x2="393" y2="381" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="423" y1="279" x2="439" y2="371" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="338" y1="346" x2="478" y2="314" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="377" y1="289" x2="393" y2="381" stroke="#1a1a1a" stroke-width="6.29" stroke-linecap="round"/>
+<line x1="423" y1="279" x2="439" y2="371" stroke="#1a1a1a" stroke-width="6.29" stroke-linecap="round"/>
+<line x1="338" y1="346" x2="478" y2="314" stroke="#1a1a1a" stroke-width="6.29" stroke-linecap="round"/>
 <line x1="366" y1="392" x2="366" y2="452" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="456" y1="372" x2="456" y2="452" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 </g></svg>

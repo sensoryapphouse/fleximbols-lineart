@@ -8,7 +8,7 @@
   <!-- rim ellipse -->
   <ellipse cx="145" cy="70" rx="85" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" data-lp="hair"/>
   <!-- inner cavity with creamy custard -->
-  <ellipse cx="145" cy="70" rx="72" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="70" rx="72" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- subtle highlight band -->
   <path d="M 90 130 Q 88 175 100 198" stroke="#1a1a1a" stroke-width="4.45" fill="none" stroke-linecap="round"/>
 </g></svg>

@@ -3,7 +3,7 @@
   <rect x="70" y="30" width="150" height="180" rx="18" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.34"/>
   <rect x="82" y="48" width="126" height="144" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- speaker slot -->
-  <rect x="130" y="38" width="30" height="5" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.78"/>
+  <rect x="130" y="38" width="30" height="5" rx="2" ry="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- home button -->
   <circle cx="145" cy="201" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- microphone -->
@@ -19,5 +19,5 @@
   <!-- small mic with slash inside badge -->
   <rect x="219" y="44" width="12" height="18" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <path d="M209 42 L241 70" fill="none" stroke="#ffffff" stroke-width="7.11" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M209 42 L241 70" fill="none" stroke="#1a1a1a" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M209 42 L241 70" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

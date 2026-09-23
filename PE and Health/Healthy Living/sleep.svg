@@ -6,9 +6,9 @@
 <path d="M 130 300 L 414 300 L 414 322 Q 290 300 130 322 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <circle id="h1" data-fig="mc" cx="168" cy="262" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" data-lp="skin"/>
 <path d="M 144 248 q 24 -14 48 0" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
-<line x1="180" y1="260" x2="196" y2="260" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<circle cx="388" cy="150" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="404" cy="140" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<line x1="180" y1="260" x2="196" y2="260" stroke="#1a1a1a" stroke-width="4.71" stroke-linecap="round"/>
+<circle cx="388" cy="150" r="30" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
+<circle cx="404" cy="140" r="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.71"/>
 <line x1="300" y1="150" x2="316" y2="150" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="316" y1="150" x2="300" y2="166" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 <line x1="300" y1="166" x2="316" y2="166" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>

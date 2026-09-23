@@ -16,6 +16,6 @@
   <!-- rubber duck on water -->
   <ellipse cx="125" cy="148" rx="20" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="138" cy="138" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M146 136 L156 138 L146 142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M146 136 L156 138 L146 142 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <circle cx="140" cy="135" r="1.5" fill="#1a1a1a"/>
 </g></svg>

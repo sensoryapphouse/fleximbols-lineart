@@ -8,12 +8,12 @@
   <path d="M 90,90 Q 130,210 210,180" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <path d="M 100,75 Q 90,170 200,210" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <path d="M 70,130 Q 145,75 220,135" fill="none" stroke="#1a1a1a" stroke-width="3.81" stroke-linecap="round"/>
-  <path d="M 75,150 Q 145,215 218,148" fill="none" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <path d="M 75,150 Q 145,215 218,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- thread trail leaving the ball -->
   <path d="M 215,140 Q 250,130 270,160 Q 275,190 240,210" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- knitting needles sticking out (X shape, top) -->
-  <rect x="60" y="20" width="6" height="100" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" transform="rotate(-25 63 70)"/>
-  <circle cx="38" cy="44" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
-  <rect x="224" y="20" width="6" height="100" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18" transform="rotate(25 227 70)"/>
-  <circle cx="252" cy="44" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.18"/>
+  <rect x="60" y="20" width="6" height="100" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-25 63 70)"/>
+  <circle cx="38" cy="44" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="224" y="20" width="6" height="100" rx="2" ry="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(25 227 70)"/>
+  <circle cx="252" cy="44" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

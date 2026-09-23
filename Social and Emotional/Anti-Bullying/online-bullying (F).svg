@@ -14,14 +14,14 @@
 
 
 
-<path d="M 148.52 247.88 q 7 12 0 21 q -7 -9 0 -21 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
-<path d="M 174.52 247.88 q 7 12 0 21 q -7 -9 0 -21 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 148.52 247.88 q 7 12 0 21 q -7 -9 0 -21 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.19" stroke-linejoin="round"/>
+<path d="M 174.52 247.88 q 7 12 0 21 q -7 -9 0 -21 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.19" stroke-linejoin="round"/>
 <rect x="300" y="150" width="120" height="196" rx="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5"/>
-<rect x="312" y="164" width="96" height="152" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="360" cy="328" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="312" y="164" width="96" height="152" rx="0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.19"/>
+<circle cx="360" cy="328" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.19"/>
 <polygon points="360,196 369,208 385,201 385,214 402,215 393,225 406,233 390,237 395,249 378,246 373,259 360,249 347,259 342,246 325,249 330,237 314,233 327,225 318,215 335,214 335,201 351,208" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
 <line x1="338" y1="212" x2="338" y2="230" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
-<circle cx="338" cy="240" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="338" cy="240" r="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.19"/>
 <circle cx="360" cy="224" r="11" fill="none" stroke="#1a1a1a" stroke-width="4"/>
 <line x1="369" y1="230" x2="369" y2="215" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
 <line x1="380" y1="210" x2="388" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>

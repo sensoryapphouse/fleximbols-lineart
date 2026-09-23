@@ -6,8 +6,8 @@
   <rect x="125" y="55" width="40" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="125" y="121" width="40" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <rect x="125" y="180" width="40" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
-  <rect x="95" y="35" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="173" y="35" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="95" y="101" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
-  <rect x="173" y="101" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></rect>
+  <rect x="95" y="35" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="173" y="35" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="95" y="101" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
+  <rect x="173" y="101" width="22" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></rect>
 </g></svg>

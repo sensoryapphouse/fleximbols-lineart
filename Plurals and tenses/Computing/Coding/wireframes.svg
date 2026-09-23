@@ -2,13 +2,13 @@
   <rect x="30" y="22" width="230" height="196" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <rect x="30" y="22" width="230" height="28" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.34" stroke-linejoin="round"/>
   <rect x="44" y="62" width="96" height="70" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <line x1="44" y1="62" x2="140" y2="132" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
-  <line x1="140" y1="62" x2="44" y2="132" stroke="#1a1a1a" stroke-width="2.54" stroke-linecap="round"/>
+  <line x1="44" y1="62" x2="140" y2="132" stroke="#1a1a1a" stroke-width="4.61" stroke-linecap="round"/>
+  <line x1="140" y1="62" x2="44" y2="132" stroke="#1a1a1a" stroke-width="4.61" stroke-linecap="round"/>
   <rect x="152" y="62" width="94" height="32" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
   <rect x="152" y="102" width="94" height="30" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <rect x="44" y="144" width="96" height="14" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
-  <rect x="44" y="164" width="72" height="10" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
-  <rect x="44" y="180" width="84" height="10" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
+  <rect x="44" y="144" width="96" height="14" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
+  <rect x="44" y="164" width="72" height="10" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
+  <rect x="44" y="180" width="84" height="10" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
   <rect x="152" y="144" width="94" height="46" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.08" stroke-linejoin="round"/>
-  <rect x="44" y="196" width="46" height="14" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <rect x="44" y="196" width="46" height="14" rx="4" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.61" stroke-linejoin="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

@@ -10,10 +10,10 @@
   <ellipse cx="145" cy="28" rx="9" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.55"/>
   <!-- Left handle -->
   <path d="M100 100 Q68 100 68 140 Q68 170 100 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M100 100 Q72 100 72 140 Q72 168 100 168" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M100 100 Q72 100 72 140 Q72 168 100 168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Right handle -->
   <path d="M190 100 Q222 100 222 140 Q222 170 190 170" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M190 100 Q218 100 218 140 Q218 168 190 168" fill="none" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round"/>
+  <path d="M190 100 Q218 100 218 140 Q218 168 190 168" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Liquid inside cup -->
   <path d="M104 140 L103 195 Q103 200 108 200 L182 200 Q187 200 187 195 L186 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Liquid line -->

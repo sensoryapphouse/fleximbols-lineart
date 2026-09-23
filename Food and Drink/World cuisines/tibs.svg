@@ -16,17 +16,17 @@
   <rect x="140" y="142" width="28" height="24" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="142" y="144" width="10" height="7" rx="2" fill="#1a1a1a" stroke="none"/>
   <!-- Onion rings -->
-  <ellipse cx="100" cy="176" rx="12" ry="7" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <ellipse cx="170" cy="172" rx="11" ry="6" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <ellipse cx="100" cy="176" rx="12" ry="7" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="170" cy="172" rx="11" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Pepper strips -->
   <path d="M168 155 Q175 148 178 155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M82 163 Q78 155 84 150" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Herbs scattered -->
-  <ellipse cx="135" cy="152" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <ellipse cx="155" cy="148" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <ellipse cx="118" cy="155" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <ellipse cx="135" cy="152" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="155" cy="148" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <ellipse cx="118" cy="155" rx="4" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Steam wisps -->
-  <path d="M115 138 Q112 128 116 118" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M145 134 Q142 122 146 112" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M173 136 Q170 126 174 116" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M115 138 Q112 128 116 118" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M145 134 Q142 122 146 112" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M173 136 Q170 126 174 116" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

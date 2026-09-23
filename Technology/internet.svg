@@ -2,9 +2,9 @@
 <circle cx="256.0" cy="256.0" r="120.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <clipPath id="globe"><circle cx="256.0" cy="256.0" r="120.0"/></clipPath>
 <g clip-path="url(#globe)">
-<path d="M 182 196 q 30 -10 50 10 q -6 26 -34 26 q -26 0 -16 -36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.66" />
-<path d="M 262 276 q 40 -6 56 24 q -10 30 -44 24 q -30 -8 -12 -48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.66" />
-<path d="M 188 302 q 24 -6 30 14 q -8 18 -28 12 q -16 -8 -2 -26 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.66" />
+<path d="M 182 196 q 30 -10 50 10 q -6 26 -34 26 q -26 0 -16 -36 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39" />
+<path d="M 262 276 q 40 -6 56 24 q -10 30 -44 24 q -30 -8 -12 -48 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39" />
+<path d="M 188 302 q 24 -6 30 14 q -8 18 -28 12 q -16 -8 -2 -26 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39" />
 </g>
 <ellipse cx="256.0" cy="256.0" rx="120.0" ry="120.0" fill="none" stroke="#ffffff" stroke-width="4"/>
 <ellipse cx="256.0" cy="256.0" rx="50.0" ry="120.0" fill="none" stroke="#ffffff" stroke-width="4"/>
@@ -12,9 +12,9 @@
 <!-- orbit ring (network) with node dots -->
 <g transform="rotate(-28 256 256)">
 <ellipse cx="256.0" cy="256.0" rx="168.0" ry="62.0" fill="none" stroke="#1a1a1a" stroke-width="9"/>
-<circle cx="424.0" cy="256.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="88.0" cy="256.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="316.0" cy="313.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="196.0" cy="199.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="424.0" cy="256.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
+<circle cx="88.0" cy="256.0" r="15.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
+<circle cx="316.0" cy="313.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
+<circle cx="196.0" cy="199.0" r="13.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.39"/>
 </g>
 </g></svg>

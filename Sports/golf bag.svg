@@ -27,5 +27,5 @@
   <rect x="108" y="135" width="58" height="40" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <line x1="108" y1="148" x2="166" y2="148" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- zipper detail -->
-  <circle cx="160" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="160" cy="142" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

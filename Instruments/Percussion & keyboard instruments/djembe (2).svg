@@ -7,8 +7,8 @@
   <!-- Upper bowl (wide top of goblet) -->
   <path d="M96,72 Q88,130 96,155 L194,155 Q202,130 194,72 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Bowl shaping - slight curve in -->
-  <path d="M96,72 Q88,130 96,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M194,72 Q202,130 194,155" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M96,72 Q88,130 96,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M194,72 Q202,130 194,155" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Drum head (top skin) -->
   <ellipse cx="145" cy="72" rx="50" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round"/>
   <!-- Head tensioning ring -->
@@ -24,11 +24,11 @@
   <polyline points="179,89 184,108 179,128 184,148 182,155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <polyline points="191,88 198,108 191,128 198,148 194,155" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Horizontal ring lacing ties -->
-  <path d="M92,108 Q145,118 198,108" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M92,128 Q145,138 198,128" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M92,148 Q145,156 198,148" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M92,108 Q145,118 198,108" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M92,128 Q145,138 198,128" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M92,148 Q145,156 198,148" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Wood grain on bowl -->
-  <line x1="120" y1="88" x2="118" y2="154" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="145" y1="89" x2="145" y2="154" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <line x1="170" y1="88" x2="172" y2="154" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="120" y1="88" x2="118" y2="154" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="145" y1="89" x2="145" y2="154" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <line x1="170" y1="88" x2="172" y2="154" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

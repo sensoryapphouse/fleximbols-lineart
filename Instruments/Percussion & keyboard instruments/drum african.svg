@@ -43,8 +43,8 @@
 
   <!-- Carved decorative rings on body -->
   <path d="M 100,128 Q 145,122 190,128" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-  <path d="M 102,136 Q 145,130 188,136" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M 110,158 Q 145,152 180,158" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 102,136 Q 145,130 188,136" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M 110,158 Q 145,152 180,158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Rope tension ring (top, under drumhead) -->
   <ellipse cx="145" cy="78" rx="67" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
@@ -74,13 +74,13 @@
   <path d="M 86,130 Q 145,124 204,130" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 83,145 Q 145,139 207,145" fill="none" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Diamond knots at waist crossings -->
-  <circle cx="90" cy="138" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="108" cy="136" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="126" cy="135" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="145" cy="134" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="164" cy="135" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="182" cy="136" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <circle cx="200" cy="138" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="90" cy="138" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="108" cy="136" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="126" cy="135" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="145" cy="134" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="164" cy="135" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="182" cy="136" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="138" r="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Body outline on top -->
   <path d="M 82,78

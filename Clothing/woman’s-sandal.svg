@@ -3,5 +3,5 @@
 <ellipse cx="256" cy="338" rx="128" ry="28" fill="none" stroke="#1a1a1a" stroke-width="3"/>
 <path d="M 168 332 Q 256 286 300 320" fill="none" stroke="#1a1a1a" stroke-width="15" stroke-linejoin="round"/>
 <path d="M 214 336 Q 256 312 344 332" fill="none" stroke="#1a1a1a" stroke-width="15" stroke-linejoin="round"/>
-<circle cx="256" cy="338" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="256" cy="338" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.46"/>
 </g></svg>

@@ -3,8 +3,8 @@
 <rect x="150" y="130" width="212" height="140" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <rect x="170" y="150" width="72" height="92" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="262" y="150" width="80" height="54" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<circle cx="206" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
-<circle cx="302" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+<circle cx="206" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<circle cx="302" cy="150" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="190" y="290" width="20" height="124" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="302" y="290" width="20" height="124" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 </g></svg>

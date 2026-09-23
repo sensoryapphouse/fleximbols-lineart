@@ -2,7 +2,7 @@
   <rect x="20" y="22" width="250" height="84" rx="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <rect x="26" y="28" width="238" height="72" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <path d="M36 80 L70 60 L100 70 L140 40 L180 55 L220 35 L256 50" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="256,50 252,42 248,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="256,50 252,42 248,52" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <path d="M40 92 L70 92 M80 92 L110 92 M120 92 L150 92 M160 92 L200 92 M210 92 L256 92" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <rect x="60" y="118" width="170" height="110" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <polygon points="50,118 145,90 240,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>

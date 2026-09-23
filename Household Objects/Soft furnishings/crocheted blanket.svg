@@ -55,7 +55,7 @@
 
   <!-- Yarn ball with hook, top-left -->
   <circle cx="55" cy="55" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 38 50 Q 55 40 72 55 M 40 60 Q 58 50 70 65 M 43 68 Q 58 60 68 72" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 38 50 Q 55 40 72 55 M 40 60 Q 58 50 70 65 M 43 68 Q 58 60 68 72" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Crochet hook -->
   <path d="M 75 35 L 110 18 Q 116 14 116 22 Q 116 27 110 27" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <line x1="75" y1="35" x2="78" y2="42" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>

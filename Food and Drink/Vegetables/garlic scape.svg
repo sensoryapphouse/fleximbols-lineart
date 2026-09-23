@@ -9,9 +9,9 @@
   <!-- pointed tip on bud -->
   <path d="M130 22 Q126 12 130 5 Q134 12 130 22" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- bud vertical seam lines -->
-  <path d="M130 28 Q128 55 130 85" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M120 35 Q116 55 120 80" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
-  <path d="M140 35 Q144 55 140 80" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M130 28 Q128 55 130 85" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M120 35 Q116 55 120 80" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M140 35 Q144 55 140 80" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- cut base of stem -->
-  <ellipse cx="70" cy="215" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="70" cy="215" rx="8" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

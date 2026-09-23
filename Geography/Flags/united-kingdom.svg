@@ -4,5 +4,5 @@
   <path fill="#ffffff" d="m424 281 216 159v40L369 281zm-184 20 6 35L54 480H0zM640 0v3L391 191l2-44L590 0zM0 0l239 176h-60L0 42z" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="M241 0v480h160V0zM0 160v160h640V160z" stroke="#1a1a1a" stroke-width="5.00"/>
   <path fill="#ffffff" d="M0 193v96h640v-96zM273 0v480h96V0z" stroke="#1a1a1a" stroke-width="5.00"/>
-<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<rect x="1" y="1" width="638" height="478" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 </svg>

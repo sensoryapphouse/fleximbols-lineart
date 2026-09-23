@@ -6,13 +6,13 @@
   <!-- result window -->
   <rect x="90" y="92" width="90" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- C line -->
-  <rect x="110" y="98" width="6" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="110" y="98" width="6" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- T line (positive: 2 lines) -->
-  <rect x="150" y="98" width="6" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="150" y="98" width="6" height="24" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- C label tick -->
-  <rect x="108" y="86" width="10" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="108" y="86" width="10" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- T label tick -->
-  <rect x="148" y="86" width="10" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="148" y="86" width="10" height="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- nasal swab handle -->
   <rect x="205" y="60" width="60" height="8" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(35 235 64)"/>
   <!-- swab tip -->

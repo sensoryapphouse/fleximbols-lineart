@@ -30,7 +30,7 @@
   <path d="M158 178 q8 -7 14 0 q8 7 14 0 q8 -7 10 0" fill="none" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
 
   <!-- Dividing vertical line between signature areas -->
-  <line x1="152" y1="174" x2="152" y2="186" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="152" y1="174" x2="152" y2="186" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Left signature small icon (figure walking away left) -->
   <!-- Head -->

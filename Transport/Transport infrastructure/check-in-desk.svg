@@ -3,7 +3,7 @@
 <rect x="96" y="200" width="320" height="34" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="116" y="234" width="220" height="190" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <rect x="150" y="140" width="120" height="80" rx="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="9"/>
-<rect x="164" y="154" width="92" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="164" y="154" width="92" height="52" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <line x1="210" y1="220" x2="210" y2="234" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round"/>
 <rect x="316" y="356" width="92" height="68" rx="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
 <line x1="362" y1="356" x2="362" y2="424" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>

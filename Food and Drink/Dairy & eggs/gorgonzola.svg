@@ -22,11 +22,11 @@
   <circle cx="204" cy="138" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="136" cy="190" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Crumbly irregular edges - more pronounced than blue-cheese -->
-  <path d="M 66,128 Q 72,122 78,130 Q 72,136 66,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 66,152 Q 74,146 78,156 Q 72,162 66,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 66,176 Q 72,170 78,178 Q 72,184 66,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 224,144 Q 218,138 214,146 Q 218,152 224,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
-  <path d="M 224,170 Q 218,164 214,172 Q 218,178 224,172" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 66,128 Q 72,122 78,130 Q 72,136 66,130" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 66,152 Q 74,146 78,156 Q 72,162 66,156" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 66,176 Q 72,170 78,178 Q 72,184 66,178" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 224,144 Q 218,138 214,146 Q 218,152 224,146" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <path d="M 224,170 Q 218,164 214,172 Q 218,178 224,172" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- Italian-flag accent - small tricolore strip on top-right corner of wedge -->
   <!-- Green -->
   <path d="M 195,88 L 195,98 L 204,98 L 204,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -35,5 +35,5 @@
   <!-- Red -->
   <path d="M 213,88 L 213,98 L 222,98 L 222,88 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Flag border -->
-  <path d="M 195,88 L 224,88 L 224,98 L 195,98 Z" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 195,88 L 224,88 L 224,98 L 195,98 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>

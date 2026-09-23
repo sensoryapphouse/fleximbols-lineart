@@ -4,12 +4,12 @@
   <!-- mortar rim (top ellipse) -->
   <ellipse cx="145" cy="130" rx="90" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93"/>
   <!-- interior bowl shadow -->
-  <ellipse cx="145" cy="132" rx="78" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="132" rx="78" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42"/>
   <!-- inner shine -->
-  <path d="M80 130 Q90 145 110 145" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M80 130 Q90 145 110 145" fill="none" stroke="#1a1a1a" stroke-width="4.42"/>
   <!-- crushed material -->
-  <ellipse cx="135" cy="135" rx="22" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="160" cy="137" rx="10" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="135" cy="135" rx="22" ry="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42"/>
+  <ellipse cx="160" cy="137" rx="10" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42"/>
   <!-- pestle (handle going up-right) -->
   <path d="M160 130 L220 35 L240 50 L180 145 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
   <!-- pestle rounded tip (bottom) -->
@@ -17,7 +17,7 @@
   <!-- pestle top knob -->
   <ellipse cx="230" cy="42" rx="14" ry="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" transform="rotate(-55 230 42)"/>
   <!-- shine on pestle -->
-  <line x1="195" y1="120" x2="225" y2="60" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="195" y1="120" x2="225" y2="60" stroke="#1a1a1a" stroke-width="4.42" stroke-linecap="round"/>
   <!-- mortar outer shine -->
   <path d="M70 150 Q75 180 95 195" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

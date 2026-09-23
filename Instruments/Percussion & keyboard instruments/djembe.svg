@@ -12,8 +12,8 @@
   <!-- Head (drumhead — animal skin, slightly domed) -->
   <ellipse cx="145" cy="78" rx="77" ry="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="7.40"/>
   <!-- Head texture suggestion (skin grain lines) -->
-  <ellipse cx="145" cy="76" rx="60" ry="10" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="145" cy="74" rx="40" ry="6" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="145" cy="76" rx="60" ry="10" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="145" cy="74" rx="40" ry="6" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Head ring (crown ring at top of bowl) -->
   <ellipse cx="145" cy="80" rx="77" ry="16" fill="none" stroke="#1a1a1a" stroke-width="5.93"/>

@@ -5,12 +5,12 @@
   <!-- built-in mic at top (twin capsules) -->
   <circle cx="125" cy="40" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="125" cy="40" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <line x1="121" y1="36" x2="129" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="129" y1="36" x2="121" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="121" y1="36" x2="129" y2="44" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="129" y1="36" x2="121" y2="44" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="165" cy="40" r="8" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="165" cy="40" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <line x1="161" y1="36" x2="169" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
-  <line x1="169" y1="36" x2="161" y2="44" stroke="#1a1a1a" stroke-width="2.22"/>
+  <line x1="161" y1="36" x2="169" y2="44" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="169" y1="36" x2="161" y2="44" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- screen -->
   <rect x="114" y="58" width="62" height="56" rx="4" ry="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- screen content: waveform -->
@@ -34,7 +34,7 @@
   <rect x="115" y="190" width="22" height="12" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="153" y="190" width="22" height="12" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- side clip/wrist strap loop top right -->
-  <rect x="185" y="30" width="10" height="20" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.22"/>
+  <rect x="185" y="30" width="10" height="20" rx="3" ry="3" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- hand holding recorder hint: a few finger curves on right side -->
   <path d="M195,80 Q215,85 215,100 Q215,115 200,118" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M195,115 Q215,120 215,135 Q215,150 200,153" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linecap="round" stroke-linejoin="round"/>

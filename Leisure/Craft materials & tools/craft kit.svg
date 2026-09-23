@@ -32,38 +32,38 @@
   <!-- Cap tip -->
   <path d="M142 86 L144 78 L148 78 L150 86 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- Glue droplet -->
-  <ellipse cx="146" cy="74" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="146" cy="74" rx="3" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- COLOURFUL SUPPLIES (right) - pipe cleaners / pom poms -->
   <!-- Pom pom 1 -->
   <circle cx="190" cy="100" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pom pom fluff lines -->
-  <path d="M180 100 L182 96 M198 100 L200 96 M186 92 L190 90 M194 92 L194 90" stroke="#1a1a1a" stroke-width="2.22"/>
+  <path d="M180 100 L182 96 M198 100 L200 96 M186 92 L190 90 M194 92 L194 90" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Pom pom 2 -->
   <circle cx="220" cy="110" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pom pom 3 -->
   <circle cx="200" cy="124" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Pipe cleaner (curly) -->
   <path d="M180 140 Q190 148 200 144 Q214 138 224 148 Q230 158 218 168 Q210 174 218 184" fill="none" stroke="#1a1a1a" stroke-width="8.88" stroke-linecap="round"/>
-  <path d="M180 140 Q190 148 200 144 Q214 138 224 148 Q230 158 218 168 Q210 174 218 184" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M180 140 Q190 148 200 144 Q214 138 224 148 Q230 158 218 168 Q210 174 218 184" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Buttons -->
   <circle cx="124" cy="178" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="124" cy="178" r="1.5" fill="#1a1a1a"/>
-  <circle cx="124" cy="178" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="124" cy="178" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="160" cy="180" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="160" cy="180" r="3" fill="none" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="160" cy="180" r="3" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Stars/glitter shapes -->
   <path d="M76 170 L80 178 L88 180 L82 186 L84 194 L76 190 L68 194 L70 186 L64 180 L72 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
 
   <!-- 'CRAFT' block letters on lid label -->
   <!-- C -->
-  <path d="M108 44 L108 54 L118 54 L118 52 L112 52 L112 46 L118 46 L118 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <path d="M108 44 L108 54 L118 54 L118 52 L112 52 L112 46 L118 46 L118 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- R -->
-  <path d="M122 44 L122 54 L124 54 L124 50 L126 50 L128 54 L130 54 L128 50 Q130 50 130 47 Q130 44 127 44 Z M124 46 L127 46 L127 48 L124 48 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="1.48"/>
+  <path d="M122 44 L122 54 L124 54 L124 50 L126 50 L128 54 L130 54 L128 50 Q130 50 130 47 Q130 44 127 44 Z M124 46 L127 46 L127 48 L124 48 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- A -->
-  <path d="M134 54 L137 44 L141 44 L144 54 L142 54 L141.4 52 L136.6 52 L136 54 Z M137 50 L141 50 L139 46 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="1.48"/>
+  <path d="M134 54 L137 44 L141 44 L144 54 L142 54 L141.4 52 L136.6 52 L136 54 Z M137 50 L141 50 L139 46 Z" fill="#1a1a1a" fill-rule="evenodd" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- F -->
-  <path d="M148 44 L148 54 L150 54 L150 50 L154 50 L154 48 L150 48 L150 46 L156 46 L156 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <path d="M148 44 L148 54 L150 54 L150 50 L154 50 L154 48 L150 48 L150 46 L156 46 L156 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- T -->
-  <path d="M160 44 L160 46 L162 46 L162 54 L164 54 L164 46 L166 46 L166 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="1.48"/>
+  <path d="M160 44 L160 46 L162 46 L162 54 L164 54 L164 46 L166 46 L166 44 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

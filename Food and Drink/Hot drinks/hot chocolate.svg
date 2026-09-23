@@ -4,14 +4,14 @@
   <!-- mug body -->
   <path d="M70 80 Q70 70 80 70 L210 70 Q220 70 220 80 L218 210 Q216 224 200 224 L90 224 Q74 224 72 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.35" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- dark brown chocolate liquid -->
-  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0.00"/>
+  <path d="M78 90 Q145 108 212 90 L210 210 Q145 218 80 210 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M78 90 Q145 108 212 90" fill="none" stroke="#1a1a1a" stroke-width="5.08" stroke-linecap="round"/>
   <!-- whipped cream pile (cloud shape) -->
   <path d="M82 90 Q92 65 115 72 Q130 50 150 65 Q170 48 190 65 Q210 60 212 90 Q200 100 185 95 Q170 102 155 95 Q140 102 125 95 Q110 105 95 98 Q85 95 82 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.81" stroke-linejoin="round"/>
   <!-- marshmallows (small white squares with rounded corners) -->
-  <rect x="100" y="78" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.17" stroke-linejoin="round"/>
-  <rect x="135" y="70" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.17" stroke-linejoin="round"/>
-  <rect x="170" y="76" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.17" stroke-linejoin="round"/>
+  <rect x="100" y="78" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="135" y="70" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <rect x="170" y="76" width="14" height="11" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- cocoa dust dots -->
   <circle cx="120" cy="60" r="1.8" fill="#1a1a1a"/>
   <circle cx="155" cy="55" r="1.8" fill="#1a1a1a"/>

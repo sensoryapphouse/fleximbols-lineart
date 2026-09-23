@@ -20,11 +20,11 @@
   <circle cx="110" cy="183" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="178" cy="183" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Bulgur (pale yellow grains among green) -->
-  <circle cx="122" cy="181" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="148" cy="179" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="165" cy="181" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="135" cy="186" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <circle cx="156" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+  <circle cx="122" cy="181" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="148" cy="179" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="181" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="135" cy="186" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="156" cy="187" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Tomato bits (red) - key accent -->
   <circle cx="112" cy="176" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <circle cx="136" cy="172" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
@@ -32,7 +32,7 @@
   <circle cx="178" cy="176" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Lemon wedge garnish (yellow) -->
   <path d="M220 178 Q240 165 252 185 Q240 195 220 178Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M220 178 Q236 182 252 185" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M220 178 Q236 182 252 185" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Spring onion accent (green stalk) -->
   <line x1="198" y1="175" x2="200" y2="205" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <ellipse cx="198" cy="173" rx="5" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

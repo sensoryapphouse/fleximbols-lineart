@@ -13,5 +13,5 @@
   <ellipse cx="148" cy="205" rx="40" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.33"/>
   <!-- lime wedge on rim -->
   <path d="M195 40 A 18 18 0 0 1 225 60 L210 65 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
-  <path d="M200 45 L215 55 M205 42 L218 60" stroke="#1a1a1a" stroke-width="2.67" stroke-linecap="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M200 45 L215 55 M205 42 L218 60" stroke="#1a1a1a" stroke-width="4.22" stroke-linecap="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

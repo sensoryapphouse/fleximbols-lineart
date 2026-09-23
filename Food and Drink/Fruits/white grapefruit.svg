@@ -20,8 +20,8 @@
   <path d="M 172 117 L 228 173" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <path d="M 228 117 L 172 173" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- segment markers -->
-  <circle cx="200" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="220" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="200" cy="165" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="180" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="200" cy="125" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="220" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="200" cy="165" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="180" cy="145" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

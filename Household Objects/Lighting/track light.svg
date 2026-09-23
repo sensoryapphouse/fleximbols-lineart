@@ -10,24 +10,24 @@
   <!-- head rotated left -->
   <path d="M58 72 L68 68 L90 80 L80 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- bulb aperture -->
-  <ellipse cx="70" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="70" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- light cone left -->
   <path d="M58 84 L28 130 L52 140 L72 90" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-  <path d="M58 84 L28 132 L54 142 L72 90" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 84 L28 132 L54 142 L72 90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- === spot head 2 (centre, angled straight down) === -->
   <rect x="141" y="54" width="8" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <ellipse cx="145" cy="80" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="145" cy="83" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="145" cy="83" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- cone down -->
-  <path d="M133 86 L118 148 L172 148 L157 86" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M133 86 L118 148 L172 148 L157 86" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 
   <!-- === spot head 3 (right, angled right) === -->
   <rect x="209" y="54" width="8" height="18" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M200 72 L210 68 L232 80 L222 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round" transform="scale(-1,1) translate(-290,0)"/>
   <!-- head rotated right -->
   <path d="M200 72 L222 68 L232 80 L218 90 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
-  <ellipse cx="220" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="220" cy="82" rx="8" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- cone right -->
-  <path d="M218 90 L208 142 L234 142 L262 132 L238 84" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M218 90 L208 142 L234 142 L262 132 L238 84" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

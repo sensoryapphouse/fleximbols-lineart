@@ -3,7 +3,7 @@
   <rect x="78" y="32" width="134" height="176" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"></rect>
   <circle cx="115" cy="62" r="13" fill="none" stroke="#1a1a1a" stroke-width="4.45"></circle>
   <path d="M 115,54 L 115,62 L 121,66" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"></path>
-  <circle cx="172" cy="62" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"></circle>
+  <circle cx="172" cy="62" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"></circle>
   <path d="M 172,46 L 172,50 M 172,74 L 172,78 M 156,62 L 160,62 M 184,62 L 188,62 M 161,51 L 164,54 M 183,51 L 180,54" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"></path>
   <path d="M 95,115 Q 110,108 125,115 Q 140,108 155,115 Q 170,108 185,115 Q 200,108 215,115" fill="none" stroke="#1a1a1a" stroke-width="4.45"></path>
   <rect x="95" y="135" width="100" height="6" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></rect>
@@ -12,5 +12,5 @@
   <line x1="118" y1="174" x2="195" y2="174" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"></line>
   <polygon points="105,185 105,193 111,189" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42"></polygon>
   <line x1="118" y1="189" x2="180" y2="189" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"></line>
-  <path d="M 105,205 L 195,205" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 105,205 L 195,205" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

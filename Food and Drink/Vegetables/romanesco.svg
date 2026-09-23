@@ -12,5 +12,5 @@
   <path d="M 95,150 L 85,200 L 115,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 195,150 L 175,200 L 205,200 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
   <path d="M 145,150 L 125,205 L 165,205 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"></path>
-  <path d="M 145,30 Q 130,65 105,55 Q 80,80 75,95 Q 65,125 95,150 Q 85,180 115,200 Q 145,215 175,200 Q 205,180 195,150 Q 225,125 215,95 Q 210,80 185,55 Q 160,65 145,30 Z" fill="none" stroke="#1a1a1a" stroke-width="2.96"></path>
+  <path d="M 145,30 Q 130,65 105,55 Q 80,80 75,95 Q 65,125 95,150 Q 85,180 115,200 Q 145,215 175,200 Q 205,180 195,150 Q 225,125 215,95 Q 210,80 185,55 Q 160,65 145,30 Z" fill="none" stroke="#1a1a1a" stroke-width="4.1"></path>
 </g></svg>

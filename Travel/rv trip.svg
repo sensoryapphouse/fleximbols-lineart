@@ -21,5 +21,5 @@
   <path d="M22 60 Q60 45 98 60 Q136 75 174 60 Q212 45 268 55" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-dasharray="10,6"/>
   <circle cx="22" cy="60" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <line x1="268" y1="55" x2="268" y2="30" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <polygon points="268,30 285,38 268,46" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <polygon points="268,30 285,38 268,46" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

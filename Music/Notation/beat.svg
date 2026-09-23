@@ -4,7 +4,7 @@
 <rect x="183" y="318" width="26" height="38" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="262" y="318" width="26" height="38" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
 <rect x="341" y="318" width="26" height="38" rx="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="6"/>
-<ellipse cx="232.0" cy="208.0" rx="44" ry="32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0" transform="rotate(-20 232.0 208.0)"/>
+<ellipse cx="232.0" cy="208.0" rx="44" ry="32" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.71" transform="rotate(-20 232.0 208.0)"/>
 <line x1="270.5" y1="194.0" x2="270.5" y2="58.0" stroke="#1a1a1a" stroke-width="15" stroke-linecap="round"/>
 <path d="M 270.5 58.0 Q 330 84 308 142" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
 </g></svg>

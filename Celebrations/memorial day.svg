@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
   <!-- American flag on pole (background left) -->
   <line x1="30" y1="220" x2="30" y2="40" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <circle cx="30" cy="38" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="30" cy="38" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Flag -->
   <rect x="30" y="45" width="90" height="60" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Stripes (red) -->
-  <rect x="30" y="45" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="30" y="57" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="30" y="69" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="30" y="81" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
-  <rect x="30" y="93" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="1.48"/>
+  <rect x="30" y="45" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="57" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="69" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="81" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <rect x="30" y="93" width="90" height="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Blue canton -->
-  <rect x="30" y="45" width="38" height="35" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="30" y="45" width="38" height="35" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Star dots -->
   <circle cx="40" cy="55" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <circle cx="50" cy="55" r="1.5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -27,7 +27,7 @@
   <ellipse cx="200" cy="55" rx="22" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <path d="M 178 55 Q 178 38 200 38 Q 222 38 222 55 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Cap badge -->
-  <circle cx="200" cy="46" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="200" cy="46" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Head -->
   <circle cx="200" cy="72" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- Neck -->
@@ -35,26 +35,26 @@
   <!-- Torso (uniform) -->
   <path d="M 178 92 Q 200 88 222 92 L 230 160 L 170 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Belt -->
-  <rect x="170" y="158" width="60" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="170" y="158" width="60" height="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Arms -->
   <path d="M 180 95 Q 168 120 170 150" fill="none" stroke="#1a1a1a" stroke-width="16.29" stroke-linecap="round"/>
-  <path d="M 180 95 Q 168 120 170 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 180 95 Q 168 120 170 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M 220 95 Q 232 120 230 150" fill="none" stroke="#1a1a1a" stroke-width="16.29" stroke-linecap="round"/>
-  <path d="M 220 95 Q 232 120 230 150" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 220 95 Q 232 120 230 150" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Legs -->
   <rect x="178" y="160" width="18" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="204" y="160" width="18" height="55" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Boots -->
-  <ellipse cx="187" cy="218" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
-  <ellipse cx="213" cy="218" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="187" cy="218" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <ellipse cx="213" cy="218" rx="13" ry="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Poppy flower (foreground left) -->
   <line x1="100" y1="220" x2="105" y2="170" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <ellipse cx="115" cy="175" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <ellipse cx="115" cy="175" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Poppy petals -->
   <ellipse cx="98" cy="160" rx="10" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="112" cy="160" rx="10" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="105" cy="148" rx="13" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <ellipse cx="105" cy="170" rx="13" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="105" cy="160" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="105" cy="160" r="5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

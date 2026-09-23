@@ -4,11 +4,11 @@
   <line x1="162" y1="16" x2="278" y2="50" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
   <!-- Bow hair -->
   <line x1="165" y1="22" x2="276" y2="55" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-  <line x1="164" y1="20" x2="277" y2="53" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <line x1="164" y1="20" x2="277" y2="53" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Frog -->
   <rect x="155" y="14" width="14" height="10" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tip -->
-  <path d="M 276,50 L 282,48 L 280,56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <path d="M 276,50 L 282,48 L 280,56 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- CELLO BODY — proper hourglass, large body with endpin -->
   <path d="M 108,68
@@ -54,9 +54,9 @@
     fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Edge purfling -->
   <path d="M 72,86 Q 58,102 62,118"
-    fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+    fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <path d="M 164,86 Q 178,102 174,118"
-    fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+    fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Left f-hole -->
   <path d="M 87,128 Q 83,136 85,144 Q 87,150 91,148 Q 89,154 87,162 Q 85,168 89,170"
@@ -79,7 +79,7 @@
     fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Scroll spiral -->
   <path d="M 109,5 Q 105,6 106,10 Q 107,14 111,15 Q 115,16 116,13 Q 117,10 115,8"
-    fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+    fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 
   <!-- Pegbox -->
   <path d="M 113,22 L 109,22 L 107,42 L 131,42 L 129,22 L 125,22 Z"
@@ -92,7 +92,7 @@
   <line x1="103" y1="37" x2="135" y2="37" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <ellipse cx="135" cy="37" rx="6" ry="3.5" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- Nut -->
-  <rect x="109" y="41" width="20" height="4" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <rect x="109" y="41" width="20" height="4" rx="1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Neck (cello neck is shorter relative to body than violin) -->
   <path d="M 111,43 L 107,70 L 131,70 L 127,43 Z"
@@ -103,7 +103,7 @@
 
   <!-- Bridge with cutouts -->
   <path d="M 98,143 L 96,158 M 140,143 L 142,158"
-    fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+    fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <path d="M 96,158 Q 108,152 118,154 Q 128,152 142,158 L 140,143 Q 128,138 118,140 Q 108,138 98,143 Z"
     fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="108" cy="153" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
@@ -116,15 +116,15 @@
   <line x1="108" y1="208" x2="108" y2="216" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <line x1="128" y1="208" x2="128" y2="216" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
   <!-- End button -->
-  <circle cx="118" cy="218" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="118" cy="218" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- Endpin spike (cello is played upright, resting on the spike) -->
   <line x1="118" y1="223" x2="118" y2="234" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
-  <polygon points="118,237 114,232 122,232" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96" stroke-linejoin="round"/>
+  <polygon points="118,237 114,232 122,232" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 
   <!-- 4 strings — C G D A (lowest to highest, thickest to thinnest) -->
   <line x1="110" y1="46" x2="106" y2="200" stroke="#1a1a1a" stroke-width="5.18" stroke-linecap="round"/>
   <line x1="115" y1="46" x2="112" y2="200" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <line x1="121" y1="46" x2="124" y2="200" stroke="#1a1a1a" stroke-width="3.70" stroke-linecap="round"/>
-  <line x1="126" y1="46" x2="130" y2="200" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <line x1="126" y1="46" x2="130" y2="200" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
 </g></svg>

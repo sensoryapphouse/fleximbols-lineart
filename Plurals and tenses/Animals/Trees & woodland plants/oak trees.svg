@@ -4,8 +4,8 @@
   <!-- Trunk: thick gnarled oak trunk -->
   <path d="M128 210 Q118 185 122 165 Q115 155 120 140 Q130 130 145 132 Q160 130 170 140 Q175 155 168 165 Q172 185 162 210 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Trunk gnarl detail -->
-  <path d="M125 175 Q110 168 118 158" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <path d="M165 175 Q180 168 172 158" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <path d="M125 175 Q110 168 118 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <path d="M165 175 Q180 168 172 158" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Main canopy: broad rounded spreading lobes deep green -->
   <ellipse cx="145" cy="100" rx="90" ry="65" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- Secondary lobes for rounded spreading silhouette -->
@@ -17,10 +17,10 @@
   <!-- Highlight inner canopy -->
   <ellipse cx="145" cy="100" rx="72" ry="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Acorns -->
-  <circle cx="80" cy="145" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M74 138 Q80 134 86 138" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="80" cy="145" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M74 138 Q80 134 86 138" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="80" y1="134" x2="80" y2="129" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-  <circle cx="210" cy="148" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <path d="M204 141 Q210 137 216 141" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
+  <circle cx="210" cy="148" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M204 141 Q210 137 216 141" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <line x1="210" y1="137" x2="210" y2="132" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

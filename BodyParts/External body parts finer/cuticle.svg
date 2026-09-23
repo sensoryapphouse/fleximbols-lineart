@@ -7,7 +7,7 @@
   <!-- Nail plate (bone-white, normal) -->
   <path d="M104 136 Q100 106 118 84 Q130 68 145 66 Q160 68 172 84 Q190 106 186 136 Q170 148 145 150 Q120 148 104 136 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linecap="round" stroke-linejoin="round" data-lp="hair"/>
   <!-- Nail free edge (top) -->
-  <path d="M108 118 Q106 100 120 86 Q130 74 145 72 Q160 74 170 86 Q184 100 182 118 Q164 126 145 128 Q126 126 108 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 118 Q106 100 120 86 Q130 74 145 72 Q160 74 170 86 Q184 100 182 118 Q164 126 145 128 Q126 126 108 118 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Nail shine -->
   <path d="M118 90 Q124 80 136 76" fill="none" stroke="#ffffff" stroke-width="3.33" stroke-linecap="round"/>
   <!-- Cuticle skin fold HIGHLIGHTED red — band at base of nail -->
@@ -15,9 +15,9 @@
   <!-- Cuticle band arc line -->
   <path d="M106 140 Q122 152 145 154 Q168 152 184 140" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <!-- Pointer dot on cuticle -->
-  <circle cx="145" cy="154" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="154" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="145" cy="154" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Pointer line -->
-  <line x1="153" y1="157" x2="210" y2="176" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <line x1="153" y1="157" x2="210" y2="176" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <circle cx="214" cy="178" r="5" fill="#1a1a1a"/>
 </g></svg>

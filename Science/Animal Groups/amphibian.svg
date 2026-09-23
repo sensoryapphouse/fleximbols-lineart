@@ -4,15 +4,15 @@
 <path d="M 108 448 q -22 22 -2 30 q 18 -2 24 -16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 404 448 q -22 22 -2 30 q 18 -2 24 -16 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
 <ellipse cx="256.0" cy="340.0" rx="150.0" ry="110.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
-<ellipse cx="256.0" cy="370.0" rx="92.0" ry="56.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="256.0" cy="370.0" rx="92.0" ry="56.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.54"/>
 <path d="M 196 430 q -16 22 4 30 q 14 -2 18 -14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 316 430 q 16 22 -4 30 q -14 -2 -18 -14 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 130 250 Q 256 160 382 250 Q 360 300 256 300 Q 152 300 130 250 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M 150 268 Q 256 304 362 268" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="190.0" cy="206.0" r="40.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="322.0" cy="206.0" r="40.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
-<circle cx="190.0" cy="200.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="190.0" cy="200.0" r="12.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="322.0" cy="200.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
-<circle cx="322.0" cy="200.0" r="12.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="190.0" cy="200.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.54"/>
+<circle cx="190.0" cy="200.0" r="12.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.54"/>
+<circle cx="322.0" cy="200.0" r="22.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.54"/>
+<circle cx="322.0" cy="200.0" r="12.1" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.54"/>
 </g></svg>

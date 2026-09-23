@@ -12,7 +12,7 @@
   <!-- picture frame on wall -->
   <rect x="200" y="40" width="56" height="44" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="206" y="46" width="44" height="32" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M 206 78 L 218 60 L 230 70 L 244 52 L 250 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33" stroke-linejoin="round"/>
+  <path d="M 206 78 L 218 60 L 230 70 L 244 52 L 250 78 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
   <!-- camera stand base -->
   <ellipse cx="170" cy="200" rx="40" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <!-- stand pole -->
@@ -25,7 +25,7 @@
   <circle cx="170" cy="110" r="9" fill="#1a1a1a"/>
   <circle cx="165" cy="105" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- status LED -->
-  <circle cx="200" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="200" cy="92" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- WiFi arcs -->
   <path d="M 70 100 q 8 -8 18 -10" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>
   <path d="M 60 88 q 14 -16 32 -18" fill="none" stroke="#1a1a1a" stroke-width="6.67" stroke-linecap="round"/>

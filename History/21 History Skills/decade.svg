@@ -15,16 +15,16 @@
 <rect x="376.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <rect x="414.0" y="206" width="30" height="146" rx="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>
 <!-- tick marks under each block -->
-<line x1="87"  y1="360" x2="87"  y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="125" y1="360" x2="125" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="163" y1="360" x2="163" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="201" y1="360" x2="201" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="239" y1="360" x2="239" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="277" y1="360" x2="277" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="315" y1="360" x2="315" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="353" y1="360" x2="353" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="391" y1="360" x2="391" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
-<line x1="429" y1="360" x2="429" y2="374" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="87"  y1="360" x2="87"  y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="125" y1="360" x2="125" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="163" y1="360" x2="163" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="201" y1="360" x2="201" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="239" y1="360" x2="239" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="277" y1="360" x2="277" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="315" y1="360" x2="315" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="353" y1="360" x2="353" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="391" y1="360" x2="391" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
+<line x1="429" y1="360" x2="429" y2="374" stroke="#1a1a1a" stroke-width="4.86" stroke-linecap="round"/>
 <!-- bold "10" glyph drawn as shapes, top-left, anchoring ten years -->
 <!-- digit 1 (stem + base + angled serif) -->
 <rect x="96" y="96" width="20" height="86" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5"/>

@@ -17,15 +17,15 @@
   <!-- Star-like scribble -->
   <path d="M95,185 L105,172 L112,187 L125,178 L113,193 L120,207 L105,198 L92,208 L98,193 L84,183 Z" fill="none" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tiny circles/dots scribbled -->
-  <circle cx="168" cy="80" r="6" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
-  <circle cx="160" cy="92" r="4" fill="none" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round"/>
+  <circle cx="168" cy="80" r="6" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
+  <circle cx="160" cy="92" r="4" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Hand holding pen (lower right) -->
   <!-- Pen body -->
   <rect x="218" y="100" width="14" height="95" rx="5" transform="rotate(-25 218 100)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Pen tip -->
-  <polygon points="218,100 232,100 225,84" transform="rotate(-25 225 100)" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="218,100 232,100 225,84" transform="rotate(-25 225 100)" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Pen clip -->
-  <rect x="228" y="108" width="5" height="55" rx="2" transform="rotate(-25 228 108)" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="228" y="108" width="5" height="55" rx="2" transform="rotate(-25 228 108)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Fingers around pen -->
   <rect x="224" y="148" width="12" height="36" rx="6" transform="rotate(-25 224 148)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>
   <rect x="236" y="144" width="12" height="38" rx="6" transform="rotate(-25 236 144)" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round" stroke-linejoin="round"/>

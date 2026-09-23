@@ -23,10 +23,10 @@
   <line x1="208" y1="115" x2="232" y2="188" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
   <polygon points="232,188 225,182 222,190" fill="#1a1a1a" stroke="none"/>
   <!-- person inside destinations -->
-  <circle cx="260" cy="41" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M252 56 Q260 49 268 56" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <circle cx="265" cy="121" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M257 136 Q265 129 273 136" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
-  <circle cx="245" cy="196" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
-  <path d="M237 211 Q245 204 253 211" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22" stroke-linejoin="round"/>
+  <circle cx="260" cy="41" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M252 56 Q260 49 268 56" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <circle cx="265" cy="121" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M257 136 Q265 129 273 136" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
+  <circle cx="245" cy="196" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <path d="M237 211 Q245 204 253 211" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" stroke-linejoin="round"/>
 </g></svg>

@@ -10,10 +10,10 @@
 <path d="M 256 286 C 298 256 380 256 420 278 L 420 410 C 380 388 298 388 256 418 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <line x1="256.0" y1="286.0" x2="256.0" y2="420.0" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <path d="M 256 286 C 214 256 132 256 92 278 L 92 262 C 132 240 214 240 256 270 C 298 240 380 240 420 262 L 420 278 C 380 256 298 256 256 286 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
-<path d="M 124 318 C 152 308 204 308 230 318" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 282 318 C 308 308 360 308 388 318" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 124 344 C 152 334 204 334 230 344" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 282 344 C 308 334 360 334 388 344" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 124 370 C 152 360 204 360 230 370" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-<path d="M 282 370 C 308 360 360 360 388 370" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<path d="M 124 318 C 152 308 204 308 230 318" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+<path d="M 282 318 C 308 308 360 308 388 318" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+<path d="M 124 344 C 152 334 204 334 230 344" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+<path d="M 282 344 C 308 334 360 334 388 344" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+<path d="M 124 370 C 152 360 204 360 230 370" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+<path d="M 282 370 C 308 360 360 360 388 370" fill="none" stroke="#1a1a1a" stroke-width="4.98" stroke-linejoin="round"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

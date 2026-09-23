@@ -34,13 +34,13 @@
 
   <!-- caster wheels at bottom -->
   <circle cx="75" cy="221" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="75" cy="221" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="75" cy="221" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
   <circle cx="215" cy="221" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <circle cx="215" cy="221" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="215" cy="221" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
 
   <!-- keylock on side panel -->
-  <circle cx="237" cy="133" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="237" cy="133" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4"/>
 
   <!-- shadow/depth edge on bottom of cabinet -->
-  <path d="M 45 215 L 245 215 L 245 220 L 45 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
-</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <path d="M 45 215 L 245 215 L 245 220 L 45 220 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4" />
+</g></g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

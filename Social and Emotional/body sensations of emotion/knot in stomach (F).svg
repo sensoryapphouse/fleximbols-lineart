@@ -18,7 +18,7 @@
 <path d="M 240 317 C 252 331 260 319 272 333" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round"/>
 <line x1="246" y1="349" x2="234" y2="369" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
 <line x1="266" y1="349" x2="278" y2="369" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round"/>
-<line x1="208" y1="307" x2="194" y2="295" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="304" y1="307" x2="318" y2="295" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="256" y1="283" x2="256" y2="269" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="208" y1="307" x2="194" y2="295" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="304" y1="307" x2="318" y2="295" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
+<line x1="256" y1="283" x2="256" y2="269" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/>
 </svg>

@@ -24,7 +24,7 @@
   <!-- baseline on bars -->
   <line x1="86" y1="195" x2="214" y2="195" stroke="#1a1a1a" stroke-width="5.56"/>
   <!-- home button -->
-  <circle cx="145" cy="218" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="145" cy="218" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 
   <!-- water droplet icon badge -->
   <path d="M222 40 Q232 22 242 40 Q250 56 232 62 Q214 56 222 40 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67" stroke-linejoin="round"/>

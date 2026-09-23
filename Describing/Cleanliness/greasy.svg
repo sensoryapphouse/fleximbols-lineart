@@ -9,10 +9,10 @@
 <line x1="248" y1="270" x2="330" y2="250" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round"/>
 <line x1="248" y1="270" x2="330" y2="250" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round"/>
 <!-- glossy grease pools (yellow sheen, shiny highlight) -->
-<ellipse cx="135" cy="280" rx="40" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
-<ellipse cx="170" cy="315" rx="22" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" opacity="0.9"/>
-<ellipse cx="120" cy="262" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<ellipse cx="160" cy="305" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<ellipse cx="135" cy="280" rx="40" ry="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" opacity="0.9"/>
+<ellipse cx="170" cy="315" rx="22" ry="15" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" opacity="0.9"/>
+<ellipse cx="120" cy="262" rx="12" ry="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
+<ellipse cx="160" cy="305" rx="7" ry="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <!-- CLEAN pan (right, faded) -->
 <g opacity="0.34">
 <circle cx="380" cy="290" r="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>

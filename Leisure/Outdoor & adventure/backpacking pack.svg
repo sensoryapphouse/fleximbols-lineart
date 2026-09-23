@@ -22,7 +22,7 @@
   <!-- hip belt right -->
   <path d="M202,185 Q225,195 235,210" fill="none" stroke="#1a1a1a" stroke-width="7.11" stroke-linecap="round"/>
   <!-- compression strap horizontal -->
-  <line x1="80" y1="130" x2="210" y2="130" stroke="#1a1a1a" stroke-width="2.66" stroke-linecap="round" stroke-dasharray="5,4"/>
+  <line x1="80" y1="130" x2="210" y2="130" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round" stroke-dasharray="5,4"/>
   <!-- carry handle -->
   <path d="M125,48 Q145,32 165,48" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
 </g></svg>

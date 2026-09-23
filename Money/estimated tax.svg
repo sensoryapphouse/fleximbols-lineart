@@ -17,11 +17,11 @@
   <!-- mini calendar bottom right -->
   <rect x="195" y="135" width="75" height="75" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
   <rect x="195" y="135" width="75" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="6.67"/>
-  <line x1="195" y1="172" x2="270" y2="172" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="195" y1="191" x2="270" y2="191" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="220" y1="153" x2="220" y2="210" stroke="#1a1a1a" stroke-width="3.33"/>
-  <line x1="245" y1="153" x2="245" y2="210" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="207" cy="163" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="257" cy="182" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="232" cy="201" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <line x1="195" y1="172" x2="270" y2="172" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="195" y1="191" x2="270" y2="191" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="220" y1="153" x2="220" y2="210" stroke="#1a1a1a" stroke-width="4.1"/>
+  <line x1="245" y1="153" x2="245" y2="210" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="207" cy="163" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="257" cy="182" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="232" cy="201" r="5" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
 </g></svg>

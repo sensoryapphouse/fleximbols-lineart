@@ -8,13 +8,13 @@
 <!-- number 1 -->
 <line x1="160" y1="142" x2="160" y2="186" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
 <line x1="160" y1="142" x2="148" y2="152" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round"/>
-<rect x="190.0" y="153.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="190.0" y="153.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
 <!-- number 2 -->
 <path d="M 149 232 Q 149 216 164 216 Q 179 216 179 230 Q 179 244 149 264 L 179 264" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="190.0" y="233.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="190.0" y="233.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
 <!-- number 3 -->
 <path d="M 149 300 Q 149 286 164 286 Q 179 286 179 298 Q 179 308 166 310 Q 179 312 179 326 Q 179 340 164 340 Q 149 340 149 326" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="190.0" y="313.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
+<rect x="190.0" y="313.0" width="160.0" height="22.0" rx="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.97"/>
 <!-- prohibition sign (no) bottom-right -->
 <circle cx="338.0" cy="392.0" r="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="13"/>
 <line x1="304" y1="358" x2="372" y2="426" stroke="#1a1a1a" stroke-width="13" stroke-linecap="round"/>

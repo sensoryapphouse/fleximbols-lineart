@@ -20,7 +20,7 @@
   <path d="M62 120 Q30 140 62 165" fill="none" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tea stream pouring down -->
   <path d="M210 148 Q218 168 216 195" fill="none" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <path d="M213 150 Q220 170 218 196" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M213 150 Q220 170 218 196" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- Glass on right -->
   <path d="M198 196 L206 196 L212 226 L186 226 L192 196Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
   <!-- Tea in glass (green-gold) -->

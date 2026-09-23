@@ -11,8 +11,8 @@
 
 <line x1="226.0" y1="199.0" x2="222.0" y2="256.0" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
 <line x1="222.0" y1="256.0" x2="182.0" y2="322.0" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round"/>
-<circle cx="222.0" cy="256.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="2"/>
+<circle cx="222.0" cy="256.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19"/>
 <path d="M 182.0 322 q -13 6 -5 20" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 182.0 322 q 11 9 0 20" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<polygon points="192.0,273 195.0,282 204.0,285 195.0,288 192.0,297 189.0,288 180.0,285 189.0,282" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<polygon points="192.0,273 195.0,282 204.0,285 195.0,288 192.0,297 189.0,288 180.0,285 189.0,282" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.19" stroke-linejoin="round"/>
 </g></svg>

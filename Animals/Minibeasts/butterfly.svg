@@ -4,15 +4,15 @@
 <ellipse cx="342.0" cy="198.0" rx="80.0" ry="62.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <ellipse cx="184.0" cy="330.0" rx="60.0" ry="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
 <ellipse cx="328.0" cy="330.0" rx="60.0" ry="52.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="7"/>
-<circle cx="170.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="170.0" cy="198.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<circle cx="342.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="342.0" cy="198.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" data-lp="hair"/>
-<circle cx="184.0" cy="330.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="328.0" cy="330.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="0"/>
-<circle cx="256.0" cy="156.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="170.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
+<circle cx="170.0" cy="198.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53" data-lp="hair"/>
+<circle cx="342.0" cy="198.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
+<circle cx="342.0" cy="198.0" r="9.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53" data-lp="hair"/>
+<circle cx="184.0" cy="330.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
+<circle cx="328.0" cy="330.0" r="12.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.53"/>
+<circle cx="256.0" cy="156.0" r="16.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.53"/>
 <path d="M 250 144 q -22 -28 -40 -34" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="208.0" cy="108.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="208.0" cy="108.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.53"/>
 <path d="M 262 144 q 22 -28 40 -34" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
-<circle cx="304.0" cy="108.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="0"/>
+<circle cx="304.0" cy="108.0" r="7.0" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.53"/>
 </g></svg>

@@ -3,7 +3,7 @@
   <rect x="30" y="200" width="230" height="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
   <!-- person head (subject of scene) -->
   <circle cx="145" cy="180" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-  <path d="M130 180 Q145 195 160 180" fill="none" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M130 180 Q145 195 160 180" fill="none" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="139" cy="177" r="1.5" fill="#1a1a1a"/>
   <circle cx="151" cy="177" r="1.5" fill="#1a1a1a"/>
   <!-- boom pole arm coming from upper left -->
@@ -13,13 +13,13 @@
   <rect x="155" y="115" width="50" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(35 180 122)"/>
   <!-- shotgun mic slots -->
   <g transform="rotate(35 180 122)">
-    <line x1="160" y1="119" x2="200" y2="119" stroke="#1a1a1a" stroke-width="2.22"/>
-    <line x1="160" y1="125" x2="200" y2="125" stroke="#1a1a1a" stroke-width="2.22"/>
-    <circle cx="200" cy="122" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.22"/>
+    <line x1="160" y1="119" x2="200" y2="119" stroke="#1a1a1a" stroke-width="4.1"/>
+    <line x1="160" y1="125" x2="200" y2="125" stroke="#1a1a1a" stroke-width="4.1"/>
+    <circle cx="200" cy="122" r="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
   <!-- mount clip joining mic to boom -->
   <rect x="158" y="108" width="14" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" transform="rotate(35 165 115)"/>
   <!-- "over scene" arrow indicating direction -->
   <path d="M210 145 L215 165" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round"/>
-  <polygon points="215,165 210,160 220,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <polygon points="215,165 210,160 220,160" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

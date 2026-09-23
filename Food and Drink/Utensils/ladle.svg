@@ -5,6 +5,6 @@
 <circle cx="338" cy="108" r="20" fill="none" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 168 320 Q 168 300 200 300 L 300 300 Q 332 300 332 320 Q 332 408 250 408 Q 168 408 168 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <ellipse cx="250" cy="312" rx="82" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="9"/>
-<ellipse cx="250" cy="312" rx="82" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.68" />
-<ellipse cx="250" cy="312" rx="64" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.68" />
+<ellipse cx="250" cy="312" rx="82" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42" />
+<ellipse cx="250" cy="312" rx="64" ry="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.42" />
 </g></svg>

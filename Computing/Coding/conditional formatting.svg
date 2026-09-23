@@ -30,14 +30,14 @@
   <rect x="130" y="162" width="70" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <rect x="200" y="162" width="70" height="58" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- traffic-light icons inside each cell as small circles -->
-  <circle cx="95" cy="64" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="165" cy="64" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-  <circle cx="235" cy="64" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <circle cx="95" cy="64" r="7" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="165" cy="64" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+  <circle cx="235" cy="64" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- bigger emphasis on green/yellow/red badge top right -->
   <g>
     <rect x="222" y="28" width="40" height="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
-    <circle cx="230" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-    <circle cx="242" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-    <circle cx="254" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+    <circle cx="230" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+    <circle cx="242" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+    <circle cx="254" cy="35" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   </g>
 </g></svg>

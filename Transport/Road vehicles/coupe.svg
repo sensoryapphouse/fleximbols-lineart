@@ -9,7 +9,7 @@
   <!-- single door split (one door per side = 2-door coupe) -->
   <line x1="152" y1="118" x2="152" y2="195" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- door handle -->
-  <rect x="130" y="158" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.67"/>
+  <rect x="130" y="158" width="14" height="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- sleek headlight -->
   <path d="M 30 168 L 55 162 L 55 172 L 30 178 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.56" stroke-linejoin="round"/>
   <!-- tail light -->

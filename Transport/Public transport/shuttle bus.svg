@@ -17,7 +17,7 @@
   <!-- Front door -->
   <rect x="42" y="150" width="30" height="48" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Door handle -->
-  <rect x="68" y="170" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="68" y="170" width="6" height="14" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- Rear door -->
   <rect x="222" y="150" width="26" height="48" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Headlights -->
@@ -25,7 +25,7 @@
   <!-- Tail lights -->
   <rect x="238" y="115" width="14" height="18" rx="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round" stroke-linecap="round"/>
   <!-- Destination board above windscreen -->
-  <rect x="80" y="52" width="130" height="14" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3.33"/>
+  <rect x="80" y="52" width="130" height="14" rx="4" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <rect x="84" y="54" width="80" height="10" rx="2" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.42" />
   <!-- Wheels - closer together (short wheelbase) -->
   <circle cx="82" cy="200" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.55" stroke-linejoin="round" stroke-linecap="round"/>

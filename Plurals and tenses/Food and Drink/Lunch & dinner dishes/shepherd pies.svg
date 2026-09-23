@@ -37,12 +37,12 @@
   <!-- Lamb face detail -->
   <circle cx="278" cy="137" r="2" fill="#1a1a1a"/>
   <!-- Lamb ear -->
-  <ellipse cx="270" cy="131" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.78" transform="rotate(-20,270,131)"/>
+  <ellipse cx="270" cy="131" rx="5" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1" transform="rotate(-20,270,131)"/>
   <!-- Lamb legs -->
   <line x1="252" y1="160" x2="250" y2="174" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
   <line x1="260" y1="162" x2="258" y2="175" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
   <line x1="269" y1="161" x2="270" y2="175" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
   <line x1="277" y1="159" x2="278" y2="173" stroke="#1a1a1a" stroke-width="3.89" stroke-linecap="round"/>
   <!-- Lamb tail (fluffy puff) -->
-  <circle cx="244" cy="148" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.33"/>
-</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+  <circle cx="244" cy="148" r="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="21.34" stroke-linejoin="round"/></g></svg>

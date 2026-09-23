@@ -2,8 +2,8 @@
 <path d="M 150 168 Q 256 120 362 168" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linejoin="round"/>
 <path d="M 168 150 Q 256 108 344 150" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round"/>
 <path d="M 168 214 Q 168 176 256 176 Q 344 176 344 214 Q 344 300 256 416 Q 168 300 168 214 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
-<path d="M 172 244 Q 256 268 340 244 Q 338 270 332 290 Q 256 312 180 290 Q 174 270 172 244 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
-<path d="M 188 320 Q 256 340 324 320 Q 300 360 256 372 Q 212 360 188 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="0" stroke-linejoin="round"/>
+<path d="M 172 244 Q 256 268 340 244 Q 338 270 332 290 Q 256 312 180 290 Q 174 270 172 244 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.09" stroke-linejoin="round"/>
+<path d="M 188 320 Q 256 340 324 320 Q 300 360 256 372 Q 212 360 188 320 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.09" stroke-linejoin="round"/>
 <path d="M 168 214 Q 168 176 256 176 Q 344 176 344 214 Q 344 300 256 416 Q 168 300 168 214 Z" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linejoin="round"/>
 <rect x="244.0" y="142.0" width="24.0" height="44.0" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>
 <circle cx="256.0" cy="138.0" r="20.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="8"/>

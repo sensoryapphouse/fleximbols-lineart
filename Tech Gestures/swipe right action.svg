@@ -4,15 +4,15 @@
   <rect x="72" y="40" width="146" height="160" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.45"/>
   <!-- speaker -->
   <rect x="135" y="28" width="20" height="4" rx="2" fill="#1a1a1a"/>
-  <circle cx="145" cy="210" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="2.96"/>
+  <circle cx="145" cy="210" r="4" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1"/>
   <!-- profile card on phone -->
   <rect x="82" y="50" width="126" height="100" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
   <!-- person bust in card -->
   <circle cx="145" cy="90" r="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70"/>
-  <path d="M 128 86 Q 128 70 145 70 Q 162 70 162 86 Q 155 80 145 82 Q 135 80 128 86 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2.96"/>
+  <path d="M 128 86 Q 128 70 145 70 Q 162 70 162 86 Q 155 80 145 82 Q 135 80 128 86 Z" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4.1"/>
   <circle cx="139" cy="90" r="1.8" fill="#1a1a1a"/>
   <circle cx="151" cy="90" r="1.8" fill="#1a1a1a"/>
-  <path d="M 139 98 Q 145 102 151 98" fill="none" stroke="#1a1a1a" stroke-width="2.96" stroke-linecap="round"/>
+  <path d="M 139 98 Q 145 102 151 98" fill="none" stroke="#1a1a1a" stroke-width="4.1" stroke-linecap="round"/>
   <!-- shoulders -->
   <path d="M 122 140 Q 122 115 145 115 Q 168 115 168 140 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3.70" stroke-linejoin="round"/>
   <!-- BIG green heart in lower phone area -->

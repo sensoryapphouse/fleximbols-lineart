@@ -2,12 +2,12 @@
 <polygon points="186 480 218 392 294 392 326 480" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <rect x="212.0" y="360.0" width="88.0" height="36.0" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
 <path d="M 216 360 L 226 250 Q 256 232 286 250 L 296 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="256" y1="250" x2="256" y2="356" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+<line x1="256" y1="250" x2="256" y2="356" stroke="#1a1a1a" stroke-width="5.3" stroke-linecap="round"/>
 <path d="M 234 188 L 234 236 L 278 236 L 278 188 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
 <path d="M 60 206 L 226 232 L 226 252 Q 256 240 286 252 L 286 232 L 452 206 L 452 240 L 286 270 Q 256 258 226 270 L 60 240 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="150" y1="219" x2="150" y2="256" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
-<line x1="362" y1="219" x2="362" y2="256" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+<line x1="150" y1="219" x2="150" y2="256" stroke="#1a1a1a" stroke-width="5.3" stroke-linecap="round"/>
+<line x1="362" y1="219" x2="362" y2="256" stroke="#1a1a1a" stroke-width="5.3" stroke-linecap="round"/>
 <path d="M 216 234 Q 256 212 296 234 L 290 256 Q 256 244 222 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="256.0" cy="166.0" r="30.0" fill="#ffffff" stroke="#1a1a1a" stroke-width="6"/>
-<path d="M 228 160 Q 256 134 284 160 Q 256 150 228 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 228 160 Q 256 134 284 160 Q 256 150 228 160 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.3" stroke-linejoin="round" stroke-linecap="round"/>
 </g></svg>
